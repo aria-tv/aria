@@ -703,8 +703,6 @@ http://217.209.209.118:9998/stream/channelid/1650619950?ticket=FC31E99F5E24EDD10
 http://217.209.209.118:9998/stream/channelid/117376066?ticket=69BE7D199361A7329690478B02199723358A21FC&profile=pass
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Thailand 🇹🇭" tvg-status="stable",Boom
 https://live-us1.thaimomo.com/live-as/chboomerang-2/chunklist_w135479847.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/turkey/trt-arabi-tr.png" group-title="Türkyie 🇹🇷" tvg-status="stable",TRT Arabi
-https://tv-trtarabi.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/turkey/trt-avaz-tr.png" group-title="Türkyie 🇹🇷" tvg-status="stable",TRT Avaz
 https://tv-trtavaz.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/turkey/trt-kurdi-tr.png" group-title="Türkyie 🇹🇷" tvg-status="stable",TRT Kurdi

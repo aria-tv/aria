@@ -1,15 +1,15 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/turkey/atv-tr.png" group-title="Türkyie 🇹🇷" tvg-status="unstable",aTV
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:14:B4:DD&stream=196714&extension=ts&play_token=vXnfKCYuEn
-#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/turkey/a2-tr.png" group-title="Türkyie 🇹🇷" tvg-status="not-working",a2
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/turkey/a2-tr.png" group-title="Türkyie 🇹🇷" tvg-status="unstable",a2
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:14:B4:DD&stream=196703&extension=ts&play_token=CRe5eSyLRA
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/turkey/a-haber-tr.png" group-title="Türkyie 🇹🇷" tvg-status="not-working",A Haber
 http://212.252.72.103:7070/play/a01d
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/turkey/cnn-turk-tr.png" group-title="Türkyie 🇹🇷" tvg-status="not-working",CNN Türk
 http://212.252.72.103:7070/play/a012
-#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/turkey/kanal-d-tr.png" group-title="Türkyie 🇹🇷" tvg-status="not-working",Kanal D
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/turkey/kanal-d-tr.png" group-title="Türkyie 🇹🇷" tvg-status="unstable",Kanal D
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:14:B4:DD&stream=196712&extension=ts&play_token=kuAOHFZbDj
-#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/turkey/kanal-7-tr.png" group-title="Türkyie 🇹🇷" tvg-status="not-working",Kanal 7
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/turkey/kanal-7-tr.png" group-title="Türkyie 🇹🇷" tvg-status="unstable",Kanal 7
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:14:B4:DD&stream=196706&extension=ts&play_token=EAGobFlrdq
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/turkey/ntv-tr.png" group-title="Türkyie 🇹🇷" tvg-status="not-working",NTV
 http://212.252.72.103:7070/play/a00s
@@ -43,8 +43,6 @@ http://212.252.72.103:7070/play/a03n
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:14:B4:DD&stream=196705&extension=ts&play_token=1Y00uucz4Z
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/CNBC-e-Logo.png" group-title="Türkyie 🇹🇷" tvg-status="not-working",CNBC-e
 https://theariatv.github.io/channeldead.mp4
-#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/turkey/trt-arabi-tr.png" group-title="Türkyie 🇹🇷" tvg-status="stable",TRT Arabi
-https://tv-trtarabi.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/turkey/trt-avaz-tr.png" group-title="Türkyie 🇹🇷" tvg-status="stable",TRT Avaz
 https://tv-trtavaz.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/turkey/trt-kurdi-tr.png" group-title="Türkyie 🇹🇷" tvg-status="stable",TRT Kurdi
