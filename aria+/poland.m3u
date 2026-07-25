@@ -83,5 +83,5 @@ https://pltv.uzis-room.ch/play/211
 http://193.24.244.60:1001/udp/239.254.3.40:6060
 #EXTINF:-1 tvg-id="EPG id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/TVP_Kobieta_%282021%29.svg/120px-TVP_Kobieta_%282021%29.svg.png" group-title="Poland 🇵🇱" tvg-status="stable",TVP Kobieta
 http://193.24.244.60:1001/udp/239.254.3.40:6060
-#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/heads/main/countries/poland/minimini-plus-pl.png" group-title="Poland 🇵🇱" tvg-status="not-working",Top Kids
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/heads/main/countries/poland/top-kids-pl.png" group-title="Poland 🇵🇱" tvg-status="stable",Top Kids
 http://193.24.244.60:1001/udp/239.254.3.108:6060
