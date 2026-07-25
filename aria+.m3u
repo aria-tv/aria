@@ -1197,38 +1197,38 @@ http://217.159.149.163:9091/play/a054
 http://217.159.149.163:9091/play/a04z
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/iepfanon/images/c/c5/KVF_logo_2019.png/revision/latest?cb=20240211201557" group-title="Faroe Islands 🇫🇴" tvg-status="stable",KVF 1
 https://w-live-edge1.kringvarp.fo/uttanlands/_definst_/smil:uttanlands.smil/chunklist_w676428681_b804000_slfao.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/tera-pedia/images/1/10/Yle_TV1_logo_color.svg/revision/latest?cb=20230616071510" group-title="Finland 🇫🇮" tvg-status="not-working",Yle TV1
-http:\\80.221.31.29:9981\stream\channelid\1080839017?profile=pass
-#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/friendshipismagicfanon/images/5/5c/YLE_TV2_logo.png/revision/latest/thumbnail/width/360/height/450?cb=20230717184535" group-title="Finland 🇫🇮" tvg-status="not-working",Yle TV2
-http:\\80.221.31.29:9981\stream\channelid\456220597?profile=pass
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/MTV3_logo_2019.svg/1200px-MTV3_logo_2019.svg.png" group-title="Finland 🇫🇮" tvg-status="not-working",MTV3
-http:\\80.221.31.29:9981\stream\channelid\1605478521?profile=pass
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/38/Nelonen_color_RGB.png" group-title="Finland 🇫🇮" tvg-status="not-working",Nelonen
-http://80.221.31.29:9981/stream/channelid/669565459?profile=pass
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Yle_Teema_%26_Fem.svg/1200px-Yle_Teema_%26_Fem.svg.png" group-title="Finland 🇫🇮" tvg-status="not-working",Yle Teema & Fam
-http:\\80.221.31.29:9981\stream\channelid\49694262?profile=pass
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/MTV_Sub_Logo_2022.svg/1200px-MTV_Sub_Logo_2022.svg.png" group-title="Finland 🇫🇮" tvg-status="not-working",MTV Sub
-http:\\80.221.31.29:9981\stream\channelid\141762177?profile=pass
-#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/72/Kanal_5_TV5_2024.svg/revision/latest?cb=20240115083428" group-title="Finland 🇫🇮" tvg-status="not-working",TV5
-http://80.221.31.29:9981/stream/channelid/1571059657?profile=pass
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/06/Liv_color_RGB.png" group-title="Finland 🇫🇮" tvg-status="not-working",Liv
-http://80.221.31.29:9981/stream/channelid/2146693547?profile=pass
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Jim_color_RGB.png/960px-Jim_color_RGB.png" group-title="Finland 🇫🇮" tvg-status="not-working",Jim
-http://80.221.31.29:9981/stream/channelid/363747951?profile=pass
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/6%27eren_%26_Kutonen_Logo_2024.svg/1200px-6%27eren_%26_Kutonen_Logo_2024.svg.png" group-title="Finland 🇫🇮" tvg-status="not-working",Kutonen
-http://80.221.31.29:9981/stream/channelid/290949840?profile=pass
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/tera-pedia/images/1/10/Yle_TV1_logo_color.svg/revision/latest?cb=20230616071510" group-title="Finland 🇫🇮" tvg-status="stable",Yle TV1
+http://217.159.149.163:9091/play/a04a
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/friendshipismagicfanon/images/5/5c/YLE_TV2_logo.png/revision/latest/thumbnail/width/360/height/450?cb=20230717184535" group-title="Finland 🇫🇮" tvg-status="stable",Yle TV2
+http://217.159.149.163:9091/play/a04b
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/MTV3_logo_2019.svg/1200px-MTV3_logo_2019.svg.png" group-title="Finland 🇫🇮" tvg-status="stable",MTV3
+http://217.159.149.163:9091/play/a04d
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/38/Nelonen_color_RGB.png" group-title="Finland 🇫🇮" tvg-status="stable",Nelonen
+http://217.159.149.163:9091/play/a049
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Yle_Teema_%26_Fem.svg/1200px-Yle_Teema_%26_Fem.svg.png" group-title="Finland 🇫🇮" tvg-status="stable",Yle Teema & Fam
+http://217.159.149.163:9091/play/a04c
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/MTV_Sub_Logo_2022.svg/1200px-MTV_Sub_Logo_2022.svg.png" group-title="Finland 🇫🇮" tvg-status="stable",MTV Sub
+http://217.159.149.163:9091/play/a03x
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/72/Kanal_5_TV5_2024.svg/revision/latest?cb=20240115083428" group-title="Finland 🇫🇮" tvg-status="stable",TV5
+http://217.159.149.163:9091/play/a05j
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/06/Liv_color_RGB.png" group-title="Finland 🇫🇮" tvg-status="stable",Liv
+http://217.159.149.163:9091/play/a03z
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Jim_color_RGB.png/960px-Jim_color_RGB.png" group-title="Finland 🇫🇮" tvg-status="stable",Jim
+http://217.159.149.163:9091/play/a040
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/6%27eren_%26_Kutonen_Logo_2024.svg/1200px-6%27eren_%26_Kutonen_Logo_2024.svg.png" group-title="Finland 🇫🇮" tvg-status="stable",Kutonen
+http://217.159.149.163:9091/play/a05k
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/tlc-uk.png" group-title="Finland 🇫🇮" tvg-status="not-working",TLC
 http://80.221.31.29:9981/stream/channelid/22525729?profile=pass
-#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/nordic/finland/star-channel-fi.png" group-title="Finland 🇫🇮" tvg-status="not-working",Star Channel
-http://80.221.31.29:9981/stream/channelid/758592575?profile=pass
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/MTV_Ava_Logo_2022.svg/960px-MTV_Ava_Logo_2022.svg.png" group-title="Finland 🇫🇮" tvg-status="not-working",MTV Ava
-http:\\80.221.31.29:9981\stream\channelid\141762177?profile=pass
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Hero_color_RGB.png/1280px-Hero_color_RGB.png" group-title="Finland 🇫🇮" tvg-status="not-working",Hero
-http://80.221.31.29:9981/stream/channelid/905280041?profile=pass
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Frii_Logo_2024.svg/960px-Frii_Logo_2024.svg.png" group-title="Finland 🇫🇮" tvg-status="not-working",Frii
-http://80.221.31.29:9981/stream/channelid/297655209?profile=pass
-#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/national-geographic-us.png" group-title="Finland 🇫🇮" tvg-status="not-working",National Geographic
-http://80.221.31.29:9981/stream/channelid/1542376468?profile=pass
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/nordic/finland/star-channel-fi.png" group-title="Finland 🇫🇮" tvg-status="stable",Star Channel
+http://217.159.149.163:9091/play/a05m
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/MTV_Ava_Logo_2022.svg/960px-MTV_Ava_Logo_2022.svg.png" group-title="Finland 🇫🇮" tvg-status="stable",MTV Ava
+http://217.159.149.163:9091/play/a03y
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Hero_color_RGB.png/1280px-Hero_color_RGB.png" group-title="Finland 🇫🇮" tvg-status="stable",Hero
+http://217.159.149.163:9091/play/a05p
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Frii_Logo_2024.svg/960px-Frii_Logo_2024.svg.png" group-title="Finland 🇫🇮" tvg-status="stable",Frii
+http://217.159.149.163:9091/play/a05n
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/national-geographic-us.png" group-title="Finland 🇫🇮" tvg-status="stable",National Geographic
+http://217.159.149.163:9091/play/a05o
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2a/Viaplay_TV_Stacked.svg/revision/latest?cb=20240402102301" group-title="Finland 🇫🇮" tvg-status="not-working",Viaplay TV
 https://live-fi.tvkaista.net/viaplay-tv/live.m3u8?hd=true
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/64/MTV_Uutiset_2022_II.svg/revision/latest?cb=20230401223036" group-title="Finland 🇫🇮" tvg-status="stable",MTV Uutiset
