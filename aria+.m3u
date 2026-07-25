@@ -1193,8 +1193,6 @@ http://217.159.149.163:9091/play/a04s
 http://217.159.149.163:9091/play/a04r
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/ed/Eesti_Kanal_2021.svg/revision/latest?cb=20210709183756" group-title="Estonia 🇪🇪" tvg-status="stable",Eesti Kanal
 http://217.159.149.163:9091/play/a054
-#EXTINF:-1 tvg-id="" tvg-logo="https://play-lh.googleusercontent.com/OmfKE-z5Vdfe0bvCwgKTPBXZwZt-7ldJB17z27HYKb_dwo6X5HcNsMcUwyHYJqWno_MiCvppYFRhzrmr2KcHCFU" group-title="Estonia 🇪🇪" tvg-status="stable",TV3
-http://217.159.149.163:9091/play/a04z
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/TV3_Life_Logo_2020.svg/3840px-TV3_Life_Logo_2020.svg.png" group-title="Estonia 🇪🇪" tvg-status="stable",TV3 Life
 http://217.159.149.163:9091/play/a04z
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/iepfanon/images/c/c5/KVF_logo_2019.png/revision/latest?cb=20240211201557" group-title="Faroe Islands 🇫🇴" tvg-status="stable",KVF 1
