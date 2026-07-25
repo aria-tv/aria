@@ -13,5 +13,5 @@
 | 9 | Duo 6 | [>](http://217.159.149.163:9091/play/a04r) | <img height="20" src="https://static.wikia.nocookie.net/logopedia/images/5/55/Duo6.svg/revision/latest?cb=20210822031606"/> | &nbsp; | stable |
 | 10 | Eesti Kanal | [>](http://217.159.149.163:9091/play/a054) | <img height="20" src="https://static.wikia.nocookie.net/logopedia/images/e/ed/Eesti_Kanal_2021.svg/revision/latest?cb=20210709183756"/> | &nbsp; | stable |
 | 11 | TV3 | [>](http://217.159.149.163:9091/play/a04z) | <img height="20" src="https://play-lh.googleusercontent.com/OmfKE-z5Vdfe0bvCwgKTPBXZwZt-7ldJB17z27HYKb_dwo6X5HcNsMcUwyHYJqWno_MiCvppYFRhzrmr2KcHCFU"/> | &nbsp; | stable |
-| 11 | TV3 Life | [>](http://217.159.149.163:9091/play/a04z) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/TV3_Life_Logo_2020.svg/3840px-TV3_Life_Logo_2020.svg.png"/> | &nbsp; | stable |
+| 12 | TV3 Life | [>](http://217.159.149.163:9091/play/a04z) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/TV3_Life_Logo_2020.svg/3840px-TV3_Life_Logo_2020.svg.png"/> | &nbsp; | stable |
 
