@@ -7,28 +7,28 @@ http://113.177.113.77:9981/stream/channelid/1733011259?profile=pass
 http://113.177.113.77:9981/stream/channelid/245227243?profile=pass
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Vietnam 🇻🇳" tvg-status="not-working",DreamWorks
 http://113.177.113.77:9981/stream/channelid/1139019477?profile=pass
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/66/VTV1_logo_2013_final.svg" group-title="Vietnam 🇻🇳" tvg-status="not-working",VTV1
-http://14.187.176.206:9981/stream/channelid/2142226707?profile=pass
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d5/VTV2_logo_2013_final.svg" group-title="Vietnam 🇻🇳" tvg-status="not-working",VTV2
-http://14.187.176.206:9981/stream/channelid/538139176?profile=pass
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/48/VTV3_logo_2013_final.svg" group-title="Vietnam 🇻🇳" tvg-status="not-working",VTV3
-http://14.187.176.206:9981/stream/channelid/2062448521?profile=pass
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/48/VTV4_logo_2013_final.svg" group-title="Vietnam 🇻🇳" tvg-status="not-working",VTV4
-http://14.187.176.206:9981/stream/channelid/1868022842?profile=pass
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/VTV5_logo_2013_final.svg/1200px-VTV5_logo_2013_final.svg.png" group-title="Vietnam 🇻🇳" tvg-status="not-working",VTV5
-http://14.187.176.206:9981/stream/channelid/111005065?profile=pass
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/VTV5_logo_2013_final.svg/1200px-VTV6_logo_2013_final.svg.png" group-title="Vietnam 🇻🇳" tvg-status="not-working",VTV6
-http://14.187.176.206:9981/stream/channelid/1682232314?profile=pass
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/66/VTV1_logo_2013_final.svg" group-title="Vietnam 🇻🇳" tvg-status="unstable",VTV1
+http://14.245.172.189:9981/stream/channelid/1953629384?profile=pass
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d5/VTV2_logo_2013_final.svg" group-title="Vietnam 🇻🇳" tvg-status="unstable",VTV2
+http://14.245.172.189:9981/stream/channelid/1317404951?profile=pass
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/48/VTV3_logo_2013_final.svg" group-title="Vietnam 🇻🇳" tvg-status="unstable",VTV3
+http://14.245.172.189:9981/stream/channelid/597416037?profile=pass
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/48/VTV4_logo_2013_final.svg" group-title="Vietnam 🇻🇳" tvg-status="unstable",VTV4
+http://14.245.172.189:9981/stream/channelid/1523756819?profile=pass
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/VTV5_logo_2013_final.svg/1200px-VTV5_logo_2013_final.svg.png" group-title="Vietnam 🇻🇳" tvg-status="unstable",VTV5
+http://14.245.172.189:9981/stream/channelid/1040473011?profile=pass
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/VTV5_logo_2013_final.svg/1200px-VTV6_logo_2013_final.svg.png" group-title="Vietnam 🇻🇳" tvg-status="unstableg",VTV6
+http://14.245.172.189:9981/stream/channelid/1647763011?profile=pass
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Logo_%C4%91%C3%A0i_VTV_C%E1%BA%A7n_Th%C6%A1.svg/1280px-Logo_%C4%91%C3%A0i_VTV_C%E1%BA%A7n_Th%C6%A1.svg.png" group-title="Vietnam 🇻🇳" tvg-status="not-working",VTV Cần Thơ
 http://171.224.203.69:81/stream/channelid/249882884?profile=pass
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/VTV7_logo_2016_final.svg/1200px-VTV7_logo_2016_final.svg.png" group-title="Vietnam 🇻🇳" tvg-status="not-working",VTV7
-http://113.177.113.77:9981/stream/channelid/152257170?profile=pass
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/VTV8_logo_2016_final.svg/1200px-VTV8_logo_2016_final.svg.png" group-title="Vietnam 🇻🇳" tvg-status="not-working",VTV8
-http://14.187.176.206:9981/stream/channelid/373421254?profile=pass
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/VTV9_logo_2016_final.svg/1200px-VTV9_logo_2016_final.svg.png" group-title="Vietnam 🇻🇳" tvg-status="not-working",VTV9
-http://14.187.176.206:9981/stream/channelid/932265188?profile=pass
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/VTV9_logo_2016_final.svg/1200px-VTV10_logo_2016_final.svg.png" group-title="Vietnam 🇻🇳" tvg-status="not-working",VTV10
-http://14.187.176.206:9981/stream/channelid/1595732208?profile=pass
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/VTV7_logo_2016_final.svg/1200px-VTV7_logo_2016_final.svg.png" group-title="Vietnam 🇻🇳" tvg-status="unstable",VTV7
+http://14.245.172.189:9981/stream/channelid/1473505411?profile=pass
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/VTV8_logo_2016_final.svg/1200px-VTV8_logo_2016_final.svg.png" group-title="Vietnam 🇻🇳" tvg-status="unstable",VTV8
+http://14.245.172.189:9981/stream/channelid/1317405321?profile=pass
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/VTV9_logo_2016_final.svg/1200px-VTV9_logo_2016_final.svg.png" group-title="Vietnam 🇻🇳" tvg-status="unstable",VTV9
+http://14.245.172.189:9981/stream/channelid/1031807221?profile=pass
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/VTV9_logo_2016_final.svg/1200px-VTV10_logo_2016_final.svg.png" group-title="Vietnam 🇻🇳" tvg-status="unstable",VTV10
+http://14.245.172.189:9981/stream/channelid/774801025?profile=pass
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Vietnam 🇻🇳" tvg-status="not-working",HTV1
 http://14.187.176.206:9981/stream/channelid/1699138890?profile=pass
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Vietnam 🇻🇳" tvg-status="not-working",HTV2
@@ -39,7 +39,9 @@ http://14.187.176.206:9981/stream/channelid/1862577071?profile=pass
 http://14.187.176.206:9981/stream/channelid/851268162?profile=pass
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Vietnam 🇻🇳" tvg-status="not-working",HTV7
 http://14.187.176.206:9981/stream/channelid/1706468790?profile=pass
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Vietnam 🇻🇳" tvg-status="not-working",HTV9
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Vietnam 🇻🇳" tvg-status="unstable",HTV9
 http://14.187.176.206:9981/stream/channelid/743603966?profile=pass
 #EXTINF:-1 tvg-id="" tvg-logo="https://yt3.googleusercontent.com/2VzgjBz1GRNJBFZ0JcaJad1M089lVy3ihBz2NeGeyvbAQHSNSMz7lSDymO8njLY_lhy3AFcTXKw=s900-c-k-c0x00ffffff-no-rj" group-title="Vietnam 🇻🇳" tvg-status="not-working",Vietnam Today
-http://14.187.176.206:9981/stream/channelid/723498009?profile=pass
+http://14.245.172.189:9981/stream/channelid/1688328405?profile=pass
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/89/QTTV.png/revision/latest/scale-to-width-down/300?cb=20250709050941" group-title="Vietnam 🇻🇳" tvg-status="unstable",QTTV
+http://14.245.172.189:9981/stream/channelid/1989195258?profile=pass
