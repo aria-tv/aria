@@ -2865,20 +2865,28 @@ http://217.209.209.118:9998/stream/channelid/117376066?ticket=69BE7D199361A73296
 http://217.209.209.118:9998/stream/channelid/251031746?ticket=7EC745BC579C42862E4A7260D88A98ACCE17E6D5&profile=pass
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e5/TV_Finland_logo.png" group-title="Sweden 🇸🇪" tvg-status="not-working",TV Finland
 http://2.70.66.155:81/stream/channelid/456629462?profile=pass
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Logo_SRF_1.svg/1200px-Logo_SRF_1.svg.png" group-title="Switzerland 🇨🇭" tvg-status="not-working",SRF 1
-http://57.128.239.62/SRF1/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Logo_SRF_zwei.svg/250px-Logo_SRF_zwei.svg.png" group-title="Switzerland 🇨🇭" tvg-status="not-working",SRF 2
-http://57.128.239.62/SRF2/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Logo_SRF_info.svg/1200px-Logo_SRF_info.svg.png" group-title="Switzerland 🇨🇭" tvg-status="not-working",SRF Info
-http://57.128.239.62/SRFInfo/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/RTS_1_Logo_2023.svg/1200px-RTS_1_Logo_2023.svg.png" group-title="Switzerland 🇨🇭" tvg-status="not-working",RTS 1
-https://viamotionhsi.netplus.ch/live/eds/rts1hd/browser-dash/rts1hd.mpd
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/RTS_2_Logo_2023.svg/1200px-RTS_2_Logo_2023.svg.png" group-title="Switzerland 🇨🇭" tvg-status="not-working",RTS 2
-https://viamotionhsi.netplus.ch/live/eds/rts2hd/browser-dash/rts2hd.mpd
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/RSI_La_1_2012.svg/1200px-RSI_La_1_2012.svg.png" group-title="Switzerland 🇨🇭" tvg-status="not-working",RSI La 1
-https://viamotionhsi.netplus.ch/live/eds/rsila1hd/browser-dash/rsila1hd.mpd
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/RSI_La_2_2012.svg/1200px-RSI_La_2_2012.svg.png" group-title="Switzerland 🇨🇭" tvg-status="not-working",RSI La 2
-https://viamotionhsi.netplus.ch/live/eds/rsila2hd/browser-dash/rsila2hd.mpd
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Logo_SRF_1.svg/1200px-Logo_SRF_1.svg.png" group-title="Switzerland 🇨🇭" tvg-status="unstable",SRF 1
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:14:B4:DD&stream=2450&extension=ts&play_token=lm7VVsBPW3
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Logo_SRF_zwei.svg/250px-Logo_SRF_zwei.svg.png" group-title="Switzerland 🇨🇭" tvg-status="unstable",SRF Zwei
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:14:B4:DD&stream=2448&extension=ts&play_token=eo8Wg7Ug8w
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Logo_SRF_info.svg/1200px-Logo_SRF_info.svg.png" group-title="Switzerland 🇨🇭" tvg-status="unstable",SRF Info
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:14:B4:DD&stream=2446&extension=ts&play_token=WRxVkQwj7f
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/RTS_2_Logo_2023.svg/250px-RTS_2_Logo_2023.svg.png" group-title="Switzerland 🇨🇭" tvg-status="unstable",RTS 1
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:14:B4:DD&stream=2444&extension=ts&play_token=qTIOB1IU1o
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/RTS_2_Logo_2023.svg/1200px-RTS_2_Logo_2023.svg.png" group-title="Switzerland 🇨🇭" tvg-status="unstable",RTS 2
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:14:B4:DD&stream=2442&extension=ts&play_token=EWvgmEBIGu
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/RSI_La_1_2012.svg/250px-RSI_La_1_2012.svg.png" group-title="Switzerland 🇨🇭" tvg-status="unstable",RSI La 1
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:14:B4:DD&stream=2454&extension=ts&play_token=49naN87oGI
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/RSI_La_2_2012.svg/960px-RSI_La_2_2012.svg.png" group-title="Switzerland 🇨🇭" tvg-status="unstable",RSI La 2
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:14:B4:DD&stream=2452&extension=ts&play_token=uO0jRs4NjO
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/de/thumb/a/a0/Logo_3plus.svg/1920px-Logo_3plus.svg.png" group-title="Switzerland 🇨🇭" tvg-status="unstable",3+
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:14:B4:DD&stream=2439&extension=ts&play_token=xO8JBtr3Kk
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/de/thumb/a/a0/Logo_4plus.svg/1920px-Logo_4plus.svg.png" group-title="Switzerland 🇨🇭" tvg-status="unstable",4+
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:14:B4:DD&stream=2438&extension=ts&play_token=ool5gjADVn
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/de/thumb/a/a0/Logo_5plus.svg/1920px-Logo_5plus.svg.png" group-title="Switzerland 🇨🇭" tvg-status="unstable",5+
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:14:B4:DD&stream=2437&extension=ts&play_token=YDsNg9rt1g
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/de/thumb/a/a0/Logo_6plus.svg/1920px-Logo_6plus.svg.png" group-title="Switzerland 🇨🇭" tvg-status="unstable",6+
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:14:B4:DD&stream=2436&extension=ts&play_token=AEbGY3aiDw
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Thailand 🇹🇭" tvg-status="stable",Boom
 https://live-us1.thaimomo.com/live-as/chboomerang-2/chunklist_w135479847.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="This Is Aria" tvg-status="not-working",Aria (Promo)
