@@ -44,5 +44,5 @@
 | 40 | Minimini+ | [>](https://pltv.uzis-room.ch/play/211) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/heads/main/countries/poland/minimini-plus-pl.png"/> | &nbsp; | not-working |
 | 41 | TVP Nauka  | [>](http://193.24.244.60:1001/udp/239.254.3.40:6060) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/TVP_Nauka_%282022%29.svg/250px-TVP_Nauka_%282022%29.svg.png"/> | EPG id | stable |
 | 42 | TVP Kobieta  | [>](http://193.24.244.60:1001/udp/239.254.3.40:6060) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/TVP_Kobieta_%282021%29.svg/120px-TVP_Kobieta_%282021%29.svg.png"/> | EPG id | stable |
-| 43 | Top Kids | [>](http://193.24.244.60:1001/udp/239.254.3.108:6060) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/heads/main/countries/poland/minimini-plus-pl.png"/> | &nbsp; | not-working |
+| 43 | Top Kids | [>](http://193.24.244.60:1001/udp/239.254.3.108:6060) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/heads/main/countries/poland/top-kids-pl.png"/> | &nbsp; | stable |
 
