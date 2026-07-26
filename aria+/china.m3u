@@ -1,27 +1,31 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f6/CCTV-1_Logo.svg.png" group-title="China 🇨🇳" tvg-status="not-working",CCTV-1
-http://183.205.129.173:9981/stream/channelid/841604340?profile=pass
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/he/2/2f/1920px-CCTV-2_Logo.svg.png" group-title="China 🇨🇳" tvg-status="not-working",CCTV-2
-http://58.19.180.108:9981/stream/channelid/980211261?profile=pass
-#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3c/CCTV-3_%E7%BB%BC%E8%89%BA.svg/revision/latest?cb=20230514004707" group-title="China 🇨🇳" tvg-status="not-working",CCTV-3
-http://58.19.180.108:9981/stream/channelid/188040143?profile=pass
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="China 🇨🇳" tvg-status="not-working",CCTV-5
-http://58.19.180.108:9981/stream/channelid/908622330?profile=pass
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="China 🇨🇳" tvg-status="not-working",CCTV-6
-http://58.19.180.108:9981/stream/channelid/115694977?profile=pass
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="China 🇨🇳" tvg-status="not-working",CCTV-7
-http://58.19.180.108:9981/stream/channelid/499001205?profile=pass
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="China 🇨🇳" tvg-status="not-working",CCTV-8
-http://58.19.180.108:9981/stream/channelid/1123874386?profile=pass
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="China 🇨🇳" tvg-status="not-working",CCTV-9
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f6/CCTV-1_Logo.svg.png" group-title="China 🇨🇳" tvg-status="unstable",CCTV-1
+http://125.38.180.207:9981/stream/channelid/2126299146?profile=pass
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/he/2/2f/1920px-CCTV-2_Logo.svg.png" group-title="China 🇨🇳" tvg-status="unstable",CCTV-2
+http://125.38.180.207:9981/stream/channelid/2070567276?profile=pass
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3c/CCTV-3_%E7%BB%BC%E8%89%BA.svg/revision/latest?cb=20230514004707" group-title="China 🇨🇳" tvg-status="unstable",CCTV-3
+http://125.38.180.207:9981/stream/channelid/1751627761?profile=pass
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="China 🇨🇳" tvg-status="unstable",CCTV-5
+http://125.38.180.207:9981/stream/channelid/815781324?profile=pass
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="China 🇨🇳" tvg-status="unstable",CCTV-6
+http://125.38.180.207:9981/stream/channelid/1123777791?profile=pass
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="China 🇨🇳" tvg-status="unstable",CCTV-7
+http://125.38.180.207:9981/stream/channelid/1868497447?profile=pass
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="China 🇨🇳" tvg-status="unstable",CCTV-8
+http://125.38.180.207:9981/stream/channelid/615804147?profile=pass
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="China 🇨🇳" tvg-status="unstable",CCTV-9
 http://58.19.180.108:9981/stream/channelid/1681394297?profile=pass
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="China 🇨🇳" tvg-status="not-working",CCTV-10
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="China 🇨🇳" tvg-status="unstable",CCTV-10
 http://58.19.180.108:9981/stream/channelid/197590532?profile=pass
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="China 🇨🇳" tvg-status="not-working",CCTV-11
 http://58.19.180.108:9981/stream/channelid/550290687?profile=pass
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="China 🇨🇳" tvg-status="not-working",CCTV-12
-http://58.19.180.108:9981/stream/channelid/857624678?profile=pass
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="China 🇨🇳" tvg-status="not-working",CCTV-13
-http://58.19.180.108:9981/stream/channelid/876545399?profile=pass
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="China 🇨🇳" tvg-status="not-working",CCTV-14
-http://58.19.180.108:9981/stream/channelid/446310281?profile=pass
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="China 🇨🇳" tvg-status="unstable",CCTV-12
+http://125.38.180.207:9981/stream/channelid/1155279122?profile=pass
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="China 🇨🇳" tvg-status="unstable",CCTV-13
+http://125.38.180.207:9981/stream/channelid/1656316631?profile=pass
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="China 🇨🇳" tvg-status="unstable",CCTV-14
+http://125.38.180.207:9981/stream/channelid/1022398433?profile=pass
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="China 🇨🇳" tvg-status="unstableg",CCTV-15
+http://125.38.180.207:9981/stream/channelid/782601414?profile=pass
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="China 🇨🇳" tvg-status="unstable",Tianjin News (HD)
+http://125.38.180.207:9981/stream/channelid/1579732958?profile=pass

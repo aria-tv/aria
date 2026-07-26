@@ -49,7 +49,7 @@ http://main.light-ott.net:80/play/live.php?mac=00:1A:79:14:B4:DD&stream=204&exte
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:14:B4:DD&stream=677304&extension=ts&play_token=eDXq4ugwA8
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/65/RTVA_logotip.png" group-title="Andorra 🇦🇩" tvg-status="not-working",RTVA
 https://livesg1.rtva.hiway.media/65cea6ac-6944-4e45-b661-9dd47ea45c48/manifest.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-arab-emirates/mbc-1-ae.png" group-title="Arab World" tvg-status="unstable",MBC
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-arab-emirates/mbc-1-ae.png" group-title="Arab World" tvg-status="stable",MBC
 http://149.100.11.252:8000/play/a02a/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1f/MBC2_Logo.svg" group-title="Arab World" tvg-status="stable",MBC 2
 http://149.100.11.252:8000/play/a02a/index.m3u8
@@ -899,32 +899,36 @@ https://tr.live.clarovtrcdn.vtrplay.com/vivehdchi/vxfmt=dp/playlist.m3u8?device_
 http://38.7.197.119:4000/play/a01b/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7e/TVN_Chile_2016.svg/revision/latest/scale-to-width-down/200?cb=20210906211028" group-title="Chile 🇨🇱" tvg-status="unstable",TVN
 http://38.7.197.119:4000/play/a01n/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f6/CCTV-1_Logo.svg.png" group-title="China 🇨🇳" tvg-status="not-working",CCTV-1
-http://183.205.129.173:9981/stream/channelid/841604340?profile=pass
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/he/2/2f/1920px-CCTV-2_Logo.svg.png" group-title="China 🇨🇳" tvg-status="not-working",CCTV-2
-http://58.19.180.108:9981/stream/channelid/980211261?profile=pass
-#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3c/CCTV-3_%E7%BB%BC%E8%89%BA.svg/revision/latest?cb=20230514004707" group-title="China 🇨🇳" tvg-status="not-working",CCTV-3
-http://58.19.180.108:9981/stream/channelid/188040143?profile=pass
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="China 🇨🇳" tvg-status="not-working",CCTV-5
-http://58.19.180.108:9981/stream/channelid/908622330?profile=pass
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="China 🇨🇳" tvg-status="not-working",CCTV-6
-http://58.19.180.108:9981/stream/channelid/115694977?profile=pass
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="China 🇨🇳" tvg-status="not-working",CCTV-7
-http://58.19.180.108:9981/stream/channelid/499001205?profile=pass
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="China 🇨🇳" tvg-status="not-working",CCTV-8
-http://58.19.180.108:9981/stream/channelid/1123874386?profile=pass
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="China 🇨🇳" tvg-status="not-working",CCTV-9
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f6/CCTV-1_Logo.svg.png" group-title="China 🇨🇳" tvg-status="unstable",CCTV-1
+http://125.38.180.207:9981/stream/channelid/2126299146?profile=pass
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/he/2/2f/1920px-CCTV-2_Logo.svg.png" group-title="China 🇨🇳" tvg-status="unstable",CCTV-2
+http://125.38.180.207:9981/stream/channelid/2070567276?profile=pass
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3c/CCTV-3_%E7%BB%BC%E8%89%BA.svg/revision/latest?cb=20230514004707" group-title="China 🇨🇳" tvg-status="unstable",CCTV-3
+http://125.38.180.207:9981/stream/channelid/1751627761?profile=pass
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="China 🇨🇳" tvg-status="unstable",CCTV-5
+http://125.38.180.207:9981/stream/channelid/815781324?profile=pass
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="China 🇨🇳" tvg-status="unstable",CCTV-6
+http://125.38.180.207:9981/stream/channelid/1123777791?profile=pass
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="China 🇨🇳" tvg-status="unstable",CCTV-7
+http://125.38.180.207:9981/stream/channelid/1868497447?profile=pass
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="China 🇨🇳" tvg-status="unstable",CCTV-8
+http://125.38.180.207:9981/stream/channelid/615804147?profile=pass
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="China 🇨🇳" tvg-status="unstable",CCTV-9
 http://58.19.180.108:9981/stream/channelid/1681394297?profile=pass
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="China 🇨🇳" tvg-status="not-working",CCTV-10
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="China 🇨🇳" tvg-status="unstable",CCTV-10
 http://58.19.180.108:9981/stream/channelid/197590532?profile=pass
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="China 🇨🇳" tvg-status="not-working",CCTV-11
 http://58.19.180.108:9981/stream/channelid/550290687?profile=pass
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="China 🇨🇳" tvg-status="not-working",CCTV-12
-http://58.19.180.108:9981/stream/channelid/857624678?profile=pass
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="China 🇨🇳" tvg-status="not-working",CCTV-13
-http://58.19.180.108:9981/stream/channelid/876545399?profile=pass
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="China 🇨🇳" tvg-status="not-working",CCTV-14
-http://58.19.180.108:9981/stream/channelid/446310281?profile=pass
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="China 🇨🇳" tvg-status="unstable",CCTV-12
+http://125.38.180.207:9981/stream/channelid/1155279122?profile=pass
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="China 🇨🇳" tvg-status="unstable",CCTV-13
+http://125.38.180.207:9981/stream/channelid/1656316631?profile=pass
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="China 🇨🇳" tvg-status="unstable",CCTV-14
+http://125.38.180.207:9981/stream/channelid/1022398433?profile=pass
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="China 🇨🇳" tvg-status="unstableg",CCTV-15
+http://125.38.180.207:9981/stream/channelid/782601414?profile=pass
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="China 🇨🇳" tvg-status="unstable",Tianjin News (HD)
+http://125.38.180.207:9981/stream/channelid/1579732958?profile=pass
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a3/CanalRCN2023.png" group-title="Columbia 🇨🇴" tvg-status="stable",RCN
 http://138.121.15.230:9002/RCN/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/RCN_Novelas_logo_2019.png/250px-RCN_Novelas_logo_2019.png" group-title="Columbia 🇨🇴" tvg-status="unstable",RCN Novelas
@@ -3525,7 +3529,7 @@ http://14.245.172.189:9981/stream/channelid/597416037?profile=pass
 http://14.245.172.189:9981/stream/channelid/1523756819?profile=pass
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/VTV5_logo_2013_final.svg/1200px-VTV5_logo_2013_final.svg.png" group-title="Vietnam 🇻🇳" tvg-status="unstable",VTV5
 http://14.245.172.189:9981/stream/channelid/1040473011?profile=pass
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/VTV5_logo_2013_final.svg/1200px-VTV6_logo_2013_final.svg.png" group-title="Vietnam 🇻🇳" tvg-status="unstableg",VTV6
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/VTV5_logo_2013_final.svg/1200px-VTV6_logo_2013_final.svg.png" group-title="Vietnam 🇻🇳" tvg-status="unstable",VTV6
 http://14.245.172.189:9981/stream/channelid/1647763011?profile=pass
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Logo_%C4%91%C3%A0i_VTV_C%E1%BA%A7n_Th%C6%A1.svg/1280px-Logo_%C4%91%C3%A0i_VTV_C%E1%BA%A7n_Th%C6%A1.svg.png" group-title="Vietnam 🇻🇳" tvg-status="not-working",VTV Cần Thơ
 http://171.224.203.69:81/stream/channelid/249882884?profile=pass
