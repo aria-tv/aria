@@ -39,3 +39,19 @@ http://149.100.11.252:8000/play/a012/index.m3u8
 http://149.100.11.252:8000/play/a044/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.bein.com/en/wp-content/uploads/sites/3/2020/06/beJUNIOR-1.png" group-title="Arab World" tvg-status="unstable",beJunior
 http://45.139.122.199:2095/live/sCy2hczQ/jt6tXnd/1509543.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://77.69.131.40:1234/stream/shahid/rotanakids/master.m3u8" group-title="Arab World" tvg-status="stable",Rotana Kids
+http://77.69.131.40:1234/stream/shahid/rotanakids/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/disney-jr-us.png" group-title="Arab World" tvg-status="unstable",Disney Jr.
+http://77.69.131.40:1234/stream/stc/disneyjunior/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/food-network-us.png" group-title="Arab World" tvg-status="unstable",Food Network (Arabic subtitles)
+http://77.69.131.40:1234/stream/stc/disneyjunior/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/discovery-channel-us.png" group-title="Arab World" tvg-status="unstable",Discovery Channel (Arabic subtitles)
+http://77.69.131.40:1234/stream/stc/discovety/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/animal-planet-us.png" group-title="Arab World" tvg-status="unstable",Animal Planet (Arabic subtitles)
+http://77.69.131.40:1234/stream/stc/animalplanet/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Star_Action_2024.svg/250px-Star_Action_2024.svg.png" group-title="Arab World" tvg-status="unstable",Star Action (Arabic subtitles)
+http://77.69.131.40:1234/stream/stc/staraction/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Star_Movies_2023.svg/1920px-Star_Movies_2023.svg.png" group-title="Arab World" tvg-status="unstable",Star Movies (Arabic subtitles)
+http://77.69.131.40:1234/stream/stc/starmovies/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/93/BBC_News_Arabic_logo.png" group-title="Arab World" tvg-status="unstable",BBC Arabic
+http://77.69.131.40:1234/stream/abudabi/bbcarabic/master.m3u8
