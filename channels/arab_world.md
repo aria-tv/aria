@@ -2,7 +2,7 @@
 
 | # | Channel | Link | Logo | EPG id | Type |
 |:-:|:-------:|:----:|:----:|:------:|:----:|
-| 1 | MBC | [>](http://149.100.11.252:8000/play/a02a/index.m3u8) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-arab-emirates/mbc-1-ae.png"/> | &nbsp; | not-working |
+| 1 | MBC | [>](http://149.100.11.252:8000/play/a02a/index.m3u8) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-arab-emirates/mbc-1-ae.png"/> | &nbsp; | stable |
 | 2 | MBC 2 | [>](http://149.100.11.252:8000/play/a02a/index.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/1/1f/MBC2_Logo.svg"/> | &nbsp; | stable |
 | 3 | MBC 3 | [>](http://149.100.11.252:8000/play/a028/index.m3u8) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-arab-emirates/mbc-3-ae.png"/> | &nbsp; | stable |
 | 4 | MBC 4 | [>](http://149.100.11.252:8000/play/a027/index.m3u8) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-arab-emirates/mbc-4-ae.png"/> | &nbsp; | stable |

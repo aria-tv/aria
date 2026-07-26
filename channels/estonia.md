@@ -19,5 +19,3 @@
 | 15 | Film Zone | [>](http://217.159.149.163:9091/play/a055) | <img height="20" src="https://static.wikia.nocookie.net/logopedia/images/6/65/Filmzone_2024.svg/revision/latest?cb=20240304122546"/> | &nbsp; | stable |
 | 16 | FX (Estonian Subtiles only) | [>](http://217.159.149.163:9091/play/a05a) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/FX_Logo_2023.svg/1280px-FX_Logo_2023.svg.png"/> | &nbsp; | stable |
 | 17 | FX Life (Estonian Subtiles only) | [>](http://217.159.149.163:9091/play/a059) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/FX_Life_Logo_2023.svg/1280px-FX_Life_Logo_2023.svg.png"/> | &nbsp; | stable |
-
-
