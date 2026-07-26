@@ -807,7 +807,7 @@ http://184.82.146.234:9981/stream/channelid/803504614?ticket=F5E05D7CB1A9E2C828A
 http://184.82.146.234:9981/stream/channelid/1271905988?ticket=206F0125AB4FD01869D1AC1D322EB4D72F791A27&profile=pass
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Channel_8_2026.svg/60px-Channel_8_2026.svg.png" group-title="Thailand 🇹🇭" tvg-status="stable",Channel 8
 http://184.82.146.234:9981/stream/channelid/999920245?ticket=5A25BC4DFB3FA99261661E6997AEA5920BEF7D64&profile=pass
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Channel_8_2026.svg/60px-Channel_8_2026.svg.png" group-title="Thailand 🇹🇭" tvg-status="stable",MONOMAX Sports
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/MONOMAX_Sports_2026.svg/120px-MONOMAX_Sports_2026.svg.png" group-title="Thailand 🇹🇭" tvg-status="stable",MONOMAX Sports
 http://184.82.146.234:9981/stream/channelid/1619961505?ticket=EA2E80B4BFF09B04B4317A7D10053C1D3A6D7712&profile=pass
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/MCOT_Ch9_Logo.png/120px-MCOT_Ch9_Logo.png" group-title="Thailand 🇹🇭" tvg-status="stable",9MCOT HD
 http://184.82.146.234:9981/stream/channelid/438797393?ticket=125B16196014F14F4A3B549454F8743B4830890B&profile=pass
