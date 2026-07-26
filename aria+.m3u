@@ -311,15 +311,15 @@ http://71db1693.ottrast.com/iptv/5RZ75L5KMGG9AW/16042/index.m3u8
 http://71db1693.ottrast.com/iptv/5RZ75L5KMGG9AW/16046/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://cbcsport.info/wp-content/uploads/2025/06/cbc_logo2-removebg-preview-300x275.png" group-title="Azerbaijan 🇦🇿" tvg-status="unstable",CBC Sport
 http://71db1693.ottrast.com/iptv/5RZ75L5KMGG9AW/2193/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Bangladesh" tvg-status="stable",News Venguard
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Bangladesh 🇧🇩" tvg-status="stable",News Venguard
 https://playontv.online/vengardlive/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Bangladesh" tvg-status="stable",News8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Bangladesh 🇧🇩" tvg-status="stable",News8
 https://playontv.online/news8live/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Bangladesh" tvg-status="not-working",Raat Din
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Bangladesh 🇧🇩" tvg-status="not-working",Raat Din
 https://playontv.online/raatdinbangla/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Bangladesh" tvg-status="stable",BTV
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Bangladesh 🇧🇩" tvg-status="stable",BTV
 https://playontv.online/btvlive/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Bangladesh" tvg-status="stable",News Venguard
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Bangladesh 🇧🇩" tvg-status="stable",News Venguard
 https://playontv.online/riddhinetworklive/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/poland/belsat-pl.png" group-title="Belarus 🇧🇾" tvg-status="not-working",Belsat
 http://78.56.193.170:9981/stream/channelid/358696833?profile=pass
