@@ -681,6 +681,12 @@ https://tv.mediacdn.ru/live/solntse/playlist_3000k.m3u8
 http://178.65.76.17:81/play/a059
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6b/Logo_tnt.png" group-title="Russia 🇷🇺" tvg-status="stable",TNT
 http://178.65.76.17:81/play/a01m
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b7/Logo_KARUSEL_2023.png" group-title="Russia 🇷🇺" tvg-status="stable",Karusel
+http://93.95.99.164:10000/play/karusel/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://logo-teka.com/wp-content/uploads/2025/09/sts-love-logo.svg" group-title="Russia 🇷🇺" tvg-status="stable",STS Love
+http://93.95.99.164:10000/play/stslove/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9e/%D0%A2V3_logo_2023.svg" group-title="Russia 🇷🇺" tvg-status="stable",TV-3
+http://93.95.99.164:10000/play/stslove/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8b/RTS_2_2014.svg/revision/latest?cb=20180130131828" group-title="Serbia 🇷🇸" tvg-status="stable",RTS 2
 http://109.106.239.1:50001/play/a06k
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Serbia 🇷🇸" tvg-status="stable",RTS 3
