@@ -20,4 +20,3 @@
 | 16 | PPTV HD 36 | [>](http://184.82.146.234:9981/stream/channelid/1204577145?ticket=BBF5ADA0128B3E56709E49E5EB3E69C1C39EF11D&profile=pass) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/PPTV_logo_2026.svg/1280px-PPTV_logo_2026.svg.png"/> | &nbsp; | stable |
 | 17 | True4U | [>](http://184.82.146.234:9981/stream/channelid/509658106?ticket=E2B2F09DB38C6BF84467DB1997A6D0D1695EFB12&profile=pass) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/True4U4.webp/250px-True4U4.webp.png"/> | &nbsp; | stable |
 | 18 | GMM 25 | [>](http://184.82.146.234:9981/stream/channelid/1437681052?ticket=0DB5788427F9EB7A5A4EF83A1FA4F711C0554C58&profile=pass) | <img height="20" src="https://upload.wikimedia.org/wikipedia/en/a/a9/GMM_25_Logo.png"/> | &nbsp; | stable |
-
