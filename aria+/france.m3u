@@ -56,7 +56,7 @@ http://176.65.146.138:8047/play/a075/index.m3u8
 #EXTINF:-1 tvg-id="Franceinfo.fr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/france/france-info-fr.png" group-title="France 🇫🇷" tvg-status="not-working",France Info
 http://176.65.146.138:8047/play/a07g/index.m3u8
 #EXTINF:-1 tvg-id="CNEWS.fr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/france/c-news-fr.png" group-title="France 🇫🇷" tvg-status="stable",CNEWS
- https://hls-m015-live-aka-canalplus.akamaized.net/live/disk/cnews-clair-hd/hls-v3-hd-clair/cnews-clair-hd.m3u8
+https://hls-m015-live-aka-canalplus.akamaized.net/live/disk/cnews-clair-hd/hls-v3-hd-clair/cnews-clair-hd.m3u8
 #EXTINF:-1 tvg-id="AB1.fr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/france/ab1-fr.png" group-title="France 🇫🇷" tvg-status="not-working",AB1
 https://viamotionhsi.netplus.ch/live/eds/ab1/browser-dash/ab1.mpd
 #EXTINF:-1 tvg-id="AB3.be" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/france/ab3-fr.png" group-title="France 🇫🇷" tvg-status="not-working",AB3
