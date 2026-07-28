@@ -749,10 +749,6 @@ https://video-auth4.iol.pt/live_tvi_reality/live_tvi_reality/edge_servers/tvirea
 https://tv.jassuncao.work/stream/channelid/620926503?profile=pass
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/iepfanon/images/5/55/%D0%9B%D0%BE%D0%B3%D0%BE%D1%82%D0%B8%D0%BF_%D1%82%D0%B5%D0%BB%D0%B5%D0%BA%D0%B0%D0%BD%D0%B0%D0%BB%D0%B0_%D0%A1%D0%9E%D0%9B%D0%9D%D0%A6%D0%95.png/revision/latest?cb=20230717235537" group-title="Russia 🇷🇺" tvg-status="stable",Solnce
 https://tv.mediacdn.ru/live/solntse/playlist_3000k.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1f/Subbota.svg/revision/latest?cb=20210218150605" group-title="Russia 🇷🇺" tvg-status="stable",Subbota!
-http://178.65.76.17:81/play/a059
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6b/Logo_tnt.png" group-title="Russia 🇷🇺" tvg-status="stable",TNT
-http://178.65.76.17:81/play/a01m
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b7/Logo_KARUSEL_2023.png" group-title="Russia 🇷🇺" tvg-status="stable",Karusel
 http://93.95.99.164:10000/play/karusel/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://logo-teka.com/wp-content/uploads/2025/09/sts-love-logo.svg" group-title="Russia 🇷🇺" tvg-status="stable",STS Love

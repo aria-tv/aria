@@ -3,9 +3,9 @@
 http://212.10.107.47:9981/stream/channelid/875419046?profile=pass
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/44/DR1_logo_2020.svg/1200px-DR1_logo_2020.svg.png" group-title="Denmark 🇩🇰" tvg-status="unstable",DR 1
 http://212.10.107.47:9981/stream/channelid/1548418828?profile=pass
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/07/DR2_logo_2020.svg/1200px-DR2_logo_2020.svg.png" group-title="Denmark 🇩🇰" tvg-status="unstable",DR 2
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/07/DR2_logo_2020.svg/1200px-DR2_logo_2020.svg.png" group-title="Denmark 🇩🇰" tvg-status="not-working",DR 2
 http://212.10.107.47:9981/stream/channelid/20794524?profile=pass
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/82/DR_Ramasjang_2020.svg/1200px-DR_Ramasjang_2020.svg.png" group-title="Denmark 🇩🇰" tvg-status="unstable",DR Ramasjang
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/82/DR_Ramasjang_2020.svg/1200px-DR_Ramasjang_2020.svg.png" group-title="Denmark 🇩🇰" tvg-status="not-working",DR Ramasjang
 http://212.10.107.47:9981/stream/channelid/1571785928?profile=pass
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/BBC_Nordic_2023.svg/1200px-BBC_Nordic_2023.svg.png" group-title="Denmark 🇩🇰" tvg-status="not-working",BBC Nordic
 http://86.52.58.131:9981/stream/channelid/982754499?profile=pass
