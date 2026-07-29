@@ -49,9 +49,9 @@ http://185.104.253.35:9981/stream/channelid/1635083552?profile=pass
 http://176.65.146.138:8047/play/a07g/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8e/HRT_International_logo.png" group-title="International 🌍" tvg-status="not-working",HRT International
 http://79.127.207.193/HRTint/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/35/Mark%C3%ADza_International_%282022%29.svg/revision/latest/scale-to-width-down/250?cb=20220811142013" group-title="International 🌍" tvg-status="stable",Markíza International
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/35/Mark%C3%ADza_International_%282022%29.svg/revision/latest/scale-to-width-down/250?cb=20220811142013" group-title="International 🌍" tvg-status="not-working",Markíza International
 http://tvh.cyn.cz/stream/channelid/1250511667?profile=pass
-#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSb431ItUI9vrWnI7Lr8OFxmkyIwzW_luy-Xg&s" group-title="International 🌍" tvg-status="stable",Nova International
+#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSb431ItUI9vrWnI7Lr8OFxmkyIwzW_luy-Xg&s" group-title="International 🌍" tvg-status="not-working",Nova International
 http://tvh.cyn.cz/stream/channelid/1406456571?profile=pass
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b4/NuestraTeleInternacional2019.png/revision/latest?cb=20191225023419" group-title="International 🌍" tvg-status="not-working",NuestraTele RCN
 http://181.78.4.250:8098/play/a03n/index.m3u8

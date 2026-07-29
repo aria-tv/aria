@@ -5,9 +5,9 @@ http://94.21.17.223:9981/stream/channelid/984922418?profile=pass
 http://88.212.15.19/live/m2_hun/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/hungary/m4-sport-hu.png" group-title="Hungary 🇭🇺" tvg-status="not-working",M4 Sport HD
 http://94.21.17.223:9981/stream/channelid/1485032170?profile=pass
-#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/hungary/duna-hu.png" group-title="Hungary 🇭🇺" tvg-status="stable",Duna HD
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/hungary/duna-hu.png" group-title="Hungary 🇭🇺" tvg-status="not-working",Duna HD
 http://5.223.51.162:9981/stream/channelid/1005178271?profile=pass
-#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/hungary/duna-world-hu.png" group-title="Hungary 🇭🇺" tvg-status="stable",Duna World / M4 Sport+ HD
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/hungary/duna-world-hu.png" group-title="Hungary 🇭🇺" tvg-status="not-working",Duna World / M4 Sport+ HD
 http://5.223.51.162:9981/stream/channelid/590603902?profile=pass
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/hungary/m5-hu.png" group-title="Hungary 🇭🇺" tvg-status="unstable",M5 HD
 http://88.212.15.19/live/test_m_5_hun_atk_1200/playlist.m3u8
@@ -21,7 +21,7 @@ http://94.21.17.223:9981/stream/channelid/1395685967?profile=pass
 https://dash2.antik.sk/live/test_film_plus_2_hungary_1200_atk/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/hungary/sorozat-plus-hu.png" group-title="Hungary 🇭🇺" tvg-status="not-working",Sorozat+
 http://94.21.17.223:9981/stream/channelid/1235570618?profile=pass
-#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/hungary/tv2-hu.png" group-title="Hungary 🇭🇺" tvg-status="stable",TV2 HD
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/hungary/tv2-hu.png" group-title="Hungary 🇭🇺" tvg-status="not-working",TV2 HD
 http://5.223.51.162:9981/stream/channelid/1223117325?profile=pass
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/hungary/tv2-super-hu.png" group-title="Hungary 🇭🇺" tvg-status="not-working",Super TV2 HD
 http://94.21.17.223:9981/stream/channelid/1148630028?profile=pass
@@ -53,9 +53,9 @@ http://94.21.17.223:9981/stream/channelid/18019862?profile=pass
 http://94.21.17.223:9981/stream/channelid/966260730?profile=pass
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/hungary/eurosport-2-hu.png" group-title="Hungary 🇭🇺" tvg-status="not-working",Eurosport 2 HD
 http://94.21.17.223:9981/stream/channelid/1122850950?profile=pass
-#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/hungary/spektrum-hu.png" group-title="Hungary 🇭🇺" tvg-status="stable",Spektrum HD
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/hungary/spektrum-hu.png" group-title="Hungary 🇭🇺" tvg-status="not-working",Spektrum HD
 http://5.223.51.162:9981/stream/channelid/1008191944?profile=pass
-#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/hungary/tv4-hu.png" group-title="Hungary 🇭🇺" tvg-status="stable",TV4 HD
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/hungary/tv4-hu.png" group-title="Hungary 🇭🇺" tvg-status="not-working",TV4 HD
 http://5.223.51.162:9981/stream/channelid/1945657532?profile=pass
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/hungary/story4-hu.png" group-title="Hungary 🇭🇺" tvg-status="not-working",Story4 HD
 http://94.21.17.223:9981/stream/channelid/1144589518?profile=pass
@@ -91,7 +91,7 @@ http://94.21.17.223:9981/stream/channelid/1215676509?profile=pass
 http://88.212.15.19/live/axn_hun/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/hungary/minimax-hu.png" group-title="Hungary 🇭🇺" tvg-status="stable",Minimax
 http://88.212.15.19/live/minimax_hun/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/hungary/magyar-mozi-tv-hu.png" group-title="Hungary 🇭🇺" tvg-status="stable",Magyar Mozi TV
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/hungary/magyar-mozi-tv-hu.png" group-title="Hungary 🇭🇺" tvg-status="not-working",Magyar Mozi TV
 http://5.223.51.162:9981/stream/channelid/1626573981?profile=pass
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/romania/film-mania-ro.png" group-title="Hungary 🇭🇺" tvg-status="not-working",Film Mánia HD
 http://94.21.17.223:9981/stream/channelid/822371791?profile=pass

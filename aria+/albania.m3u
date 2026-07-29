@@ -33,7 +33,7 @@ http://main.light-ott.net:80/play/live.php?mac=00:1A:79:14:B4:DD&stream=66&exten
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:14:B4:DD&stream=67&extension=ts&play_token=RszxpMgIa8
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/albania/rtsh-24-al.png" group-title="Albania 🇦🇱" tvg-status="unstable",RTSH 24
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:14:B4:DD&stream=69&extension=ts&play_token=v3mku3XXZq
-#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/albania/rtsh-femije-al.png" group-title="Albania 🇦🇱" tvg-status="unstable",RTSH Femije
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/albania/rtsh-femije-al.png" group-title="Albania 🇦🇱" tvg-status="not-working",RTSH Femije
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:14:B4:DD&stream=204&extension=ts&play_token=7Su1GgJfd6
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/albania/rtsh-film-al.png" group-title="Albania 🇦🇱" tvg-status="unstable",RTSH Film
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:14:B4:DD&stream=677304&extension=ts&play_token=eDXq4ugwA8

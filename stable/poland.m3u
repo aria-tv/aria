@@ -3,8 +3,6 @@
 http://193.24.244.60:1001/udp/239.254.3.12:6060
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Telewizja_Polska_-_TVP2_logo_2003.svg/1200px-Telewizja_Polska_-_TVP2_logo_2003.svg.png" group-title="Poland 🇵🇱" tvg-status="stable",TVP 2
 http://193.24.244.60:1001/udp/239.254.3.13:6060
-#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/poland/tvp-hd-pl.png" group-title="Poland 🇵🇱" tvg-status="stable",TVP HD
-https://tvh.cyn.cz/stream/channelid/21392183?profile=pass
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/poland/tvp-info-pl.png" group-title="Poland 🇵🇱" tvg-status="stable",TVP Info
 http://193.24.244.60:1001/udp/239.254.3.32:6060
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/poland/tvp-rozrywka-pl.png" group-title="Poland 🇵🇱" tvg-status="stable",TVP Rozrywka
@@ -15,28 +13,8 @@ http://193.24.244.60:1001/udp/239.254.3.15:6060
 http://193.24.244.60:1001/udp/239.254.3.6:6060
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/poland/tvp-kultura-pl.png" group-title="Poland 🇵🇱" tvg-status="stable",TVP Kultura
 http://193.24.244.60:1001/udp/239.254.3.33:6060
-#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/poland/tvp-dokument-pl.png" group-title="Poland 🇵🇱" tvg-status="stable",TVP Dokument
-https://tvh.cyn.cz/stream/channelid/1984451512?profile=pass
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/26/TVN_logo_2024.svg.png" group-title="Poland 🇵🇱" tvg-status="stable",TVN
-https://tvh.cyn.cz/stream/channelid/1616667038?profile=pass
-#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/poland/tvn-turbo-pl.png" group-title="Poland 🇵🇱" tvg-status="stable",TVN Turbo
-https://tvh.cyn.cz/stream/channelid/683341512?profile=pass
-#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/poland/polsat-news-pl.png" group-title="Poland 🇵🇱" tvg-status="stable",Polsat News
-https://tvh.cyn.cz/stream/channelid/867587422?profile=pass
-#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/poland/polsat-games-pl.png" group-title="Poland 🇵🇱" tvg-status="stable",Polsat Games
-https://tvh.cyn.cz/stream/channelid/525809616?profile=pass
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/FX_Logo_2023.svg/1200px-FX_Logo_2023.svg.png" group-title="Poland 🇵🇱" tvg-status="stable",FX
-https://tvh.cyn.cz/stream/channelid/560930701?profile=pass
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/FX_Comedy_Logo_2023.svg/250px-FX_Comedy_Logo_2023.svg.png" group-title="Poland 🇵🇱" tvg-status="stable",FX Comedy
-https://tvh.cyn.cz/stream/channelid/691360825?profile=pass
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/poland/tvp-abc-pl.png" group-title="Poland 🇵🇱" tvg-status="stable",TVP ABC
 http://193.24.244.60:1001/udp/239.254.3.37:6060
-#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/poland/polsat-jimjam-pl.png" group-title="Poland 🇵🇱" tvg-status="stable",Polsat JimJam
-https://tvh.cyn.cz/stream/channelid/1590799748?profile=pass
-#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/teen-nick-us.png" group-title="Poland 🇵🇱" tvg-status="stable",TeenNick
-https://tvh.cyn.cz/stream/channelid/349164676?profile=pass
-#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/heads/main/countries/united-states/disney-xd-us.png" group-title="Poland 🇵🇱" tvg-status="stable",Disney XD
-https://tvh.cyn.cz/stream/channelid/366863693?profile=pass
 #EXTINF:-1 tvg-id="EPG id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/TVP_Nauka_%282022%29.svg/250px-TVP_Nauka_%282022%29.svg.png" group-title="Poland 🇵🇱" tvg-status="stable",TVP Nauka
 http://193.24.244.60:1001/udp/239.254.3.40:6060
 #EXTINF:-1 tvg-id="EPG id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/TVP_Kobieta_%282021%29.svg/120px-TVP_Kobieta_%282021%29.svg.png" group-title="Poland 🇵🇱" tvg-status="stable",TVP Kobieta

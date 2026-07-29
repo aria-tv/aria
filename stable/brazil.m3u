@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="TV.Cultura.br" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/brazil/tv-cultura-br.png" group-title="Brazil 🇧🇷" tvg-status="stable",TV Cultura
-https://player-tvcultura.stream.uol.com.br/live/tvcultura.m3u8
 #EXTINF:-1 tvg-id="SBTNacional.br" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/4/41/Logotipo_do_SBT.svg/2048px-Logotipo_do_SBT.svg.png" group-title="Brazil 🇧🇷" tvg-status="stable",SBT
 http://190.83.85.68/sbt/index.m3u8
 #EXTINF:-1 tvg-id="TV.Globo.br" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/35/TVGlobo2025.png/revision/latest?cb=20250403003551" group-title="Brazil 🇧🇷" tvg-status="stable",Globo

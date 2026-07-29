@@ -97,8 +97,6 @@ https://c9851ec-rbm-hilv-fsly.cdn.redbee.live/L22/6d35e26e/1bffdaaf.isml/.m3u8
 https://tvi-live-hls.akamaized.net/hls/live/2038650/TVI-Live-HLS/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Bosnia And Herzegovina 🇧🇦" tvg-status="stable",BHT 1 HD
 https://mob.webtvstream.bhtelecom.ba/hls13/bhrtportal_hd_1200.m3u8
-#EXTINF:-1 tvg-id="TV.Cultura.br" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/brazil/tv-cultura-br.png" group-title="Brazil 🇧🇷" tvg-status="stable",TV Cultura
-https://player-tvcultura.stream.uol.com.br/live/tvcultura.m3u8
 #EXTINF:-1 tvg-id="SBTNacional.br" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/4/41/Logotipo_do_SBT.svg/2048px-Logotipo_do_SBT.svg.png" group-title="Brazil 🇧🇷" tvg-status="stable",SBT
 http://190.83.85.68/sbt/index.m3u8
 #EXTINF:-1 tvg-id="TV.Globo.br" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/35/TVGlobo2025.png/revision/latest?cb=20250403003551" group-title="Brazil 🇧🇷" tvg-status="stable",Globo
@@ -177,50 +175,6 @@ http://213.7.216.229:8888/udp/239.23.6.2:1234
 http://213.7.216.229:8888/udp/239.23.6.3:1234
 #EXTINF:-1 tvg-id="" tvg-logo="https://yt3.googleusercontent.com/eLkJ8Kw29bL6OiZlFPEWYRukNrhEDJL0oTi5t1Lg76Jj2N5S_nyC6mb1T1KjZLth-heWaChFDA=s900-c-k-c0x00ffffff-no-rj" group-title="Cyprus 🇨🇾" tvg-status="stable",Vergina TV
 http://213.7.216.229:8888/udp/239.23.5.1:1234
-#EXTINF:-1 tvg-id="CT1.cz" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/czech-republic/ct1-cz.png" group-title="Czechia 🇨🇿" tvg-status="stable",ČT1
-https://sktv.mxnticek.eu/new/stream.php?ch=CT1
-#EXTINF:-1 tvg-id="CT2.cz" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/czech-republic/ct2-cz.png" group-title="Czechia 🇨🇿" tvg-status="stable",ČT2
-https://sktv.mxnticek.eu/new/stream.php?ch=CT2
-#EXTINF:-1 tvg-id="CT24.cz" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/czech-republic/ct24-cz.png" group-title="Czechia 🇨🇿" tvg-status="stable",ČT24
-https://sktv.mxnticek.eu/new/stream.php?ch=CT24
-#EXTINF:-1 tvg-id="CTSport.cz" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/czech-republic/ct-sport-cz.png" group-title="Czechia 🇨🇿" tvg-status="stable",ČT sport
-https://sktv.mxnticek.eu/new/stream.php?ch=CTsport
-#EXTINF:-1 tvg-id="CTDecko.cz" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/czech-republic/ct-d-cz.png" group-title="Czechia 🇨🇿" tvg-status="stable",ČT :D
-https://sktv.mxnticek.eu/new/stream.php?ch=CT_D
-#EXTINF:-1 tvg-id="CTart.cz" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/czech-republic/ct-art-cz.png" group-title="Czechia 🇨🇿" tvg-status="stable",ČT art
-https://sktv.mxnticek.eu/new/stream.php?ch=CTart
-#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/czech-republic/ct-sport-cz.png" group-title="Czechia 🇨🇿" tvg-status="stable",ČT sport Plus
-https://sktv.mxnticek.eu/new/stream.php?ch=%C4%8CT%20sport%20Plus
-#EXTINF:-1 tvg-id="tvnova.cz" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/czech-republic/nova-cz.png" group-title="Czechia 🇨🇿" tvg-status="stable",TV Nova Ⓢ
-https://sktv.mxnticek.eu/new/stream.php?ch=Nova
-#EXTINF:-1 tvg-id="NovaCinema.cz" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/czech-republic/nova-cinema-cz.png" group-title="Czechia 🇨🇿" tvg-status="stable",Nova Cinema
-https://sktv.mxnticek.eu/new/stream.php?ch=NovaCinema
-#EXTINF:-1 tvg-id="NovaAction.cz" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/czech-republic/nova-action-cz.png" group-title="Czechia 🇨🇿" tvg-status="stable",Nova Action
-https://sktv.mxnticek.eu/new/stream.php?ch=NovaAction
-#EXTINF:-1 tvg-id="NovaGold.cz" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/czech-republic/nova-gold-cz.png" group-title="Czechia 🇨🇿" tvg-status="stable",Nova Gold
-https://sktv.mxnticek.eu/new/stream.php?ch=NovaGold
-#EXTINF:-1 tvg-id="Prima.cz" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/czech-republic/prima-cz.png" group-title="Czechia 🇨🇿" tvg-status="stable",Prima
-https://sktv.mxnticek.eu/new/stream.php?ch=Prima
-#EXTINF:-1 tvg-id="CNNPrimaNews.cz" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/czech-republic/cnn-prima-news-cz.png" group-title="Czechia 🇨🇿" tvg-status="stable",CNN Prima News
-https://sktv.mxnticek.eu/new/stream.php?ch=PrimaNews
-#EXTINF:-1 tvg-id="PrimaLove.cz" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/czech-republic/prima-love-cz.png" group-title="Czechia 🇨🇿" tvg-status="stable",Prima Love
-https://sktv.mxnticek.eu/new/stream.php?ch=PrimaLove
-#EXTINF:-1 tvg-id="PrimaStar.cz" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/czech-republic/prima-star-cz.png" group-title="Czechia 🇨🇿" tvg-status="stable",Prima STAR
-https://sktv.mxnticek.eu/new/stream.php?ch=PrimaStar
-#EXTINF:-1 tvg-id="PrimaKrimi.cz" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/czech-republic/prima-krimi-cz.png" group-title="Czechia 🇨🇿" tvg-status="stable",Prima Krimi
-https://sktv.mxnticek.eu/new/stream.php?ch=PrimaKrimi
-#EXTINF:-1 tvg-id="PrimaMax.cz" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/czech-republic/prima-max-cz.png" group-title="Czechia 🇨🇿" tvg-status="stable",Prima MAX
-https://sktv.mxnticek.eu/new/stream.php?ch=PrimaMax
-#EXTINF:-1 tvg-id="JojFamily.sk" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/czech-republic/joj-family-cz.png" group-title="Czechia 🇨🇿" tvg-status="stable",JOJ Family Ⓢ
-https://sktv.mxnticek.eu/new/stream.php?ch=JOJ%20Family
-#EXTINF:-1 tvg-id="JojCinema.cz" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/czech-republic/joj-cinema-cz.png" group-title="Czechia 🇨🇿" tvg-status="stable",JOJ Cinema
-https://sktv.mxnticek.eu/new/stream.php?ch=JOJ%20Cinema
-#EXTINF:-1 tvg-id="CSFilm.cz" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/slovakia/cs-film-sk.png" group-title="Czechia 🇨🇿" tvg-status="stable",CS Film
-https://sktv.mxnticek.eu/new/stream.php?ch=CS%20Film
-#EXTINF:-1 tvg-id="CSHistory.cz" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/czech-republic/cs-history-cz.png" group-title="Czechia 🇨🇿" tvg-status="stable",CS History
-https://sktv.mxnticek.eu/new/stream.php?ch=CS%20History
-#EXTINF:-1 tvg-id="CSMystery.cz" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/czech-republic/cs-mystery-cz.png" group-title="Czechia 🇨🇿" tvg-status="stable",CS Mystery
-https://sktv.mxnticek.eu/new/stream.php?ch=CS%20Mystery
 #EXTINF:-1 tvg-id="Ocko.cz" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/czech-republic/ocko-cz.png" group-title="Czechia 🇨🇿" tvg-status="stable",Óčko Ⓢ
 https://ocko-live.ssl.cdn.cra.cz/channels/ocko/playlist.m3u8
 #EXTINF:-1 tvg-id="OckoStar.cz" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/czech-republic/ocko-star-cz.png" group-title="Czechia 🇨🇿" tvg-status="stable",Óčko Star Ⓢ
@@ -233,20 +187,8 @@ https://stream.mediawork.cz/retrotv/smil:retrotv2.smil/playlist.m3u8
 https://stream.polar.cz/vctv/vctvlive-1/playlist.m3u8
 #EXTINF:-1 tvg-id="utv.cz" tvg-logo="" group-title="Czechia 🇨🇿" tvg-status="stable",UTV
 https://vysilani.zaktv.cz/broadcast/hls/utv/index.m3u8
-#EXTINF:-1 tvg-id="ČT1.cz" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/%C4%8CT1_logo_2012.svg/1200px-%C4%8CT1_logo_2012.svg.png" group-title="Czechia 🇨🇿" tvg-status="stable",ČT 1
-http://tvh.cyn.cz/stream/channelid/1921349708?profile=pass
-#EXTINF:-1 tvg-id="ČT2.cz" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/%C4%8CT2_logo_2012.svg/1200px-%C4%8CT2_logo_2012.svg.png" group-title="Czechia 🇨🇿" tvg-status="stable",ČT 2
-http://tvh.cyn.cz/stream/channelid/196862385?profile=pass
-#EXTINF:-1 tvg-id="ČT.art.cz" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/6f/%C4%8CT_art.svg/250px-%C4%8CT_art.svg.png" group-title="Czechia 🇨🇿" tvg-status="stable",ČT Art (20-04h CET)
-http://tvh.cyn.cz/stream/channelid/1759467266?profile=pass
-#EXTINF:-1 tvg-id="ČT24.cz" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/%C4%8CT24_logo.png/1200px-%C4%8CT24_logo.png" group-title="Czechia 🇨🇿" tvg-status="stable",ČT 24
-http://tvh.cyn.cz/stream/channelid/1020391357?profile=pass
-#EXTINF:-1 tvg-id="JOJ.Family.cz" tvg-logo="" group-title="Czechia 🇨🇿" tvg-status="stable",JOJ Family
-http://tvh.cyn.cz/stream/channelid/1693764695?profile=pass
 #EXTINF:-1 tvg-id="AMC.cz" tvg-logo="" group-title="Czechia 🇨🇿" tvg-status="stable",AMC
 http://185.236.230.212:9981/play/a0bb
-#EXTINF:-1 tvg-id="Auto.Motor.Sport.cz" tvg-logo="" group-title="Czechia 🇨🇿" tvg-status="stable",AUTOMOTORSPORT HD
-http://tvh.cyn.cz/stream/channelid/1879523926?profile=pass
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Czechia 🇨🇿" tvg-status="stable",CANAL+ ACTION HD
 http://185.236.230.212:9981/play/a0bw
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Czechia 🇨🇿" tvg-status="stable",CANAL+ SPORT
@@ -279,8 +221,6 @@ http://185.236.230.212:9981/play/a0c6
 http://185.236.230.212:9981/play/a0cl
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Czechia 🇨🇿" tvg-status="stable",LALA TV
 http://185.236.230.212:9981/play/a0by
-#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/89/TV_Nova_%282024%29.svg/revision/latest?cb=20240813192427&path-prefix=es" group-title="Czechia 🇨🇿" tvg-status="stable",Nova
-http://tvh.cyn.cz/stream/channelid/14674568?profile=pass
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e1/Logo_Nova_FUN.png" group-title="Czechia 🇨🇿" tvg-status="stable",NOVA FUN HD
 http://185.236.230.212:9981/play/a0bk
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7f/Nova_Gold_logo.png" group-title="Czechia 🇨🇿" tvg-status="stable",NOVA GOLD
@@ -391,14 +331,8 @@ http://38.127.211.18/live/c2eds/GLCDiscover/HLS/GLCDiscover.m3u8
 http://live.dreamtv.gy/live/c2eds/GLCEleVate/HLS/GLCEleVate.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/hungary/m2-hu.png" group-title="Hungary 🇭🇺" tvg-status="stable",M2 / M2 Petőfi HD
 http://88.212.15.19/live/m2_hun/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/hungary/duna-hu.png" group-title="Hungary 🇭🇺" tvg-status="stable",Duna HD
-http://5.223.51.162:9981/stream/channelid/1005178271?profile=pass
-#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/hungary/duna-world-hu.png" group-title="Hungary 🇭🇺" tvg-status="stable",Duna World / M4 Sport+ HD
-http://5.223.51.162:9981/stream/channelid/590603902?profile=pass
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/hungary/rtl-gold-hu.png" group-title="Hungary 🇭🇺" tvg-status="stable",RTL Gold
 https://dash2.antik.sk/live/test_film_plus_2_hungary_1200_atk/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/hungary/tv2-hu.png" group-title="Hungary 🇭🇺" tvg-status="stable",TV2 HD
-http://5.223.51.162:9981/stream/channelid/1223117325?profile=pass
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/hungary/prime-hu.png" group-title="Hungary 🇭🇺" tvg-status="stable",Prime HD
 http://88.212.15.19/live/prime/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/hungary/jocky-tv-hu.png" group-title="Hungary 🇭🇺" tvg-status="stable",Jocky TV
@@ -413,18 +347,12 @@ http://88.212.15.19/live/tv2_comedy/index.m3u8
 http://88.212.15.19/live/spiler1/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/hungary/spiler-2-hu.png" group-title="Hungary 🇭🇺" tvg-status="stable",Spíler 2 HD
 http://88.212.15.19/live/spiler2/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/hungary/spektrum-hu.png" group-title="Hungary 🇭🇺" tvg-status="stable",Spektrum HD
-http://5.223.51.162:9981/stream/channelid/1008191944?profile=pass
-#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/hungary/tv4-hu.png" group-title="Hungary 🇭🇺" tvg-status="stable",TV4 HD
-http://5.223.51.162:9981/stream/channelid/1945657532?profile=pass
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/hungary/filmbox-hu.png" group-title="Hungary 🇭🇺" tvg-status="stable",FILMBOX+ one HD
 http://88.212.15.19/live/test_filmbox_plus_hun_atk_1200/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/hungary/axn-hu.png" group-title="Hungary 🇭🇺" tvg-status="stable",AXN HD
 http://88.212.15.19/live/axn_hun/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/hungary/minimax-hu.png" group-title="Hungary 🇭🇺" tvg-status="stable",Minimax
 http://88.212.15.19/live/minimax_hun/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/hungary/magyar-mozi-tv-hu.png" group-title="Hungary 🇭🇺" tvg-status="stable",Magyar Mozi TV
-http://5.223.51.162:9981/stream/channelid/1626573981?profile=pass
 #EXTINF:-1 tvg-id="" tvg-logo="https://spiintl.com/data/files/kcfinderUploadDir/images/filmboxplus/filmbox%2Bemotion.png" group-title="Hungary 🇭🇺" tvg-status="stable",FILMBOX+ Emotion
 http://88.212.15.19/live/test_filmbox_extra_hd_hun_atk_1200/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://spiintl.com/data/files/kcfinderUploadDir/images/filmboxplus/filmbox%2Bcomedy.png" group-title="Hungary 🇭🇺" tvg-status="stable",FILMBOX+ Comedy
@@ -461,10 +389,6 @@ https://vs-hls-pushb-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_arabic
 https://vs-hls-pushb-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_persian_tv/t=3840/v=pv14/b=5070016/main.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b2/Cubavisi%25_3FnIntl2022.webp/revision/latest?cb=20230723155246" group-title="International 🌍" tvg-status="stable",Cubavision Internacional
 https://dvrfl06.bozztv.com/astv-cubavisionint/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/35/Mark%C3%ADza_International_%282022%29.svg/revision/latest/scale-to-width-down/250?cb=20220811142013" group-title="International 🌍" tvg-status="stable",Markíza International
-http://tvh.cyn.cz/stream/channelid/1250511667?profile=pass
-#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSb431ItUI9vrWnI7Lr8OFxmkyIwzW_luy-Xg&s" group-title="International 🌍" tvg-status="stable",Nova International
-http://tvh.cyn.cz/stream/channelid/1406456571?profile=pass
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/91/Star-TVE-logo-300x169.png/revision/latest?cb=20150911200636" group-title="International 🌍" tvg-status="stable",Star TVE
 https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/star_main_dvr_1080.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Sky-news-logo.png/1200px-Sky-news-logo.png" group-title="International 🌍" tvg-status="stable",Sky News
@@ -707,8 +631,6 @@ http://122.53.222.9:9981/stream/channelid/810732235?profile=pass
 http://193.24.244.60:1001/udp/239.254.3.12:6060
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Telewizja_Polska_-_TVP2_logo_2003.svg/1200px-Telewizja_Polska_-_TVP2_logo_2003.svg.png" group-title="Poland 🇵🇱" tvg-status="stable",TVP 2
 http://193.24.244.60:1001/udp/239.254.3.13:6060
-#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/poland/tvp-hd-pl.png" group-title="Poland 🇵🇱" tvg-status="stable",TVP HD
-https://tvh.cyn.cz/stream/channelid/21392183?profile=pass
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/poland/tvp-info-pl.png" group-title="Poland 🇵🇱" tvg-status="stable",TVP Info
 http://193.24.244.60:1001/udp/239.254.3.32:6060
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/poland/tvp-rozrywka-pl.png" group-title="Poland 🇵🇱" tvg-status="stable",TVP Rozrywka
@@ -719,28 +641,8 @@ http://193.24.244.60:1001/udp/239.254.3.15:6060
 http://193.24.244.60:1001/udp/239.254.3.6:6060
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/poland/tvp-kultura-pl.png" group-title="Poland 🇵🇱" tvg-status="stable",TVP Kultura
 http://193.24.244.60:1001/udp/239.254.3.33:6060
-#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/poland/tvp-dokument-pl.png" group-title="Poland 🇵🇱" tvg-status="stable",TVP Dokument
-https://tvh.cyn.cz/stream/channelid/1984451512?profile=pass
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/26/TVN_logo_2024.svg.png" group-title="Poland 🇵🇱" tvg-status="stable",TVN
-https://tvh.cyn.cz/stream/channelid/1616667038?profile=pass
-#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/poland/tvn-turbo-pl.png" group-title="Poland 🇵🇱" tvg-status="stable",TVN Turbo
-https://tvh.cyn.cz/stream/channelid/683341512?profile=pass
-#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/poland/polsat-news-pl.png" group-title="Poland 🇵🇱" tvg-status="stable",Polsat News
-https://tvh.cyn.cz/stream/channelid/867587422?profile=pass
-#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/poland/polsat-games-pl.png" group-title="Poland 🇵🇱" tvg-status="stable",Polsat Games
-https://tvh.cyn.cz/stream/channelid/525809616?profile=pass
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/FX_Logo_2023.svg/1200px-FX_Logo_2023.svg.png" group-title="Poland 🇵🇱" tvg-status="stable",FX
-https://tvh.cyn.cz/stream/channelid/560930701?profile=pass
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/FX_Comedy_Logo_2023.svg/250px-FX_Comedy_Logo_2023.svg.png" group-title="Poland 🇵🇱" tvg-status="stable",FX Comedy
-https://tvh.cyn.cz/stream/channelid/691360825?profile=pass
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/poland/tvp-abc-pl.png" group-title="Poland 🇵🇱" tvg-status="stable",TVP ABC
 http://193.24.244.60:1001/udp/239.254.3.37:6060
-#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/poland/polsat-jimjam-pl.png" group-title="Poland 🇵🇱" tvg-status="stable",Polsat JimJam
-https://tvh.cyn.cz/stream/channelid/1590799748?profile=pass
-#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/teen-nick-us.png" group-title="Poland 🇵🇱" tvg-status="stable",TeenNick
-https://tvh.cyn.cz/stream/channelid/349164676?profile=pass
-#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/heads/main/countries/united-states/disney-xd-us.png" group-title="Poland 🇵🇱" tvg-status="stable",Disney XD
-https://tvh.cyn.cz/stream/channelid/366863693?profile=pass
 #EXTINF:-1 tvg-id="EPG id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/TVP_Nauka_%282022%29.svg/250px-TVP_Nauka_%282022%29.svg.png" group-title="Poland 🇵🇱" tvg-status="stable",TVP Nauka
 http://193.24.244.60:1001/udp/239.254.3.40:6060
 #EXTINF:-1 tvg-id="EPG id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/TVP_Kobieta_%282021%29.svg/120px-TVP_Kobieta_%282021%29.svg.png" group-title="Poland 🇵🇱" tvg-status="stable",TVP Kobieta
@@ -785,40 +687,6 @@ http://109.106.239.1:50001/play/a065
 http://109.106.239.1:50001/play/a07t
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Serbia 🇷🇸" tvg-status="stable",Pink
 http://109.106.239.1:50001/play/a06l
-#EXTINF:-1 tvg-id="Markiza.sk" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/slovakia/markiza-sk.png" group-title="Slovakia 🇸🇰" tvg-status="stable",Markíza
-https://sktv.mxnticek.eu/new/stream.php?ch=Markiza
-#EXTINF:-1 tvg-id="MarkizaDoma.sk" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/slovakia/markiza-doma-sk.png" group-title="Slovakia 🇸🇰" tvg-status="stable",Doma
-https://sktv.mxnticek.eu/new/stream.php?ch=Doma
-#EXTINF:-1 tvg-id="MarkizaDajto.sk" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/slovakia/markiza-dajto-sk.png" group-title="Slovakia 🇸🇰" tvg-status="stable",Dajto
-https://sktv.mxnticek.eu/new/stream.php?ch=Dajto
-#EXTINF:-1 tvg-id="MarkizaKrimi.sk" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/slovakia/markiza-krimi-sk.png" group-title="Slovakia 🇸🇰" tvg-status="stable",Krimi
-https://sktv.mxnticek.eu/new/stream.php?ch=Krimi
-#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/slovakia/markiza-sk.png" group-title="Slovakia 🇸🇰" tvg-status="stable",Klasik
-https://sktv.mxnticek.eu/new/stream.php?ch=Klasik
-#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/slovakia/markiza-sk.png" group-title="Slovakia 🇸🇰" tvg-status="stable",Markíza TN Live
-https://sktv.mxnticek.eu/new/stream.php?ch=Mark%C3%ADza%20TN%20Live
-#EXTINF:-1 tvg-id="JOJ.sk" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/slovakia/joj-sk.png" group-title="Slovakia 🇸🇰" tvg-status="stable",JOJ
-https://sktv.mxnticek.eu/new/stream.php?ch=JOJ
-#EXTINF:-1 tvg-id="JOJPlus.sk" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/slovakia/joj-plus-sk.png" group-title="Slovakia 🇸🇰" tvg-status="stable",JOJ Plus
-https://sktv.mxnticek.eu/new/stream.php?ch=JOJ%20Plus
-#EXTINF:-1 tvg-id="JOJWau.sk" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/slovakia/joj-wau-sk.png" group-title="Slovakia 🇸🇰" tvg-status="stable",Wau
-https://sktv.mxnticek.eu/new/stream.php?ch=Wau
-#EXTINF:-1 tvg-id="JOJ24.sk" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/slovakia/joj-24-sk.png" group-title="Slovakia 🇸🇰" tvg-status="stable",JOJ 24
-https://sktv.mxnticek.eu/new/stream.php?ch=JOJ%2024
-#EXTINF:-1 tvg-id="Jojko.sk" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/slovakia/jojko-sk.png" group-title="Slovakia 🇸🇰" tvg-status="stable",Jojko
-https://sktv.mxnticek.eu/new/stream.php?ch=Jojko
-#EXTINF:-1 tvg-id="RTVS24.sk" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/slovakia/rtvs-24-sk.png" group-title="Slovakia 🇸🇰" tvg-status="stable",STVR :24
-https://sktv.mxnticek.eu/new/stream.php?ch=STVR%20%3A24
-#EXTINF:-1 tvg-id="RTVSSport.sk" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/slovakia/rtvs-sport-sk.png" group-title="Slovakia 🇸🇰" tvg-status="stable",Šport
-https://sktv.mxnticek.eu/new/stream.php?ch=%C5%A0port
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Slovakia 🇸🇰" tvg-status="stable",STVR :O
-https://sktv.mxnticek.eu/new/stream.php?ch=STVR%20%3AO
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Slovakia 🇸🇰" tvg-status="stable",NR SR
-https://sktv.mxnticek.eu/new/stream.php?ch=NR%20SR
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Slovakia 🇸🇰" tvg-status="stable",STVR Live
-https://sktv.mxnticek.eu/new/stream.php?ch=STVR%20Live
-#EXTINF:-1 tvg-id="TA3.sk" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/slovakia/ta3-sk.png" group-title="Slovakia 🇸🇰" tvg-status="stable",TA3
-https://sktv.mxnticek.eu/new/stream.php?ch=TA3
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b2/Logo_of_TV_SLO_1_HD_%282012-%29.png" group-title="Slovenia 🇸🇮" tvg-status="stable",TV SLO 1
 http://93.103.246.35:10205/
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.sportspro.com/wp-content/uploads/2023/03/Eurosport_Logo_2015.svg_.png" group-title="Slovenia 🇸🇮" tvg-status="stable",Eurosport
@@ -981,20 +849,12 @@ https://qvc-amd-live.akamaized.net/hls/live/2034113/lsqvc1us/master.m3u8
 https://qvc-amd-live.akamaized.net/hls/live/2034113/lsqvc1uswest/master.m3u8
 #EXTINF:-1 tvg-id="QVC2.us" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/ab/QVC2_%282017%29.svg/revision/latest?cb=20210225125729" group-title="United States 🇺🇸" tvg-status="stable",QVC2
 https://qvc-amd-live.akamaized.net/hls/live/2034113/lsqvc2us/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/discovery-familia-us.png" group-title="United States 🇺🇸" tvg-status="stable",Discovery Familia
-http://200.115.120.1:8000/play/ca053
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.metv.com/images/MeTV_Plus_Color.png" group-title="United States 🇺🇸" tvg-status="stable",MeTV+
 http://206.212.244.63/111/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://rewindtv.com/wp-content/uploads/2021/08/RewindTV_logo_primary_black_withtagline.png" group-title="United States 🇺🇸" tvg-status="stable",Rewind TV
 http://206.212.244.63/111/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/ba/Heartland_TV_logo.png" group-title="United States 🇺🇸" tvg-status="stable",Heartland
 http://206.212.244.63/111/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Game_Show_Central.svg/250px-Game_Show_Central.svg.png" group-title="United States 🇺🇸" tvg-status="stable",Game Show Central
-http://200.115.120.1:8000/play/ca053
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/30/MTV_Live_2021_logo.svg" group-title="United States 🇺🇸" tvg-status="stable",MTV Live
-http://200.115.120.1:8000/play/ca053
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/10/MTV_Classic_US.svg" group-title="United States 🇺🇸" tvg-status="stable",MTV Classics
-http://200.115.120.1:8000/play/ca053
 #EXTINF:-1 tvg-id="" tvg-logo="https://pbs.twimg.com/profile_images/1356268043941380099/QHq2W42n_400x400.jpg" group-title="United States 🇺🇸" tvg-status="stable",CBS Sports Network
 http://40.160.24.52/CBS_SPORTS_NETWORK/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/bet-us.png" group-title="United States 🇺🇸" tvg-status="stable",BET West
