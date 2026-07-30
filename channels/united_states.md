@@ -136,7 +136,7 @@
 | 132 | QVC East | [>](https://qvc-amd-live.akamaized.net/hls/live/2034113/lsqvc1us/master.m3u8) | <img height="20" src="https://static.wikia.nocookie.net/logopedia/images/4/48/QVC.svg/revision/latest/scale-to-width-down/250?cb=20190429184243"/> | QVC.us | stable |
 | 133 | QVC West | [>](https://qvc-amd-live.akamaized.net/hls/live/2034113/lsqvc1uswest/master.m3u8) | <img height="20" src="https://static.wikia.nocookie.net/logopedia/images/4/48/QVC.svg/revision/latest/scale-to-width-down/250?cb=20190429184243"/> | QVCPacific.us | stable |
 | 134 | QVC2 | [>](https://qvc-amd-live.akamaized.net/hls/live/2034113/lsqvc2us/master.m3u8) | <img height="20" src="https://static.wikia.nocookie.net/logopedia/images/a/ab/QVC2_%282017%29.svg/revision/latest?cb=20210225125729"/> | QVC2.us | stable |
-| 135 | Discovery Familia | [>](http://200.115.120.1:8000/play/ca053) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/discovery-familia-us.png"/> | &nbsp; | not-working |
+| 135 | Discovery Familia | [>](http://200.115.120.1:8000/play/ca053) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/discovery-familia-us.png"/> | &nbsp; | unstable |
 | 136 | MeTV+ | [>](http://206.212.244.63/111/index.m3u8) | <img height="20" src="https://www.metv.com/images/MeTV_Plus_Color.png"/> | &nbsp; | stable |
 | 137 | Rewind TV | [>](http://206.212.244.63/111/index.m3u8) | <img height="20" src="https://rewindtv.com/wp-content/uploads/2021/08/RewindTV_logo_primary_black_withtagline.png"/> | &nbsp; | stable |
 | 138 | Heartland | [>](http://206.212.244.63/111/index.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/en/b/ba/Heartland_TV_logo.png"/> | &nbsp; | stable |
@@ -145,9 +145,9 @@
 | 141 | ABC (Mountain Feed) | [>](http://theariatv.github.io/channeldead.mp4) | <img height="20" src="https://cdn.tvpassport.com/image/station/240x135/v2/s10003_h15_ac.png"/> | &nbsp; | not-working |
 | 142 | FOX (Mountain Feed) | [>](http://38.175.167.27:5004/auto/v27.1) | <img height="20" src="https://cdn.tvpassport.com/image/station/240x135/v2/s10212_h15_ab.png"/> | &nbsp; | not-working |
 | 143 | The CW (Mountain Feed) | [>](http://38.175.167.27:5004/auto/v2.1) | <img height="20" src="https://cdn.tvpassport.com/image/station/240x135/v2/s53098_h15_ac.png"/> | &nbsp; | not-working |
-| 144 | Game Show Central | [>](http://200.115.120.1:8000/play/ca053) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Game_Show_Central.svg/250px-Game_Show_Central.svg.png"/> | &nbsp; | not-working |
-| 145 | MTV Live | [>](http://200.115.120.1:8000/play/ca053) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/3/30/MTV_Live_2021_logo.svg"/> | &nbsp; | not-working |
-| 146 | MTV Classics | [>](http://200.115.120.1:8000/play/ca053) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/1/10/MTV_Classic_US.svg"/> | &nbsp; | not-working |
+| 144 | Game Show Central | [>](http://200.115.120.1:8000/play/ca053) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Game_Show_Central.svg/250px-Game_Show_Central.svg.png"/> | &nbsp; | unstable |
+| 145 | MTV Live | [>](http://200.115.120.1:8000/play/ca053) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/3/30/MTV_Live_2021_logo.svg"/> | &nbsp; | unstable |
+| 146 | MTV Classics | [>](http://200.115.120.1:8000/play/ca053) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/1/10/MTV_Classic_US.svg"/> | &nbsp; | unstable |
 | 147 | CBS Sports Network | [>](http://40.160.24.52/CBS_SPORTS_NETWORK/index.m3u8) | <img height="20" src="https://pbs.twimg.com/profile_images/1356268043941380099/QHq2W42n_400x400.jpg"/> | &nbsp; | stable |
 | 148 | BET West | [>](http://40.160.24.52/BET_WEST/index.m3u8) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/bet-us.png"/> | &nbsp; | stable |
 | 149 | BET Soul | [>](http://40.160.24.52/BET_SOUL/index.m3u8) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/bet-soul-us.png"/> | &nbsp; | unstable |

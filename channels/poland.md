@@ -2,10 +2,10 @@
 
 | # | Channel | Link | Logo | EPG id | Type |
 |:-:|:-------:|:----:|:----:|:------:|:----:|
-| 1 | Polsat | [>](http://lg.peces.biz:8080/live/542567743688356131/2740112024359405/13891.ts) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/poland/polsat-pl.png"/> | &nbsp; | unstable |
-| 2 | Polsat 2 | [>](http://lg.peces.biz:8080/live/542567743688356131/2740112024359405/13892.ts) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/poland/polsat-2-pl.png"/> | &nbsp; | unstable |
-| 3 | Polsat Café | [>](http://lg.peces.biz:8080/live/542567743688356131/2740112024359405/13893.ts) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/poland/polsat-cafe-pl.png"/> | &nbsp; | unstable |
-| 4 | Polsat Doku | [>](http://lg.peces.biz:8080/live/542567743688356131/2740112024359405/13894.ts) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/poland/polsat-doku-pl.png"/> | &nbsp; | unstable |
+| 1 | Polsat | [>](http://lg.peces.biz:8080/live/542567743688356131/2740112024359405/13891.ts) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/poland/polsat-pl.png"/> | &nbsp; | not-working |
+| 2 | Polsat 2 | [>](http://lg.peces.biz:8080/live/542567743688356131/2740112024359405/13892.ts) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/poland/polsat-2-pl.png"/> | &nbsp; | not-working |
+| 3 | Polsat Café | [>](http://lg.peces.biz:8080/live/542567743688356131/2740112024359405/13893.ts) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/poland/polsat-cafe-pl.png"/> | &nbsp; | not-working |
+| 4 | Polsat Doku | [>](http://lg.peces.biz:8080/live/542567743688356131/2740112024359405/13894.ts) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/poland/polsat-doku-pl.png"/> | &nbsp; | not-working |
 | 5 | TVP 1 | [>](http://193.24.244.60:1001/udp/239.254.3.12:6060) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Telewizja_Polska_-_TVP1_logo_2003.svg/1200px-Telewizja_Polska_-_TVP1_logo_2003.svg.png"/> | &nbsp; | stable |
 | 6 | TVP 2 | [>](http://193.24.244.60:1001/udp/239.254.3.13:6060) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Telewizja_Polska_-_TVP2_logo_2003.svg/1200px-Telewizja_Polska_-_TVP2_logo_2003.svg.png"/> | &nbsp; | stable |
 | 7 | TVP 3 | [>](http://91.146.94.234:10001/play/a003) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Telewizja_Polska_-_TVP3_logo_2016.svg/1200px-Telewizja_Polska_-_TVP3_logo_2016.svg.png"/> | &nbsp; | not-working |

@@ -15,8 +15,6 @@ http://209.61.12.77:9000/play/a08w/index.m3u8
 http://209.61.12.77:9000/play/a088/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/TCM_Latam_logo.svg/220px-TCM_Latam_logo.svg.png" group-title="Latin America 🌎" tvg-status="stable",TCM
 http://209.61.12.77:9000/play/a07f/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/history-channel-us.png" group-title="Latin America 🌎" tvg-status="stable",History
-http://209.61.12.77:9000/play/a09h/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/history2-ca.png" group-title="Latin America 🌎" tvg-status="stable",History2
 http://209.61.12.77:9000/play/a075/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/1200px-ESPN_wordmark.svg.png" group-title="Latin America 🌎" tvg-status="stable",ESPN Premium
