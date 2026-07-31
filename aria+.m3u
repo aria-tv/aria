@@ -94,7 +94,7 @@ http://77.69.131.40:1234/stream/shahid/rotanakids/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/disney-jr-us.png" group-title="Arab World" tvg-status="unstable",Disney Jr.
 http://77.69.131.40:1234/stream/stc/disneyjunior/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/food-network-us.png" group-title="Arab World" tvg-status="unstable",Food Network (Arabic subtitles)
-http://77.69.131.40:1234/stream/stc/disneyjunior/master.m3u8
+http://77.69.131.40:1234/stream/stc/foodnetwork/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/discovery-channel-us.png" group-title="Arab World" tvg-status="unstable",Discovery Channel (Arabic subtitles)
 http://77.69.131.40:1234/stream/stc/discovety/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/animal-planet-us.png" group-title="Arab World" tvg-status="unstable",Animal Planet (Arabic subtitles)
