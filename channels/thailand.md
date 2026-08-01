@@ -2,7 +2,7 @@
 
 | # | Channel | Link | Logo | EPG id | Type |
 |:-:|:-------:|:----:|:----:|:------:|:----:|
-| 1 | Boom | [>](https://live-us1.thaimomo.com/live-as/chboomerang-2/chunklist_w135479847.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/a/af/BoomThailand2025.png"/> | &nbsp; | stable |
+| 1 | Boom | [>](https://live-us1.thaimomo.com/live-as/chboomerang-2/chunklist_w135479847.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/a/af/BoomThailand2025.png"/> | &nbsp; | not-working |
 | 2 | Thai PBS | [>](http://184.82.146.234:9981/stream/channelid/1267357243?ticket=9EDC069B36EE3E8EB3AA15C21A47923FC10F3867&profile=pass) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Thai_PBS_Logo_2016.svg/250px-Thai_PBS_Logo_2016.svg.png"/> | &nbsp; | stable |
 | 3 | TV5 | [>](http://184.82.146.234:9981/stream/channelid/1027579327?ticket=35052049E5DA44482A090ED3BB6EE5CF418FDB6F&profile=pass) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/%E0%B9%82%E0%B8%A5%E0%B9%82%E0%B8%81%E0%B9%89%E0%B8%8A%E0%B9%88%E0%B8%AD%E0%B8%875.png/960px-%E0%B9%82%E0%B8%A5%E0%B9%82%E0%B8%81%E0%B9%89%E0%B8%8A%E0%B9%88%E0%B8%AD%E0%B8%875.png"/> | &nbsp; | stable |
 | 4 | T Sports 7 | [>](http://184.82.146.234:9981/stream/channelid/398987196?ticket=4A2A6F94079B926F10F03D5FA041807E61AACAF5&profile=pass) | <img height="20" src="https://play-lh.googleusercontent.com/to3uNg8lVorkFZgIsNG8Rb3O06nSyeAoTmtR7OEFbk52yvZjmuukEhUiWJ_weJSjqBF_JN4MVbdHQm_uBJpY5Q"/> | &nbsp; | stable |

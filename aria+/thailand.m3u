@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/BoomThailand2025.png" group-title="Thailand 🇹🇭" tvg-status="stable",Boom
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/BoomThailand2025.png" group-title="Thailand 🇹🇭" tvg-status="not-working",Boom
 https://live-us1.thaimomo.com/live-as/chboomerang-2/chunklist_w135479847.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Thai_PBS_Logo_2016.svg/250px-Thai_PBS_Logo_2016.svg.png" group-title="Thailand 🇹🇭" tvg-status="stable",Thai PBS
 http://184.82.146.234:9981/stream/channelid/1267357243?ticket=9EDC069B36EE3E8EB3AA15C21A47923FC10F3867&profile=pass
