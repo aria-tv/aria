@@ -40,8 +40,7 @@
 | 36 | Praha TV | [>](https://stream.polar.cz/prahatv/prahatvlive-1/playlist.m3u8) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/czech-republic/praha-tv-cz.png"/> | PrahaTV.cz | not-working |
 | 37 | Východoceská TV | [>](https://stream.polar.cz/vctv/vctvlive-1/playlist.m3u8) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/czech-republic/tv-v1-cz.png"/> | V1.cz | stable |
 | 38 | UTV | [>](https://vysilani.zaktv.cz/broadcast/hls/utv/index.m3u8) | UTV | utv.cz | stable |
-| 39 | Disney Channel | [>](https://webstream.odjezdy.online/CZ/Disney/video.m3u8) | Disney Channel | Disney.Channel.cz | not-working |
-/stream/channelid/1669214446?ticket=BDA09228D9A1E3C5444CB168C684A21C7FE37A29&profile=pass) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Prima_2013.svg/250px-Prima_2013.svg.png"/> | Prima.cz | unstable |
+| 39 | Disney Channel | [>](https://webstream.odjezdy.online/CZ/Disney/video.m3u8) | Disney Channel | Disney.Channel.cz | not-working | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Prima_2013.svg/250px-Prima_2013.svg.png"/> | Disney.Channel.cz | unstable |
 | 40 | Prima SHOW | [>](http://90.178.86.156:9981/stream/channelid/748255433?ticket=216B5B41838A2332296FA05EDB09FA11B1A155EE&profile=pass) | Prima SHOW | Prima.Show.cz | unstable |
 | 41 | OCKO | [>](http://90.178.86.156:9981/stream/channelid/1183792288?ticket=6CE25AF67B8D74983939FCF3B123AD08A5B0BAE8&profile=pass) | OCKO | Óčko.cz | unstable |
 | 42 | OCKO STAR | [>](http://90.178.86.156:9981/stream/channelid/1340646702?ticket=6A7ED7E2087641A202EA744A9DE44B07A2EE2FAC&profile=pass) | OCKO STAR | Óčko.STAR.cz | unstable |
