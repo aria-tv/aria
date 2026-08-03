@@ -15,7 +15,7 @@ https://sktv.mxnticek.eu/new/stream.php?ch=CTart
 https://sktv.mxnticek.eu/new/stream.php?ch=%C4%8CT%20sport%20Plus
 #EXTINF:-1 tvg-id="tvnova.cz" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/czech-republic/nova-cz.png" group-title="Czechia 🇨🇿" tvg-status="not-working",TV Nova Ⓢ
 https://sktv.mxnticek.eu/new/stream.php?ch=Nova
-#EXTINF:-1 tvg-id="NovaCinema.cz" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/czech-republic/nova-cinema-cz.png" group-title="Czechia 🇨🇿" tvg-status="not-working",Nova Cinema
+#EXTINF:-1 tvg-id="NovaCinema.cz" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/czech-republic/nova-cinema-cz.png" group-title="Czechia 🇨🇿" tvg-status="unstable",Nova Cinema
 https://sktv.mxnticek.eu/new/stream.php?ch=NovaCinema
 #EXTINF:-1 tvg-id="NovaAction.cz" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/czech-republic/nova-action-cz.png" group-title="Czechia 🇨🇿" tvg-status="not-working",Nova Action
 https://sktv.mxnticek.eu/new/stream.php?ch=NovaAction
@@ -43,7 +43,7 @@ https://sktv.mxnticek.eu/new/stream.php?ch=PrimaKrimi
 https://sktv.mxnticek.eu/new/stream.php?ch=PrimaMax
 #EXTINF:-1 tvg-id="PrimaCool.cz" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/czech-republic/prima-cool-cz.png" group-title="Czechia 🇨🇿" tvg-status="not-working",Prima Cool
 https://sktv.mxnticek.eu/new/stream.php?ch=PrimaCool
-#EXTINF:-1 tvg-id="PrimaShow.cz" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/czech-republic/prima-show-cz.png" group-title="Czechia 🇨🇿" tvg-status="not-working",Prima Show
+#EXTINF:-1 tvg-id="PrimaShow.cz" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/czech-republic/prima-show-cz.png" group-title="Czechia 🇨🇿" tvg-status="unstable",Prima Show
 https://sktv.mxnticek.eu/new/stream.php?ch=PrimaShow
 #EXTINF:-1 tvg-id="JojFamily.sk" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/czech-republic/joj-family-cz.png" group-title="Czechia 🇨🇿" tvg-status="unstable",JOJ Family Ⓢ
 https://sktv.mxnticek.eu/new/stream.php?ch=JOJ%20Family

@@ -2,7 +2,7 @@
 
 | # | Channel | Link | Logo | EPG id | Type |
 |:-:|:-------:|:----:|:----:|:------:|:----:|
-| 1 | Disney Channel | [>](http://212.10.107.47:9981/stream/channelid/875419046?profile=pass) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/germany/disney-channel-de.png"/> | &nbsp; | not-working |
+| 1 | Disney Channel | [>](http://212.10.107.47:9981/stream/channelid/875419046?profile=pass) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/germany/disney-channel-de.png"/> | &nbsp; | unstable |
 | 2 | DR 1 | [>](http://212.10.107.47:9981/stream/channelid/1548418828?profile=pass) | <img height="20" src="https://upload.wikimedia.org/wikipedia/en/thumb/4/44/DR1_logo_2020.svg/1200px-DR1_logo_2020.svg.png"/> | &nbsp; | unstable |
 | 3 | DR 2 | [>](http://212.10.107.47:9981/stream/channelid/20794524?profile=pass) | <img height="20" src="https://upload.wikimedia.org/wikipedia/en/thumb/0/07/DR2_logo_2020.svg/1200px-DR2_logo_2020.svg.png"/> | &nbsp; | unstable |
 | 4 | DR Ramasjang | [>](http://212.10.107.47:9981/stream/channelid/1571785928?profile=pass) | <img height="20" src="https://upload.wikimedia.org/wikipedia/en/thumb/8/82/DR_Ramasjang_2020.svg/1200px-DR_Ramasjang_2020.svg.png"/> | &nbsp; | unstable |
@@ -10,7 +10,7 @@
 | 6 | TV2 | [>](http://212.10.107.47:9981/stream/channelid/688969442?profile=pass) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/nordic/denmark/tv2-dk.png"/> | &nbsp; | unstable |
 | 7 | TV3 | [>](http://212.10.107.47:9981/stream/channelid/633917802?profile=pass) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/nordic/denmark/tv3-dk.png"/> | &nbsp; | unstable |
 | 8 | TV3 Plus | [>](http://212.10.107.47:9981/stream/channelid/560194473?profile=pass) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/nordic/denmark/tv3-plus-dk.png"/> | &nbsp; | unstable |
-| 9 | TV3 Sport | [>](http://212.10.107.47:9981/stream/channelid/1613155941?profile=pass) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/nordic/denmark/tv3-sport-dk.png"/> | &nbsp; | unstable |
+| 9 | TV3 Sport | [>](http://212.10.107.47:9981/stream/channelid/1613155941?profile=pass) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/nordic/denmark/tv3-sport-dk.png"/> | &nbsp; | not-working |
 | 10 | TV3 Max | [>](http://212.10.107.47:9981/stream/channelid/844841987?profile=pass) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/nordic/denmark/tv3-sport-dk.png"/> | &nbsp; | unstable |
 | 11 | See | [>](http://212.10.107.47:9981/stream/channelid/1443435740?profile=pass) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/nordic/denmark/see-dk.png"/> | &nbsp; | unstable |
 | 12 | dk4 | [>](http://212.10.107.47:9981/stream/channelid/1254619829?profile=pass) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/nordic/denmark/dk4-dk.png"/> | &nbsp; | unstable |

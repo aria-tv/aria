@@ -40,7 +40,7 @@
 | 36 | HGTV [X] | [>](http://77.39.161.42:55555/HGTV%20%2D%20Home%26Garden) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/hgtv-us.png"/> | &nbsp; | not-working |
 | 37 | Boing | [>](http://91.146.94.234:10001/play/a03j) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/boing-it.png"/> | &nbsp; | not-working |
 | 38 | Boing Plus [X] | [>](http://77.39.161.42:55555/Boing%20Plus) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Boing_Plus_logo_2020.svg/735px-Boing_Plus_logo_2020.svg.png?20201201165658"/> | &nbsp; | not-working |
-| 39 | K2 | [>](http://93.49.98.215:55555/K2) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/k2-it.png"/> | &nbsp; | unstable |
+| 39 | K2 | [>](http://93.49.98.215:55555/K2) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/k2-it.png"/> | &nbsp; | not-working |
 | 40 | Super!/Super! Junior | [>](http://91.146.94.234:10001/play/a0j8) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/super-it.png"/> | &nbsp; | not-working |
 | 41 | Cartoonito | [>](http://91.146.94.234:10001/play/a03p) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/cartoonito-it.png"/> | &nbsp; | not-working |
 | 42 | Rai Südtirol  (Local) | [>](http://57.128.239.62/RaiBozen/index.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Rai_S%C3%BCdtirol_-_Logo_2019.svg/1920px-Rai_S%C3%BCdtirol_-_Logo_2019.svg.png"/> | &nbsp; | not-working |
