@@ -1,0 +1,5 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/5c/Sj%C3%B3nvarpi%C3%B0.svg/250px-Sj%C3%B3nvarpi%C3%B0.svg.png" group-title="Iceland 🇮🇸" tvg-status="stable",RÚV
+https://ruv-web-live.akamaized.net/streymi/ruverl/ruverl.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.ruv.is/spilari/RUV2_192.png" group-title="Iceland 🇮🇸" tvg-status="stable",RÚV 2
+https://ruvlive.akamaized.net/out/v1/2ff7673de40f419fa5164498fae89089/index.m3u8
