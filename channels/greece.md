@@ -3,7 +3,7 @@
 | # | Channel | Link | Logo | EPG id | Type |
 |:-:|:-------:|:----:|:----:|:------:|:----:|
 | 1 | ERT 1 | [>](http://185.102.171.218/Ert1HD/index.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/ERT1_logo_2020.svg/250px-ERT1_logo_2020.svg.png"/> | &nbsp; | unstable |
-| 2 | ERT 2 Sport | [>](http://185.102.171.218/Ert21HD/index.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/ERT2_logo_2020.svg/250px-ERT2_logo_2020.svg.png"/> | &nbsp; | not-working |
+| 2 | ERT 2 Sport | [>](http://185.102.171.218/Ert2HD/index.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/ERT2_logo_2020.svg/250px-ERT2_logo_2020.svg.png"/> | &nbsp; | not-working |
 | 3 | ERT 3 | [>](http://185.102.171.218/Ert3HD/index.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/ERT3_logo_2020.svg/250px-ERT3_logo_2020.svg.png"/> | &nbsp; | unstable |
 | 4 | ERT News | [>](http://185.102.171.218/ErtNews/index.m3u8) | <img height="20" src="https://static.wikia.nocookie.net/logopedia/images/5/55/ERT_News_%282022%29.svg/revision/latest/scale-to-width-down/284?cb=20230818083854"/> | &nbsp; | not-working |
 | 5 | ANT1 | [>](http://193.92.205.210:666/stream/channelid/1798735192?ticket=B0E589720454D7A886243B52EE9B585997FAC6EC&profile=pass) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/7/70/ANT1_logo.svg"/> | &nbsp; | not-working |
