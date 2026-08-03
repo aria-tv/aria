@@ -35,7 +35,7 @@
 | 31 | RT | [>](https://rt-glb.rttv.com/dvr/rtnews/playlist.m3u8) | <img height="20" src="https://telepez.github.io/imagenes/RT.webp"/> | &nbsp; | unstable |
 | 32 | Star TVE | [>](https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/star_main_1080.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/5/5e/Star_TVE_2026.svg"/> | &nbsp; | stable |
 | 33 | Show Turk | [>](https://viamotionhsi.netplus.ch/live/eds/showturk/browser-dash/showturk.mpd) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/f/f1/Logo_of_Show_TV.png"/> | &nbsp; | not-working |
-| 34 | Sky News | [>](https://linear417-gb-hls1-prd-ak.cdn.skycdp.com/100e/Content/HLS_001_1080_30/Live/channel(skynews) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Sky-news-logo.png/1200px-Sky-news-logo.png"/> | &nbsp; | stable |
+| 34 | Sky News | [>](https://linear417-gb-hls1-prd-ak.cdn.skycdp.com/100e/Content/HLS_001_1080_30/Live/channel/skynews) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Sky-news-logo.png/1200px-Sky-news-logo.png"/> | &nbsp; | stable |
 | 35 | Sky News Arabia | [>](http://185.104.253.35:9981/stream/channelid/232968588?profile=pass) | <img height="20" src="https://upload.wikimedia.org/wikipedia/en/f/fd/Sky_News_Arabia_2022_logo.svg"/> | &nbsp; | not-working |
 | 36 | Univision | [>](http://177.53.154.70:9981/stream/channelid/1136052604?profile=pass) | <img height="20" src="https://telepez.github.io/imagenes/Univision.webp"/> | &nbsp; | not-working |
 | 37 | RTP Mundo | [>](http://162.212.178.69:4242/bysid/608) | <img height="20" src="https://cdn-images.rtp.pt/common/img/channels/logos/color/horizontal/120-312926260903.png?v=3&w=860"/> | &nbsp; | unstable |
