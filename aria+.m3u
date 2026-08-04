@@ -1747,47 +1747,47 @@ http://103.182.170.32:8888/play/a01w
 http://103.182.170.32:8888/play/a054
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/19/Colors_Rishtey_logo.png" group-title="India 🇮🇳" tvg-status="unstable",Colors Rishtey
 http://103.172.29.30:9991/stream/channelid/1367268710?profile=webtv-vp8-vorbis-webm
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Indosiar_2015.svg/960px-Indosiar_2015.svg.png?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=thumbnail" group-title="Indonesia 🇮🇩" tvg-status="stable",Indosiar
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Indosiar_2015.svg/960px-Indosiar_2015.svg.png?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=thumbnail" group-title="Indonesia" tvg-status="stable",Indosiar
 http://165.99.194.31:5555/stream/channelid/1607944283?profile=pass
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/62/Trans_TV_2013.svg/250px-Trans_TV_2013.svg.png" group-title="Indonesia 🇮🇩" tvg-status="stable",Trans TV
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/62/Trans_TV_2013.svg/250px-Trans_TV_2013.svg.png" group-title="Indonesia" tvg-status="stable",Trans TV
 http://165.99.194.31:5555/stream/channelid/581358214?profile=pass
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/MNCTV_logo_2015.svg/250px-MNCTV_logo_2015.svg.png" group-title="Indonesia 🇮🇩" tvg-status="stable",MNCTV
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/MNCTV_logo_2015.svg/250px-MNCTV_logo_2015.svg.png" group-title="Indonesia" tvg-status="stable",MNCTV
 http://165.99.194.31:5555/stream/channelid/1277692956?profile=pass
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/RCTI_logo_2015.svg/250px-RCTI_logo_2015.svg.png" group-title="Indonesia 🇮🇩" tvg-status="stable",RCTI
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/RCTI_logo_2015.svg/250px-RCTI_logo_2015.svg.png" group-title="Indonesia" tvg-status="stable",RCTI
 http://165.99.194.31:5555/stream/channelid/2081562038?profile=pass
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/SCTV_Logo.svg/250px-SCTV_Logo.svg.png" group-title="Indonesia 🇮🇩" tvg-status="stable",SCTV
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/SCTV_Logo.svg/250px-SCTV_Logo.svg.png" group-title="Indonesia" tvg-status="stable",SCTV
 http://165.99.194.31:5555/stream/channelid/832501186?profile=pass
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/GTV_%282017%29.svg/250px-GTV_%282017%29.svg.png" group-title="Indonesia 🇮🇩" tvg-status="stable",GTV
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/GTV_%282017%29.svg/250px-GTV_%282017%29.svg.png" group-title="Indonesia" tvg-status="stable",GTV
 http://165.99.194.31:5555/stream/channelid/1644357918?profile=pass
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/79/Trans_7_2013.svg/250px-Trans_7_2013.svg.png" group-title="Indonesia 🇮🇩" tvg-status="stable",Trans7
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/79/Trans_7_2013.svg/250px-Trans_7_2013.svg.png" group-title="Indonesia" tvg-status="stable",Trans7
 http://165.99.194.31:5555/stream/channelid/314965130?profile=pass
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/250px-TVRILogo2019.svg.png" group-title="Indonesia 🇮🇩" tvg-status="stable",TVRI
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/250px-TVRILogo2019.svg.png" group-title="Indonesia" tvg-status="stable",TVRI
 http://165.99.194.31:5555/stream/channelid/1643956398?profile=pass
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/TVRI_Sport_2022.svg/250px-TVRI_Sport_2022.svg.png" group-title="Indonesia 🇮🇩" tvg-status="stable",TVRI Sport
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/TVRI_Sport_2022.svg/250px-TVRI_Sport_2022.svg.png" group-title="Indonesia" tvg-status="stable",TVRI Sport
 http://165.99.194.31:5555/stream/channelid/694030533?profile=pass
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/TVRI-World.svg/250px-TVRI-World.svg.png" group-title="Indonesia 🇮🇩" tvg-status="stable",TVRI World
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/TVRI-World.svg/250px-TVRI-World.svg.png" group-title="Indonesia" tvg-status="stable",TVRI World
 http://165.99.194.31:5555/stream/channelid/1105073022?profile=pass
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Moji_blue.svg/250px-Moji_blue.svg.png" group-title="Indonesia 🇮🇩" tvg-status="stable",Moji
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Moji_blue.svg/250px-Moji_blue.svg.png" group-title="Indonesia" tvg-status="stable",Moji
 http://165.99.194.31:5555/stream/channelid/309321154?profile=pass
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Mentari_TV_Logo.svg/250px-Mentari_TV_Logo.svg.png" group-title="Indonesia 🇮🇩" tvg-status="stable",Mentari TV
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Mentari_TV_Logo.svg/250px-Mentari_TV_Logo.svg.png" group-title="Indonesia" tvg-status="stable",Mentari TV
 http://165.99.194.31:5555/stream/channelid/727788124?profile=pass
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c1/LogoMetroTVsince2010.svg/250px-LogoMetroTVsince2010.svg.png" group-title="Indonesia 🇮🇩" tvg-status="stable",Metro TV
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c1/LogoMetroTVsince2010.svg/250px-LogoMetroTVsince2010.svg.png" group-title="Indonesia" tvg-status="stable",Metro TV
 http://165.99.194.31:5555/stream/channelid/1522765477?profile=pass
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/5a/Rajawali_Televisi.svg/250px-Rajawali_Televisi.svg.png" group-title="Indonesia 🇮🇩" tvg-status="stable",RTV
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/5a/Rajawali_Televisi.svg/250px-Rajawali_Televisi.svg.png" group-title="Indonesia" tvg-status="stable",RTV
 http://165.99.194.31:5555/stream/channelid/1208776666?profile=pass
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Logo_GarudaTV_Primer_Flat_2025.svg/250px-Logo_GarudaTV_Primer_Flat_2025.svg.png?utm_source=id.wikipedia.org&utm_campaign=parser&utm_content=thumbnail" group-title="Indonesia 🇮🇩" tvg-status="stable",Garuda TV
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Logo_GarudaTV_Primer_Flat_2025.svg/250px-Logo_GarudaTV_Primer_Flat_2025.svg.png?utm_source=id.wikipedia.org&utm_campaign=parser&utm_content=thumbnail" group-title="Indonesia" tvg-status="stable",Garuda TV
 http://165.99.194.31:5555/stream/channelid/1723456688?profile=pass
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Logo_GarudaTV_Primer_Flat_2025.svg/250px-Logo_GarudaTV_Primer_Flat_2025.svg.png?utm_source=id.wikipedia.org&utm_campaign=parser&utm_content=thumbnail" group-title="Indonesia 🇮🇩" tvg-status="stable",CNN Indonesia
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Logo_GarudaTV_Primer_Flat_2025.svg/250px-Logo_GarudaTV_Primer_Flat_2025.svg.png?utm_source=id.wikipedia.org&utm_campaign=parser&utm_content=thumbnail" group-title="Indonesia" tvg-status="stable",CNN Indonesia
 http://165.99.194.31:5555/stream/channelid/435455306?profile=pass
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Logo_GarudaTV_Primer_Flat_2025.svg/250px-Logo_GarudaTV_Primer_Flat_2025.svg.png?utm_source=id.wikipedia.org&utm_campaign=parser&utm_content=thumbnail" group-title="Indonesia 🇮🇩" tvg-status="stable",CNBC Indonesia
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Logo_GarudaTV_Primer_Flat_2025.svg/250px-Logo_GarudaTV_Primer_Flat_2025.svg.png?utm_source=id.wikipedia.org&utm_campaign=parser&utm_content=thumbnail" group-title="Indonesia" tvg-status="stable",CNBC Indonesia
 http://165.99.194.31:5555/stream/channelid/982041083?profile=pass
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/INews.svg/250px-INews.svg.png" group-title="Indonesia 🇮🇩" tvg-status="stable",iNews
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/INews.svg/250px-INews.svg.png" group-title="Indonesia" tvg-status="stable",iNews
 http://165.99.194.31:5555/stream/channelid/688705997?profile=pass
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Nusantara_TV_Logo.svg/250px-Nusantara_TV_Logo.svg.png" group-title="Indonesia 🇮🇩" tvg-status="stable",Nusantara TV
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Nusantara_TV_Logo.svg/250px-Nusantara_TV_Logo.svg.png" group-title="Indonesia" tvg-status="stable",Nusantara TV
 http://165.99.194.31:5555/stream/channelid/1222728102?profile=pass
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Sin_Po_TV.svg/960px-Sin_Po_TV.svg.png?utm_source=id.wikipedia.org&utm_campaign=index&utm_content=thumbnail" group-title="Indonesia 🇮🇩" tvg-status="stable",Sin Po TV
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Sin_Po_TV.svg/960px-Sin_Po_TV.svg.png?utm_source=id.wikipedia.org&utm_campaign=index&utm_content=thumbnail" group-title="Indonesia" tvg-status="stable",Sin Po TV
 http://165.99.194.31:5555/stream/channelid/1113469873?profile=pass
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/BN_Channel.png/250px-BN_Channel.png" group-title="Indonesia 🇮🇩" tvg-status="stable",BN Channel
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/BN_Channel.png/250px-BN_Channel.png" group-title="Indonesia" tvg-status="stable",BN Channel
 http://165.99.194.31:5555/stream/channelid/1727430197?profile=pass
 #EXTINF:-1 tvg-id="24HorasInternacional.es@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Logo_Canal_24_horas.svg/250px-Logo_Canal_24_horas.svg.png" group-title="International 🌍" tvg-status="not-working",24 Horas Internacional
 https://viamotionhsi.netplus.ch/live/eds/canal24horas/browser-HLS8/canal24horas.m3u8
@@ -2551,22 +2551,26 @@ https://a1xs.vip/700035
 https://a1xs.vip/700036
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/4nbQ0Bt1/Logo-of-the-Korean-Central-Television-svg.png" group-title="North Korea 🇰🇵" tvg-status="not-working",Korea Central Television (KCTV)
 https://tv.intchoson.com/kctv/main_stream.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Logo_of_MRT_1_%282012-%29.svg/1200px-Logo_of_MRT_1_%282012-%29.svg.png" group-title="North Macedonia 🇲🇰" tvg-status="not-working",MRT 1 (MPT 1)
-http://169.150.223.25/MRT1/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Logo_of_MRT_2_%282012-%29.svg/1200px-Logo_of_MRT_2_%282012-%29.svg.png" group-title="North Macedonia 🇲🇰" tvg-status="not-working",MRT 2 (MPT 2)
-http://46.217.182.69:9981/stream/channelid/912071227?ticket=DD39FB1487A855616C7C3C5BFD2DBB1381F09B5A&profile=pass
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Logo_of_MRT_3_%282020-%29.svg/1200px-Logo_of_MRT_3_%282020-%29.svg.png" group-title="North Macedonia 🇲🇰" tvg-status="not-working",MRT 3 (MPT 3)
-http://46.217.182.69:9981/stream/channelid/380750354?ticket=BAB5E909590CCF9AD0CF4F9E3350CEF5E43DA290&profile=pass
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Logo_of_MRT_4_%282020-%29.svg/1200px-Logo_of_MRT_4_%282020-%29.svg.png" group-title="North Macedonia 🇲🇰" tvg-status="not-working",MRT 4 (MPT 4)
-http://46.217.182.69:9981/stream/channelid/636906562?ticket=6CFAEB34A272583F03245F4515041F6F74AFB4F4&profile=pass
-#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d3/MRT_5_%283%29.png/revision/latest?cb=20200515000810" group-title="North Macedonia 🇲🇰" tvg-status="not-working",MRT 5 (MPT 5)
-http://46.217.182.69:9981/stream/channelid/306565884?ticket=FC4B67C36A0111E1E6C81FFA86BFFDD472CDAF7D&profile=pass
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Logo_of_MRT_Assembly_Channel_%282012-%29.svg/1200px-Logo_of_MRT_Assembly_Channel_%282012-%29.svg.png" group-title="North Macedonia 🇲🇰" tvg-status="not-working",MRT Assembly Channel (Sobraniski Kanal)
-http://46.217.182.69:9981/stream/channelid/563105231?ticket=50BC8167D253EAD36D89E13A62470024416666D8&profile=pass
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Logo_of_MRT_1_%282012-%29.svg/1200px-Logo_of_MRT_1_%282012-%29.svg.png" group-title="North Macedonia 🇲🇰" tvg-status="stable",MRT 1 (MPT 1)
+http://77.29.115.67:9981/stream/channelid/2136120294?ticket=63EF6B0C9CA5FB9CFF499E693EDB1D78A176253F&profile=pass
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Logo_of_MRT_2_%282012-%29.svg/1200px-Logo_of_MRT_2_%282012-%29.svg.png" group-title="North Macedonia 🇲🇰" tvg-status="stable",MRT 2 (MPT 2)
+http://77.29.115.67:9981/stream/channelid/912071227?ticket=5A21DF12AA0ECA28DECBDD007244EBC240280776&profile=pass
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Logo_of_MRT_3_%282020-%29.svg/1200px-Logo_of_MRT_3_%282020-%29.svg.png" group-title="North Macedonia 🇲🇰" tvg-status="unstable",MRT 3 (MPT 3)
+http://77.29.115.67:9981/stream/channelid/380750354?ticket=A0EF168CE82DE12B7B69BB537AE10E96A165E29D&profile=pass
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Logo_of_MRT_4_%282020-%29.svg/1200px-Logo_of_MRT_4_%282020-%29.svg.png" group-title="North Macedonia 🇲🇰" tvg-status="unstable",MRT 4 (MPT 4)
+http://77.29.115.67:9981/stream/channelid/636906562?ticket=535CB119384C3CA4A32201438FC6660141DD6C9E&profile=pass
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d3/MRT_5_%283%29.png/revision/latest?cb=20200515000810" group-title="North Macedonia 🇲🇰" tvg-status="unstable",MRT 5 (MPT 5)
+http://77.29.115.67:9981/stream/channelid/306565884?ticket=66F948059CAED59259DCC25DEADAD64AE895F320&profile=pass
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Logo_of_MRT_Assembly_Channel_%282012-%29.svg/1200px-Logo_of_MRT_Assembly_Channel_%282012-%29.svg.png" group-title="North Macedonia 🇲🇰" tvg-status="unstable",MRT Assembly Channel (Sobraniski Kanal)
+http://77.29.115.67:9981/stream/channelid/563105231?ticket=FA2F4F647F2AD095E8BF27BE997D52A9A5B0450D&profile=pass
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Logo_of_Kanal_5.svg/250px-Logo_of_Kanal_5.svg.png" group-title="North Macedonia 🇲🇰" tvg-status="stable",Kanal 5
 http://185.193.240.245:8000/play/a00r
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Logo_of_Sitel.svg/640px-Logo_of_Sitel.svg.png" group-title="North Macedonia 🇲🇰" tvg-status="stable",Sitel
 http://185.193.240.245:8000/play/a00s
+#EXTINF:-1 tvg-id="" tvg-logo="https://north-macedonia.mom-gmr.org/uploads/_processed_/2/f/csm_1209-1978_import_2577f30a6e.png" group-title="North Macedonia 🇲🇰" tvg-status="stable",Telma
+http://77.29.115.67:9981/stream/channelid/233091879?ticket=E3AA3CFF08C389B8137B0B269A1C34FB110A7DEB&profile=pass
+#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0PL1E4dp2tvAckNllBhbNXkYifP-UNKFoeNoLU57IT3hBOZrVJ_w_WbPU&s=10" group-title="North Macedonia 🇲🇰" tvg-status="stable",TV Edo
+http://77.29.115.67:9981/stream/channelid/1693336205?ticket=C857ED83DC2FF1A149FFC5045BFF414D075E0908&profile=pass
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/norway/nrk1-no.png" group-title="Norway 🇳🇴" tvg-status="not-working",NRK 1
 http://groundhogday.in/live/Jok123/Jok123/3414721.ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/norway/nrk2-no.png" group-title="Norway 🇳🇴" tvg-status="not-working",NRK 2
