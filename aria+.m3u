@@ -3633,6 +3633,8 @@ http://40.160.24.52/EPIX_2/index.m3u8
 http://40.160.24.52/SUNDANCE/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/cXTmtzvd/1000024590-removebg-preview.png" group-title="United States 🇺🇸" tvg-status="stable",First Channel America
 https://amtv.tulixcdn.com/amtv4/am4abr/index.m3u8
+#EXTINF:-1 tvg-id="QVC3.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/QVC_Logo.svg/615px-QVC_Logo.svg.png" group-title="United States 🇺🇸" tvg-status="unstable",QVC3
+https://qvc-amd-live.akamaized.net/hls/live/2034113/lsqvc3us/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/5ltnu.svg/250px-5ltnu.svg.png" group-title="Uruguay" tvg-status="unstable",Canal 5
 https://tinyurl.com/canal5uy
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.comunicazione.va/content/dam/comunicazione/tentativi-e-proposte/logo%20vatican%20media.png/_jcr_content/renditions/cq5dam.web.1280.1280.png" group-title="Vatican City 🇻🇦" tvg-status="not-working",Vatican Media
