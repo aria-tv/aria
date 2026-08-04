@@ -88,7 +88,7 @@
 | 84 | MeTV Toons | [>](http://173.229.4.240:5004/auto/v26.7) | <img height="20" src="https://images.fubo.tv/channel-config-ui/station-logos/on-dark/metv_toons_bw.png"/> | &nbsp; | unstable |
 | 85 | PBS Kids (Eastern Feed) | [>](https://livestream.pbskids.org/out/v1/14507d931bbe48a69287e4850e53443c/est.m3u8) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/pbs-kids-us.png"/> | &nbsp; | stable |
 | 86 | PBS Kids (Hawaii Feed) | [>](https://livestream.pbskids.org/out/v1/aa31792fee094b24b09045483f04d150/hast.m3u8) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/pbs-kids-us.png"/> | &nbsp; | unstable |
-| 87 | Fox News Channel | [>](http://206.212.244.63/67/index.m3u8) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/fox-news-channel-us.png"/> | &nbsp; | unstable |
+| 87 | Fox News Channel | [>](http://206.212.244.63/67/index.m3u8) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/fox-news-channel-us.png"/> | &nbsp; | not-working |
 | 88 | MS NOW | [>](https://tvpass.org/live/MSNBC/sd) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/msnow-us.png"/> | &nbsp; | not-working |
 | 89 | Newsmax | [>](https://nmx1ota.akamaized.net/hls/live/2107010/Live_1/index.m3u8) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/newsmax-us.png"/> | &nbsp; | unstable |
 | 90 | Newsmax 2 | [>](https://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/newsmax2-us.png"/> | &nbsp; | unstable |
@@ -137,9 +137,9 @@
 | 133 | QVC West | [>](https://qvc-amd-live.akamaized.net/hls/live/2034113/lsqvc1uswest/master.m3u8) | <img height="20" src="https://static.wikia.nocookie.net/logopedia/images/4/48/QVC.svg/revision/latest/scale-to-width-down/250?cb=20190429184243"/> | QVCPacific.us | stable |
 | 134 | QVC2 | [>](https://qvc-amd-live.akamaized.net/hls/live/2034113/lsqvc2us/master.m3u8) | <img height="20" src="https://static.wikia.nocookie.net/logopedia/images/a/ab/QVC2_%282017%29.svg/revision/latest?cb=20210225125729"/> | QVC2.us | stable |
 | 135 | Discovery Familia | [>](http://200.115.120.1:8000/play/ca053) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/discovery-familia-us.png"/> | &nbsp; | unstable |
-| 136 | MeTV+ | [>](http://206.212.244.63/111/index.m3u8) | <img height="20" src="https://www.metv.com/images/MeTV_Plus_Color.png"/> | &nbsp; | stable |
-| 137 | Rewind TV | [>](http://206.212.244.63/111/index.m3u8) | <img height="20" src="https://rewindtv.com/wp-content/uploads/2021/08/RewindTV_logo_primary_black_withtagline.png"/> | &nbsp; | stable |
-| 138 | Heartland | [>](http://206.212.244.63/111/index.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/en/b/ba/Heartland_TV_logo.png"/> | &nbsp; | stable |
+| 136 | MeTV+ | [>](http://206.212.244.63/111/index.m3u8) | <img height="20" src="https://www.metv.com/images/MeTV_Plus_Color.png"/> | &nbsp; | not-working |
+| 137 | Rewind TV | [>](http://206.212.244.63/111/index.m3u8) | <img height="20" src="https://rewindtv.com/wp-content/uploads/2021/08/RewindTV_logo_primary_black_withtagline.png"/> | &nbsp; | not-working |
+| 138 | Heartland | [>](http://206.212.244.63/111/index.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/en/b/ba/Heartland_TV_logo.png"/> | &nbsp; | not-working |
 | 139 | CBS (Mountain Feed) | [>](http://38.175.167.27:5004/auto/v4.1) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/7/7a/CBS_Logo.png"/> | &nbsp; | not-working |
 | 140 | NBC (Mountain Feed) | [>](http://38.175.167.27:5004/auto/v9.4) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/NBC_logo_2022.svg/960px-NBC_logo_2022.svg.png"/> | &nbsp; | not-working |
 | 141 | ABC (Mountain Feed) | [>](http://theariatv.github.io/channeldead.mp4) | <img height="20" src="https://cdn.tvpassport.com/image/station/240x135/v2/s10003_h15_ac.png"/> | &nbsp; | not-working |
@@ -152,7 +152,7 @@
 | 148 | BET West | [>](http://40.160.24.52/BET_WEST/index.m3u8) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/bet-us.png"/> | &nbsp; | stable |
 | 149 | BET Soul | [>](http://40.160.24.52/BET_SOUL/index.m3u8) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/bet-soul-us.png"/> | &nbsp; | unstable |
 | 150 | BET Jams | [>](http://40.160.24.52/BET_JAMS/index.m3u8) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/bet-jams-us.png"/> | &nbsp; | stable |
-| 151 | Fox Buisness | [>](http://206.212.244.63/67/index.m3u8) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/fox-buisness-us.png"/> | &nbsp; | unstable |
+| 151 | Fox Buisness | [>](http://206.212.244.63/67/index.m3u8) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/fox-buisness-us.png"/> | &nbsp; | not-working |
 | 152 | FETV | [>](http://40.160.24.52/FETV/index.m3u8) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/fetv-us.png"/> | &nbsp; | unstable |
 | 153 | ESPN | [>](http://40.160.24.52/ESPN_HD/index.m3u8) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/espn-us.png"/> | &nbsp; | unstable |
 | 154 | ESPN U | [>](http://40.160.24.52/ESPN_U/index.m3u8) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/espn-u-us.png"/> | &nbsp; | unstable |
