@@ -3135,6 +3135,8 @@ http://89.33.28.74/NTN/index.m3u8
 http://89.33.28.74/Zoom/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Logo_5_Channel.svg/250px-Logo_5_Channel.svg.png" group-title="Ukraine 🇺🇦" tvg-status="stable",5 Kanal
 http://89.33.28.74/5_Kanal/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.logodesignlove.com/images/identity/lale-logo-01.jpg" group-title="Ukraine 🇺🇦" tvg-status="stable",Lale
+http://cdnua03.hls.tv/476/hls/c4a7acbb4f6a85595a117f7aa2099d65/74/stream.m3u8
 #EXTINF:-1 tvg-id="MTV.HD.uk" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/mtv-uk.png" group-title="United Kingdom 🇬🇧" tvg-status="not-working",MTV
 https://a1xs.vip/1000037
 #EXTINF:-1 tvg-id="Discovery.HD.uk" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/discovery-channel-uk.png" group-title="United Kingdom 🇬🇧" tvg-status="not-working",Discovery
