@@ -813,8 +813,24 @@ https://tv-trtkurdi.medya.trt.com.tr/master.m3u8
 https://tv-trthaber.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/turkey/trt-diyanet-cocuk-tr.png" group-title="Türkyie 🇹🇷" tvg-status="stable",TRT Diyanet Cocuk
 https://tv-trtdiyanetcocuk.medya.trt.com.tr/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/CNBC-e-Logo.png" group-title="Ukraine 🇺🇦" tvg-status="stable",TET
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/TET_logo.svg/250px-TET_logo.svg.png" group-title="Ukraine 🇺🇦" tvg-status="stable",TET
 https://iptv.prosto.tv/id11/video.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/1%2B1_Ukraina_%282024%29.svg/250px-1%2B1_Ukraina_%282024%29.svg.png" group-title="Ukraine 🇺🇦" tvg-status="stable",1+1 Ukraine
+http://89.33.28.74/1+1/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/STB_logo.svg/250px-STB_logo.svg.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail" group-title="Ukraine 🇺🇦" tvg-status="stable",STB
+http://89.33.28.74/STB/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/2%2B2_logo_2017.svg/250px-2%2B2_logo_2017.svg.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail" group-title="Ukraine 🇺🇦" tvg-status="stable",2+2
+http://89.33.28.74/2+2/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Inter_TV-Channel_logo.svg/250px-Inter_TV-Channel_logo.svg.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail" group-title="Ukraine 🇺🇦" tvg-status="stable",Inter
+http://89.33.28.74/Inter/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/ICTV_2017_horizontal.svg/250px-ICTV_2017_horizontal.svg.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail" group-title="Ukraine 🇺🇦" tvg-status="stable",ICTV
+http://89.33.28.74/ICTV/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/NTNUA_logo_%282013%29.svg/250px-NTNUA_logo_%282013%29.svg.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail" group-title="Ukraine 🇺🇦" tvg-status="stable",NTN
+http://89.33.28.74/NTN/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5c/ZoomUA_%282025%29.png?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=original" group-title="Ukraine 🇺🇦" tvg-status="stable",Zoom
+http://89.33.28.74/Zoom/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Logo_5_Channel.svg/250px-Logo_5_Channel.svg.png" group-title="Ukraine 🇺🇦" tvg-status="stable",5 Kanal
+http://89.33.28.74/5_Kanal/index.m3u8
 #EXTINF:-1 tvg-id="STV.uk" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/stv-uk.png" group-title="United Kingdom 🇬🇧" tvg-status="stable",STV
 https://csm-e-stv-eb.tls1.yospace.com/csm/extlive/stv01,prd-ml-stv-edi-subs.m3u8
 #EXTINF:-1 tvg-id="Sky.News.HD.uk" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/sky-news-uk.png" group-title="United Kingdom 🇬🇧" tvg-status="stable",Sky News
