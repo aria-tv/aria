@@ -163,3 +163,4 @@
 | 159 | MGM+ Hits | [>](http://40.160.24.52/EPIX_2/index.m3u8) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/mgm-plus-hits-us.png"/> | &nbsp; | unstable |
 | 160 | Sundance | [>](http://40.160.24.52/SUNDANCE/index.m3u8) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/sundance-us.png"/> | &nbsp; | not-working |
 | 161 | First Channel America | [>](https://amtv.tulixcdn.com/amtv4/am4abr/index.m3u8) | <img height="20" src="https://i.ibb.co/cXTmtzvd/1000024590-removebg-preview.png"/> | &nbsp; | stable |
+| 162 | QVC3 | [>](https://qvc-amd-live.akamaized.net/hls/live/2034113/lsqvc3us/master.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/QVC_Logo.svg/615px-QVC_Logo.svg.png"/> | QVC3.us | unstable |
