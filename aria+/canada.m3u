@@ -351,7 +351,7 @@ http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/29255.ts
 http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/29370.ts
 #EXTINF:-1 tvg-id="CBOT.HDTV.(CBOTHD).ca" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/cbc-ca.png" group-title="Canada 🇨🇦" tvg-status="unstable",CBC East
 http://204.15.194.229:5004/auto/v5.1
-#EXTINF:-1 tvg-id="CBUT.HDTV.(CBUTHD).ca" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/cbc-ca.png" group-title="Canada 🇨🇦" tvg-status="not-working",CBC West
+#EXTINF:-1 tvg-id="CBUT.HDTV.(CBUTHD).ca" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/cbc-ca.png" group-title="Canada 🇨🇦" tvg-status="unstable",CBC West
 http://44.25.145.45:5004/auto/v2.1
 #EXTINF:-1 tvg-id="CITY.Toronto.ON.ca" tvg-logo="https://media.starlite.best/city.montreal.qc.ca.png" group-title="Canada 🇨🇦" tvg-status="unstable",CityTV
 http://204.15.194.229:5004/auto/v57.1
@@ -361,7 +361,7 @@ http://44.25.145.45:5004/auto/v27.1
 http://38.143.48.212:9981/stream/channelid/1877863586?profile=pass
 #EXTINF:-1 tvg-id="CTV.(CFCF).Montreal,.QC.ca" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s10108_h15_ab.png" group-title="Canada 🇨🇦" tvg-status="not-working",CTV Montreal (CFCF)
 http://174.91.200.77:9981/stream/channelid/678374472?profile=pass
-#EXTINF:-1 tvg-id="CTV.(CKY).Winnipeg,.MB.ca" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s10108_h15_ab.png" group-title="Canada 🇨🇦" tvg-status="unstable",CTV Vancover (CIVT)
+#EXTINF:-1 tvg-id="CTV.(CKY).Winnipeg,.MB.ca" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s10108_h15_ab.png" group-title="Canada 🇨🇦" tvg-status="not-working",CTV Vancover (CIVT)
 http://44.25.145.45:5004/auto/v32.1
 #EXTINF:-1 tvg-id="CTV1.(CKVR).Barrie,.ON.ca" tvg-logo="https://www.bellmedia.ca/lede/wp-content/uploads/2014/01/CTV2_Logo_Screen_RGB-2.png" group-title="Canada 🇨🇦" tvg-status="not-working",CTV2 Victoria (CIVI)
 http://44.25.145.45:5004/auto/v23.1

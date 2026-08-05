@@ -51,7 +51,7 @@ https://turnerlive.warnermediacdn.com/hls/live/2023183/aseast/noslate/VIDEO_1_51
 https://turnerlive.warnermediacdn.com/hls/live/2023185/aswest/noslate/VIDEO_1_5128000.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/cnn-us.png" group-title="United States 🇺🇸" tvg-status="unstable",CNN
 https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/amc-us.png" group-title="United States 🇺🇸" tvg-status="unstable",AMC
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/amc-us.png" group-title="United States 🇺🇸" tvg-status="not-working",AMC
 http://41.205.93.154/AMC/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/usa-us.png" group-title="United States 🇺🇸" tvg-status="unstable",USA Network
 http://40.160.24.55/USA_NETWORK/index.m3u8
@@ -81,7 +81,7 @@ https://turnerlive.warnermediacdn.com/hls/live/2023174/tbswest/slate/VIDEO_0_356
 http://23.237.104.106:8080/USA_FX/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/fxx-us.png" group-title="United States 🇺🇸" tvg-status="unstable",FXX
 http://23.237.104.106:8080/USA_FXX/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/bravo-us.png" group-title="United States 🇺🇸" tvg-status="unstable",Bravo
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/bravo-us.png" group-title="United States 🇺🇸" tvg-status="not-working",Bravo
 http://41.205.93.154/BRAVO/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/e!-us.png" group-title="United States 🇺🇸" tvg-status="unstable",E!
 http://23.237.104.106:8080/USA_E/index.m3u8
@@ -95,7 +95,7 @@ http://23.237.104.106:8080/USA_HALLMARK/index.m3u8
 http://lunar.pm:8080/live/2055676975/MAAvrCmWZ8FZ/9182.ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/great-american-family-us.png" group-title="United States 🇺🇸" tvg-status="unstable",Great American Family
 http://lunar.pm:8080/live/2055676975/MAAvrCmWZ8FZ/105641.ts
-#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/lifetime-us.png" group-title="United States 🇺🇸" tvg-status="unstable",Lifetime
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/lifetime-us.png" group-title="United States 🇺🇸" tvg-status="not-working",Lifetime
 http://41.205.93.154/LIFETIME/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/lifetime-movie-network-us.png" group-title="United States 🇺🇸" tvg-status="unstable",Lifetime Movie Network
 http://23.237.104.106:8080/USA_LMN/index.m3u8
@@ -165,7 +165,7 @@ http://40.160.24.55/NICKTOONS/index.m3u8
 https://tvpass.org/live/DisneyJuniorEast/sd
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/boomerang-us.png" group-title="United States 🇺🇸" tvg-status="unstable",Boomerang
 http://40.160.24.52/BOOMERANG/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://images.fubo.tv/channel-config-ui/station-logos/on-dark/metv_toons_bw.png" group-title="United States 🇺🇸" tvg-status="unstable",MeTV Toons
+#EXTINF:-1 tvg-id="" tvg-logo="https://images.fubo.tv/channel-config-ui/station-logos/on-dark/metv_toons_bw.png" group-title="United States 🇺🇸" tvg-status="not-working",MeTV Toons
 http://173.229.4.240:5004/auto/v26.7
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/pbs-kids-us.png" group-title="United States 🇺🇸" tvg-status="stable",PBS Kids (Eastern Feed)
 https://livestream.pbskids.org/out/v1/14507d931bbe48a69287e4850e53443c/est.m3u8
@@ -211,7 +211,7 @@ http://108.14.66.42:5004/auto/v48.4
 http://4.30.180.36:8420/wfutdt/index.m3u8?token=test
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/telexitos-us.png" group-title="United States 🇺🇸" tvg-status="unstable",TeleXitos
 http://4.30.180.36:8420/telex/index.m3u8?token=test
-#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/universo-us.png" group-title="United States 🇺🇸" tvg-status="unstable",Universo
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/universo-us.png" group-title="United States 🇺🇸" tvg-status="not-working",Universo
 http://187.102.210.46/universo/index.m3u8
 #EXTINF:-1 tvg-id="FoxWeather.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Fox_Weather_logo.svg/1200px-Fox_Weather_logo.svg.png" group-title="United States 🇺🇸" tvg-status="stable",FOX Weather
 https://247wlive.foxweather.com/stream/index.m3u8

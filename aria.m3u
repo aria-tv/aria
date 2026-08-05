@@ -115,8 +115,6 @@ http://170.83.49.66:8083/BANDNEWSHD/index.m3u8
 https://eitv7.cdn.broadpeak.io/account351-i1495/event/canalsaude/format720p.m3u8
 #EXTINF:-1 tvg-id="Canal.Rural.br" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/brazil/canal-rural-br.png" group-title="Brazil 🇧🇷" tvg-status="stable",Canal Rural
 https://607d2a1a47b1f.streamlock.net/crur/smil:canalrural.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="Record.News.br" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/brazil/record-news-br.png" group-title="Brazil 🇧🇷" tvg-status="stable",Record News
-http://170.83.49.66:8083/RECORDNEWSHD/index.m3u8
 #EXTINF:-1 tvg-id="Band.Sports.br" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/brazil/band-sports-br.png" group-title="Brazil 🇧🇷" tvg-status="stable",BAND Sports
 http://131.196.103.111:8089/BANDSPORTS/index.m3u8
 #EXTINF:-1 tvg-id="Knowledge.Network.ca" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/knowledge-network-ca.png" group-title="Canada 🇨🇦" tvg-status="stable",Knowledge Network
@@ -159,8 +157,6 @@ http://213.7.216.229:8888/udp/239.23.6.2:1234
 http://213.7.216.229:8888/udp/239.23.6.3:1234
 #EXTINF:-1 tvg-id="" tvg-logo="https://yt3.googleusercontent.com/eLkJ8Kw29bL6OiZlFPEWYRukNrhEDJL0oTi5t1Lg76Jj2N5S_nyC6mb1T1KjZLth-heWaChFDA=s900-c-k-c0x00ffffff-no-rj" group-title="Cyprus 🇨🇾" tvg-status="stable",Vergina TV
 http://213.7.216.229:8888/udp/239.23.5.1:1234
-#EXTINF:-1 tvg-id="PrimaMax.cz" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/czech-republic/prima-max-cz.png" group-title="Czechia 🇨🇿" tvg-status="stable",Prima MAX
-http://90.178.86.156:9981/stream/channelid/235177134?ticket=D080A80B3E2DBA968DBE8C7F420F9BFF4CCA7BA5&profile=pass
 #EXTINF:-1 tvg-id="PrimaCool.cz" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/czech-republic/prima-cool-cz.png" group-title="Czechia 🇨🇿" tvg-status="stable",Prima Cool
 http://90.178.86.156:9981/stream/channelid/2060674324?ticket=6D9FFFC2194661867B1D662C59DF98A86311539A&profile=pass
 #EXTINF:-1 tvg-id="Ocko.cz" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/czech-republic/ocko-cz.png" group-title="Czechia 🇨🇿" tvg-status="stable",Óčko Ⓢ
@@ -623,18 +619,10 @@ http://46.149.191.219:9100/play/a00e
 https://i.mjh.nz/.r/bravo-plus1.m3u8
 #EXTINF:-1 tvg-id="ParliamentTV.nz" tvg-logo="" group-title="New Zealand 🇳🇿" tvg-status="stable",Parliament TV
 https://ptvlive.kordia.net.nz/out/v1/daf20b9a9ec5449dadd734e50ce52b74/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Logo_of_MRT_1_%282012-%29.svg/1200px-Logo_of_MRT_1_%282012-%29.svg.png" group-title="North Macedonia 🇲🇰" tvg-status="stable",MRT 1 (MPT 1)
-http://77.29.115.67:9981/stream/channelid/2136120294?ticket=63EF6B0C9CA5FB9CFF499E693EDB1D78A176253F&profile=pass
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Logo_of_MRT_2_%282012-%29.svg/1200px-Logo_of_MRT_2_%282012-%29.svg.png" group-title="North Macedonia 🇲🇰" tvg-status="stable",MRT 2 (MPT 2)
-http://77.29.115.67:9981/stream/channelid/912071227?ticket=5A21DF12AA0ECA28DECBDD007244EBC240280776&profile=pass
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Logo_of_Kanal_5.svg/250px-Logo_of_Kanal_5.svg.png" group-title="North Macedonia 🇲🇰" tvg-status="stable",Kanal 5
 http://185.193.240.245:8000/play/a00r
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Logo_of_Sitel.svg/640px-Logo_of_Sitel.svg.png" group-title="North Macedonia 🇲🇰" tvg-status="stable",Sitel
 http://185.193.240.245:8000/play/a00s
-#EXTINF:-1 tvg-id="" tvg-logo="https://north-macedonia.mom-gmr.org/uploads/_processed_/2/f/csm_1209-1978_import_2577f30a6e.png" group-title="North Macedonia 🇲🇰" tvg-status="stable",Telma
-http://77.29.115.67:9981/stream/channelid/233091879?ticket=E3AA3CFF08C389B8137B0B269A1C34FB110A7DEB&profile=pass
-#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0PL1E4dp2tvAckNllBhbNXkYifP-UNKFoeNoLU57IT3hBOZrVJ_w_WbPU&s=10" group-title="North Macedonia 🇲🇰" tvg-status="stable",TV Edo
-http://77.29.115.67:9981/stream/channelid/1693336205?ticket=C857ED83DC2FF1A149FFC5045BFF414D075E0908&profile=pass
 #EXTINF:-1 tvg-id="" tvg-logo="https://canaln.pe/img/default-seo.jpg" group-title="Peru" tvg-status="stable",Canal N
 http://190.119.176.186:8000/play/a08e
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ab/Am%C3%A9rica_Televisi%C3%B3n_logo_2016.png" group-title="Peru" tvg-status="stable",América Televisión
@@ -829,10 +817,6 @@ http://89.33.28.74/Inter/index.m3u8
 http://89.33.28.74/ICTV/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/NTNUA_logo_%282013%29.svg/250px-NTNUA_logo_%282013%29.svg.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail" group-title="Ukraine 🇺🇦" tvg-status="stable",NTN
 http://89.33.28.74/NTN/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5c/ZoomUA_%282025%29.png?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=original" group-title="Ukraine 🇺🇦" tvg-status="stable",Zoom
-http://89.33.28.74/Zoom/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Logo_5_Channel.svg/250px-Logo_5_Channel.svg.png" group-title="Ukraine 🇺🇦" tvg-status="stable",5 Kanal
-http://89.33.28.74/5_Kanal/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.logodesignlove.com/images/identity/lale-logo-01.jpg" group-title="Ukraine 🇺🇦" tvg-status="stable",Lale
 http://cdnua03.hls.tv/476/hls/c4a7acbb4f6a85595a117f7aa2099d65/74/stream.m3u8
 #EXTINF:-1 tvg-id="STV.uk" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/stv-uk.png" group-title="United Kingdom 🇬🇧" tvg-status="stable",STV

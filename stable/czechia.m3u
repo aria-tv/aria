@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="PrimaMax.cz" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/czech-republic/prima-max-cz.png" group-title="Czechia 🇨🇿" tvg-status="stable",Prima MAX
-http://90.178.86.156:9981/stream/channelid/235177134?ticket=D080A80B3E2DBA968DBE8C7F420F9BFF4CCA7BA5&profile=pass
 #EXTINF:-1 tvg-id="PrimaCool.cz" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/czech-republic/prima-cool-cz.png" group-title="Czechia 🇨🇿" tvg-status="stable",Prima Cool
 http://90.178.86.156:9981/stream/channelid/2060674324?ticket=6D9FFFC2194661867B1D662C59DF98A86311539A&profile=pass
 #EXTINF:-1 tvg-id="Ocko.cz" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/czech-republic/ocko-cz.png" group-title="Czechia 🇨🇿" tvg-status="stable",Óčko Ⓢ

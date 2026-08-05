@@ -1,13 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Logo_of_MRT_1_%282012-%29.svg/1200px-Logo_of_MRT_1_%282012-%29.svg.png" group-title="North Macedonia 🇲🇰" tvg-status="stable",MRT 1 (MPT 1)
-http://77.29.115.67:9981/stream/channelid/2136120294?ticket=63EF6B0C9CA5FB9CFF499E693EDB1D78A176253F&profile=pass
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Logo_of_MRT_2_%282012-%29.svg/1200px-Logo_of_MRT_2_%282012-%29.svg.png" group-title="North Macedonia 🇲🇰" tvg-status="stable",MRT 2 (MPT 2)
-http://77.29.115.67:9981/stream/channelid/912071227?ticket=5A21DF12AA0ECA28DECBDD007244EBC240280776&profile=pass
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Logo_of_Kanal_5.svg/250px-Logo_of_Kanal_5.svg.png" group-title="North Macedonia 🇲🇰" tvg-status="stable",Kanal 5
 http://185.193.240.245:8000/play/a00r
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Logo_of_Sitel.svg/640px-Logo_of_Sitel.svg.png" group-title="North Macedonia 🇲🇰" tvg-status="stable",Sitel
 http://185.193.240.245:8000/play/a00s
-#EXTINF:-1 tvg-id="" tvg-logo="https://north-macedonia.mom-gmr.org/uploads/_processed_/2/f/csm_1209-1978_import_2577f30a6e.png" group-title="North Macedonia 🇲🇰" tvg-status="stable",Telma
-http://77.29.115.67:9981/stream/channelid/233091879?ticket=E3AA3CFF08C389B8137B0B269A1C34FB110A7DEB&profile=pass
-#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0PL1E4dp2tvAckNllBhbNXkYifP-UNKFoeNoLU57IT3hBOZrVJ_w_WbPU&s=10" group-title="North Macedonia 🇲🇰" tvg-status="stable",TV Edo
-http://77.29.115.67:9981/stream/channelid/1693336205?ticket=C857ED83DC2FF1A149FFC5045BFF414D075E0908&profile=pass
