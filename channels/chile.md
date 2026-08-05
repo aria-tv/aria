@@ -11,7 +11,7 @@
 | 7 | MEGA Ficcion | [>](http://38.7.195.43:8000/play/a0v4) | <img height="20" src="https://static.wikia.nocookie.net/logopedia/images/c/c7/Mega_Ficci%C3%B3n_2022_1.png/revision/latest?cb=20220402182308&path-prefix=es"/> | &nbsp; | not-working |
 | 8 | El 13 | [>](http://38.7.195.43:8000/play/a02k) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/e/e6/El13_%282025%29.png"/> | &nbsp; | not-working |
 | 9 | Teletrece | [>](http://38.7.195.43:8000/play/a02m) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/6/62/Teletrece2025.png"/> | &nbsp; | not-working |
-| 10 | 13C | [>](http://38.7.195.43:8000/play/a02o) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/2/24/13c_%282025%29.png"/> | &nbsp; | not-working |
+| 10 | 13C | [>](http://190.83.15.112:8000/play/a052/index.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/2/24/13c_%282025%29.png"/> | &nbsp; | stable |
 | 11 | ETC | [>](http://181.78.201.70:8000/play/a0tu/index.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/f/fa/ETC_2016-actual.png"/> | &nbsp; | not-working |
 | 12 | CNN Chile | [>](http://138.36.253.13:8008/play/a00k/index.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/CNN_Chile_logo_2017.svg/1200px-CNN_Chile_logo_2017.svg.png"/> | &nbsp; | not-working |
 | 13 | Canal Vive | [>](https://tr.live.clarovtrcdn.vtrplay.com/vivehdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD) | <img height="20" src="https://static.wikia.nocookie.net/logopedia/images/5/52/Vive_VTR.jpg/revision/latest?cb=20190412011653&path-prefix=es"/> | &nbsp; | not-working |
