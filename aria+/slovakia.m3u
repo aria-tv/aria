@@ -23,10 +23,6 @@ https://sktv.mxnticek.eu/new/stream.php?ch=JOJ%2024
 https://sktv.mxnticek.eu/new/stream.php?ch=JOJ%20%C5%A0port
 #EXTINF:-1 tvg-id="Jojko.sk" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/slovakia/jojko-sk.png" group-title="Slovakia 🇸🇰" tvg-status="unstable",Jojko
 https://sktv.mxnticek.eu/new/stream.php?ch=Jojko
-#EXTINF:-1 tvg-id="STV1.sk" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/slovakia/jednotka-sk.png" group-title="Slovakia 🇸🇰" tvg-status="not-working",Jednotka
-http://95.143.230.238:9981/stream/channelid/483981572?profile=pass
-#EXTINF:-1 tvg-id="STV2.sk" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/slovakia/dvojka-sk.png" group-title="Slovakia 🇸🇰" tvg-status="not-working",Dvojka
-http://95.143.230.238:9981/stream/channelid/1547474412?profile=pass
 #EXTINF:-1 tvg-id="RTVS24.sk" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/slovakia/rtvs-24-sk.png" group-title="Slovakia 🇸🇰" tvg-status="unstable",STVR :24
 https://sktv.mxnticek.eu/new/stream.php?ch=STVR%20%3A24
 #EXTINF:-1 tvg-id="RTVSSport.sk" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/slovakia/rtvs-sport-sk.png" group-title="Slovakia 🇸🇰" tvg-status="unstable",Šport
@@ -40,6 +36,6 @@ https://sktv.mxnticek.eu/new/stream.php?ch=STVR%20Live
 #EXTINF:-1 tvg-id="TA3.sk" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/slovakia/ta3-sk.png" group-title="Slovakia 🇸🇰" tvg-status="unstable",TA3
 https://sktv.mxnticek.eu/new/stream.php?ch=TA3
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/70/Jednotka_2026.svg/revision/latest?cb=20260220235246" group-title="Slovakia 🇸🇰" tvg-status="not-working",Jednotka
-http://95.143.230.238:9981/stream/channelid/483981572?profile=pass
+http://46.149.191.219:9114/play/a01s
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/ca/Dvojka_2026.svg/revision/latest?cb=20260222043909" group-title="Slovakia 🇸🇰" tvg-status="not-working",Dvojka
-http://95.143.230.238:9981/stream/channelid/1547474412?profile=pass
+http://46.149.191.219:9114/play/a01t
