@@ -1,8 +1,8 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b2/Logo_of_TV_SLO_1_HD_%282012-%29.png" group-title="Slovenia 🇸🇮" tvg-status="stable",TV SLO 1
 http://93.103.246.35:10205/
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/69/Logo_of_TV_SLO_2_HD_%282012-%29.png" group-title="Slovenia 🇸🇮" tvg-status="not-working",TV SLO 2
-http://95.143.230.238:9981/stream/channelid/1649525381?profile=pass
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/69/Logo_of_TV_SLO_2_HD_%282012-%29.png" group-title="Slovenia 🇸🇮" tvg-status="stable",TV SLO 2
+http://88.212.15.50/live/test_slo2_tizen/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/83/Slo3.png" group-title="Slovenia 🇸🇮" tvg-status="not-working",TV SLO 3
 http://89.201.195.79:9981/stream/channelid/112693928?profile=pass
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/TV_Maribor.jpg/120px-TV_Maribor.jpg" group-title="Slovenia 🇸🇮" tvg-status="not-working",TV Maribor

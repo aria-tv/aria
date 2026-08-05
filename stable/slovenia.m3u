@@ -1,5 +1,7 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b2/Logo_of_TV_SLO_1_HD_%282012-%29.png" group-title="Slovenia 🇸🇮" tvg-status="stable",TV SLO 1
 http://93.103.246.35:10205/
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/69/Logo_of_TV_SLO_2_HD_%282012-%29.png" group-title="Slovenia 🇸🇮" tvg-status="stable",TV SLO 2
+http://88.212.15.50/live/test_slo2_tizen/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.sportspro.com/wp-content/uploads/2023/03/Eurosport_Logo_2015.svg_.png" group-title="Slovenia 🇸🇮" tvg-status="stable",Eurosport
 http://93.103.246.35:10206/
