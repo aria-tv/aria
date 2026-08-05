@@ -905,8 +905,8 @@ http://38.7.195.43:8000/play/a0v4
 http://38.7.195.43:8000/play/a02k
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/62/Teletrece2025.png" group-title="Chile 🇨🇱" tvg-status="not-working",Teletrece
 http://38.7.195.43:8000/play/a02m
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/24/13c_%282025%29.png" group-title="Chile 🇨🇱" tvg-status="not-working",13C
-http://38.7.195.43:8000/play/a02o
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/24/13c_%282025%29.png" group-title="Chile 🇨🇱" tvg-status="stable",13C
+http://190.83.15.112:8000/play/a052/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fa/ETC_2016-actual.png" group-title="Chile 🇨🇱" tvg-status="not-working",ETC
 http://181.78.201.70:8000/play/a0tu/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/CNN_Chile_logo_2017.svg/1200px-CNN_Chile_logo_2017.svg.png" group-title="Chile 🇨🇱" tvg-status="not-working",CNN Chile
