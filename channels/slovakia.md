@@ -20,5 +20,5 @@
 | 16 | NR SR | [>](https://sktv.mxnticek.eu/new/stream.php?ch=NR%20SR) | NR SR | &nbsp; | unstable |
 | 17 | STVR Live | [>](https://sktv.mxnticek.eu/new/stream.php?ch=STVR%20Live) | STVR Live | &nbsp; | unstable |
 | 18 | TA3 | [>](https://sktv.mxnticek.eu/new/stream.php?ch=TA3) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/slovakia/ta3-sk.png"/> | TA3.sk | unstable |
-| 19 | Jednotka | [>](http://46.149.191.219:9114/play/a01s) | <img height="20" src="https://static.wikia.nocookie.net/logopedia/images/7/70/Jednotka_2026.svg/revision/latest?cb=20260220235246"/> | &nbsp; | not-working |
-| 20 | Dvojka | [>](http://46.149.191.219:9114/play/a01t) | <img height="20" src="https://static.wikia.nocookie.net/logopedia/images/c/ca/Dvojka_2026.svg/revision/latest?cb=20260222043909"/> | &nbsp; | not-working |
+| 19 | Jednotka | [>](http://46.149.191.219:9114/play/a01s) | <img height="20" src="https://static.wikia.nocookie.net/logopedia/images/7/70/Jednotka_2026.svg/revision/latest?cb=20260220235246"/> | &nbsp; | unstable |
+| 20 | Dvojka | [>](http://46.149.191.219:9114/play/a01t) | <img height="20" src="https://static.wikia.nocookie.net/logopedia/images/c/ca/Dvojka_2026.svg/revision/latest?cb=20260222043909"/> | &nbsp; | unstable |
