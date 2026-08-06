@@ -12,3 +12,6 @@
 | 8 | Zoom | [>](http://89.33.28.74/Zoom/index.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/5/5c/ZoomUA_%282025%29.png?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=original"/> | &nbsp; | not-working |
 | 9 | 5 Kanal | [>](http://89.33.28.74/5_Kanal/index.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Logo_5_Channel.svg/250px-Logo_5_Channel.svg.png"/> | &nbsp; | not-working |
 | 10 | Lale | [>](http://cdnua03.hls.tv/476/hls/c4a7acbb4f6a85595a117f7aa2099d65/74/stream.m3u8) | <img height="20" src="https://www.logodesignlove.com/images/identity/lale-logo-01.jpg"/> | &nbsp; | stable |
+| 11 | PLUSPLUS | [>](http://stream.mcquack.net/339/index.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/PLUSPLUSUA.svg/250px-PLUSPLUSUA.svg.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"/> | &nbsp; | stable |
+| 12 | Pixel TV | [>](https://cdn15.live-tv.cloud/ua_infinitas_tv/pixel-abr/playlist.m3u8) | <img height="20" src="https://static.wikia.nocookie.net/iepfanon/images/4/43/Pixel_TV_logo.png/revision/latest?cb=20230709150514"/> | &nbsp; | stable |
+
