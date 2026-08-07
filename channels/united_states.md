@@ -30,7 +30,7 @@
 | 26 | CNN | [>](https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/cnn-us.png"/> | &nbsp; | unstable |
 | 27 | AMC | [>](http://41.205.93.154/AMC/index.m3u8) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/amc-us.png"/> | &nbsp; | not-working |
 | 28 | USA Network | [>](http://40.160.24.55/USA_NETWORK/index.m3u8) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/usa-us.png"/> | &nbsp; | unstable |
-| 29 | BET | [>](http://212.102.60.231/BET/index.m3u8) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/bet-us.png"/> | &nbsp; | not-working |
+| 29 | BET | [>](https://gpuserver3.tier1streams.com/BET_EAST/index.m3u8) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/bet-us.png"/> | &nbsp; | stable |
 | 30 | BET Her | [>](http://40.160.24.52/BET_HER/index.m3u8) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/bet-her-us.png"/> | &nbsp; | stable |
 | 31 | Cleo TV | [>](http://lunar.pm:8080/live/2055676975/MAAvrCmWZ8FZ/105644.ts) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/cleo-tv-us.png"/> | &nbsp; | unstable |
 | 32 | Bounce | [>](http://108.14.66.42:5004/auto/v31.2) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/bounce-tv-us.png"/> | &nbsp; | not-working |
@@ -164,3 +164,6 @@
 | 160 | Sundance | [>](http://40.160.24.52/SUNDANCE/index.m3u8) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/sundance-us.png"/> | &nbsp; | not-working |
 | 161 | First Channel America | [>](https://amtv.tulixcdn.com/amtv4/am4abr/index.m3u8) | <img height="20" src="https://i.ibb.co/cXTmtzvd/1000024590-removebg-preview.png"/> | &nbsp; | stable |
 | 162 | QVC3 | [>](https://qvc-amd-live.akamaized.net/hls/live/2034113/lsqvc3us/master.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/QVC_Logo.svg/615px-QVC_Logo.svg.png"/> | QVC3.us | unstable |
+| 163 | Discovery Turbo | [>](https://gpuserver3.tier1streams.com/MOTORTREND/index.m3u8) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/discovery-turbo-us.png"/> | &nbsp; | stable |
+| 164 | Aspire | [>](https://gpuserver3.tier1streams.com/ASPIRE/index.m3u8) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/aspire-us.png"/> | &nbsp; | stable |
+
