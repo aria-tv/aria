@@ -15,3 +15,7 @@ http://89.33.28.74/ICTV/index.m3u8
 http://89.33.28.74/NTN/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.logodesignlove.com/images/identity/lale-logo-01.jpg" group-title="Ukraine 🇺🇦" tvg-status="stable",Lale
 http://cdnua03.hls.tv/476/hls/c4a7acbb4f6a85595a117f7aa2099d65/74/stream.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/PLUSPLUSUA.svg/250px-PLUSPLUSUA.svg.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail" group-title="Ukraine 🇺🇦" tvg-status="stable",PLUSPLUS
+http://stream.mcquack.net/339/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/iepfanon/images/4/43/Pixel_TV_logo.png/revision/latest?cb=20230709150514" group-title="Ukraine 🇺🇦" tvg-status="stable",Pixel TV
+https://cdn15.live-tv.cloud/ua_infinitas_tv/pixel-abr/playlist.m3u8

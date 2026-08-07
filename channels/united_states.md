@@ -6,7 +6,7 @@
 | 2 | NBC (Eastern Feed) | [>](http://4.30.180.36:8420/nbc/index.m3u8?token=test) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/NBC_logo_2022.svg/960px-NBC_logo_2022.svg.png"/> | &nbsp; | unstable |
 | 3 | ABC (Eastern feed) | [>](http://4.30.180.36:8420/abc/index.m3u8?token=test) | <img height="20" src="https://cdn.tvpassport.com/image/station/240x135/v2/s10003_h15_ac.png"/> | &nbsp; | unstable |
 | 4 | FOX (Eastern Feed) | [>](http://4.30.180.36:8420/fox/index.m3u8?token=test) | <img height="20" src="https://cdn.tvpassport.com/image/station/240x135/v2/s10212_h15_ab.png"/> | &nbsp; | not-working |
-| 5 | The CW (Eastern Feed) | [>](http://40.160.24.52/CW/index.m3u8) | <img height="20" src="https://cdn.tvpassport.com/image/station/240x135/v2/s53098_h15_ac.png"/> | &nbsp; | unstable |
+| 5 | The CW (Eastern Feed) | [>](http://40.160.24.52/CW/index.m3u8) | <img height="20" src="https://cdn.tvpassport.com/image/station/240x135/v2/s53098_h15_ac.png"/> | &nbsp; | not-working |
 | 6 | MyNetworkTV (Eastern Feed) | [>](http://68.65.124.50:5004/auto/v56.3) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/MyNetworkTV_2D_Logo.svg/1200px-MyNetworkTV_2D_Logo.svg.png"/> | &nbsp; | not-working |
 | 7 | MeTV | [>](https://82934cf9c8696bd2.mediapackage.us-east-1.amazonaws.com/out/v1/23685237ffbb4047a8143ac2166ead44/index.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/en/thumb/5/55/MeTV_Logo.svg/250px-MeTV_Logo.svg.png"/> | &nbsp; | stable |
 | 8 | Univision | [>](http://4.30.180.36:8420/wxtvdt/index.m3u8?token=test) | <img height="20" src="https://www.univision.ca/wp-content/uploads/2025/05/unvision-logo-without-words.webp"/> | &nbsp; | unstable |
@@ -49,7 +49,7 @@
 | 45 | Paramount Network | [>](http://23.237.104.106:8080/USA_PARAMOUNT_NETWORK/index.m3u8) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/paramount-network-us.png"/> | &nbsp; | unstable |
 | 46 | Hallmark Channel | [>](http://23.237.104.106:8080/USA_HALLMARK/index.m3u8) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/hallmark-channel-us.png"/> | &nbsp; | unstable |
 | 47 | Hallmark Mystery | [>](http://lunar.pm:8080/live/2055676975/MAAvrCmWZ8FZ/9182.ts) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/hallmark-mystery-us.png"/> | &nbsp; | unstable |
-| 48 | Great American Family | [>](http://lunar.pm:8080/live/2055676975/MAAvrCmWZ8FZ/105641.ts) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/great-american-family-us.png"/> | &nbsp; | not-working |
+| 48 | Great American Family | [>](http://lunar.pm:8080/live/2055676975/MAAvrCmWZ8FZ/105641.ts) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/great-american-family-us.png"/> | &nbsp; | unstable |
 | 49 | Lifetime | [>](http://41.205.93.154/LIFETIME/index.m3u8) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/lifetime-us.png"/> | &nbsp; | unstable |
 | 50 | Lifetime Movie Network | [>](http://23.237.104.106:8080/USA_LMN/index.m3u8) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/lifetime-movie-network-us.png"/> | &nbsp; | unstable |
 | 51 | MTV | [>](http://23.237.104.106:8080/USA_MTV/index.m3u8) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/mtv-us.png"/> | &nbsp; | unstable |
@@ -159,7 +159,7 @@
 | 155 | ESPN News | [>](http://40.160.24.52/ESPN_U/index.m3u8) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/espn-news-us.png"/> | &nbsp; | unstable |
 | 156 | Fox Soccer Plus | [>](http://40.160.24.52/FOX_SOCCER_PLUS/index.m3u8) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/fox-soccer-plus-us.png"/> | &nbsp; | unstable |
 | 157 | MGM+ Drive In | [>](http://40.160.24.52/EPIX_DRIVE-IN/index.m3u8) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/mgm-plus-drive-in-us.png"/> | &nbsp; | unstable |
-| 158 | MGM+ | [>](http://40.160.24.52/EPIX/index.m3u8) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/mgm-plus-us.png"/> | &nbsp; | unstable |
+| 158 | MGM+ | [>](http://40.160.24.52/EPIX/index.m3u8) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/mgm-plus-us.png"/> | &nbsp; | not-working |
 | 159 | MGM+ Hits | [>](http://40.160.24.52/EPIX_2/index.m3u8) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/mgm-plus-hits-us.png"/> | &nbsp; | unstable |
 | 160 | Sundance | [>](http://40.160.24.52/SUNDANCE/index.m3u8) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/sundance-us.png"/> | &nbsp; | not-working |
 | 161 | First Channel America | [>](https://amtv.tulixcdn.com/amtv4/am4abr/index.m3u8) | <img height="20" src="https://i.ibb.co/cXTmtzvd/1000024590-removebg-preview.png"/> | &nbsp; | stable |

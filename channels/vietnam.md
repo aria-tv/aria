@@ -19,7 +19,7 @@
 | 15 | VTV10 | [>](http://14.245.172.189:9981/stream/channelid/774801025?profile=pass) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/VTV9_logo_2016_final.svg/1200px-VTV10_logo_2016_final.svg.png"/> | &nbsp; | not-working |
 | 16 | HTV1 | [>](https://freem3u.xyz/api/live/play.m3u8?vid=190) | HTV1 | &nbsp; | stable |
 | 17 | HTV2 | [>](https://freem3u.xyz/api/live/play.m3u8?vid=191) | HTV2 | &nbsp; | stable |
-| 18 | HTV3 | [>](https://freem3u.xyz/api/live/play.m3u8?vid=192) | HTV3 | &nbsp; | not-working |
+| 18 | HTV3 | [>](https://freem3u.xyz/api/live/play.m3u8?vid=192) | HTV3 | &nbsp; | unstable |
 | 19 | HTV4 | [>](http://14.187.176.206:9981/stream/channelid/851268162?profile=pass) | HTV4 | &nbsp; | not-working |
 | 20 | HTV7 | [>](https://freem3u.xyz/api/live/play.m3u8?vid=193) | HTV7 | &nbsp; | stable |
 | 21 | HTV9 | [>](http://14.187.176.206:9981/stream/channelid/743603966?profile=pass) | HTV9 | &nbsp; | not-working |

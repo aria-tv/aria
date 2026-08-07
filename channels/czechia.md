@@ -24,7 +24,7 @@
 | 20 | Prima Krimi | [>](https://sktv.mxnticek.eu/new/stream.php?ch=PrimaKrimi) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/czech-republic/prima-krimi-cz.png"/> | PrimaKrimi.cz | not-working |
 | 21 | Prima MAX | [>](http://90.178.86.156:9981/stream/channelid/235177134?ticket=D080A80B3E2DBA968DBE8C7F420F9BFF4CCA7BA5&profile=pass) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/czech-republic/prima-max-cz.png"/> | PrimaMax.cz | not-working |
 | 22 | Prima Cool | [>](http://90.178.86.156:9981/stream/channelid/2060674324?ticket=6D9FFFC2194661867B1D662C59DF98A86311539A&profile=pass) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/czech-republic/prima-cool-cz.png"/> | PrimaCool.cz | not-working |
-| 23 | Prima Show | [>](https://sktv.mxnticek.eu/new/stream.php?ch=PrimaShow) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/czech-republic/prima-show-cz.png"/> | PrimaShow.cz | not-working |
+| 23 | Prima Show | [>](https://sktv.mxnticek.eu/new/stream.php?ch=PrimaShow) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/czech-republic/prima-show-cz.png"/> | PrimaShow.cz | unstable |
 | 24 | JOJ Family Ⓢ | [>](https://sktv.mxnticek.eu/new/stream.php?ch=JOJ%20Family) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/czech-republic/joj-family-cz.png"/> | JojFamily.sk | unstable |
 | 25 | JOJ Cinema | [>](https://sktv.mxnticek.eu/new/stream.php?ch=JOJ%20Cinema) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/czech-republic/joj-cinema-cz.png"/> | JojCinema.cz | unstable |
 | 26 | CS Film | [>](https://sktv.mxnticek.eu/new/stream.php?ch=CS%20Film) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/slovakia/cs-film-sk.png"/> | CSFilm.cz | unstable |
@@ -41,7 +41,7 @@
 | 37 | Východoceská TV | [>](https://stream.polar.cz/vctv/vctvlive-1/playlist.m3u8) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/czech-republic/tv-v1-cz.png"/> | V1.cz | stable |
 | 38 | UTV | [>](https://vysilani.zaktv.cz/broadcast/hls/utv/index.m3u8) | UTV | utv.cz | stable |
 | 39 | Disney Channel | [>](https://webstream.odjezdy.online/CZ/Disney/video.m3u8) | Disney Channel | Disney.Channel.cz | not-working |
-| 40 | Prima SHOW | [>](http://90.178.86.156:9981/stream/channelid/748255433?ticket=216B5B41838A2332296FA05EDB09FA11B1A155EE&profile=pass) | Prima SHOW | Prima.Show.cz | unstable |
+| 40 | Prima SHOW | [>](http://90.178.86.156:9981/stream/channelid/748255433?ticket=216B5B41838A2332296FA05EDB09FA11B1A155EE&profile=pass) | Prima SHOW | Prima.Show.cz | not-working |
 | 41 | OCKO | [>](http://90.178.86.156:9981/stream/channelid/1183792288?ticket=6CE25AF67B8D74983939FCF3B123AD08A5B0BAE8&profile=pass) | OCKO | Óčko.cz | unstable |
 | 42 | OCKO STAR | [>](http://90.178.86.156:9981/stream/channelid/1340646702?ticket=6A7ED7E2087641A202EA744A9DE44B07A2EE2FAC&profile=pass) | OCKO STAR | Óčko.STAR.cz | unstable |
 | 43 | TV Barrandov | [>](http://90.178.86.156:9981/stream/channelid/1149773228?ticket=56A407B3D9D49568B131C27B70C4B903FD070FE5&profile=pass) | TV Barrandov | TV.Barrandov.cz | not-working |
