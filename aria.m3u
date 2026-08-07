@@ -25,7 +25,7 @@ http://149.100.11.252:8000/play/a026/index.m3u8
 http://149.100.11.252:8000/play/a029/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-arab-emirates/mbc-bollywood-ae.png" group-title="Arab World" tvg-status="stable",MBC Bollywood
 http://149.100.11.252:8000/play/a02c/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-arab-emirates/mbc-bollywood-ae.png" group-title="Arab World" tvg-status="stable",MBC Drama
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-arab-emirates/mbc-drama-ae.png" group-title="Arab World" tvg-status="stable",MBC Drama
 http://149.100.11.252:8000/play/a02d/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-arab-emirates/mbc-max-ae.png" group-title="Arab World" tvg-status="stable",MBC Max
 http://149.100.11.252:8000/play/a02b/index.m3u8
