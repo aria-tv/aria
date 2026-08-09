@@ -28,7 +28,7 @@
 | 24 | Adult Swim (5PM-6AM ONLY) | [>](https://turnerlive.warnermediacdn.com/hls/live/2023183/aseast/noslate/VIDEO_1_5128000.m3u8) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/adult-swim-ca.png"/> | &nbsp; | stable |
 | 25 | Adult Swim West (8PM-9AM ONLY) | [>](https://turnerlive.warnermediacdn.com/hls/live/2023185/aswest/noslate/VIDEO_1_5128000.m3u8) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/adult-swim-ca.png"/> | &nbsp; | stable |
 | 26 | CNN | [>](https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/cnn-us.png"/> | &nbsp; | unstable |
-| 27 | AMC | [>](http://41.205.93.154/AMC/index.m3u8) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/amc-us.png"/> | &nbsp; | not-working |
+| 27 | AMC | [>](http://41.205.93.154/AMC/index.m3u8) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/amc-us.png"/> | &nbsp; | unstable |
 | 28 | USA Network | [>](http://40.160.24.55/USA_NETWORK/index.m3u8) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/usa-us.png"/> | &nbsp; | unstable |
 | 29 | BET | [>](https://gpuserver3.tier1streams.com/BET_EAST/index.m3u8) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/bet-us.png"/> | &nbsp; | not-working |
 | 30 | BET Her | [>](http://40.160.24.52/BET_HER/index.m3u8) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/bet-her-us.png"/> | &nbsp; | not-working |
@@ -43,7 +43,7 @@
 | 39 | TBS West | [>](https://turnerlive.warnermediacdn.com/hls/live/2023174/tbswest/slate/VIDEO_0_3564000.m3u8) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/tbs-us.png"/> | &nbsp; | stable |
 | 40 | FX | [>](http://23.237.104.106:8080/USA_FX/index.m3u8) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/fx-us.png"/> | &nbsp; | unstable |
 | 41 | FXX | [>](http://23.237.104.106:8080/USA_FXX/index.m3u8) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/fxx-us.png"/> | &nbsp; | unstable |
-| 42 | Bravo | [>](http://41.205.93.154/BRAVO/index.m3u8) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/bravo-us.png"/> | &nbsp; | unstable |
+| 42 | Bravo | [>](http://41.205.93.154/BRAVO/index.m3u8) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/bravo-us.png"/> | &nbsp; | not-working |
 | 43 | E! | [>](http://23.237.104.106:8080/USA_E/index.m3u8) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/e-entertainment-us.png"/> | &nbsp; | unstable |
 | 44 | TLC | [>](http://40.160.24.55/TLC/index.m3u8) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/tlc-us.png"/> | &nbsp; | unstable |
 | 45 | Paramount Network | [>](http://23.237.104.106:8080/USA_PARAMOUNT_NETWORK/index.m3u8) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/paramount-network-us.png"/> | &nbsp; | unstable |
@@ -84,7 +84,7 @@
 | 80 | MSG | [>](http://23.237.104.106:8080/USA_MSG/index.m3u8) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/msg-us.png"/> | &nbsp; | unstable |
 | 81 | Nicktoons | [>](http://40.160.24.55/NICKTOONS/index.m3u8) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/nick-toons-us.png"/> | &nbsp; | unstable |
 | 82 | Disney Junior | [>](https://tvpass.org/live/DisneyJuniorEast/sd) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/disney-jr-us.png"/> | &nbsp; | not-working |
-| 83 | Boomerang | [>](http://40.160.24.52/BOOMERANG/index.m3u8) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/boomerang-us.png"/> | &nbsp; | unstable |
+| 83 | Boomerang | [>](http://40.160.24.52/BOOMERANG/index.m3u8) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/boomerang-us.png"/> | &nbsp; | not-working |
 | 84 | MeTV Toons | [>](http://173.229.4.240:5004/auto/v26.7) | <img height="20" src="https://images.fubo.tv/channel-config-ui/station-logos/on-dark/metv_toons_bw.png"/> | &nbsp; | not-working |
 | 85 | PBS Kids (Eastern Feed) | [>](https://livestream.pbskids.org/out/v1/14507d931bbe48a69287e4850e53443c/est.m3u8) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/pbs-kids-us.png"/> | &nbsp; | stable |
 | 86 | PBS Kids (Hawaii Feed) | [>](https://livestream.pbskids.org/out/v1/aa31792fee094b24b09045483f04d150/hast.m3u8) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/pbs-kids-us.png"/> | &nbsp; | unstable |
@@ -149,7 +149,7 @@
 | 145 | MTV Live | [>](http://200.115.120.1:8000/play/ca053) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/3/30/MTV_Live_2021_logo.svg"/> | &nbsp; | unstable |
 | 146 | MTV Classics | [>](http://200.115.120.1:8000/play/ca053) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/1/10/MTV_Classic_US.svg"/> | &nbsp; | unstable |
 | 147 | CBS Sports Network | [>](http://40.160.24.52/CBS_SPORTS_NETWORK/index.m3u8) | <img height="20" src="https://pbs.twimg.com/profile_images/1356268043941380099/QHq2W42n_400x400.jpg"/> | &nbsp; | stable |
-| 148 | BET West | [>](http://40.160.24.52/BET_WEST/index.m3u8) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/bet-us.png"/> | &nbsp; | stable |
+| 148 | BET West | [>](http://40.160.24.52/BET_WEST/index.m3u8) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/bet-us.png"/> | &nbsp; | not-working |
 | 149 | BET Soul | [>](http://40.160.24.52/BET_SOUL/index.m3u8) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/bet-soul-us.png"/> | &nbsp; | not-working |
 | 150 | BET Jams | [>](http://40.160.24.52/BET_JAMS/index.m3u8) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/bet-jams-us.png"/> | &nbsp; | not-working |
 | 151 | Fox Buisness | [>](http://206.212.244.63/67/index.m3u8) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/fox-buisness-us.png"/> | &nbsp; | not-working |
