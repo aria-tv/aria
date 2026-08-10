@@ -55,9 +55,5 @@ https://qvc-amd-live.akamaized.net/hls/live/2034113/lsqvc1us/master.m3u8
 https://qvc-amd-live.akamaized.net/hls/live/2034113/lsqvc1uswest/master.m3u8
 #EXTINF:-1 tvg-id="QVC2.us" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/ab/QVC2_%282017%29.svg/revision/latest?cb=20210225125729" group-title="United States 🇺🇸" tvg-status="stable",QVC2
 https://qvc-amd-live.akamaized.net/hls/live/2034113/lsqvc2us/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://pbs.twimg.com/profile_images/1356268043941380099/QHq2W42n_400x400.jpg" group-title="United States 🇺🇸" tvg-status="stable",CBS Sports Network
-http://40.160.24.52/CBS_SPORTS_NETWORK/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/cXTmtzvd/1000024590-removebg-preview.png" group-title="United States 🇺🇸" tvg-status="stable",First Channel America
 https://amtv.tulixcdn.com/amtv4/am4abr/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/discovery-turbo-us.png" group-title="United States 🇺🇸" tvg-status="stable",Discovery Turbo
-https://gpuserver3.tier1streams.com/MOTORTREND/index.m3u8
