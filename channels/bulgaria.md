@@ -16,6 +16,6 @@
 | 12 | Nova Sport | [>](http://78.130.234.23:9981/stream/channelid/230672158?profile=pass) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/bulgaria/nova-sport-bg.png"/> | &nbsp; | unstable |
 | 13 | Nova News | [>](http://78.130.234.23:9981/stream/channelid/890748357?profile=pass) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/bulgaria/nova-news-bg.png"/> | &nbsp; | unstable |
 | 14 | Ring | [>](http://78.130.234.23:9981/stream/channelid/1373620928?profile=pass) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/bulgaria/ring-bg.png"/> | &nbsp; | unstable |
-| 15 | Eurocom/Evrokom | [>](http://78.130.234.23:9981/stream/channelid/1079185859?profile=pass) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/bulgaria/evrokom-bg.png"/> | &nbsp; | unstable |
-| 16 | Ekids | [>](http://78.130.234.23:9981/stream/channelid/1717094548?profile=pass) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/bulgaria/e-kids-bg.png"/> | &nbsp; | unstable |
+| 15 | Evrokom | [>](http://78.130.234.23:9981/stream/channelid/1079185859?profile=pass) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/bulgaria/evrokom-bg.png"/> | &nbsp; | unstable |
+| 16 | Ekids | [>](http://78.130.234.23:9981/stream/channelid/1717094548?profile=pass) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/bulgaria/ekids-bg.png"/> | &nbsp; | unstable |
 
