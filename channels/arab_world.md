@@ -30,3 +30,6 @@
 | 26 | Star Action (Arabic subtitles) | [>](http://77.69.131.40:1234/stream/stc/staraction/master.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Star_Action_2024.svg/250px-Star_Action_2024.svg.png"/> | &nbsp; | not-working |
 | 27 | Star Movies (Arabic subtitles) | [>](http://77.69.131.40:1234/stream/stc/starmovies/master.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Star_Movies_2023.svg/1920px-Star_Movies_2023.svg.png"/> | &nbsp; | not-working |
 | 28 | BBC Arabic | [>](http://77.69.131.40:1234/stream/abudabi/bbcarabic/master.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/9/93/BBC_News_Arabic_logo.png"/> | &nbsp; | not-working |
+| 29 | Qatar Television | [>](https://qatartv.akamaized.net/hls/live/20000609/qtv1/master.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/en/8/88/Qatar_TV_logo.png"/> | &nbsp; | stable |
+| 30 | Qatar Television 2 | [>]( https://qatartv.akamaized.net/hls/live/20000611/qtv2/stream_04/index.m3u8) | <img height="20" src="https://i.imgur.com/iWJxDUm.png"/> | &nbsp; | stable |
+
