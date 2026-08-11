@@ -27,7 +27,7 @@
 | 23 | Racing.com | [>](http://44.32.200.142:5004/auto/v78) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/australia/racing-com-au.png"/> | &nbsp; | unstable |
 | 24 | TVSN | [>](https://tvsnhlslivetest.akamaized.net/hls/live/2034711/TVSN-MSL4/master.m3u8) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/australia/tvsn-au.png"/> | &nbsp; | stable |
 | 25 | 9 Network | [>](http://44.32.200.142:5004/auto/v90) | <img height="20" src="https://static.wikia.nocookie.net/logopedia/images/2/20/Nine_2023.svg/revision/latest?cb=20240111174930"/> | &nbsp; | unstable |
-| 26 | 9Go! | [>](http://44.32.200.142:5004/auto/v93) | <img height="20" src="https://static.wikia.nocookie.net/logopedia/images/a/a4/9Go%21_2017-.png/revision/latest?cb=20240610101234"/> | &nbsp; | not-working |
+| 26 | 9Go! | [>](http://44.32.200.142:5004/auto/v93) | <img height="20" src="https://static.wikia.nocookie.net/logopedia/images/a/a4/9Go%21_2017-.png/revision/latest?cb=20240610101234"/> | &nbsp; | unstable |
 | 27 | 9Gem | [>](http://44.32.200.142:5004/auto/v92) | <img height="20" src="https://static.wikia.nocookie.net/logopedia/images/f/f6/9Gem_2017.svg/revision/latest?cb=20191126203640"/> | &nbsp; | unstable |
 | 28 | 9Life | [>](http://44.32.200.142:5004/auto/v94) | <img height="20" src="https://static.wikia.nocookie.net/logopedia/images/3/36/9Life_2015-flat.svg/revision/latest?cb=20191126203559"/> | &nbsp; | unstable |
 | 29 | 9Rush | [>](http://44.32.200.142:5004/auto/v96) | <img height="20" src="https://www.nineforbrands.com.au/wp-content/uploads/2020/08/9RUSH_2D_LOGO_DESERT_RGB.png"/> | &nbsp; | unstable |
