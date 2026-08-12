@@ -101,8 +101,6 @@ http://190.83.85.68/sbt/index.m3u8
 https://media2.cdntvms.com.br/tv_morena_dorados/index.m3u8
 #EXTINF:-1 tvg-id="Record.TV.br" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/brazil/record-br.png" group-title="Brazil 🇧🇷" tvg-status="stable",Record
 http://200.77.176.130:8000/udp/224.0.0.4:49152
-#EXTINF:-1 tvg-id="Band.br" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/brazil/band-br.png" group-title="Brazil 🇧🇷" tvg-status="stable",BAND
-https://media.cdntvms.com.br/band_sat/index.m3u8
 #EXTINF:-1 tvg-id="Rede.TV.br" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/brazil/rede-tv-br.png" group-title="Brazil 🇧🇷" tvg-status="stable",Rede TV!
 http://190.83.85.68/rede_brasil/index.m3u8
 #EXTINF:-1 tvg-id="Discovery.Science.br" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/brazil/discovery-science-br.png" group-title="Brazil 🇧🇷" tvg-status="stable",Discovery Science
@@ -207,8 +205,6 @@ http://185.236.230.212:9981/play/a0cl
 http://185.236.230.212:9981/play/a0by
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Logo_Nova_Lady_2021.png/1200px-Logo_Nova_Lady_2021.png" group-title="Czechia 🇨🇿" tvg-status="stable",NOVA LADY
 http://185.236.230.212:9981/play/a0bl
-#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/iepfanon/images/5/59/Eesti_Televisioon_Logo.png/revision/latest?cb=20240219152102" group-title="Estonia 🇪🇪" tvg-status="stable",ETV
-http://84.50.161.79:9981/stream/channelid/102111302?ticket=D9DC0134FD558A4AB7700F58FDCF5B3C104B0D06&profile=pass
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/72/Duo3.svg/revision/latest?cb=20210822031500" group-title="Estonia 🇪🇪" tvg-status="stable",Duo 3
 http://217.159.149.163:9091/play/a04k
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5a/Duo4.svg/revision/latest?cb=20220620223703" group-title="Estonia 🇪🇪" tvg-status="stable",Duo 4
@@ -645,28 +641,6 @@ http://122.53.222.9:9981/stream/channelid/576146646?profile=pass
 http://122.53.222.9:9981/stream/channelid/37889196?profile=pass
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/5_Logo_2019.svg/250px-5_Logo_2019.svg.png" group-title="Philippines 🇵🇭" tvg-status="stable",TV5
 http://122.53.222.9:9981/stream/channelid/810732235?profile=pass
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Telewizja_Polska_-_TVP1_logo_2003.svg/1200px-Telewizja_Polska_-_TVP1_logo_2003.svg.png" group-title="Poland 🇵🇱" tvg-status="stable",TVP 1
-http://193.24.244.60:1001/udp/239.254.3.12:6060
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Telewizja_Polska_-_TVP2_logo_2003.svg/1200px-Telewizja_Polska_-_TVP2_logo_2003.svg.png" group-title="Poland 🇵🇱" tvg-status="stable",TVP 2
-http://193.24.244.60:1001/udp/239.254.3.13:6060
-#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/poland/tvp-info-pl.png" group-title="Poland 🇵🇱" tvg-status="stable",TVP Info
-http://193.24.244.60:1001/udp/239.254.3.32:6060
-#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/poland/tvp-rozrywka-pl.png" group-title="Poland 🇵🇱" tvg-status="stable",TVP Rozrywka
-http://193.24.244.60:1001/udp/239.254.3.4:6060
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d7/Logo_TVP_Sport.jpg" group-title="Poland 🇵🇱" tvg-status="stable",TVP Sport
-http://193.24.244.60:1001/udp/239.254.3.15:6060
-#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/poland/tvp-historia-pl.png" group-title="Poland 🇵🇱" tvg-status="stable",TVP Historia
-http://193.24.244.60:1001/udp/239.254.3.6:6060
-#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/poland/tvp-kultura-pl.png" group-title="Poland 🇵🇱" tvg-status="stable",TVP Kultura
-http://193.24.244.60:1001/udp/239.254.3.33:6060
-#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/poland/tvp-abc-pl.png" group-title="Poland 🇵🇱" tvg-status="stable",TVP ABC
-http://193.24.244.60:1001/udp/239.254.3.37:6060
-#EXTINF:-1 tvg-id="EPG id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/TVP_Nauka_%282022%29.svg/250px-TVP_Nauka_%282022%29.svg.png" group-title="Poland 🇵🇱" tvg-status="stable",TVP Nauka
-http://193.24.244.60:1001/udp/239.254.3.40:6060
-#EXTINF:-1 tvg-id="EPG id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/TVP_Kobieta_%282021%29.svg/120px-TVP_Kobieta_%282021%29.svg.png" group-title="Poland 🇵🇱" tvg-status="stable",TVP Kobieta
-http://193.24.244.60:1001/udp/239.254.3.40:6060
-#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/heads/main/countries/poland/top-kids-pl.png" group-title="Poland 🇵🇱" tvg-status="stable",Top Kids
-http://193.24.244.60:1001/udp/239.254.3.108:6060
 #EXTINF:-1 tvg-id="SIC.K.pt" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/portugal/sic-k-pt.png" group-title="Portugal 🇵🇹" tvg-status="stable",SIC K
 https://tv.jassuncao.work/stream/channelid/943759774?profile=pass
 #EXTINF:-1 tvg-id="SIC.Radical.pt" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/portugal/sic-radical-pt.png" group-title="Portugal 🇵🇹" tvg-status="stable",SIC Radical

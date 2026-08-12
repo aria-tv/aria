@@ -1,9 +1,9 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/pBk4JHgD/Family-Guy-Logo-svg.png" group-title="Aria Exclusive" tvg-status="unstable",Family Guy 24/7
 http://user.scalecdn.co:8080/live/26725074/92867131/50187.ts
-#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/bf/TopGear2018.png/revision/latest?cb=20180604065310" group-title="Aria Exclusive" tvg-status="not-working",BBC Top Gear 24/7
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/bf/TopGear2018.png/revision/latest?cb=20180604065310" group-title="Aria Exclusive" tvg-status="unstable",BBC Top Gear 24/7
 http://user.scalecdn.co:8080/live/26725074/92867131/52565.ts
-#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/11/Cobra_Kai_logo.png/revision/latest/scale-to-width-down/250?cb=20200623092635" group-title="Aria Exclusive" tvg-status="not-working",Cobra Kai 24/7
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/11/Cobra_Kai_logo.png/revision/latest/scale-to-width-down/250?cb=20200623092635" group-title="Aria Exclusive" tvg-status="unstable",Cobra Kai 24/7
 http://user.scalecdn.co:8080/live/26725074/92867131/30731.ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Bones_2005_logo.svg/1000px-Bones_2005_logo.svg.png" group-title="Aria Exclusive" tvg-status="unstable",Bones 24/7
 http://user.scalecdn.co:8080/live/26725074/92867131/511290.ts
