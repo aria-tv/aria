@@ -45,7 +45,7 @@
 | 41 | Avang TV | [>](https://avanghls.wns.live/hls/stream.m3u8) | Avang TV | &nbsp; | stable |
 | 42 | Cafe Trade TV | [>](https://cafetradehls.wns.live/hls/stream.m3u8) | Cafe Trade TV | &nbsp; | stable |
 | 43 | Classic TV | [>](https://clshls.wns.live/hls/stream.m3u8) | Classic TV | &nbsp; | stable |
-| 44 | Datis TV | [>](https://dathls.wns.live/hls/stream.m3u8) | Datis TV | &nbsp; | not-working |
+| 44 | Datis TV | [>](https://dathls.wns.live/hls/stream.m3u8) | Datis TV | &nbsp; | unstable |
 | 45 | eplanet TV | [>](https://eplhls.wns.live/hls/stream.m3u8) | eplanet TV | &nbsp; | stable |
 | 46 | FX One Farsi | [>](https://fxtvhls.wns.live/hls/stream.m3u8) | FX One Farsi | &nbsp; | stable |
 | 47 | FX Two Farsi | [>](https://toonixhls.wns.live/hls/stream.m3u8) | FX Two Farsi | &nbsp; | stable |
