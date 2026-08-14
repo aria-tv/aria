@@ -45,6 +45,10 @@
 | 40 | Zee Biskope | [>](http://103.172.29.30:9991/stream/channelid/1046416401?profile=mobarok/fllusonic) | <img height="20" src="https://static.cdnlogo.com/logos/z/73/zee-biskope.svg"/> | &nbsp; | unstable |
 | 41 | Sun Marathi | [>](http://103.172.29.30:9991/stream/channelid/1046416401?profile=mobarok/fllusonic) | <img height="20" src="https://yt3.googleusercontent.com/7T0F7PabQW7ochGtQsHIVojM49GzlNegutZIONrrleYrjSKdpuZzZfojMKuqUl-fSIxLeW4Grg=s900-c-k-c0x00ffffff-no-rj"/> | &nbsp; | unstable |
 | 42 | Big Magic | [>](http://103.172.29.30:9991/stream/channelid/205593271?profile=mobarok/fllusonic) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/a/ab/Big_Magic_2025_Logo.png"/> | &nbsp; | unstable |
+| 43 | Colors (HD Feed) | [>](http://103.253.18.58:8000/play/a00n) | <img height="20" src="https://static.wikia.nocookie.net/logopedia/images/2/26/Colors_2024.svg/revision/latest?cb=20250808055615"/> | &nbsp; | unstable |
+| 44 | Zee Business | [>](http://103.253.18.58:8000/play/a00c) | <img height="20" src="https://static.wikia.nocookie.net/logopedia/images/0/07/Zee_Business_%282025%29.svg/revision/latest/scale-to-width-down/1200?cb=20250609140810"/> | &nbsp; | unstable |
+| 45 | Sony BBC Earth | [>](http://103.253.18.58:8000/play/a01g) | <img height="20" src="https://www.sonybbcearth.com/images/logo.png"/> | &nbsp; | unstable |
+| 46 | Sony Pix (HD Feed) | [>](http://103.253.18.58:8000/play/a01g) | <img height="20" src="https://upload.wikimedia.org/wikipedia/en/thumb/9/90/Sony_Pix_logo.svg/1280px-Sony_Pix_logo.svg.png"/> | &nbsp; | unstable |
 
 
 
