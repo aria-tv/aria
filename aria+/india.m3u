@@ -85,3 +85,11 @@ http://103.172.29.30:9991/stream/channelid/1046416401?profile=mobarok/fllusonic
 http://103.172.29.30:9991/stream/channelid/1046416401?profile=mobarok/fllusonic
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ab/Big_Magic_2025_Logo.png" group-title="India 🇮🇳" tvg-status="unstable",Big Magic
 http://103.172.29.30:9991/stream/channelid/205593271?profile=mobarok/fllusonic
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/26/Colors_2024.svg/revision/latest?cb=20250808055615" group-title="India 🇮🇳" tvg-status="unstable",Colors (HD Feed)
+http://103.253.18.58:8000/play/a00n
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/07/Zee_Business_%282025%29.svg/revision/latest/scale-to-width-down/1200?cb=20250609140810" group-title="India 🇮🇳" tvg-status="unstable",Zee Business
+http://103.253.18.58:8000/play/a00c
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.sonybbcearth.com/images/logo.png" group-title="India 🇮🇳" tvg-status="unstable",Sony BBC Earth
+http://103.253.18.58:8000/play/a01g
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/90/Sony_Pix_logo.svg/1280px-Sony_Pix_logo.svg.png" group-title="India 🇮🇳" tvg-status="unstable",Sony Pix (HD Feed)
+http://103.253.18.58:8000/play/a01g
