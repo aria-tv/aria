@@ -29,7 +29,7 @@
 | 25 | Adult Swim West (8PM-9AM ONLY) | [>](https://turnerlive.warnermediacdn.com/hls/live/2023185/aswest/noslate/VIDEO_1_5128000.m3u8) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/adult-swim-ca.png"/> | &nbsp; | stable |
 | 26 | CNN | [>](https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/cnn-us.png"/> | &nbsp; | unstable |
 | 27 | AMC | [>](http://41.205.93.154/AMC/index.m3u8) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/amc-us.png"/> | &nbsp; | unstable |
-| 28 | USA Network | [>](http://40.160.24.55/USA_NETWORK/index.m3u8) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/usa-us.png"/> | &nbsp; | unstable |
+| 28 | USA Network | [>](http://40.160.24.55/USA_NETWORK/index.m3u8) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/usa-us.png"/> | &nbsp; | not-working |
 | 29 | BET | [>](https://gpuserver3.tier1streams.com/BET_EAST/index.m3u8) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/bet-us.png"/> | &nbsp; | not-working |
 | 30 | BET Her | [>](http://40.160.24.52/BET_HER/index.m3u8) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/bet-her-us.png"/> | &nbsp; | not-working |
 | 31 | Cleo TV | [>](http://lunar.pm:8080/live/2055676975/MAAvrCmWZ8FZ/105644.ts) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/cleo-tv-us.png"/> | &nbsp; | unstable |
@@ -53,7 +53,7 @@
 | 49 | Lifetime | [>](http://41.205.93.154/LIFETIME/index.m3u8) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/lifetime-us.png"/> | &nbsp; | unstable |
 | 50 | Lifetime Movie Network | [>](http://23.237.104.106:8080/USA_LMN/index.m3u8) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/lifetime-movie-network-us.png"/> | &nbsp; | unstable |
 | 51 | MTV | [>](http://23.237.104.106:8080/USA_MTV/index.m3u8) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/mtv-us.png"/> | &nbsp; | unstable |
-| 52 | MTV2 | [>](http://40.160.24.53/MTV2/index.m3u8) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/mtv-2-us.png"/> | &nbsp; | unstable |
+| 52 | MTV2 | [>](http://40.160.24.53/MTV2/index.m3u8) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/mtv-2-us.png"/> | &nbsp; | not-working |
 | 53 | VH1 | [>](http://23.237.104.106:8080/USA_VH1/index.m3u8) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/vh1-us.png"/> | &nbsp; | unstable |
 | 54 | Comedy Central | [>](http://23.237.104.106:8080/USA_COMEDY_CENTRAL/index.m3u8) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/comedy-central-us.png"/> | &nbsp; | unstable |
 | 55 | SYFY | [>](http://23.237.104.106:8080/USA_SYFY/index.m3u8) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/syfy-us.png"/> | &nbsp; | unstable |
@@ -82,7 +82,7 @@
 | 78 | NBA TV | [>](http://212.102.60.231/NBA_TV/index.m3u8) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/nba-tv-us.png"/> | &nbsp; | unstable |
 | 79 | NESC | [>](http://23.237.104.106:8080/USA_NESN/index.m3u8) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/nesc-us.png"/> | &nbsp; | not-working |
 | 80 | MSG | [>](http://23.237.104.106:8080/USA_MSG/index.m3u8) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/msg-us.png"/> | &nbsp; | unstable |
-| 81 | Nicktoons | [>](http://40.160.24.55/NICKTOONS/index.m3u8) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/nick-toons-us.png"/> | &nbsp; | unstable |
+| 81 | Nicktoons | [>](http://40.160.24.55/NICKTOONS/index.m3u8) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/nick-toons-us.png"/> | &nbsp; | not-working |
 | 82 | Disney Junior | [>](https://tvpass.org/live/DisneyJuniorEast/sd) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/disney-jr-us.png"/> | &nbsp; | not-working |
 | 83 | Boomerang | [>](http://40.160.24.52/BOOMERANG/index.m3u8) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/boomerang-us.png"/> | &nbsp; | not-working |
 | 84 | MeTV Toons | [>](http://173.229.4.240:5004/auto/v26.7) | <img height="20" src="https://images.fubo.tv/channel-config-ui/station-logos/on-dark/metv_toons_bw.png"/> | &nbsp; | not-working |
@@ -136,7 +136,7 @@
 | 132 | QVC East | [>](https://qvc-amd-live.akamaized.net/hls/live/2034113/lsqvc1us/master.m3u8) | <img height="20" src="https://static.wikia.nocookie.net/logopedia/images/4/48/QVC.svg/revision/latest/scale-to-width-down/250?cb=20190429184243"/> | QVC.us | stable |
 | 133 | QVC West | [>](https://qvc-amd-live.akamaized.net/hls/live/2034113/lsqvc1uswest/master.m3u8) | <img height="20" src="https://static.wikia.nocookie.net/logopedia/images/4/48/QVC.svg/revision/latest/scale-to-width-down/250?cb=20190429184243"/> | QVCPacific.us | stable |
 | 134 | QVC2 | [>](https://qvc-amd-live.akamaized.net/hls/live/2034113/lsqvc2us/master.m3u8) | <img height="20" src="https://static.wikia.nocookie.net/logopedia/images/a/ab/QVC2_%282017%29.svg/revision/latest?cb=20210225125729"/> | QVC2.us | stable |
-| 135 | Discovery Familia | [>](http://200.115.120.1:8000/play/ca053) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/discovery-familia-us.png"/> | &nbsp; | unstable |
+| 135 | Discovery Familia | [>](http://200.115.120.1:8000/play/ca053) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/discovery-familia-us.png"/> | &nbsp; | not-working |
 | 136 | MeTV+ | [>](http://206.212.244.63/111/index.m3u8) | <img height="20" src="https://www.metv.com/images/MeTV_Plus_Color.png"/> | &nbsp; | not-working |
 | 137 | Rewind TV | [>](http://206.212.244.63/111/index.m3u8) | <img height="20" src="https://rewindtv.com/wp-content/uploads/2021/08/RewindTV_logo_primary_black_withtagline.png"/> | &nbsp; | not-working |
 | 138 | Heartland | [>](http://206.212.244.63/111/index.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/en/b/ba/Heartland_TV_logo.png"/> | &nbsp; | not-working |
@@ -145,9 +145,9 @@
 | 141 | ABC (Mountain Feed) | [>](http://theariatv.github.io/channeldead.mp4) | <img height="20" src="https://cdn.tvpassport.com/image/station/240x135/v2/s10003_h15_ac.png"/> | &nbsp; | not-working |
 | 142 | FOX (Mountain Feed) | [>](http://38.175.167.27:5004/auto/v27.1) | <img height="20" src="https://cdn.tvpassport.com/image/station/240x135/v2/s10212_h15_ab.png"/> | &nbsp; | not-working |
 | 143 | The CW (Mountain Feed) | [>](http://38.175.167.27:5004/auto/v2.1) | <img height="20" src="https://cdn.tvpassport.com/image/station/240x135/v2/s53098_h15_ac.png"/> | &nbsp; | not-working |
-| 144 | Game Show Central | [>](http://200.115.120.1:8000/play/ca053) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Game_Show_Central.svg/250px-Game_Show_Central.svg.png"/> | &nbsp; | unstable |
-| 145 | MTV Live | [>](http://200.115.120.1:8000/play/ca053) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/3/30/MTV_Live_2021_logo.svg"/> | &nbsp; | unstable |
-| 146 | MTV Classics | [>](http://200.115.120.1:8000/play/ca053) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/1/10/MTV_Classic_US.svg"/> | &nbsp; | unstable |
+| 144 | Game Show Central | [>](http://200.115.120.1:8000/play/ca053) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Game_Show_Central.svg/250px-Game_Show_Central.svg.png"/> | &nbsp; | not-working |
+| 145 | MTV Live | [>](http://200.115.120.1:8000/play/ca053) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/3/30/MTV_Live_2021_logo.svg"/> | &nbsp; | not-working |
+| 146 | MTV Classics | [>](http://200.115.120.1:8000/play/ca053) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/1/10/MTV_Classic_US.svg"/> | &nbsp; | not-working |
 | 147 | CBS Sports Network | [>](http://40.160.24.52/CBS_SPORTS_NETWORK/index.m3u8) | <img height="20" src="https://pbs.twimg.com/profile_images/1356268043941380099/QHq2W42n_400x400.jpg"/> | &nbsp; | not-working |
 | 148 | BET West | [>](http://40.160.24.52/BET_WEST/index.m3u8) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/bet-us.png"/> | &nbsp; | not-working |
 | 149 | BET Soul | [>](http://40.160.24.52/BET_SOUL/index.m3u8) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/bet-soul-us.png"/> | &nbsp; | not-working |
