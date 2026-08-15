@@ -1,43 +1,43 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Indosiar_2015.svg/960px-Indosiar_2015.svg.png?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=thumbnail" group-title="Indonesia" tvg-status="stable",Indosiar
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Indosiar_2015.svg/960px-Indosiar_2015.svg.png?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=thumbnail" group-title="Indonesia" tvg-status="not-working",Indosiar
 http://165.99.194.31:5555/stream/channelid/1607944283?profile=pass
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/62/Trans_TV_2013.svg/250px-Trans_TV_2013.svg.png" group-title="Indonesia" tvg-status="stable",Trans TV
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/62/Trans_TV_2013.svg/250px-Trans_TV_2013.svg.png" group-title="Indonesia" tvg-status="not-working",Trans TV
 http://165.99.194.31:5555/stream/channelid/581358214?profile=pass
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/MNCTV_logo_2015.svg/250px-MNCTV_logo_2015.svg.png" group-title="Indonesia" tvg-status="stable",MNCTV
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/MNCTV_logo_2015.svg/250px-MNCTV_logo_2015.svg.png" group-title="Indonesia" tvg-status="not-working",MNCTV
 http://165.99.194.31:5555/stream/channelid/1277692956?profile=pass
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/RCTI_logo_2015.svg/250px-RCTI_logo_2015.svg.png" group-title="Indonesia" tvg-status="stable",RCTI
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/RCTI_logo_2015.svg/250px-RCTI_logo_2015.svg.png" group-title="Indonesia" tvg-status="not-working",RCTI
 http://165.99.194.31:5555/stream/channelid/2081562038?profile=pass
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/SCTV_Logo.svg/250px-SCTV_Logo.svg.png" group-title="Indonesia" tvg-status="stable",SCTV
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/SCTV_Logo.svg/250px-SCTV_Logo.svg.png" group-title="Indonesia" tvg-status="not-working",SCTV
 http://165.99.194.31:5555/stream/channelid/832501186?profile=pass
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/GTV_%282017%29.svg/250px-GTV_%282017%29.svg.png" group-title="Indonesia" tvg-status="stable",GTV
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/GTV_%282017%29.svg/250px-GTV_%282017%29.svg.png" group-title="Indonesia" tvg-status="not-working",GTV
 http://165.99.194.31:5555/stream/channelid/1644357918?profile=pass
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/79/Trans_7_2013.svg/250px-Trans_7_2013.svg.png" group-title="Indonesia" tvg-status="stable",Trans7
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/79/Trans_7_2013.svg/250px-Trans_7_2013.svg.png" group-title="Indonesia" tvg-status="not-working",Trans7
 http://165.99.194.31:5555/stream/channelid/314965130?profile=pass
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/250px-TVRILogo2019.svg.png" group-title="Indonesia" tvg-status="stable",TVRI
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/250px-TVRILogo2019.svg.png" group-title="Indonesia" tvg-status="not-working",TVRI
 http://165.99.194.31:5555/stream/channelid/1643956398?profile=pass
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/TVRI_Sport_2022.svg/250px-TVRI_Sport_2022.svg.png" group-title="Indonesia" tvg-status="stable",TVRI Sport
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/TVRI_Sport_2022.svg/250px-TVRI_Sport_2022.svg.png" group-title="Indonesia" tvg-status="not-working",TVRI Sport
 http://165.99.194.31:5555/stream/channelid/694030533?profile=pass
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/TVRI-World.svg/250px-TVRI-World.svg.png" group-title="Indonesia" tvg-status="stable",TVRI World
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/TVRI-World.svg/250px-TVRI-World.svg.png" group-title="Indonesia" tvg-status="not-working",TVRI World
 http://165.99.194.31:5555/stream/channelid/1105073022?profile=pass
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Moji_blue.svg/250px-Moji_blue.svg.png" group-title="Indonesia" tvg-status="stable",Moji
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Moji_blue.svg/250px-Moji_blue.svg.png" group-title="Indonesia" tvg-status="not-working",Moji
 http://165.99.194.31:5555/stream/channelid/309321154?profile=pass
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Mentari_TV_Logo.svg/250px-Mentari_TV_Logo.svg.png" group-title="Indonesia" tvg-status="stable",Mentari TV
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Mentari_TV_Logo.svg/250px-Mentari_TV_Logo.svg.png" group-title="Indonesia" tvg-status="not-working",Mentari TV
 http://165.99.194.31:5555/stream/channelid/727788124?profile=pass
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c1/LogoMetroTVsince2010.svg/250px-LogoMetroTVsince2010.svg.png" group-title="Indonesia" tvg-status="stable",Metro TV
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c1/LogoMetroTVsince2010.svg/250px-LogoMetroTVsince2010.svg.png" group-title="Indonesia" tvg-status="not-working",Metro TV
 http://165.99.194.31:5555/stream/channelid/1522765477?profile=pass
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/5a/Rajawali_Televisi.svg/250px-Rajawali_Televisi.svg.png" group-title="Indonesia" tvg-status="stable",RTV
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/5a/Rajawali_Televisi.svg/250px-Rajawali_Televisi.svg.png" group-title="Indonesia" tvg-status="not-working",RTV
 http://165.99.194.31:5555/stream/channelid/1208776666?profile=pass
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Logo_GarudaTV_Primer_Flat_2025.svg/250px-Logo_GarudaTV_Primer_Flat_2025.svg.png?utm_source=id.wikipedia.org&utm_campaign=parser&utm_content=thumbnail" group-title="Indonesia" tvg-status="stable",Garuda TV
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Logo_GarudaTV_Primer_Flat_2025.svg/250px-Logo_GarudaTV_Primer_Flat_2025.svg.png?utm_source=id.wikipedia.org&utm_campaign=parser&utm_content=thumbnail" group-title="Indonesia" tvg-status="not-working",Garuda TV
 http://165.99.194.31:5555/stream/channelid/1723456688?profile=pass
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Logo_GarudaTV_Primer_Flat_2025.svg/250px-Logo_GarudaTV_Primer_Flat_2025.svg.png?utm_source=id.wikipedia.org&utm_campaign=parser&utm_content=thumbnail" group-title="Indonesia" tvg-status="stable",CNN Indonesia
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Logo_GarudaTV_Primer_Flat_2025.svg/250px-Logo_GarudaTV_Primer_Flat_2025.svg.png?utm_source=id.wikipedia.org&utm_campaign=parser&utm_content=thumbnail" group-title="Indonesia" tvg-status="not-working",CNN Indonesia
 http://165.99.194.31:5555/stream/channelid/435455306?profile=pass
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Logo_GarudaTV_Primer_Flat_2025.svg/250px-Logo_GarudaTV_Primer_Flat_2025.svg.png?utm_source=id.wikipedia.org&utm_campaign=parser&utm_content=thumbnail" group-title="Indonesia" tvg-status="stable",CNBC Indonesia
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Logo_GarudaTV_Primer_Flat_2025.svg/250px-Logo_GarudaTV_Primer_Flat_2025.svg.png?utm_source=id.wikipedia.org&utm_campaign=parser&utm_content=thumbnail" group-title="Indonesia" tvg-status="not-working",CNBC Indonesia
 http://165.99.194.31:5555/stream/channelid/982041083?profile=pass
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/INews.svg/250px-INews.svg.png" group-title="Indonesia" tvg-status="stable",iNews
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/INews.svg/250px-INews.svg.png" group-title="Indonesia" tvg-status="not-working",iNews
 http://165.99.194.31:5555/stream/channelid/688705997?profile=pass
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Nusantara_TV_Logo.svg/250px-Nusantara_TV_Logo.svg.png" group-title="Indonesia" tvg-status="stable",Nusantara TV
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Nusantara_TV_Logo.svg/250px-Nusantara_TV_Logo.svg.png" group-title="Indonesia" tvg-status="not-working",Nusantara TV
 http://165.99.194.31:5555/stream/channelid/1222728102?profile=pass
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Sin_Po_TV.svg/960px-Sin_Po_TV.svg.png?utm_source=id.wikipedia.org&utm_campaign=index&utm_content=thumbnail" group-title="Indonesia" tvg-status="stable",Sin Po TV
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Sin_Po_TV.svg/960px-Sin_Po_TV.svg.png?utm_source=id.wikipedia.org&utm_campaign=index&utm_content=thumbnail" group-title="Indonesia" tvg-status="not-working",Sin Po TV
 http://165.99.194.31:5555/stream/channelid/1113469873?profile=pass
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/BN_Channel.png/250px-BN_Channel.png" group-title="Indonesia" tvg-status="stable",BN Channel
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/BN_Channel.png/250px-BN_Channel.png" group-title="Indonesia" tvg-status="not-working",BN Channel
 http://165.99.194.31:5555/stream/channelid/1727430197?profile=pass
