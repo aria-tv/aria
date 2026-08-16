@@ -301,8 +301,14 @@ http://38.127.211.18/live/c2eds/GLCAhWeTV/HLS/GLCAhWeTV.m3u8
 http://38.127.211.18/live/c2eds/GLCDiscover/HLS/GLCDiscover.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Guyana 🇬🇾" tvg-status="stable",GLC EleVate
 http://live.dreamtv.gy/live/c2eds/GLCEleVate/HLS/GLCEleVate.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/hungary/m1-hu.png" group-title="Hungary 🇭🇺" tvg-status="stable",M1 HD
+http://79.119.212.83:9981/stream/channelid/1122008738?profile=pass
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/hungary/m2-hu.png" group-title="Hungary 🇭🇺" tvg-status="stable",M2 / M2 Petőfi HD
 http://88.212.15.19/live/m2_hun/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/hungary/m4-sport-hu.png" group-title="Hungary 🇭🇺" tvg-status="stable",M4 Sport HD
+http://79.119.212.83:9981/stream/channelid/1330861512?profile=pass
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/hungary/duna-hu.png" group-title="Hungary 🇭🇺" tvg-status="stable",Duna HD
+http://79.119.212.83:9981/stream/channelid/410193204?profile=pass
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/hungary/rtl-gold-hu.png" group-title="Hungary 🇭🇺" tvg-status="stable",RTL Gold
 https://dash2.antik.sk/live/test_film_plus_2_hungary_1200_atk/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/hungary/prime-hu.png" group-title="Hungary 🇭🇺" tvg-status="stable",Prime HD
