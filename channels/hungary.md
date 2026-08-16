@@ -2,10 +2,10 @@
 
 | # | Channel | Link | Logo | EPG id | Type |
 |:-:|:-------:|:----:|:----:|:------:|:----:|
-| 1 | M1 HD | [>](http://94.21.17.223:9981/stream/channelid/984922418?profile=pass) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/hungary/m1-hu.png"/> | &nbsp; | not-working |
+| 1 | M1 HD | [>](http://79.119.212.83:9981/stream/channelid/1122008738?profile=pass) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/hungary/m1-hu.png"/> | &nbsp; | stable |
 | 2 | M2 / M2 Petőfi HD | [>](http://88.212.15.19/live/m2_hun/index.m3u8) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/hungary/m2-hu.png"/> | &nbsp; | stable |
-| 3 | M4 Sport HD | [>](http://94.21.17.223:9981/stream/channelid/1485032170?profile=pass) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/hungary/m4-sport-hu.png"/> | &nbsp; | not-working |
-| 4 | Duna HD | [>](http://5.223.51.162:9981/stream/channelid/1005178271?profile=pass) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/hungary/duna-hu.png"/> | &nbsp; | not-working |
+| 3 | M4 Sport HD | [>](http://79.119.212.83:9981/stream/channelid/1330861512?profile=pass) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/hungary/m4-sport-hu.png"/> | &nbsp; | stable |
+| 4 | Duna HD | [>](http://79.119.212.83:9981/stream/channelid/410193204?profile=pass) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/hungary/duna-hu.png"/> | &nbsp; | stable |
 | 5 | Duna World / M4 Sport+ HD | [>](http://5.223.51.162:9981/stream/channelid/590603902?profile=pass) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/hungary/duna-world-hu.png"/> | &nbsp; | not-working |
 | 6 | M5 HD | [>](http://88.212.15.19/live/test_m_5_hun_atk_1200/playlist.m3u8) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/hungary/m5-hu.png"/> | &nbsp; | unstable |
 | 7 | RTL HU HD | [>](http://94.21.17.223:9981/stream/channelid/1268791284?profile=pass) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/hungary/rtl-hu.png"/> | &nbsp; | not-working |
