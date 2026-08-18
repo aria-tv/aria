@@ -245,7 +245,7 @@ http://line.iptvhunt.com:80/play/live.php?mac=00:1A:79:53:70:7D&stream=177347&ex
 http://line.iptvhunt.com:80/play/live.php?mac=00:1A:79:53:70:7D&stream=177348&extension=ts&play_token=Db465ouJKc
 #EXTINF:-1 tvg-id="TVO.Toronto.ON.ca" tvg-logo="https://i.ibb.co/cXNyTPHW/TVOntario-2022.png" group-title="Canada 🇨🇦" tvg-status="unstable",TVO
 http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/29297.ts
-#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/bc/UC-LOGO-90px.png/revision/latest?cb=20231213194918" group-title="Canada 🇨🇦" tvg-status="not-working",Univision Canada
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/bc/UC-LOGO-90px.png/revision/latest?cb=20231213194918" group-title="Canada 🇨🇦" tvg-status="unstable",Univision Canada
 http://line.iptvhunt.com:80/play/live.php?mac=00:1A:79:53:70:7D&stream=1423363&extension=ts&play_token=KTesRam0An
 #EXTINF:-1 tvg-id="USA.Network.(CAN).ca" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/usa-network-ca.png" group-title="Canada 🇨🇦" tvg-status="unstable",USA Network
 http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/29245.ts
@@ -284,7 +284,7 @@ http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/29376.ts
 #EXTINF:-1 tvg-id="evasion.ca" tvg-logo="https://cdn.vev.design/cdn-cgi/image/f=auto,q=82,w=1920/private/gymRnPp2f0dtMHSH31xxfsdMDVp1/image/Ltd-1m54GK.png" group-title="Canada 🇨🇦" tvg-status="unstable",Evasion
 http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/48973.ts
 #EXTINF:-1 tvg-id="Frisson.TV.ca" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/07/Frissons_TV_New.png" group-title="Canada 🇨🇦" tvg-status="not-working",Frisson TV
-http://stream.ultimate-tvservice.com:8080/live/Jalen/Jalen16/265481.ts
+http://line.iptvhunt.com:80/play/live.php?mac=00:1A:79:53:70:7D&stream=177289&extension=ts&play_token=QtAZI5MJdO
 #EXTINF:-1 tvg-id="historia.ca" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/07/Historia_2022_logo.webp" group-title="Canada 🇨🇦" tvg-status="unstable",Historia
 http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/29294.ts
 #EXTINF:-1 tvg-id="artv.ca" tvg-logo="" group-title="Canada 🇨🇦" tvg-status="unstable",ICI Artv
@@ -378,8 +378,10 @@ http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/50302.ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://hollywoodsuite.ca/build/assets/2010s-movies-l1Uk349B.svg" group-title="Canada 🇨🇦" tvg-status="unstable",Hollywood Suite 2010s+
 http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/50299.ts
 #EXTINF:-1 tvg-id="Noovo.(CFJP).Montreal.QC.ca" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s15696_h15_ac.png" group-title="Canada 🇨🇦" tvg-status="not-working",Noovo
-http://174.91.200.77:9981/stream/channelid/866993111?profile=pass
+http://line.iptvhunt.com:80/play/live.php?mac=00:1A:79:53:70:7D&stream=1475311&extension=ts&play_token=BBI6j31U4o
 #EXTINF:-1 tvg-id="tele.quebec.civq.quebec.ca" tvg-logo="https://media.starlite.best/tele.quebec.civq.quebec.ca.png" group-title="Canada 🇨🇦" tvg-status="not-working",Tele Québec
 http://line.iptvhunt.com:80/play/live.php?mac=00:1A:79:53:70:7D&stream=177312&extension=ts&play_token=xgb1HQEBXg
-#EXTINF:-1 tvg-id="Global.(CIII-DT-41).Toronto.ca" tvg-logo="https://www.globaltv.com/wp-content/themes/globaltv-child/assets/icons/sitelogo.svg" group-title="Canada 🇨🇦" tvg-status="stable",Global Montreal (CKMI)
+#EXTINF:-1 tvg-id="Global.(CIII-DT-41).Toronto.ca" tvg-logo="https://www.globaltv.com/wp-content/themes/globaltv-child/assets/icons/sitelogo.svg" group-title="Canada 🇨🇦" tvg-status="unstable",Global Montreal (CKMI)
 http://line.iptvhunt.com:80/play/live.php?mac=00:1A:79:53:70:7D&stream=177402&extension=ts&play_token=ojBE7knrjL
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/MAtv_logo.svg/250px-MAtv_logo.svg.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail" group-title="Canada 🇨🇦" tvg-status="unstable",MA tv
+http://line.iptvhunt.com:80/play/live.php?mac=00:1A:79:53:70:7D&stream=177299&extension=ts&play_token=SN6ZDWVwxf
