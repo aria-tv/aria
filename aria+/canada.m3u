@@ -319,9 +319,9 @@ http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/29347.ts
 http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/29346.ts
 #EXTINF:-1 tvg-id="super.ecran.4.ca" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/super-ecran-4-ca.png" group-title="Canada 🇨🇦" tvg-status="unstable",Super Ecran 4
 http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/29345.ts
-#EXTINF:-1 tvg-id="tv5.international.east.ca" tvg-logo="https://m1.quebecormedia.com/emp/emp/523b7520-b555-11ee-a6d6-3701d1640652_ORIGINAL.jpg?impolicy=crop-resize&x=0&y=0&w=1200&h=312&width=925" group-title="Canada 🇨🇦" tvg-status="not-working",Témoin
-http://theariatv.github.io/channeldead.mp
-#EXTINF:-1 tvg-id="tele.quebec.civq.quebec.ca" tvg-logo="https://media.starlite.best/tele.quebec.civq.quebec.ca.png" group-title="Canada 🇨🇦" tvg-status="not-working",Tele Québec
+#EXTINF:-1 tvg-id="" tvg-logo="https://m1.quebecormedia.com/emp/emp/523b7520-b555-11ee-a6d6-3701d1640652_ORIGINAL.jpg?impolicy=crop-resize&x=0&y=0&w=1200&h=312&width=925" group-title="Canada 🇨🇦" tvg-status="not-working",Témoin
+http://line.iptvhunt.com:80/play/live.php?mac=00:1A:79:53:70:7D&stream=177297&extension=ts&play_token=v1rpRDWVPu
+#EXTINF:-1 tvg-id="tele.quebec.civq.quebec.ca" tvg-logo="https://media.starlite.best/tele.quebec.civq.quebec.ca.png" group-title="Canada 🇨🇦" tvg-status="unstable",Tele Québec
 http://174.91.200.77:9981/stream/channelid/1253789227?profile=pass
 #EXTINF:-1 tvg-id="tltoon.franais.ca" tvg-logo="https://media.starlite.best/tltoon.franais.ca.png" group-title="Canada 🇨🇦" tvg-status="unstable",Télétoon
 http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/29312.ts
