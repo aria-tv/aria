@@ -115,7 +115,7 @@
 | 111 | T+E | [>](http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/48965.ts) | <img height="20" src="https://static.wikia.nocookie.net/logopedia/images/5/5e/T%2BE_2018.svg/revision/latest?cb=20230828130826"/> | T+E.ca | unstable |
 | 112 | TeleBimbi | [>](http://tr.redatvgold.com/play/live.php?mac=00:1A:79:76:27:B6&stream=1423377&extension=ts) | <img height="20" src="https://upload.wikimedia.org/wikipedia/en/3/39/TeleBimbi.png"/> | Telebimbi.ca | not-working |
 | 113 | TeleNiños | [>](https://m3ufilter.media4u.top/live/media4u/media4u/2957.ts) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/9/9c/TeleNi%C3%B1os_Logo.png"/> | Teleninos.ca | not-working |
-| 114 | Toon-A-Vision | [>](http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/44256.ts) | <img height="20" src="https://upload.wikimedia.org/wikipedia/en/0/04/ToonAVision_logo.png"/> | Toon-a-vision.ca | unstable |
+| 114 | Toon-A-Vision | [>](http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/44256.ts) | <img height="20" src="https://upload.wikimedia.org/wikipedia/en/0/04/ToonAVision_logo.png"/> | Toon-a-vision.ca | not-working |
 | 115 | TLN | [>](http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/29264.ts) | <img height="20" src="https://i.ibb.co/cKnhRZX6/TLN-2015.png"/> | TLN.ca | unstable |
 | 116 | Treehouse | [>](http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/25264.ts) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/treehouse-ca.png"/> | treehouse.ca | unstable |
 | 117 | TSC | [>](http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/48952.ts) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/tsc-ca.png"/> | TSC.ca | unstable |

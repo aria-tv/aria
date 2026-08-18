@@ -225,7 +225,7 @@ http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/48965.ts
 http://tr.redatvgold.com/play/live.php?mac=00:1A:79:76:27:B6&stream=1423377&extension=ts
 #EXTINF:-1 tvg-id="Teleninos.ca" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9c/TeleNi%C3%B1os_Logo.png" group-title="Canada 🇨🇦" tvg-status="not-working",TeleNiños
 https://m3ufilter.media4u.top/live/media4u/media4u/2957.ts
-#EXTINF:-1 tvg-id="Toon-a-vision.ca" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/04/ToonAVision_logo.png" group-title="Canada 🇨🇦" tvg-status="unstable",Toon-A-Vision
+#EXTINF:-1 tvg-id="Toon-a-vision.ca" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/04/ToonAVision_logo.png" group-title="Canada 🇨🇦" tvg-status="not-working",Toon-A-Vision
 http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/44256.ts
 #EXTINF:-1 tvg-id="TLN.ca" tvg-logo="https://i.ibb.co/cKnhRZX6/TLN-2015.png" group-title="Canada 🇨🇦" tvg-status="unstable",TLN
 http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/29264.ts

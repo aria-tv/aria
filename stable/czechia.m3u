@@ -9,8 +9,6 @@ https://ocko-live.ssl.cdn.cra.cz/channels/ocko_expres/playlist.m3u8
 https://stream.mediawork.cz/retrotv/smil:retrotv2.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="V1.cz" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/czech-republic/tv-v1-cz.png" group-title="Czechia 🇨🇿" tvg-status="stable",Východoceská TV
 https://stream.polar.cz/vctv/vctvlive-1/playlist.m3u8
-#EXTINF:-1 tvg-id="utv.cz" tvg-logo="" group-title="Czechia 🇨🇿" tvg-status="stable",UTV
-https://vysilani.zaktv.cz/broadcast/hls/utv/index.m3u8
 #EXTINF:-1 tvg-id="AMC.cz" tvg-logo="" group-title="Czechia 🇨🇿" tvg-status="stable",AMC
 http://185.236.230.212:9981/play/a0bb
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Czechia 🇨🇿" tvg-status="stable",CANAL+ ACTION HD

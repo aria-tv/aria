@@ -11,7 +11,7 @@ https://c.mjh.nz/abc-tv-plus.m3u8
 https://c.mjh.nz/abc-news.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/australia/sbs-au.png" group-title="Australia 🇦🇺" tvg-status="unstable",SBS
 http://44.32.200.142:5004/auto/v30
-#EXTINF:-1 tvg-id="" tvg-logo="https://i0.wp.com/tvtonight.com.au/wp-content/uploads/SBS2-.jpg?ssl=1" group-title="Australia 🇦🇺" tvg-status="not-working",SBS2 (Launches August 21st)
+#EXTINF:-1 tvg-id="" tvg-logo="https://i0.wp.com/tvtonight.com.au/wp-content/uploads/SBS2-.jpg?ssl=1" group-title="Australia 🇦🇺" tvg-status="unstable",SBS2 (Launches August 21st)
 http://44.32.200.142:5004/auto/v31
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/australia/sbs-world-watch-au.png" group-title="Australia 🇦🇺" tvg-status="unstable",SBS World Watch
 http://44.32.200.142:5004/auto/v35
@@ -21,7 +21,7 @@ http://44.32.200.142:5004/auto/v32
 http://44.32.200.142:5004/auto/v33
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/australia/nitv-au.png" group-title="Australia 🇦🇺" tvg-status="unstable",NITV
 http://44.32.200.142:5004/auto/v34
-#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/4b/10_2025.svg/revision/latest?cb=20250629224708" group-title="Australia 🇦🇺" tvg-status="unstable",Network 10
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/4b/10_2025.svg/revision/latest?cb=20250629224708" group-title="Australia 🇦🇺" tvg-status="not-working",Network 10
 http://44.32.200.142:5004/auto/v10
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/b0/10_Drama_2025_logo.svg/330px-10_Drama_2025_logo.svg.png" group-title="Australia 🇦🇺" tvg-status="unstable",10 Drama
 http://44.32.200.142:5004/auto/v12
