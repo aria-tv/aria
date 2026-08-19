@@ -2673,6 +2673,18 @@ http://122.53.222.9:9981/stream/channelid/576146646?profile=pass
 http://122.53.222.9:9981/stream/channelid/37889196?profile=pass
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/5_Logo_2019.svg/250px-5_Logo_2019.svg.png" group-title="Philippines 🇵🇭" tvg-status="stable",TV5
 http://122.53.222.9:9981/stream/channelid/810732235?profile=pass
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/40/GTV_Philippines_Logo_Vector.svg/250px-GTV_Philippines_Logo_Vector.svg.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail" group-title="Philippines 🇵🇭" tvg-status="stable",GTV
+https://streams.comclark.com/pknsd/gtv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f8/A2Z_Channel_11_Logo.png?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=original" group-title="Philippines 🇵🇭" tvg-status="stable",A2Z
+https://streams.comclark.com/pknsd/a2z/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNssten_2Q4kCdFvDtn-nsAZAgmxvZvuH0HdYiiWEz0FJwPr2Oe-qJ54GA&s=10" group-title="Philippines 🇵🇭" tvg-status="stable",MYX
+https://streams.comclark.com/pknsd/myx/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e8/Thrill_logo.svg?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=original" group-title="Philippines 🇵🇭" tvg-status="stable",Thrill
+https://streams.comclark.com/pknsd/thrill/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ae/INC_TV_New_Logo.png?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=original" group-title="Philippines 🇵🇭" tvg-status="stable",INC TV
+https://streams.comclark.com/pknsd/inctv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/27/Tmc2021logo.png/250px-Tmc2021logo.png" group-title="Philippines 🇵🇭" tvg-status="stable",Tagalized Movie Channel
+https://streams.comclark.com/pknsd/tmc/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/poland/polsat-pl.png" group-title="Poland 🇵🇱" tvg-status="not-working",Polsat
 http://lg.peces.biz:8080/live/542567743688356131/2740112024359405/13891.ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/poland/polsat-2-pl.png" group-title="Poland 🇵🇱" tvg-status="not-working",Polsat 2
