@@ -117,7 +117,7 @@ http://lunar.pm:8080/live/2055676975/MAAvrCmWZ8FZ/69080.ts
 https://turnerlive.warnermediacdn.com/hls/live/2023186/tcmeast/noslate/VIDEO_1_5128000.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/TCM_2021.svg/1200px-TCM_2021.svg.png" group-title="United States 🇺🇸" tvg-status="stable",TCM West
 https://turnerlive.warnermediacdn.com/hls/live/2023187/tcmwest/noslate/VIDEO_1_5128000.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/cartoon-network-us.png" group-title="United States 🇺🇸" tvg-status="not-working",Cartoon Network/Adult Swim
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/cartoon-network-us.png" group-title="United States 🇺🇸" tvg-status="unstable",Cartoon Network/Adult Swim
 http://23.237.104.106:8080/USA_CARTOON_NETWORK/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/nickelodeon-us.png" group-title="United States 🇺🇸" tvg-status="unstable",Nickelodeon
 http://23.237.104.106:8080/USA_NICKELODEON/index.m3u8

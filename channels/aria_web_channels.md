@@ -8,7 +8,7 @@
 | 4 | Eel Channel | [>](https://mci01.nive.live/28/index.m3u8) | <img height="20" src="https://cdn.vaughnsoft.net/profile/1781875585/eel_ch.jpg"/> | &nbsp; | unstable |
 | 5 | Toon Disney | [>](https://mci01.nive.live/29/index.m3u8) | <img height="20" src="https://static.wikitide.net/indietvwiki/thumb/a/a1/TD_AGAIN.png/800px-TD_AGAIN.png"/> | &nbsp; | unstable |
 | 6 | Placid | [>](https://toy.vcdn.fyi/placid/index.m3u8) | <img height="20" src="https://static.wikitide.net/indietvwiki/0/03/Placid_%282026%29.svg"/> | &nbsp; | stable |
-| 7 | Magical | [>](https://watch.mistweather.com/hls/magicaltv/playlist.m3u8) | <img height="20" src="https://api.mistweather.com/api/v1.5/image/a5dacfb2-b663-40f8-a959-9cf03326f28c?width=96&height=96&fit=inside"/> | &nbsp; | stable |
+| 7 | Magical | [>](https://watch.mistweather.com/hls/magicaltv/playlist.m3u8) | <img height="20" src="https://api.mistweather.com/api/v1.5/image/a5dacfb2-b663-40f8-a959-9cf03326f28c?width=96&height=96&fit=inside"/> | &nbsp; | not-working |
 | 8 | Animax_NA | [>](https://animax.live/hls/stream.m3u8) | <img height="20" src="https://static.wikitide.net/indietvwiki/2/22/Animax_NA_logo_%282025-12-05%29-v1234.svg"/> | &nbsp; | unstable |
 | 9 | Whiplash | [>](https://cdn.whiplash.cc/whiplash/index.m3u8) | <img height="20" src="https://whiplash.cc/assets/img/channels/whiplash.png"/> | C1.1.146.ersatztv.org | stable |
 | 10 | Whiplash 2 | [>](https://cdn.whiplash.cc/whiplash-2/index.m3u8) | <img height="20" src="https://whiplash.cc/assets/img/channels/whiplash2.png"/> | C2.1.147.ersatztv.org | stable |

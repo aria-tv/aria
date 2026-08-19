@@ -37,7 +37,7 @@ http://45.185.11.126:8000/play/a085/index.m3u8
 http://45.185.11.126:8000/play/a086/index.m3u8
 #EXTINF:-1 tvg-id="Discovery.Home.and.Health.br" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/mexico/discovery-home-and-health-mx.png" group-title="Brazil 🇧🇷" tvg-status="unstable",Discovery Home and Health
 http://45.185.11.126:8000/play/a07y/index.m3u8
-#EXTINF:-1 tvg-id="Discovery.Kids.br" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/brazil/discovery-kids-br.png" group-title="Brazil 🇧🇷" tvg-status="not-working",Discovery Kids
+#EXTINF:-1 tvg-id="Discovery.Kids.br" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/brazil/discovery-kids-br.png" group-title="Brazil 🇧🇷" tvg-status="unstable",Discovery Kids
 http://45.185.11.126:8000/play/a0ad/index.m3u8
 #EXTINF:-1 tvg-id="Discovery.Science.br" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/brazil/discovery-science-br.png" group-title="Brazil 🇧🇷" tvg-status="stable",Discovery Science
 http://45.185.11.126:8000/play/a077/index.m3u8
@@ -77,7 +77,7 @@ http://143.244.35.74:8880/IgorRangelXX/IgorRangel3/2189
 http://143.244.35.74:8880/IgorRangelXX/IgorRangel3/22222
 #EXTINF:-1 tvg-id="SporTV3.br" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/brazil/sportv-3-br.png" group-title="Brazil 🇧🇷" tvg-status="unstable",Sportv 3
 http://143.244.35.74:8880/IgorRangelXX/IgorRangel3/7153
-#EXTINF:-1 tvg-id="Studio.Universal.br" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/brazil/studio-universal-br.png" group-title="Brazil 🇧🇷" tvg-status="not-working",Studio Universal
+#EXTINF:-1 tvg-id="Studio.Universal.br" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/brazil/studio-universal-br.png" group-title="Brazil 🇧🇷" tvg-status="unstable",Studio Universal
 http://143.244.35.74:8880/IgorRangelXX/IgorRangel3/60684
 #EXTINF:-1 tvg-id="Canal.Saude.br" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/brazil/canal-saude-br.png" group-title="Brazil 🇧🇷" tvg-status="stable",Canal Saude
 https://eitv7.cdn.broadpeak.io/account351-i1495/event/canalsaude/format720p.m3u8

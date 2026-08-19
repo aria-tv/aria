@@ -1,11 +1,11 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/hungary/m1-hu.png" group-title="Hungary 🇭🇺" tvg-status="stable",M1 HD
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/hungary/m1-hu.png" group-title="Hungary 🇭🇺" tvg-status="not-working",M1 HD
 http://79.119.212.83:9981/stream/channelid/1122008738?profile=pass
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/hungary/m2-hu.png" group-title="Hungary 🇭🇺" tvg-status="stable",M2 / M2 Petőfi HD
 http://88.212.15.19/live/m2_hun/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/hungary/m4-sport-hu.png" group-title="Hungary 🇭🇺" tvg-status="stable",M4 Sport HD
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/hungary/m4-sport-hu.png" group-title="Hungary 🇭🇺" tvg-status="not-working",M4 Sport HD
 http://79.119.212.83:9981/stream/channelid/1330861512?profile=pass
-#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/hungary/duna-hu.png" group-title="Hungary 🇭🇺" tvg-status="stable",Duna HD
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/hungary/duna-hu.png" group-title="Hungary 🇭🇺" tvg-status="not-working",Duna HD
 http://79.119.212.83:9981/stream/channelid/410193204?profile=pass
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/hungary/duna-world-hu.png" group-title="Hungary 🇭🇺" tvg-status="not-working",Duna World / M4 Sport+ HD
 http://5.223.51.162:9981/stream/channelid/590603902?profile=pass
