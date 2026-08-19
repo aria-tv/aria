@@ -3,7 +3,7 @@
 | # | Channel | Link | Logo | EPG id | Type |
 |:-:|:-------:|:----:|:----:|:------:|:----:|
 | 1 | Colors (SD Feed) | [>](http://103.172.29.30:9991/stream/channelid/698850802?profile=raihan/kcn) | <img height="20" src="https://static.wikia.nocookie.net/logopedia/images/2/26/Colors_2024.svg/revision/latest?cb=20250808055615"/> | &nbsp; | unstable |
-| 2 | Zee TV (HD Feed) | [>](http://103.172.29.30:9991/stream/channelid/65857522?profile=raihan/kcn) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Zee_TV_2025.svg/1200px-Zee_TV_2025.svg.png"/> | &nbsp; | unstable |
+| 2 | Zee TV (HD Feed) | [>](http://103.172.29.30:9991/stream/channelid/65857522?profile=raihan/kcn) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Zee_TV_2025.svg/1280px-Zee_TV_2025.svg.png?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=thumbnail"/> | &nbsp; | unstable |
 | 3 | Sony Entertainment Television (SET) | [>](http://38.96.178.205/SONYHD/index.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/4/48/SETindialogo_new.png"/> | &nbsp; | stable |
 | 4 | Colors Rishtey | [>](http://103.172.29.30:9991/stream/channelid/1367268710?profile=webtv-vp8-vorbis-webm) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/1/19/Colors_Rishtey_logo.png"/> | &nbsp; | unstable |
 | 5 | Colors Cineplex Bollywood | [>](http://103.253.18.58:8000/play/a00n) | <img height="20" src="https://jiotvimages.cdn.jio.com/dare_images/images/channel/4f1a268a8486f5b2a71ad044d9750a67.png"/> | &nbsp; | unstable |
@@ -49,3 +49,5 @@
 | 45 | Zee Business | [>](http://103.253.18.58:8000/play/a00c) | <img height="20" src="https://static.wikia.nocookie.net/logopedia/images/0/07/Zee_Business_%282025%29.svg/revision/latest/scale-to-width-down/1200?cb=20250609140810"/> | &nbsp; | unstable |
 | 46 | Sony BBC Earth | [>](http://103.253.18.58:8000/play/a01g) | <img height="20" src="https://www.sonybbcearth.com/images/logo.png"/> | &nbsp; | unstable |
 | 47 | Sony Pix (HD Feed) | [>](http://103.253.18.58:8000/play/a01g) | <img height="20" src="https://upload.wikimedia.org/wikipedia/en/thumb/9/90/Sony_Pix_logo.svg/1280px-Sony_Pix_logo.svg.png"/> | &nbsp; | unstable |
+| 48 | Sony Pal | [>](http://163.61.226.31:9981/stream/channelid/1325631871?ticket=44734985E5C29B00DDBF4BAE4B54783F7732A66A&profile=pass) | <img height="20" src="https://yt3.googleusercontent.com/AU6M16mvllbIJosxdTX_DA8LDrrKIGsGdx1bjfYhUNSx8_UdWiVCWAvx90pXprSpWYEhxTyB=s900-c-k-c0x00ffffff-no-rj"/> | &nbsp; | unstable |
+| 49 | DD News | [>](http://163.61.226.31:9981/stream/channelid/336339944?ticket=B0FA535C2161A9C578D6026AB913080149A3088D&profile=pass) | <img height="20" src="https://yt3.googleusercontent.com/boJiw31wL-Q7F24kbNug_a7Jr433SUKG32Qg6Saq9b48bCDj5Zlj2wo9cRx3oZ0vCr3L7A_rgw=s900-c-k-c0x00ffffff-no-rj"/> | &nbsp; | unstable |
