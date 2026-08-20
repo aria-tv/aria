@@ -19,7 +19,5 @@ https://streams.comclark.com/pknsd/a2z/playlist.m3u8
 https://streams.comclark.com/pknsd/myx/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e8/Thrill_logo.svg?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=original" group-title="Philippines 🇵🇭" tvg-status="stable",Thrill
 https://streams.comclark.com/pknsd/thrill/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ae/INC_TV_New_Logo.png?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=original" group-title="Philippines 🇵🇭" tvg-status="stable",INC TV
-https://streams.comclark.com/pknsd/inctv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/27/Tmc2021logo.png/250px-Tmc2021logo.png" group-title="Philippines 🇵🇭" tvg-status="stable",Tagalized Movie Channel
 https://streams.comclark.com/pknsd/tmc/playlist.m3u8

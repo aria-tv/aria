@@ -5,7 +5,7 @@ https://player-tvcultura.stream.uol.com.br/live/tvcultura.m3u8
 http://190.83.85.68/sbt/index.m3u8
 #EXTINF:-1 tvg-id="TV.Globo.br" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/35/TVGlobo2025.png/revision/latest?cb=20250403003551" group-title="Brazil 🇧🇷" tvg-status="stable",Globo
 https://media2.cdntvms.com.br/tv_morena_dorados/index.m3u8
-#EXTINF:-1 tvg-id="Record.TV.br" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/brazil/record-br.png" group-title="Brazil 🇧🇷" tvg-status="stable",Record
+#EXTINF:-1 tvg-id="Record.TV.br" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/brazil/record-br.png" group-title="Brazil 🇧🇷" tvg-status="not-working",Record
 http://200.77.176.130:8000/udp/224.0.0.4:49152
 #EXTINF:-1 tvg-id="Band.br" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/brazil/band-br.png" group-title="Brazil 🇧🇷" tvg-status="unstable",BAND
 https://media.cdntvms.com.br/band_sat/index.m3u8

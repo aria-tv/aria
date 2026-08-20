@@ -25,7 +25,7 @@ http://90.178.86.156:9981/stream/channelid/149509414?ticket=C9B68E4DB8D55AA47982
 https://sktv.mxnticek.eu/new/stream.php?ch=NovaGold
 #EXTINF:-1 tvg-id="NovaLady.cz" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/czech-republic/nova-lady-cz.png" group-title="Czechia 🇨🇿" tvg-status="unstable",Nova Lady
 https://sktv.mxnticek.eu/new/stream.php?ch=NovaLady
-#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/czech-republic/nova-cz.png" group-title="Czechia 🇨🇿" tvg-status="not-working",TN Live
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/czech-republic/nova-cz.png" group-title="Czechia 🇨🇿" tvg-status="unstable",TN Live
 https://sktv.mxnticek.eu/new/stream.php?ch=Nova%20TN%20Live
 #EXTINF:-1 tvg-id="Prima.cz" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/czech-republic/prima-cz.png" group-title="Czechia 🇨🇿" tvg-status="unstable",Prima
 http://90.178.86.156:9981/stream/channelid/1669214446?ticket=E3DAC28BD011EE73CD1278E95DB559C00DC7534F&profile=pass
@@ -35,7 +35,7 @@ http://90.178.86.156:9981/stream/channelid/1443888704?ticket=1881E132CE2672E53D2
 https://sktv.mxnticek.eu/new/stream.php?ch=PrimaZoom
 #EXTINF:-1 tvg-id="PrimaLove.cz" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/czech-republic/prima-love-cz.png" group-title="Czechia 🇨🇿" tvg-status="unstable",Prima Love
 http://90.178.86.156:9981/stream/channelid/737753444?ticket=377B73D5173B53527966C10C06F065C189C3BBCF&profile=pass
-#EXTINF:-1 tvg-id="PrimaStar.cz" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/czech-republic/prima-star-cz.png" group-title="Czechia 🇨🇿" tvg-status="not-working",Prima STAR
+#EXTINF:-1 tvg-id="PrimaStar.cz" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/czech-republic/prima-star-cz.png" group-title="Czechia 🇨🇿" tvg-status="unstable",Prima STAR
 https://sktv.mxnticek.eu/new/stream.php?ch=PrimaStar
 #EXTINF:-1 tvg-id="PrimaKrimi.cz" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/czech-republic/prima-krimi-cz.png" group-title="Czechia 🇨🇿" tvg-status="unstable",Prima Krimi
 https://sktv.mxnticek.eu/new/stream.php?ch=PrimaKrimi
@@ -79,7 +79,7 @@ https://vysilani.zaktv.cz/broadcast/hls/utv/index.m3u8
 https://webstream.odjezdy.online/CZ/Disney/video.m3u8
 #EXTINF:-1 tvg-id="Prima.Show.cz" tvg-logo="" group-title="Czechia 🇨🇿" tvg-status="not-working",Prima SHOW
 http://90.178.86.156:9981/stream/channelid/748255433?ticket=216B5B41838A2332296FA05EDB09FA11B1A155EE&profile=pass
-#EXTINF:-1 tvg-id="Óčko.cz" tvg-logo="" group-title="Czechia 🇨🇿" tvg-status="unstable",OCKO
+#EXTINF:-1 tvg-id="Óčko.cz" tvg-logo="" group-title="Czechia 🇨🇿" tvg-status="not-working",OCKO
 http://90.178.86.156:9981/stream/channelid/1183792288?ticket=6CE25AF67B8D74983939FCF3B123AD08A5B0BAE8&profile=pass
 #EXTINF:-1 tvg-id="Óčko.STAR.cz" tvg-logo="" group-title="Czechia 🇨🇿" tvg-status="not-working",OCKO STAR
 http://90.178.86.156:9981/stream/channelid/1340646702?ticket=6A7ED7E2087641A202EA744A9DE44B07A2EE2FAC&profile=pass
