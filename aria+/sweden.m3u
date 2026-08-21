@@ -15,7 +15,7 @@ http://217.209.209.118:9998/stream/channelid/486862516?ticket=4F5B4E8F72199338AC
 http://217.209.209.118:9998/stream/channelid/1139914988?ticket=A6EFB559A39204229CBF8EF2645EED6EAA971ECE&profile=pass
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/nordic/sweden/tv8-se.png" group-title="Sweden 🇸🇪" tvg-status="stable",TV8
 http://217.209.209.118:9998/stream/channelid/1650619950?ticket=FC31E99F5E24EDD106B94C45F8C3DB9EE7F9F46F&profile=pass
-#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/nordic/sweden/kanal-5-se.png" group-title="Sweden 🇸🇪" tvg-status="unstable",Kanal 9
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/nordic/sweden/kanal-9-se.png" group-title="Sweden 🇸🇪" tvg-status="unstable",Kanal 9
 http://217.209.209.118:9998/stream/channelid/301309186?ticket=153332E20BCEA67E786D39CF63C3E15E85A4A02E&profile=pass
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/nordic/sweden/tv10-se.png" group-title="Sweden 🇸🇪" tvg-status="not-working",TV10
 http://79.136.31.136:9998/stream/channelid/15699430?ticket=C02A2D226EF9867640D0ACB14046B8E2E8651F08&profile=pass
