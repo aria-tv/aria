@@ -17,11 +17,11 @@ http://212.252.72.103:7070/play/a00s
 http://212.252.72.103:7070/play/a00t
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/turkey/tlc-tr.png" group-title="Türkyie 🇹🇷" tvg-status="not-working",TLC
 http://212.252.72.103:7070/play/a00u
-#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/turkey/show-tv-tr.png" group-title="Türkyie 🇹🇷" tvg-status="unstable",Show TV
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/turkey/show-tv-tr.png" group-title="Türkyie 🇹🇷" tvg-status="not-working",Show TV
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:14:B4:DD&stream=196713&extension=ts&play_token=Vttkp1tmNn
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/turkey/show-max-tr.png" group-title="Türkyie 🇹🇷" tvg-status="unstable",Show Max
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:14:B4:DD&stream=196701&extension=ts&play_token=L03Yvf4xyx
-#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/turkey/star-tv-tr.png" group-title="Türkyie 🇹🇷" tvg-status="not-working",STAR TV
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/turkey/star-tv-tr.png" group-title="Türkyie 🇹🇷" tvg-status="unstable",STAR TV
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:14:B4:DD&stream=196711&extension=ts&play_token=yrVyqcfrRr
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/turkey/trt-1-tr.png" group-title="Türkyie 🇹🇷" tvg-status="unstable",TRT 1
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:14:B4:DD&stream=196715&extension=ts&play_token=wMZ7C5250Q

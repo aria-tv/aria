@@ -55,9 +55,9 @@ https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_35
 http://41.205.93.154/AMC/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/usa-us.png" group-title="United States 🇺🇸" tvg-status="not-working",USA Network
 http://40.160.24.55/USA_NETWORK/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/bet-us.png" group-title="United States 🇺🇸" tvg-status="not-working",BET
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/bet-us.png" group-title="United States 🇺🇸" tvg-status="unstable",BET
 http://nocable.cc:8080/Darrenshannon76@2.0/Darrenshannon76@2.0/13702
-#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/bet-her-us.png" group-title="United States 🇺🇸" tvg-status="not-working",BET Her
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/bet-her-us.png" group-title="United States 🇺🇸" tvg-status="unstable",BET Her
 http://nocable.cc:8080/Darrenshannon76@2.0/Darrenshannon76@2.0/137790
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/cleo-tv-us.png" group-title="United States 🇺🇸" tvg-status="unstable",Cleo TV
 http://lunar.pm:8080/live/2055676975/MAAvrCmWZ8FZ/105644.ts
@@ -67,7 +67,7 @@ http://108.14.66.42:5004/auto/v31.2
 http://108.14.66.42:5004/auto/v2.3
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/bbc-america-us.png" group-title="United States 🇺🇸" tvg-status="stable",BBC America
 https://bcovlive-a.akamaihd.net/7f5ec16d102f4b5d92e8e27bc95ff424/us-east-1/6240731308001/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/up-tv-us.png" group-title="United States 🇺🇸" tvg-status="not-working",UP TV
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/up-tv-us.png" group-title="United States 🇺🇸" tvg-status="unstable",UP TV
 http://nocable.cc:8080/Darrenshannon76@2.0/Darrenshannon76@2.0/10525
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/we-tv-us.png" group-title="United States 🇺🇸" tvg-status="unstable",We TV
 http://nocable.cc:8080/Darrenshannon76@2.0/Darrenshannon76@2.0/9237
@@ -85,7 +85,7 @@ http://23.237.104.106:8080/USA_FXX/index.m3u8
 http://41.205.93.154/BRAVO/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/e-entertainment-us.png" group-title="United States 🇺🇸" tvg-status="unstable",E!
 http://23.237.104.106:8080/USA_E/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/tlc-us.png" group-title="United States 🇺🇸" tvg-status="not-working",TLC
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/tlc-us.png" group-title="United States 🇺🇸" tvg-status="unstable",TLC
 http://nocable.cc:8080/Darrenshannon76@2.0/Darrenshannon76@2.0/46691
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/paramount-network-us.png" group-title="United States 🇺🇸" tvg-status="unstable",Paramount Network
 http://23.237.104.106:8080/USA_PARAMOUNT_NETWORK/index.m3u8
@@ -121,13 +121,13 @@ https://turnerlive.warnermediacdn.com/hls/live/2023187/tcmwest/noslate/VIDEO_1_5
 http://23.237.104.106:8080/USA_CARTOON_NETWORK/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/nickelodeon-us.png" group-title="United States 🇺🇸" tvg-status="unstable",Nickelodeon
 http://23.237.104.106:8080/USA_NICKELODEON/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/disney-channel-us.png" group-title="United States 🇺🇸" tvg-status="not-working",Disney Channel
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/disney-channel-us.png" group-title="United States 🇺🇸" tvg-status="unstable",Disney Channel
 http://nocable.cc:8080/Darrenshannon76@2.0/Darrenshannon76@2.0/2206
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/discovery-family-us.png" group-title="United States 🇺🇸" tvg-status="unstable",Discovery Family (DFC)
 http://nocable.cc:8080/Darrenshannon76@2.0/Darrenshannon76@2.0/57347
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/byu-tv-us.png" group-title="United States 🇺🇸" tvg-status="not-working",BYU TV
 http://128.230.54.128:5004/auto/v64.1
-#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/nick-jr-us.png" group-title="United States 🇺🇸" tvg-status="unstable",Nick Jr.
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/nick-jr-us.png" group-title="United States 🇺🇸" tvg-status="not-working",Nick Jr.
 http://nocable.cc:8080/Darrenshannon76@2.0/Darrenshannon76@2.0/46710
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/disney-xd-us.png" group-title="United States 🇺🇸" tvg-status="unstable",Disney XD
 http://23.237.104.106:8080/USA_DISNEY_XD/index.m3u8
@@ -251,9 +251,9 @@ https://fast-channels.sinclairstoryline.com/CHARGE/index.m3u8
 https://fast-channels.sinclairstoryline.com/THENEST/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/true-crime-network-us.png" group-title="United States 🇺🇸" tvg-status="unstable",True Crime Network
 https://dvrfl03.bozztv.com/hdirect/hdirect-ovair1-truecrimenetwork/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/tbn-us.png" group-title="United States 🇺🇸" tvg-status="unstable",TBN
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/tbn-us.png" group-title="United States 🇺🇸" tvg-status="not-working",TBN
 https://livecdn.use1-0004.jwplive.com/live/sites/Yal8cmyO/media/fCGf6ROk/live.isml/.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/tbn-inspire-us.png" group-title="United States 🇺🇸" tvg-status="stable",TBN Inspire
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/tbn-inspire-us.png" group-title="United States 🇺🇸" tvg-status="not-working",TBN Inspire
 https://livecdn.use1-0004.jwplive.com/live/sites/Yal8cmyO/media/yfFI83Xz/live.isml/.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Ion_logo.svg/1200px-Ion_logo.svg.png" group-title="United States 🇺🇸" tvg-status="stable",Ion
 https://jmp2.uk/plu-65453f30085df200085883d8.m3u8
