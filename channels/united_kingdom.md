@@ -23,7 +23,7 @@
 | 19 | TNT Sports 2 | [>](https://xemzi.short.gy/2000022) | <img height="20" src="https://i.imgur.com/YtGYRIB.png"/> | TNT.Sports.2.HD.uk | unstable |
 | 20 | TNT Sports 3 | [>](https://xemzi.short.gy/2000023) | <img height="20" src="https://i.imgur.com/z1d9M65.png"/> | TNT.Sports.3.HD.uk | unstable |
 | 21 | TNT Sports 4 | [>](https://xemzi.short.gy/2000024) | <img height="20" src="https://i.imgur.com/K92UuvG.png"/> | TNT.Sports.4.HD.uk | unstable |
-| 22 | TNT Sports Ultimate | [>](https://xemzi.short.gy/2000031) | <img height="20" src="https://i.ibb.co/QqGdJnM/TNTSprts-U.png"/> | TNT.Sports.Ultimate.uk | not-working |
+| 22 | TNT Sports Ultimate | [>](https://xemzi.short.gy/2000031) | <img height="20" src="https://i.ibb.co/QqGdJnM/TNTSprts-U.png"/> | TNT.Sports.Ultimate.uk | unstable |
 | 23 | Sky Cinema Hits | [>](https://a1xs.vip/210002) | <img height="20" src="https://pixvid.org/images/2025/02/10/sky-cinema-hits.png"/> | Sky.Cinema.Hits.HD.uk | not-working |
 | 24 | Sky Cinema Premiere | [>](https://a1xs.vip/210003) | <img height="20" src="https://pixvid.org/images/2025/02/10/sky-cinema-premiere.png"/> | Sky.Premiere.uk | not-working |
 | 25 | Sky Cinema Select | [>](https://a1xs.vip/210004) | <img height="20" src="https://pixvid.org/images/2025/02/10/sky-cinema-select.png"/> | Sky.Cinema.Select.uk | not-working |

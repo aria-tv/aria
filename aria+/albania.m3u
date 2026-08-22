@@ -27,7 +27,7 @@ https://live1.mediadesk.al/oranews.m3u8
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:14:B4:DD&stream=5&extension=ts&play_token=Hfy3UrTiL5
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/albania/klan-al.png" group-title="Albania 🇦🇱" tvg-status="unstable",Klan
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:14:B4:DD&stream=9&extension=ts&play_token=kvqyaVR8oB
-#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/albania/rtsh1-al.png" group-title="Albania 🇦🇱" tvg-status="unstable",RTSH 1
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/albania/rtsh1-al.png" group-title="Albania 🇦🇱" tvg-status="not-working",RTSH 1
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:14:B4:DD&stream=66&extension=ts&play_token=2XLrYE2jLt
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/albania/rtsh2-al.png" group-title="Albania 🇦🇱" tvg-status="unstable",RTSH 2
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:14:B4:DD&stream=67&extension=ts&play_token=RszxpMgIa8
