@@ -21,5 +21,5 @@ http://190.60.32.178:8178/play/a07e/index.m3u8
 http://190.60.32.178:8178/play/a098/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://play-lh.googleusercontent.com/iMR8AchblZ-F96N931_Zhhsx69cmCmNooDGEM98YrCF_7wo-17tbmvrjRQtnHu-bbiiMV6D6HIToc0xDUhscXw" group-title="Columbia 🇨🇴" tvg-status="unstable",CNC Valledupuar
 http://190.60.32.178:8178/play/a098/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/73/NTN24_Logo.png" group-title="Columbia 🇨🇴" tvg-status="not-working",NTN24
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/73/NTN24_Logo.png" group-title="Columbia 🇨🇴" tvg-status="unstable",NTN24
 http://190.60.32.178:8178/play/a0ne/index.m3u8

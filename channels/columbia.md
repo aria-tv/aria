@@ -13,4 +13,4 @@
 | 9 | Mimusica Popular | [>](http://190.60.32.178:8178/play/a07e/index.m3u8) | <img height="20" src="https://www.latingroup.us/images/logommpo.png"/> | &nbsp; | unstable |
 | 10 | TV Argo | [>](http://190.60.32.178:8178/play/a098/index.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/TV_Agro_logo.svg/1280px-TV_Agro_logo.svg.png"/> | &nbsp; | unstable |
 | 11 | CNC Valledupuar | [>](http://190.60.32.178:8178/play/a098/index.m3u8) | <img height="20" src="https://play-lh.googleusercontent.com/iMR8AchblZ-F96N931_Zhhsx69cmCmNooDGEM98YrCF_7wo-17tbmvrjRQtnHu-bbiiMV6D6HIToc0xDUhscXw"/> | &nbsp; | unstable |
-| 12 | NTN24 | [>](http://190.60.32.178:8178/play/a0ne/index.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/7/73/NTN24_Logo.png"/> | &nbsp; | not-working |
+| 12 | NTN24 | [>](http://190.60.32.178:8178/play/a0ne/index.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/7/73/NTN24_Logo.png"/> | &nbsp; | unstable |

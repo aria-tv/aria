@@ -9,7 +9,7 @@ http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/29327.ts
 http://jabawalkies.club:8080/live/K1uWWBmaxJ/Xa1TFucw91/113068.ts
 #EXTINF:-1 tvg-id="BBC.Earth.HD.ca" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/bbc-earth-ca.png" group-title="Canada 🇨🇦" tvg-status="unstable",BBC Earth
 http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/29325.ts
-#EXTINF:-1 tvg-id="BBC.First.HD.ca" tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/91/BBC_First_Foxtel_logo.svg" group-title="Canada 🇨🇦" tvg-status="not-working",BBC First
+#EXTINF:-1 tvg-id="BBC.First.HD.ca" tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/91/BBC_First_Foxtel_logo.svg" group-title="Canada 🇨🇦" tvg-status="unstable",BBC First
 http://line.iptvhunt.com:80/play/live.php?mac=00:1A:79:53:70:7D&stream=176826&extension=ts&play_token=AxUFSBlRvW
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/35/BeINSports2017.png/revision/latest?cb=20170102171935" group-title="Canada 🇨🇦" tvg-status="not-working",beIN Sports Canada
 http://theariatv.github.io/channeldead.mp4
@@ -25,11 +25,11 @@ http://204.15.194.229:5004/auto/v5.1
 http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/44286.ts
 #EXTINF:-1 tvg-id="CHCH.Hamilton.ON.ca" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/chch-ca.png" group-title="Canada 🇨🇦" tvg-status="unstable",CHCH (CHCH-DT)
 http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/20974.ts
-#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/ntv-ca.png" group-title="Canada 🇨🇦" tvg-status="unstable",NTV (CJON-DT)
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/ntv-ca.png" group-title="Canada 🇨🇦" tvg-status="not-working",NTV (CJON-DT)
 http://line.iptvhunt.com:80/play/live.php?mac=00:1A:79:53:70:7D&stream=177406&extension=ts&play_token=JwwT0jaJkY
 #EXTINF:-1 tvg-id="CHEK.Victoria.BC.ca" tvg-logo="https://harbourcats.com/wp-content/uploads/2017/06/CHEK_logo_2022.svg_.png" group-title="Canada 🇨🇦" tvg-status="unstable",CHEK (CHEK-DT)
 http://44.25.145.45:5004/auto/v6.1
-#EXTINF:-1 tvg-id="CITY.Toronto.ON.ca" tvg-logo="https://media.starlite.best/city.toronto.on.ca.png" group-title="Canada 🇨🇦" tvg-status="unstable",CityTV Toronto
+#EXTINF:-1 tvg-id="CITY.Toronto.ON.ca" tvg-logo="https://media.starlite.best/city.toronto.on.ca.png" group-title="Canada 🇨🇦" tvg-status="not-working",CityTV Toronto
 http://204.15.194.229:5004/auto/v57.1
 #EXTINF:-1 tvg-id="CITY.Toronto.ON.ca" tvg-logo="https://media.starlite.best/city.toronto.on.ca.png" group-title="Canada 🇨🇦" tvg-status="not-working",CityTV Montreal
 http://theariatv.github.io/channeldead.mp4
@@ -71,13 +71,13 @@ http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/29439.ts
 http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/44272.ts
 #EXTINF:-1 tvg-id="CTV2.Barrie,.ON.ca" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/ctv-2-ca.png" group-title="Canada 🇨🇦" tvg-status="unstable",CTV2 Barrie (CKVR)
 http://stream.cammonitorplus.net/1736/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/4d/Daystar_2008_flat.svg/revision/latest/scale-to-width-down/300?cb=20230715194009" group-title="Canada 🇨🇦" tvg-status="unstable",Daystar
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/4d/Daystar_2008_flat.svg/revision/latest/scale-to-width-down/300?cb=20230715194009" group-title="Canada 🇨🇦" tvg-status="not-working",Daystar
 http://kstv.us:8080/live/Felix12/3330312491/40729.ts
 #EXTINF:-1 tvg-id="deja.view.ca" tvg-logo="https://media.starlite.best/deja.view.ca.png" group-title="Canada 🇨🇦" tvg-status="unstable",Deja View
 http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/29407.ts
 #EXTINF:-1 tvg-id="Discovery.Channel.ca" tvg-logo="https://media.starlite.best/discovery.channel.ca.png" group-title="Canada 🇨🇦" tvg-status="unstable",Discovery Channel
 http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/59398.ts
-#EXTINF:-1 tvg-id="Disney.Channel.Canada.-.East.ca" tvg-logo="https://pbs.twimg.com/media/GbUhOuOXIAA898B.jpg" group-title="Canada 🇨🇦" tvg-status="unstable",Disney Channel
+#EXTINF:-1 tvg-id="Disney.Channel.Canada.-.East.ca" tvg-logo="https://pbs.twimg.com/media/GbUhOuOXIAA898B.jpg" group-title="Canada 🇨🇦" tvg-status="not-working",Disney Channel
 http://kstv.us:8080/live/Felix12/3330312491/40725.ts
 #EXTINF:-1 tvg-id="Documentary.Channel.(Canada).ca" tvg-logo="https://media.starlite.best/documentary.channel.canada.ca.png" group-title="Canada 🇨🇦" tvg-status="unstable",Documentary (Leaves on August 31)
 http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/29401.ts
@@ -119,7 +119,7 @@ http://line.iptvhunt.com:80/play/live.php?mac=00:1A:79:53:70:7D&stream=723875&ex
 http://theariatv.github.io/channeldead.mp4
 #EXTINF:-1 tvg-id="global.calgary.ca" tvg-logo="https://assets.vms.corusappservices.com/upload/staging/Global-Calgary_GuideLogo_240x144.png" group-title="Canada 🇨🇦" tvg-status="unstable",Global Calgary (CHAN-DT)
 http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/40836.ts
-#EXTINF:-1 tvg-id="Global.Halifax.(CIHF).ca" tvg-logo="https://assets.vms.corusappservices.com/upload/staging/Global-Maritimes_GuideLogo_240x144.png" group-title="Canada 🇨🇦" tvg-status="not-working",Global Maritimes (CIHF-DT)
+#EXTINF:-1 tvg-id="Global.Halifax.(CIHF).ca" tvg-logo="https://assets.vms.corusappservices.com/upload/staging/Global-Maritimes_GuideLogo_240x144.png" group-title="Canada 🇨🇦" tvg-status="unstable",Global Maritimes (CIHF-DT)
 http://line.iptvhunt.com:80/play/live.php?mac=00:1A:79:53:70:7D&stream=1480209&extension=ts&play_token=CgBCw2WzTu
 #EXTINF:-1 tvg-id="Global.News.BC1.ca" tvg-logo="https://globalnews.ca/wp-content/uploads/2015/01/BC1-pos-hor.png?w=320" group-title="Canada 🇨🇦" tvg-status="unstable",Global News BC1
 http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/21223.ts
@@ -191,25 +191,25 @@ http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/44221.ts
 http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/29315.ts
 #EXTINF:-1 tvg-id="slice.ca" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/slice-ca.png" group-title="Canada 🇨🇦" tvg-status="unstable",Slice
 http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/44220.ts
-#EXTINF:-1 tvg-id="Smithsonian.Channel.ca" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/smithsonian-channel-ca.png" group-title="Canada 🇨🇦" tvg-status="unstable",Smithsonian Channel
+#EXTINF:-1 tvg-id="Smithsonian.Channel.ca" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/smithsonian-channel-ca.png" group-title="Canada 🇨🇦" tvg-status="not-working",Smithsonian Channel
 http://kstv.us:8080/live/Felix12/3330312491/40621.ts
 #EXTINF:-1 tvg-id="sportsman.channel.ca" tvg-logo="https://www.sportsmancanada.ca/wp-content/uploads/2019/01/sportsman-canada-logo-01.png" group-title="Canada 🇨🇦" tvg-status="unstable",Sportsman Channel
 http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/49013.ts
-#EXTINF:-1 tvg-id="sportsnet.360.ca" tvg-logo="https://media.starlite.best/sportsnet.360.ca.png" group-title="Canada 🇨🇦" tvg-status="unstable",Sportsnet 360
+#EXTINF:-1 tvg-id="sportsnet.360.ca" tvg-logo="https://media.starlite.best/sportsnet.360.ca.png" group-title="Canada 🇨🇦" tvg-status="not-working",Sportsnet 360
 http://kstv.us:8080/live/Felix12/3330312491/40618.ts
-#EXTINF:-1 tvg-id="Sportsnet.(East).-.Satellite/Digital.ca" tvg-logo="https://media.starlite.best/sportsnet.east.ca.png" group-title="Canada 🇨🇦" tvg-status="unstable",Sportsnet East
+#EXTINF:-1 tvg-id="Sportsnet.(East).-.Satellite/Digital.ca" tvg-logo="https://media.starlite.best/sportsnet.east.ca.png" group-title="Canada 🇨🇦" tvg-status="not-working",Sportsnet East
 http://kstv.us:8080/live/Felix12/3330312491/40617.ts
-#EXTINF:-1 tvg-id="sportsnet.one.ca" tvg-logo="https://media.starlite.best/sportsnet.one.ca.png" group-title="Canada 🇨🇦" tvg-status="unstable",Sportsnet One
+#EXTINF:-1 tvg-id="sportsnet.one.ca" tvg-logo="https://media.starlite.best/sportsnet.one.ca.png" group-title="Canada 🇨🇦" tvg-status="not-working",Sportsnet One
 http://kstv.us:8080/live/Felix12/3330312491/40616.ts
-#EXTINF:-1 tvg-id="Sportsnet.(Ontario).ca" tvg-logo="https://media.starlite.best/sportsnet.ontario.ca.png" group-title="Canada 🇨🇦" tvg-status="unstable",Sportsnet Ontario
+#EXTINF:-1 tvg-id="Sportsnet.(Ontario).ca" tvg-logo="https://media.starlite.best/sportsnet.ontario.ca.png" group-title="Canada 🇨🇦" tvg-status="not-working",Sportsnet Ontario
 http://kstv.us:8080/live/Felix12/3330312491/40615.ts
-#EXTINF:-1 tvg-id="Sportsnet.(Pacific).-.Satellite/Digital.ca" tvg-logo="https://media.starlite.best/sportsnet.pacific.ca.png" group-title="Canada 🇨🇦" tvg-status="unstable",Sportsnet Pacific
+#EXTINF:-1 tvg-id="Sportsnet.(Pacific).-.Satellite/Digital.ca" tvg-logo="https://media.starlite.best/sportsnet.pacific.ca.png" group-title="Canada 🇨🇦" tvg-status="not-working",Sportsnet Pacific
 http://kstv.us:8080/live/Felix12/3330312491/40614.ts
-#EXTINF:-1 tvg-id="Sportsnet.(West).-.Satellite/Digital.ca" tvg-logo="https://media.starlite.best/sportsnet.west.ca.png" group-title="Canada 🇨🇦" tvg-status="unstable",Sportsnet West
+#EXTINF:-1 tvg-id="Sportsnet.(West).-.Satellite/Digital.ca" tvg-logo="https://media.starlite.best/sportsnet.west.ca.png" group-title="Canada 🇨🇦" tvg-status="not-working",Sportsnet West
 http://kstv.us:8080/live/Felix12/3330312491/40613.ts
 #EXTINF:-1 tvg-id="STARZ1.-.East.ca" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/starz-1-ca.png" group-title="Canada 🇨🇦" tvg-status="unstable",STARZ
 http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/48993.ts
-#EXTINF:-1 tvg-id="STARZ2.-.East.ca" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/starz-2-ca.png" group-title="Canada 🇨🇦" tvg-status="unstable",STARZ 2
+#EXTINF:-1 tvg-id="STARZ2.-.East.ca" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/starz-2-ca.png" group-title="Canada 🇨🇦" tvg-status="not-working",STARZ 2
 http://portal5458.com:8080/live/Y18QnUSTwM/52775199980/40717.ts
 #EXTINF:-1 tvg-id="super.channel.fuse.ca" tvg-logo="https://media.starlite.best/super.channel.fuse.ca.png" group-title="Canada 🇨🇦" tvg-status="unstable",Super Channel Fuse
 http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/29350.ts
@@ -239,9 +239,9 @@ http://line.iptvhunt.com:80/play/live.php?mac=00:1A:79:53:70:7D&stream=177344&ex
 http://line.iptvhunt.com:80/play/live.php?mac=00:1A:79:53:70:7D&stream=177345&extension=ts&play_token=lO0NWNKhxQ
 #EXTINF:-1 tvg-id="TSN3.ca" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/tsn-3-ca.png" group-title="Canada 🇨🇦" tvg-status="not-working",TSN 3
 http://line.iptvhunt.com:80/play/live.php?mac=00:1A:79:53:70:7D&stream=177346&extension=ts&play_token=iQ4hjatmX6
-#EXTINF:-1 tvg-id="TSN4.ca" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/tsn-4-ca.png" group-title="Canada 🇨🇦" tvg-status="unstable",TSN 4
+#EXTINF:-1 tvg-id="TSN4.ca" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/tsn-4-ca.png" group-title="Canada 🇨🇦" tvg-status="not-working",TSN 4
 http://line.iptvhunt.com:80/play/live.php?mac=00:1A:79:53:70:7D&stream=177347&extension=ts&play_token=zepdEYXk0N
-#EXTINF:-1 tvg-id="TSN5.ca" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/tsn-5-ca.png" group-title="Canada 🇨🇦" tvg-status="not-working",TSN 5
+#EXTINF:-1 tvg-id="TSN5.ca" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/tsn-5-ca.png" group-title="Canada 🇨🇦" tvg-status="unstable",TSN 5
 http://line.iptvhunt.com:80/play/live.php?mac=00:1A:79:53:70:7D&stream=177348&extension=ts&play_token=Db465ouJKc
 #EXTINF:-1 tvg-id="TVO.Toronto.ON.ca" tvg-logo="https://i.ibb.co/cXNyTPHW/TVOntario-2022.png" group-title="Canada 🇨🇦" tvg-status="unstable",TVO
 http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/29297.ts
@@ -353,7 +353,7 @@ http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/29370.ts
 http://204.15.194.229:5004/auto/v5.1
 #EXTINF:-1 tvg-id="CBUT.HDTV.(CBUTHD).ca" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/cbc-ca.png" group-title="Canada 🇨🇦" tvg-status="unstable",CBC West
 http://44.25.145.45:5004/auto/v2.1
-#EXTINF:-1 tvg-id="CITY.Toronto.ON.ca" tvg-logo="https://media.starlite.best/city.montreal.qc.ca.png" group-title="Canada 🇨🇦" tvg-status="unstable",CityTV
+#EXTINF:-1 tvg-id="CITY.Toronto.ON.ca" tvg-logo="https://media.starlite.best/city.montreal.qc.ca.png" group-title="Canada 🇨🇦" tvg-status="not-working",CityTV
 http://204.15.194.229:5004/auto/v57.1
 #EXTINF:-1 tvg-id="CITY.Toronto.ON.ca" tvg-logo="https://media.starlite.best/city.montreal.qc.ca.png" group-title="Canada 🇨🇦" tvg-status="unstable",CityTV Vancouver (CKVU)
 http://44.25.145.45:5004/auto/v27.1
@@ -367,7 +367,7 @@ http://44.25.145.45:5004/auto/v32.1
 http://44.25.145.45:5004/auto/v23.1
 #EXTINF:-1 tvg-id="Global.(CIII-DT-41).Toronto.ca" tvg-logo="https://www.globaltv.com/wp-content/themes/globaltv-child/assets/icons/sitelogo.svg" group-title="Canada 🇨🇦" tvg-status="stable",Global Winnipeg (CKND)
 http://stream.cammonitorplus.net/1730/index.m3u8
-#EXTINF:-1 tvg-id="Global.(CIII-DT-41).Toronto.ca" tvg-logo="https://assets.vms.corusappservices.com/upload/staging/Global-BC_GuideLogo_240x144.png" group-title="Canada 🇨🇦" tvg-status="unstable",Global BC (CHAN)
+#EXTINF:-1 tvg-id="Global.(CIII-DT-41).Toronto.ca" tvg-logo="https://assets.vms.corusappservices.com/upload/staging/Global-BC_GuideLogo_240x144.png" group-title="Canada 🇨🇦" tvg-status="not-working",Global BC (CHAN)
 http://44.25.145.45:5004/auto/v8.1
 #EXTINF:-1 tvg-id="" tvg-logo="https://hollywoodsuite.ca/build/assets/70s-movies-logo-DlqznX7p.svg" group-title="Canada 🇨🇦" tvg-status="unstable",Hollywood Suite 70s+
 http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/50300.ts
@@ -377,11 +377,11 @@ http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/50301.ts
 http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/50302.ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://hollywoodsuite.ca/build/assets/2010s-movies-l1Uk349B.svg" group-title="Canada 🇨🇦" tvg-status="unstable",Hollywood Suite 2010s+
 http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/50299.ts
-#EXTINF:-1 tvg-id="Noovo.(CFJP).Montreal.QC.ca" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s15696_h15_ac.png" group-title="Canada 🇨🇦" tvg-status="unstable",Noovo
+#EXTINF:-1 tvg-id="Noovo.(CFJP).Montreal.QC.ca" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s15696_h15_ac.png" group-title="Canada 🇨🇦" tvg-status="not-working",Noovo
 http://line.iptvhunt.com:80/play/live.php?mac=00:1A:79:53:70:7D&stream=1475311&extension=ts&play_token=BBI6j31U4o
 #EXTINF:-1 tvg-id="tele.quebec.civq.quebec.ca" tvg-logo="https://media.starlite.best/tele.quebec.civq.quebec.ca.png" group-title="Canada 🇨🇦" tvg-status="not-working",Tele Québec
 http://line.iptvhunt.com:80/play/live.php?mac=00:1A:79:53:70:7D&stream=177312&extension=ts&play_token=xgb1HQEBXg
-#EXTINF:-1 tvg-id="Global.(CIII-DT-41).Toronto.ca" tvg-logo="https://www.globaltv.com/wp-content/themes/globaltv-child/assets/icons/sitelogo.svg" group-title="Canada 🇨🇦" tvg-status="not-working",Global Montreal (CKMI)
+#EXTINF:-1 tvg-id="Global.(CIII-DT-41).Toronto.ca" tvg-logo="https://www.globaltv.com/wp-content/themes/globaltv-child/assets/icons/sitelogo.svg" group-title="Canada 🇨🇦" tvg-status="unstable",Global Montreal (CKMI)
 http://line.iptvhunt.com:80/play/live.php?mac=00:1A:79:53:70:7D&stream=177402&extension=ts&play_token=ojBE7knrjL
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/MAtv_logo.svg/250px-MAtv_logo.svg.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail" group-title="Canada 🇨🇦" tvg-status="not-working",MA tv
 http://line.iptvhunt.com:80/play/live.php?mac=00:1A:79:53:70:7D&stream=177299&extension=ts&play_token=SN6ZDWVwxf
