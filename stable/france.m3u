@@ -1,4 +1,18 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="TF1.fr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/france/tf1-fr.png" group-title="France 🇫🇷" tvg-status="stable",TF1
+http://5.180.164.197:8080/TF1/index.m3u8
+#EXTINF:-1 tvg-id="France.2.fr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/france/france-2-fr.png" group-title="France 🇫🇷" tvg-status="stable",France 2
+http://5.180.164.197:8080/FRANCE2/index.m3u8
+#EXTINF:-1 tvg-id="France.3.fr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/france/france-3-fr.png" group-title="France 🇫🇷" tvg-status="stable",France 3
+http://5.180.164.197:8080/FRANCE3/index.m3u8
+#EXTINF:-1 tvg-id="France.4.fr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/france/france-4-fr.png" group-title="France 🇫🇷" tvg-status="stable",France 4
+http://5.180.164.197:8080/FRANCE4/index.m3u8
+#EXTINF:-1 tvg-id="France.5.fr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/france/france-5-fr.png" group-title="France 🇫🇷" tvg-status="stable",France 5
+http://5.180.164.197:8080/FRANCE5/index.m3u8
+#EXTINF:-1 tvg-id="M6.fr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/france/m6-fr.png" group-title="France 🇫🇷" tvg-status="stable",M6
+http://5.180.164.197:8080/M6/index.m3u8
+#EXTINF:-1 tvg-id="TMC.fr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/france/tmc-fr.png" group-title="France 🇫🇷" tvg-status="stable",TMC
+http://5.180.164.197:8080/FRANCE3/index.m3u8
 #EXTINF:-1 tvg-id="CNEWS.fr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/france/c-news-fr.png" group-title="France 🇫🇷" tvg-status="stable",CNEWS
 https://hls-m015-live-aka-canalplus.akamaized.net/live/disk/cnews-clair-hd/hls-v3-hd-clair/cnews-clair-hd.m3u8
 #EXTINF:-1 tvg-id="BRM.TV.fr" tvg-logo="https://image.pitchbook.com/dWDSQSDJ8ecWy934fnow6ctIBBg1691505723976_200x200" group-title="France 🇫🇷" tvg-status="stable",BFM TV
