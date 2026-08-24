@@ -695,6 +695,14 @@ https://qvc-amd-live.akamaized.net/hls/live/2034113/lshsn1us/master.m3u8
 https://qvc-amd-live.akamaized.net/hls/live/2034113/lshsn1uswest/master.m3u8
 #EXTINF:-1 tvg-id="HSN2.us" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/11/HSN2_2018.svg/revision/latest?cb=20221114163129" group-title="United States 🇺🇸" tvg-status="stable",HSN 2
 https://qvc-amd-live.akamaized.net/hls/live/2034113/lshsn2us/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/0V6R2Zt5/IMG-2483.png" group-title="United States 🇺🇸" tvg-status="stable",HBO Hits
+http://4.30.180.36:8420/hbo2/index.m3u8?token=test
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/hbo-comedy-us.png" group-title="United States 🇺🇸" tvg-status="stable",HBO Comedy
+http://40.160.24.58/HBO_COMEDY_SD/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/sdTjcT6F/IMG-2484.png" group-title="United States 🇺🇸" tvg-status="stable",HBO Drama
+https://tvpass.org/live/HBOSignatureEast/sd
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/pv3f5J0T/IMG-2486.png" group-title="United States 🇺🇸" tvg-status="stable",HBO Movies
+http://23.237.104.106:8080/USA_HBO_ZONE/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/story-television-us.png" group-title="United States 🇺🇸" tvg-status="stable",Story Television
 https://2-fss-1.streamhoster.com/pl_122/206858-4412976-1/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/charge-us.png" group-title="United States 🇺🇸" tvg-status="stable",Charge
@@ -713,6 +721,8 @@ https://qvc-amd-live.akamaized.net/hls/live/2034113/lsqvc1uswest/master.m3u8
 https://qvc-amd-live.akamaized.net/hls/live/2034113/lsqvc2us/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/cXTmtzvd/1000024590-removebg-preview.png" group-title="United States 🇺🇸" tvg-status="stable",First Channel America
 https://amtv.tulixcdn.com/amtv4/am4abr/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/7NkDvSVR/IMG-2488.png" group-title="United States 🇺🇸" tvg-status="stable",HBO Latino
+https://messi.damitv.st/papi/ts/hbolatino-usa/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Vietnam 🇻🇳" tvg-status="stable",HTV1
 https://freem3u.xyz/api/live/play.m3u8?vid=190
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Vietnam 🇻🇳" tvg-status="stable",HTV2
