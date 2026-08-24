@@ -120,10 +120,10 @@
 | 116 | STARZ | [>](http://23.237.104.106:8080/USA_STARZ/index.m3u8) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/starz-us.png"/> | &nbsp; | unstable |
 | 117 | FXM | [>](http://47.40.181.39:9981/stream/channelid/6404291?profile=pass) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/fxm-us.png"/> | &nbsp; | not-working |
 | 118 | HBO | [>](https://tvpass.org/live/HBOEast/sd) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/hbo-us.png"/> | &nbsp; | not-working |
-| 119 | HBO Hits | [>](https://tvpass.org/live/HBO2East/sd) | HBO Hits | &nbsp; | not-working |
-| 120 | HBO Comedy | [>](https://tvpass.org/live/HBOComedyEast/sd) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/hbo-comedy-us.png"/> | &nbsp; | not-working |
-| 121 | HBO Drama | [>](https://tvpass.org/live/HBOSignatureEast/sd) | HBO Drama | &nbsp; | not-working |
-| 122 | HBO Movies | [>](https://tvpass.org/live/HBOZoneEast/sd) | HBO Movies | &nbsp; | not-working |
+| 119 | HBO Hits | [>](http://4.30.180.36:8420/hbo2/index.m3u8?token=test) | <img height="20" src="https://i.ibb.co/0V6R2Zt5/IMG-2483.png"/> | &nbsp; | stable |
+| 120 | HBO Comedy | [>](http://40.160.24.58/HBO_COMEDY_SD/index.m3u8) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/hbo-comedy-us.png"/> | &nbsp; | stable |
+| 121 | HBO Drama | [>](https://tvpass.org/live/HBOSignatureEast/sd) | <img height="20" src="https://i.ibb.co/sdTjcT6F/IMG-2484.png"/> | &nbsp; | stable |
+| 122 | HBO Movies | [>](http://23.237.104.106:8080/USA_HBO_ZONE/index.m3u8) | <img height="20" src="https://i.ibb.co/pv3f5J0T/IMG-2486.png"/> | &nbsp; | stable |
 | 123 | Story Television | [>](https://2-fss-1.streamhoster.com/pl_122/206858-4412976-1/chunklist.m3u8) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/story-television-us.png"/> | &nbsp; | stable |
 | 124 | Charge | [>](https://fast-channels.sinclairstoryline.com/CHARGE/index.m3u8) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/charge-us.png"/> | &nbsp; | stable |
 | 125 | The Nest | [>](https://fast-channels.sinclairstoryline.com/THENEST/index.m3u8) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/the-nest-us.png"/> | &nbsp; | stable |
@@ -166,3 +166,4 @@
 | 162 | QVC3 | [>](https://qvc-amd-live.akamaized.net/hls/live/2034113/lsqvc3us/master.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/QVC_Logo.svg/615px-QVC_Logo.svg.png"/> | QVC3.us | unstable |
 | 163 | Discovery Turbo | [>](https://gpuserver3.tier1streams.com/MOTORTREND/index.m3u8) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/discovery-turbo-us.png"/> | &nbsp; | not-working |
 | 164 | Aspire | [>](https://gpuserver3.tier1streams.com/ASPIRE/index.m3u8) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/aspire-us.png"/> | &nbsp; | not-working |
+| 165 | HBO Latino | [>](https://messi.damitv.st/papi/ts/hbolatino-usa/playlist.m3u8) | <img height="20" src="https://i.ibb.co/7NkDvSVR/IMG-2488.png"/> | &nbsp; | stable |
