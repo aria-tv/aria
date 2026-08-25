@@ -2383,6 +2383,24 @@ http://209.61.12.77:9000/play/a08v/index.m3u8
 http://209.61.12.77:9000/play/a08i/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/74/StudioUniversal2016.png?utm_source=www.wikidata.org&utm_campaign=index&utm_content=thumbnail_unscaled" group-title="Latin America 🌎" tvg-status="stable",Studio Universal
 http://209.61.12.77:9000/play/a06y/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://ltv.lsm.lv/files/logo/LTV1-logo.png" group-title="Latvia 🇱🇻" tvg-status="stable",LTV1
+http://ba261103.amazzin.pw/iptv/9YNR783B2M6ANV6KFA25R382/6353/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://ltv.lsm.lv/files/logo/LTV7-logo.png" group-title="Latvia 🇱🇻" tvg-status="stable",LTV7
+http://ba261103.amazzin.pw/iptv/9YNR783B2M6ANV6KFA25R382/6354/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/TV3_Baltics_%282019%29.svg/120px-TV3_Baltics_%282019%29.svg.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail" group-title="Latvia 🇱🇻" tvg-status="stable",TV3
+http://ba261103.amazzin.pw/iptv/9YNR783B2M6ANV6KFA25R382/6412/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/lv/thumb/2/27/TV4-2022.png/960px-TV4-2022.png?utm_source=lv.wikipedia.org&utm_campaign=index&utm_content=thumbnail&_=20211231200005" group-title="Latvia 🇱🇻" tvg-status="stable",TV4
+http://ba261103.amazzin.pw/iptv/9YNR783B2M6ANV6KFA25R382/18026/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/TV6_Logo_2022.svg/120px-TV6_Logo_2022.svg.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail" group-title="Latvia 🇱🇻" tvg-status="stable",TV6
+http://ba261103.amazzin.pw/iptv/9YNR783B2M6ANV6KFA25R382/18027/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Latvia 🇱🇻" tvg-status="stable",360 TV
+http://ba261103.amazzin.pw/iptv/9YNR783B2M6ANV6KFA25R382/18013/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Latvia 🇱🇻" tvg-status="stable",TV 24
+http://ba261103.amazzin.pw/iptv/9YNR783B2M6ANV6KFA25R382/6410/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Latvia 🇱🇻" tvg-status="stable",8 TV
+http://ba261103.amazzin.pw/iptv/9YNR783B2M6ANV6KFA25R382/18014/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Latvia 🇱🇻" tvg-status="stable",RE TV
+http://ba261103.amazzin.pw/iptv/9YNR783B2M6ANV6KFA25R382/6406/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/LRT_TV_Logo_2022.svg/250px-LRT_TV_Logo_2022.svg.png" group-title="Lithuania 🇱🇹" tvg-status="unstable",LRT TV
 http://stream.mcquack.net/31/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/LRT_Plius_Logo_2022.svg/250px-LRT_Plius_Logo_2022.svg.png" group-title="Lithuania 🇱🇹" tvg-status="unstable",LRT Plius
