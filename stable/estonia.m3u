@@ -1,9 +1,9 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/72/Duo3.svg/revision/latest?cb=20210822031500" group-title="Estonia 🇪🇪" tvg-status="stable",Duo 3
 http://217.159.149.163:9091/play/a04k
-#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5a/Duo4.svg/revision/latest?cb=20220620223703" group-title="Estonia 🇪🇪" tvg-status="stable",Duo 4
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/ec/Duo_Drama_%282026%29.svg/revision/latest/scale-to-width-down/250?cb=20260810112238" group-title="Estonia 🇪🇪" tvg-status="stable",Duo Drama
 http://217.159.149.163:9091/play/a05c
-#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/63/Duo5.svg/revision/latest?cb=20220620223854" group-title="Estonia 🇪🇪" tvg-status="stable",Duo 5
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/87/Duo_Star_%282026%29.svg/revision/latest/scale-to-width-down/250?cb=20260810114607" group-title="Estonia 🇪🇪" tvg-status="stable",Duo Star
 http://217.159.149.163:9091/play/a04s
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/55/Duo6.svg/revision/latest?cb=20210822031606" group-title="Estonia 🇪🇪" tvg-status="stable",Duo 6
 http://217.159.149.163:9091/play/a04r
