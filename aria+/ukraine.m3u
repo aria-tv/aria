@@ -23,3 +23,13 @@ http://cdnua03.hls.tv/476/hls/c4a7acbb4f6a85595a117f7aa2099d65/74/stream.m3u8
 http://stream.mcquack.net/339/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/iepfanon/images/4/43/Pixel_TV_logo.png/revision/latest?cb=20230709150514" group-title="Ukraine 🇺🇦" tvg-status="stable",Pixel TV
 https://cdn15.live-tv.cloud/ua_infinitas_tv/pixel-abr/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Suspilne_Kultura_%282022%29.svg/250px-Suspilne_Kultura_%282022%29.svg.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail" group-title="Ukraine 🇺🇦" tvg-status="stable",Suspline Kultura
+http://ba261103.amazzin.pw/iptv/9YNR783B2M6ANV6KFA25R382/31747/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Pershyi_%282022%29.svg/250px-Pershyi_%282022%29.svg.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail" group-title="Ukraine 🇺🇦" tvg-status="stable",Pryshei
+http://ba261103.amazzin.pw/iptv/9YNR783B2M6ANV6KFA25R382/6376/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Suspilne_Sport_%282022%29.svg/250px-Suspilne_Sport_%282022%29.svg.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail" group-title="Ukraine 🇺🇦" tvg-status="stable",Suspline Sport
+http://ba261103.amazzin.pw/iptv/9YNR783B2M6ANV6KFA25R382/31750/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://tvtvtv.ru/logos/niki_kids.png" group-title="Ukraine 🇺🇦" tvg-status="stable",NIKI Kids
+http://ba261103.amazzin.pw/iptv/9YNR783B2M6ANV6KFA25R382/6332/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://tvtvtv.ru/logos/niki_junior.png" group-title="Ukraine 🇺🇦" tvg-status="not-working",NIKI Junior
+http://ba261103.amazzin.pw/iptv/9YNR783B2M6ANV6KFA25R382/6332/index.m3u8
