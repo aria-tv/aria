@@ -11,9 +11,9 @@ http://88.207.21.218:9981/stream/channelid/1956094901?profile=pass
 http://88.207.21.218:9981/stream/channelid/1370121079?profile=pass
 #EXTINF:-1 tvg-id="" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/croatia/rtl2-hr.png?raw=true" group-title="Croatia 🇭🇷" tvg-status="stable",RTL 2
 http://88.207.21.218:9981/stream/channelid/1367283234?profile=pass
-#EXTINF:-1 tvg-id="" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/croatia/rtl-kockica-hr.png?raw=true" group-title="Croatia 🇭🇷" tvg-status="stable",RTL Kockica
+#EXTINF:-1 tvg-id="" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/croatia/rtl-kockica-hr.png?raw=true" group-title="Croatia 🇭🇷" tvg-status="not-working",RTL Kockica
 http://88.207.21.218:9981/stream/channelid/352766752?profile=pass
-#EXTINF:-1 tvg-id="" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/croatia/nova-hr.png?raw=true" group-title="Croatia 🇭🇷" tvg-status="stable",Nova HD
+#EXTINF:-1 tvg-id="" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/croatia/nova-hr.png?raw=true" group-title="Croatia 🇭🇷" tvg-status="not-working",Nova HD
 http://89.201.195.79:9981/stream/channelid/294410472?profile=pass
 #EXTINF:-1 tvg-id="" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/croatia/rtl-living-hr.png?raw=true" group-title="Croatia 🇭🇷" tvg-status="stable",Doma HD
 http://88.207.21.218:9981/stream/channelid/1300843533?profile=pass
@@ -21,25 +21,25 @@ http://88.207.21.218:9981/stream/channelid/1300843533?profile=pass
 https://bpcdnmanprod.nexttv.ht.hr/bpk-tv/Promo/default/index.mpd
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Croatia 🇭🇷" tvg-status="unstable",N1 info HR (CNN Croatia)
 https://best-str.umn.cdn.united.cloud/stream?stream=sp1400&sp=n1info&channel=n1hrv&u=n1info&p=n1Sh4redSecre7iNf0&player=m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/croatia/rtl-living-hr.png?raw=true" group-title="Croatia 🇭🇷" tvg-status="stable",RTL Living
+#EXTINF:-1 tvg-id="" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/croatia/rtl-living-hr.png?raw=true" group-title="Croatia 🇭🇷" tvg-status="not-working",RTL Living
 http://88.207.21.218:9981/stream/channelid/1188033740?profile=pass
-#EXTINF:-1 tvg-id="" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/croatia/rtl-crime-hr.png?raw=true" group-title="Croatia 🇭🇷" tvg-status="stable",RTL Crime
+#EXTINF:-1 tvg-id="" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/croatia/rtl-crime-hr.png?raw=true" group-title="Croatia 🇭🇷" tvg-status="not-working",RTL Crime
 http://88.207.21.218:9981/stream/channelid/888216525?profile=pass
-#EXTINF:-1 tvg-id="" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/croatia/rtl-adria-hr.png?raw=true" group-title="Croatia 🇭🇷" tvg-status="stable",RTL Adria
+#EXTINF:-1 tvg-id="" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/croatia/rtl-adria-hr.png?raw=true" group-title="Croatia 🇭🇷" tvg-status="not-working",RTL Adria
 http://88.207.21.218:9981/stream/channelid/1782700814?profile=pass
-#EXTINF:-1 tvg-id="" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/croatia/rtl-passion-hr.png?raw=true" group-title="Croatia 🇭🇷" tvg-status="stable",RTL Passion
+#EXTINF:-1 tvg-id="" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/croatia/rtl-passion-hr.png?raw=true" group-title="Croatia 🇭🇷" tvg-status="not-working",RTL Passion
 http://88.207.21.218:9981/stream/channelid/1631882802?profile=pass
-#EXTINF:-1 tvg-id="" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/croatia/toon-kids-hr.png?raw=true" group-title="Croatia 🇭🇷" tvg-status="stable",Toon Kids
+#EXTINF:-1 tvg-id="" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/croatia/toon-kids-hr.png?raw=true" group-title="Croatia 🇭🇷" tvg-status="not-working",Toon Kids
 http://88.207.21.218:9981/stream/channelid/2043736018?profile=pass
-#EXTINF:-1 tvg-id="" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/croatia/jugoton-tv-hr.png?raw=true" group-title="Croatia 🇭🇷" tvg-status="stable",Jugoton TV
+#EXTINF:-1 tvg-id="" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/croatia/jugoton-tv-hr.png?raw=true" group-title="Croatia 🇭🇷" tvg-status="not-working",Jugoton TV
 http://88.207.21.218:9981/stream/channelid/1154560296?profile=pass
-#EXTINF:-1 tvg-id="" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/croatia/kino-tv-hr.png?raw=true" group-title="Croatia 🇭🇷" tvg-status="stable",Kino TV
+#EXTINF:-1 tvg-id="" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/croatia/kino-tv-hr.png?raw=true" group-title="Croatia 🇭🇷" tvg-status="not-working",Kino TV
 http://88.207.21.218:9981/stream/channelid/1393287692?profile=pass
-#EXTINF:-1 tvg-id="" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/croatia/sportska-televizija-hr.png?raw=true" group-title="Croatia 🇭🇷" tvg-status="stable",Sportska Televizija
+#EXTINF:-1 tvg-id="" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/croatia/sportska-televizija-hr.png?raw=true" group-title="Croatia 🇭🇷" tvg-status="not-working",Sportska Televizija
 http://88.207.21.218:9981/stream/channelid/93847705?profile=pass
-#EXTINF:-1 tvg-id="" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/croatia/cmc-hr.png?raw=true" group-title="Croatia 🇭🇷" tvg-status="stable",CMC
+#EXTINF:-1 tvg-id="" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/croatia/cmc-hr.png?raw=true" group-title="Croatia 🇭🇷" tvg-status="not-working",CMC
 http://88.207.21.218:9981/stream/channelid/1495964521?profile=pass
-#EXTINF:-1 tvg-id="" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/croatia/otv-hr.png?raw=true" group-title="Croatia 🇭🇷" tvg-status="stable",OTV
+#EXTINF:-1 tvg-id="" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/croatia/otv-hr.png?raw=true" group-title="Croatia 🇭🇷" tvg-status="not-working",OTV
 http://88.207.21.218:9981/stream/channelid/457754451?profile=pass
-#EXTINF:-1 tvg-id="" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/croatia/blue-televizija-hr.png?raw=true" group-title="Croatia 🇭🇷" tvg-status="stable",Blue Televizija
+#EXTINF:-1 tvg-id="" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/croatia/blue-televizija-hr.png?raw=true" group-title="Croatia 🇭🇷" tvg-status="not-working",Blue Televizija
 http://88.207.21.218:9981/stream/channelid/93847705?profile=pass

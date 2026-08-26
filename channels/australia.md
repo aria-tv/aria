@@ -8,17 +8,17 @@
 | 4 | ABC Family | [>](https://c.mjh.nz/abc-tv-plus.m3u8) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/australia/abc-family-au.png"/> | &nbsp; | unstable |
 | 5 | ABC News | [>](https://c.mjh.nz/abc-news.m3u8) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/australia/abc-news-au.png"/> | &nbsp; | unstable |
 | 6 | SBS | [>](http://44.32.200.142:5004/auto/v30) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/australia/sbs-au.png"/> | &nbsp; | unstable |
-| 7 | SBS2 | [>](http://44.32.200.142:5004/auto/v31) | <img height="20" src="https://i0.wp.com/tvtonight.com.au/wp-content/uploads/SBS2-.jpg?ssl=1"/> | &nbsp; | not-working |
+| 7 | SBS2 | [>](http://44.32.200.142:5004/auto/v31) | <img height="20" src="https://i0.wp.com/tvtonight.com.au/wp-content/uploads/SBS2-.jpg?ssl=1"/> | &nbsp; | unstable |
 | 8 | SBS World Watch | [>](http://44.32.200.142:5004/auto/v35) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/australia/sbs-world-watch-au.png"/> | &nbsp; | unstable |
-| 9 | SBS World Movie | [>](http://44.32.200.142:5004/auto/v32) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/australia/sbs-world-movie-au.png"/> | &nbsp; | unstable |
+| 9 | SBS World Movie | [>](http://44.32.200.142:5004/auto/v32) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/australia/sbs-world-movie-au.png"/> | &nbsp; | not-working |
 | 10 | SBS Food | [>](http://44.32.200.142:5004/auto/v33) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/australia/sbs-food-au.png"/> | &nbsp; | unstable |
 | 11 | NITV | [>](http://44.32.200.142:5004/auto/v34) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/australia/nitv-au.png"/> | &nbsp; | unstable |
 | 12 | Network 10 | [>](http://44.32.200.142:5004/auto/v10) | <img height="20" src="https://static.wikia.nocookie.net/logopedia/images/4/4b/10_2025.svg/revision/latest?cb=20250629224708"/> | &nbsp; | unstable |
 | 13 | 10 Drama | [>](http://44.32.200.142:5004/auto/v12) | <img height="20" src="https://upload.wikimedia.org/wikipedia/en/thumb/b/b0/10_Drama_2025_logo.svg/330px-10_Drama_2025_logo.svg.png"/> | &nbsp; | unstable |
 | 14 | 10 Comedy | [>](http://44.32.200.142:5004/auto/v11) | <img height="20" src="https://static.wikia.nocookie.net/logopedia/images/e/e9/10_Comedy.svg/revision/latest?cb=20250629224211"/> | &nbsp; | unstable |
-| 15 | Nickelodeon | [>](http://44.32.200.142:5004/auto/v13) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/australia/nickelodeon-au.png"/> | &nbsp; | not-working |
+| 15 | Nickelodeon | [>](http://44.32.200.142:5004/auto/v13) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/australia/nickelodeon-au.png"/> | &nbsp; | unstable |
 | 16 | You TV | [>](http://44.32.200.142:5004/auto/v16) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/australia/you-tv-au.png"/> | &nbsp; | unstable |
-| 17 | Gecko | [>](http://44.32.200.142:5004/auto/v17) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/australia/gecko-tv-au.png"/> | &nbsp; | unstable |
+| 17 | Gecko | [>](http://44.32.200.142:5004/auto/v17) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/australia/gecko-tv-au.png"/> | &nbsp; | not-working |
 | 18 | 7 Network | [>](http://44.32.200.142:5004/auto/v7) | <img height="20" src="https://static.wikia.nocookie.net/logopedia/images/f/fa/Seven_%282003%29.svg/revision/latest?cb=20210502163741"/> | &nbsp; | unstable |
 | 19 | 7two | [>](http://44.32.200.142:5004/auto/v72) | <img height="20" src="https://static.wikia.nocookie.net/logopedia/images/3/33/7two_2020.svg/revision/latest?cb=20200728123516"/> | &nbsp; | unstable |
 | 20 | 7mate | [>](http://44.32.200.142:5004/auto/v74) | <img height="20" src="https://static.wikia.nocookie.net/logopedia/images/5/54/7mate_2020.svg/revision/latest?cb=20200710160634"/> | &nbsp; | unstable |

@@ -18,5 +18,4 @@
 | 14 | Pryshei | [>](http://ba261103.amazzin.pw/iptv/9YNR783B2M6ANV6KFA25R382/6376/index.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Pershyi_%282022%29.svg/250px-Pershyi_%282022%29.svg.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"/> | &nbsp; | stable |
 | 15 | Suspline Sport | [>](http://ba261103.amazzin.pw/iptv/9YNR783B2M6ANV6KFA25R382/31750/index.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Suspilne_Sport_%282022%29.svg/250px-Suspilne_Sport_%282022%29.svg.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"/> | &nbsp; | stable |
 | 16 | NIKI Kids | [>](http://ba261103.amazzin.pw/iptv/9YNR783B2M6ANV6KFA25R382/6332/index.m3u8) | <img height="20" src="https://tvtvtv.ru/logos/niki_kids.png"/> | &nbsp; | stable |
-| 17 | NIKI Junior | [>](http://ba261103.amazzin.pw/iptv/9YNR783B2M6ANV6KFA25R382/6332/index.m3u8) | <img height="20" src="https://tvtvtv.ru/logos/niki_junior.png"/> | &nbsp; | not-working |
-
+| 17 | NIKI Junior | [>](http://ba261103.amazzin.pw/iptv/9YNR783B2M6ANV6KFA25R382/6332/index.m3u8) | <img height="20" src="https://tvtvtv.ru/logos/niki_junior.png"/> | &nbsp; | stable |
