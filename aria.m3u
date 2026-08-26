@@ -456,9 +456,9 @@ https://fastly.live.brightcove.com/6384196213112/eu-west-1/1555966122001/eyJhbGc
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/17/C%C3%BAla4_logo_II.svg/revision/latest?cb=20231115010116" group-title="Ireland 🇮🇪" tvg-status="stable",Cúla4
 http://41.180.140.146:4200/bysid/2106
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/israel/kan11-il.png" group-title="Israel 🇮🇱" tvg-status="stable",Kan 11
-https://kancdn.medonecdn.net/livehls/oil/kancdn-live/live/kan11/live.livx/playlist.m3u8
+http://ilvip.net:80/live/0546556529/0546556529/44550.ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/israel/keshet12-il.png" group-title="Israel 🇮🇱" tvg-status="stable",Keshet 12
-https://mako-streaming.akamaized.net/direct/hls/live/2033791/k12/index.m3u8
+http://ilvip.net:80/live/0546556529/0546556529/17734.ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/israel/reshet13-il.png" group-title="Israel 🇮🇱" tvg-status="stable",Reshet 13
 https://d2xg1g9o5vns8m.cloudfront.net/out/v1/0855d703f7d5436fae6a9c7ce8ca5075/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/israel/channel14-il.png" group-title="Israel 🇮🇱" tvg-status="stable",Channel 14
@@ -551,23 +551,23 @@ http://209.61.12.77:9000/play/a08v/index.m3u8
 http://209.61.12.77:9000/play/a08i/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/74/StudioUniversal2016.png?utm_source=www.wikidata.org&utm_campaign=index&utm_content=thumbnail_unscaled" group-title="Latin America 🌎" tvg-status="stable",Studio Universal
 http://209.61.12.77:9000/play/a06y/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://ltv.lsm.lv/files/logo/LTV1-logo.png" group-title="Latvia 🇱🇻" tvg-status="stable",LTV1
+#EXTINF:-1 tvg-id="" tvg-logo="https://ltv.lsm.lv/files/logo/LTV1-logo.png" group-title="Latvia" tvg-status="stable",LTV1
 http://ba261103.amazzin.pw/iptv/9YNR783B2M6ANV6KFA25R382/6353/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://ltv.lsm.lv/files/logo/LTV7-logo.png" group-title="Latvia 🇱🇻" tvg-status="stable",LTV7
+#EXTINF:-1 tvg-id="" tvg-logo="https://ltv.lsm.lv/files/logo/LTV7-logo.png" group-title="Latvia" tvg-status="stable",LTV7
 http://ba261103.amazzin.pw/iptv/9YNR783B2M6ANV6KFA25R382/6354/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/TV3_Baltics_%282019%29.svg/120px-TV3_Baltics_%282019%29.svg.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail" group-title="Latvia 🇱🇻" tvg-status="stable",TV3
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/TV3_Baltics_%282019%29.svg/120px-TV3_Baltics_%282019%29.svg.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail" group-title="Latvia" tvg-status="stable",TV3
 http://ba261103.amazzin.pw/iptv/9YNR783B2M6ANV6KFA25R382/6412/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/lv/thumb/2/27/TV4-2022.png/960px-TV4-2022.png?utm_source=lv.wikipedia.org&utm_campaign=index&utm_content=thumbnail&_=20211231200005" group-title="Latvia 🇱🇻" tvg-status="stable",TV4
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/lv/thumb/2/27/TV4-2022.png/960px-TV4-2022.png?utm_source=lv.wikipedia.org&utm_campaign=index&utm_content=thumbnail&_=20211231200005" group-title="Latvia" tvg-status="stable",TV4
 http://ba261103.amazzin.pw/iptv/9YNR783B2M6ANV6KFA25R382/18026/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/TV6_Logo_2022.svg/120px-TV6_Logo_2022.svg.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail" group-title="Latvia 🇱🇻" tvg-status="stable",TV6
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/TV6_Logo_2022.svg/120px-TV6_Logo_2022.svg.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail" group-title="Latvia" tvg-status="stable",TV6
 http://ba261103.amazzin.pw/iptv/9YNR783B2M6ANV6KFA25R382/18027/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Latvia 🇱🇻" tvg-status="stable",360 TV
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Latvia" tvg-status="stable",360 TV
 http://ba261103.amazzin.pw/iptv/9YNR783B2M6ANV6KFA25R382/18013/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Latvia 🇱🇻" tvg-status="stable",TV 24
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Latvia" tvg-status="stable",TV 24
 http://ba261103.amazzin.pw/iptv/9YNR783B2M6ANV6KFA25R382/6410/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Latvia 🇱🇻" tvg-status="stable",8 TV
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Latvia" tvg-status="stable",8 TV
 http://ba261103.amazzin.pw/iptv/9YNR783B2M6ANV6KFA25R382/18014/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Latvia 🇱🇻" tvg-status="stable",RE TV
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Latvia" tvg-status="stable",RE TV
 http://ba261103.amazzin.pw/iptv/9YNR783B2M6ANV6KFA25R382/6406/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1e/LNK_logotipas.png" group-title="Lithuania 🇱🇹" tvg-status="stable",LNK
 http://stream.mcquack.net/30/index.m3u8
@@ -704,6 +704,8 @@ http://ba261103.amazzin.pw/iptv/9YNR783B2M6ANV6KFA25R382/6376/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Suspilne_Sport_%282022%29.svg/250px-Suspilne_Sport_%282022%29.svg.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail" group-title="Ukraine 🇺🇦" tvg-status="stable",Suspline Sport
 http://ba261103.amazzin.pw/iptv/9YNR783B2M6ANV6KFA25R382/31750/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://tvtvtv.ru/logos/niki_kids.png" group-title="Ukraine 🇺🇦" tvg-status="stable",NIKI Kids
+http://ba261103.amazzin.pw/iptv/9YNR783B2M6ANV6KFA25R382/6332/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://tvtvtv.ru/logos/niki_junior.png" group-title="Ukraine 🇺🇦" tvg-status="stable",NIKI Junior
 http://ba261103.amazzin.pw/iptv/9YNR783B2M6ANV6KFA25R382/6332/index.m3u8
 #EXTINF:-1 tvg-id="STV.uk" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/stv-uk.png" group-title="United Kingdom 🇬🇧" tvg-status="stable",STV
 https://csm-e-stv-eb.tls1.yospace.com/csm/extlive/stv01,prd-ml-stv-edi-subs.m3u8
