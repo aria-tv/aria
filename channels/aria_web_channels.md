@@ -16,10 +16,11 @@
 | 12 | Window TV | [>](https://cdn.whiplash.cc/whiplash-windowtv/index.m3u8) | <img height="20" src="https://whiplash.cc/assets/img/channels/windowtv.png"/> | C3.147.ersatztv.org | stable |
 | 13 | Atlas | [>](https://cdn.whiplash.cc/whiplash-atlas/index.m3u8) | <img height="20" src="https://whiplash.cc/assets/img/channels/atlas.png"/> | C7.151.ersatztv.org | stable |
 | 14 | zén!th | [>](https://live.azenagroup.com/zenith/index.m3u8) | <img height="20" src="https://webchnl.com/assets/img/channelicons/zenith.png?v=1773360618"/> | zenith | stable |
-| 15 | Valuto Cinema 4K (Only available in high-end supported device) | [>](http://199.245.173.253:5004/auto/v3.12) | <img height="20" src="https://cdn271.picsart.com/2a5ca8bb-c621-4c2f-8731-960d6794f83f/511979701017201.png?to=crop&type=webp&r=540x540&q=85"/> | &nbsp; | unstable |
+| 15 | Valuto Cinema | [>](http://199.245.173.253:5004/auto/v3.12) | <img height="20" src="https://cdn271.picsart.com/1195f887-8d8b-4743-a651-3e78afc830a2/525454119013201.png?to=crop&type=webp&r=540x216&q=85"/> | &nbsp; | unstable |
 | 16 | Totalmusic | [>](https://cdn.global.elektamedia.com/live/c7eds/Totalmusic/SA_LIVE_hls_enc/master.m3u8) | <img height="20" src="https://webchnl.com/assets/img/channelicons/totalmusic.png"/> | &nbsp; | stable |
 | 17 | Totalmusic 80s | [>](https://cdn.global.elektamedia.com/live/c7eds/Totalmusic_80s/SA_LIVE_hls_enc/master.m3u8) | <img height="20" src="https://webchnl.com/assets/img/channelicons/totalmusic80s.png"/> | &nbsp; | stable |
 | 18 | Totalmusic 00s | [>](https://cdn.global.elektamedia.com/live/c7eds/Totalmusic_00s/SA_LIVE_hls_enc/master.m3u8) | <img height="20" src="https://webchnl.com/assets/img/channelicons/totalmusic00s.png"/> | &nbsp; | stable |
 | 19 | Totalmusic Concerts | [>](https://cdn.global.elektamedia.com/live/c7eds/Totalmusic_Concerts/SA_LIVE_hls_enc/master.m3u8) | <img height="20" src="https://webchnl.com/assets/img/channelicons/totalmusicconcerts.png"/> | &nbsp; | stable |
 | 20 | Totalmusic Dance | [>](https://cdn.global.elektamedia.com/live/c7eds/Totalmusic_Dance/SA_LIVE_hls_enc/master.m3u8) | <img height="20" src="https://webchnl.com/assets/img/channelicons/totalmusicdance.png"/> | &nbsp; | stable |
 | 21 | 4GTV | [>](https://4gtv.ngrok.app/hls/stream.m3u8) | 4GTV | &nbsp; | not-working |
+| 15 | Valuto One | [>](http://199.245.173.253:5004/auto/v3.11) | <img height="20" src="https://cdn271.picsart.com/7c6237cf-5ace-44ce-b521-3a4a8e4d688a/525453302021201.png?to=crop&type=webp&r=540x205&q=85"/> | &nbsp; | unstable |
