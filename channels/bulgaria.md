@@ -2,11 +2,11 @@
 
 | # | Channel | Link | Logo | EPG id | Type |
 |:-:|:-------:|:----:|:----:|:------:|:----:|
-| 1 | BNT 1 | [>](http://213.91.179.28:8000/play/a046) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/bulgaria/bnt-1-bg.png"/> | &nbsp; | not-working |
-| 2 | BNT 2 | [>](http://213.91.179.28:8000/play/a049) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/bulgaria/bnt-2-bg.png"/> | &nbsp; | not-working |
-| 3 | BNT 3 | [>](http://213.91.179.28:8000/play/a03x) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/bulgaria/bnt-3-bg.png"/> | &nbsp; | not-working |
-| 4 | BTV | [>](http://213.91.179.28:8000/play/a03w) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/bulgaria/btv-bg.png"/> | &nbsp; | not-working |
-| 5 | Nova | [>](http://213.91.179.28:8000/play/a03l) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/bulgaria/nova-bg.png"/> | &nbsp; | not-working |
+| 1 | BNT 1 | [>](http://78.130.234.23:9981/stream/channelid/955603877?profile=pass) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/bulgaria/bnt-1-bg.png"/> | &nbsp; | unstable |
+| 2 | BNT 2 | [>](http://78.130.234.23:9981/stream/channelid/1041587135?profile=pass) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/bulgaria/bnt-2-bg.png"/> | &nbsp; | unstable |
+| 3 | BNT 3 | [>](http://78.130.234.23:9981/stream/channelid/771436299?profile=pass) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/bulgaria/bnt-3-bg.png"/> | &nbsp; | unstable |
+| 4 | BTV | [>](http://78.130.234.23:9981/stream/channelid/1705831601?profile=pass) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/bulgaria/btv-bg.png"/> | &nbsp; | unstable |
+| 5 | Nova | [>](http://78.130.234.23:9981/stream/channelid/652387266?profile=pass) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/bulgaria/nova-bg.png"/> | &nbsp; | unstable |
 | 6 | Diema | [>](http://78.130.234.23:9981/stream/channelid/860780088?profile=pass) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/bulgaria/diema-bg.png"/> | &nbsp; | unstable |
 | 7 | Bulgaria On Air | [>](http://78.130.234.23:9981/stream/channelid/682879119?profile=pass) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/bulgaria/bulgaria-on-air-bg.png"/> | &nbsp; | unstable |
 | 8 | BTV Action | [>](http://78.130.234.23:9981/stream/channelid/1546373372?profile=pass) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/bulgaria/btv-action-bg.png"/> | &nbsp; | unstable |
