@@ -3,8 +3,6 @@
 https://dev-live.livetvstream.co.uk/LS-63503-4/chunklist_b1196000.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Iran 🇮🇷" tvg-status="stable",AVA Series
 https://avaserieshls.wns.live/hls/stream.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Iran 🇮🇷" tvg-status="stable",Newflix
-https://newfhls.wns.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Iran 🇮🇷" tvg-status="stable",Afra Film
 https://afrafhls.wns.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Iran 🇮🇷" tvg-status="stable",Arax
@@ -55,8 +53,6 @@ https://slonehls.wns.live/hls/stream.m3u8
 https://sltwohls.wns.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Iran 🇮🇷" tvg-status="stable",Manoto HD
 https://m3u.iranvids.com/manoto/output.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Iran 🇮🇷" tvg-status="stable",AVA Family
-https://familyhls.avatv.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Iran 🇮🇷" tvg-status="stable",24/7 Box
 https://hls.247box.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Iran 🇮🇷" tvg-status="stable",VOA Farsi

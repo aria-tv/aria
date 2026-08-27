@@ -36,7 +36,7 @@
 | 32 | Persiana Sports | [>](https://stream2.removie.raha.af/live/smil:persiasptv.smil/chunklist_w1529468251_b1500000.m3u8) | Persiana Sports | &nbsp; | not-working |
 | 33 | Iran International | [>](https://dev-live.livetvstream.co.uk/LS-63503-4/chunklist_b1196000.m3u8) | Iran International | &nbsp; | stable |
 | 34 | AVA Series | [>](https://avaserieshls.wns.live/hls/stream.m3u8) | AVA Series | &nbsp; | stable |
-| 35 | Newflix | [>](https://newfhls.wns.live/hls/stream.m3u8) | Newflix | &nbsp; | stable |
+| 35 | Newflix | [>](https://newfhls.wns.live/hls/stream.m3u8) | Newflix | &nbsp; | not-working |
 | 36 | Afra Film | [>](https://afrafhls.wns.live/hls/stream.m3u8) | Afra Film | &nbsp; | stable |
 | 37 | Afra Series | [>](https://afrashls.wns.live/hls/stream.m3u8) | Afra Series | &nbsp; | not-working |
 | 38 | Arax | [>](https://araxhls.wns.live/hls/stream.m3u8) | Arax | &nbsp; | stable |
@@ -68,7 +68,7 @@
 | 64 | SL Two | [>](https://sltwohls.wns.live/hls/stream.m3u8) | SL Two | &nbsp; | stable |
 | 65 | Manoto HD | [>](https://m3u.iranvids.com/manoto/output.m3u8) | Manoto HD | &nbsp; | stable |
 | 66 | PBC Tapesh | [>](https://iptv.tapesh.tv/tapesh/playlist_low/index.m3u8) | PBC Tapesh | &nbsp; | unstable |
-| 67 | AVA Family | [>](https://familyhls.avatv.live/hls/stream.m3u8) | AVA Family | &nbsp; | stable |
+| 67 | AVA Family | [>](https://familyhls.avatv.live/hls/stream.m3u8) | AVA Family | &nbsp; | not-working |
 | 68 | 24/7 Box | [>](https://hls.247box.live/hls/stream.m3u8) | 24/7 Box | &nbsp; | stable |
 | 69 | VOA Farsi | [>](https://voa-ingest.akamaized.net/hls/live/2033876/tvmc07/playlist_0360.m3u8) | VOA Farsi | &nbsp; | stable |
 | 70 | Radio Farda | [>](https://rfe-ingest.akamaized.net/hls/live/2033042/tvmc01/playlist.m3u8) | Radio Farda | &nbsp; | stable |

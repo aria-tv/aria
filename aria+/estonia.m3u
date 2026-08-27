@@ -5,9 +5,9 @@ http://84.50.161.79:9981/stream/channelid/102111302?ticket=D9DC0134FD558A4AB7700
 http://ba261103.amazzin.pw/iptv/9YNR783B2M6ANV6KFA25R382/6403/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a2/ETV%2B_logo.png" group-title="Estonia 🇪🇪" tvg-status="unstable",ETV +
 http://ba261103.amazzin.pw/iptv/9YNR783B2M6ANV6KFA25R382/14133/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/TV3_Baltics_%282019%29.svg/120px-TV3_Baltics_%282019%29.svg.png" group-title="Estonia 🇪🇪" tvg-status="unstable",TV3
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/TV3_Baltics_%282019%29.svg/120px-TV3_Baltics_%282019%29.svg.png" group-title="Estonia 🇪🇪" tvg-status="not-working",TV3
 http://84.50.161.79:9981/stream/channelid/647532614?ticket=E7ECDEFB2127FB7939700C4C6913687BB513FB02&profile=pass
-#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBI7VXv1miLtxf9K7j9yM1jNgfcI_pZYKWrA&s" group-title="Estonia 🇪🇪" tvg-status="unstable",Kanal 2
+#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBI7VXv1miLtxf9K7j9yM1jNgfcI_pZYKWrA&s" group-title="Estonia 🇪🇪" tvg-status="not-working",Kanal 2
 http://84.50.161.79:9981/stream/channelid/598248126?ticket=CB2ABB630A99EF4EF4B8E935E0742E9975F83897&profile=pass
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/72/Duo3.svg/revision/latest?cb=20210822031500" group-title="Estonia 🇪🇪" tvg-status="stable",Duo 3
 http://217.159.149.163:9091/play/a04k

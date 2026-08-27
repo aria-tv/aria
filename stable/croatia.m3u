@@ -1,17 +1,3 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/croatia/hrt-1-hr.png?raw=true" group-title="Croatia 🇭🇷" tvg-status="stable",HRT 1
-http://88.207.21.218:9981/stream/channelid/966025490?profile=pass
-#EXTINF:-1 tvg-id="" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/croatia/hrt-2-hr.png?raw=true" group-title="Croatia 🇭🇷" tvg-status="stable",HRT 2
-http://88.207.21.218:9981/stream/channelid/462753074?profile=pass
-#EXTINF:-1 tvg-id="" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/croatia/hrt-3-hr.png?raw=true" group-title="Croatia 🇭🇷" tvg-status="stable",HRT 3
-http://88.207.21.218:9981/stream/channelid/578628343?profile=pass
-#EXTINF:-1 tvg-id="" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/croatia/hrt-4-hr.png?raw=true" group-title="Croatia 🇭🇷" tvg-status="stable",HRT 4
-http://88.207.21.218:9981/stream/channelid/1956094901?profile=pass
-#EXTINF:-1 tvg-id="" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/croatia/rtl-hr.png?raw=true" group-title="Croatia 🇭🇷" tvg-status="stable",RTL Televizija
-http://88.207.21.218:9981/stream/channelid/1370121079?profile=pass
-#EXTINF:-1 tvg-id="" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/croatia/rtl2-hr.png?raw=true" group-title="Croatia 🇭🇷" tvg-status="stable",RTL 2
-http://88.207.21.218:9981/stream/channelid/1367283234?profile=pass
-#EXTINF:-1 tvg-id="" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/croatia/rtl-living-hr.png?raw=true" group-title="Croatia 🇭🇷" tvg-status="stable",Doma HD
-http://88.207.21.218:9981/stream/channelid/1300843533?profile=pass
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Croatia 🇭🇷" tvg-status="stable",MAXtv Promo HD
 https://bpcdnmanprod.nexttv.ht.hr/bpk-tv/Promo/default/index.mpd

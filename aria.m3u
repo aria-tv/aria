@@ -77,10 +77,6 @@ https://cdn.global.elektamedia.com/live/c7eds/Totalmusic_Dance/SA_LIVE_hls_enc/m
 https://tvsnhlslivetest.akamaized.net/hls/live/2034711/TVSN-MSL4/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/austria/orf-kids-at.png" group-title="Austria 🇦🇹" tvg-status="stable",ORF Kids
 https://web12.mdn.ors.at/orf/web12/qxb/manifest.m3u8
-#EXTINF:-1 tvg-id="ProSieben Austria" tvg-logo="https://github.com/tv-logo/tv-logos/blob/ded14cb4fe1f98bf27f4e628e1cb8622ac3c53ee/countries/austria/prosieben-austria-at.png" group-title="Austria 🇦🇹" tvg-status="stable",ProSieben Austria
-http://212.95.30.186:9981/stream/channelid/719855917?profile=pass
-#EXTINF:-1 tvg-id="Kabel Eins Austria" tvg-logo="https://github.com/tv-logo/tv-logos/blob/ded14cb4fe1f98bf27f4e628e1cb8622ac3c53ee/countries/austria/kabel-eins-austria-at.png" group-title="Austria 🇦🇹" tvg-status="stable",Kabel Eins Austria
-http://212.95.30.186:9981/stream/channelid/1665759621?profile=pass
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Bangladesh" tvg-status="stable",News Venguard
 https://playontv.online/vengardlive/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Bangladesh" tvg-status="stable",News8
@@ -143,20 +139,6 @@ http://201.237.193.180:9981/stream/channelid/2039568413?profile=pass
 http://201.237.193.180:9981/stream/channelid/2109973730?profile=pass
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/RepretelCanal112024.svg/1200px-RepretelCanal112024.svg.png" group-title="Costa Rica 🇨🇷" tvg-status="stable",Repretel 11
 http://201.237.193.180:9981/stream/channelid/220443661?profile=pass
-#EXTINF:-1 tvg-id="" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/croatia/hrt-1-hr.png?raw=true" group-title="Croatia 🇭🇷" tvg-status="stable",HRT 1
-http://88.207.21.218:9981/stream/channelid/966025490?profile=pass
-#EXTINF:-1 tvg-id="" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/croatia/hrt-2-hr.png?raw=true" group-title="Croatia 🇭🇷" tvg-status="stable",HRT 2
-http://88.207.21.218:9981/stream/channelid/462753074?profile=pass
-#EXTINF:-1 tvg-id="" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/croatia/hrt-3-hr.png?raw=true" group-title="Croatia 🇭🇷" tvg-status="stable",HRT 3
-http://88.207.21.218:9981/stream/channelid/578628343?profile=pass
-#EXTINF:-1 tvg-id="" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/croatia/hrt-4-hr.png?raw=true" group-title="Croatia 🇭🇷" tvg-status="stable",HRT 4
-http://88.207.21.218:9981/stream/channelid/1956094901?profile=pass
-#EXTINF:-1 tvg-id="" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/croatia/rtl-hr.png?raw=true" group-title="Croatia 🇭🇷" tvg-status="stable",RTL Televizija
-http://88.207.21.218:9981/stream/channelid/1370121079?profile=pass
-#EXTINF:-1 tvg-id="" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/croatia/rtl2-hr.png?raw=true" group-title="Croatia 🇭🇷" tvg-status="stable",RTL 2
-http://88.207.21.218:9981/stream/channelid/1367283234?profile=pass
-#EXTINF:-1 tvg-id="" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/croatia/rtl-living-hr.png?raw=true" group-title="Croatia 🇭🇷" tvg-status="stable",Doma HD
-http://88.207.21.218:9981/stream/channelid/1300843533?profile=pass
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Croatia 🇭🇷" tvg-status="stable",MAXtv Promo HD
 https://bpcdnmanprod.nexttv.ht.hr/bpk-tv/Promo/default/index.mpd
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Logo_RIK_1_2017.svg/1200px-Logo_RIK_1_2017.svg.png" group-title="Cyprus 🇨🇾" tvg-status="stable",RIK 1
@@ -387,8 +369,6 @@ https://amtv.tulixcdn.com/amtv2/am2abr/index.m3u8
 https://dev-live.livetvstream.co.uk/LS-63503-4/chunklist_b1196000.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Iran 🇮🇷" tvg-status="stable",AVA Series
 https://avaserieshls.wns.live/hls/stream.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Iran 🇮🇷" tvg-status="stable",Newflix
-https://newfhls.wns.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Iran 🇮🇷" tvg-status="stable",Afra Film
 https://afrafhls.wns.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Iran 🇮🇷" tvg-status="stable",Arax
@@ -439,8 +419,6 @@ https://slonehls.wns.live/hls/stream.m3u8
 https://sltwohls.wns.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Iran 🇮🇷" tvg-status="stable",Manoto HD
 https://m3u.iranvids.com/manoto/output.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Iran 🇮🇷" tvg-status="stable",AVA Family
-https://familyhls.avatv.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Iran 🇮🇷" tvg-status="stable",24/7 Box
 https://hls.247box.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Iran 🇮🇷" tvg-status="stable",VOA Farsi
@@ -623,18 +601,6 @@ http://45.173.72.12:8002/EXITOSA/index.m3u8
 http://45.173.72.12:8002/GLOBALTV/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/61/LatinaPE2024.svg" group-title="Peru" tvg-status="stable",Latina Televisión
 http://45.173.72.12:8002/LATINA/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c0/GMA_Network_Logo_Vector.svg/1200px-GMA_Network_Logo_Vector.svg.png" group-title="Philippines 🇵🇭" tvg-status="stable",GMA
-http://122.53.222.9:9981/stream/channelid/812083425?profile=pass
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/ALLTV2_Logo_2024.svg/1920px-ALLTV2_Logo_2024.svg.png" group-title="Philippines 🇵🇭" tvg-status="stable",ALLTV2 (ABS-CBN)
-http://122.53.222.9:9981/stream/channelid/2085136596?profile=pass
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f2/Kapamilya_Channel_Logo_2020.svg/1920px-Kapamilya_Channel_Logo_2020.svg.png" group-title="Philippines 🇵🇭" tvg-status="stable",Kapamilya Channel (ABS-CBN)
-http://122.53.222.9:9981/stream/channelid/1770104596?profile=pass
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/15/Jeepney_TV_Logo_2015.svg/250px-Jeepney_TV_Logo_2015.svg.png" group-title="Philippines 🇵🇭" tvg-status="stable",Jeepney TV (ABS-CBN)
-http://122.53.222.9:9981/stream/channelid/576146646?profile=pass
-#EXTINF:-1 tvg-id="" tvg-logo="https://images.ctfassets.net/8utyj17y1gom/5J9AWHX7fjRlfkLvngZZ57/803ec4e0befa3261b7f95c5dd9ec1b25/Desktop_TVChannelPage_ANC.png" group-title="Philippines 🇵🇭" tvg-status="stable",ANC
-http://122.53.222.9:9981/stream/channelid/37889196?profile=pass
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/5_Logo_2019.svg/250px-5_Logo_2019.svg.png" group-title="Philippines 🇵🇭" tvg-status="stable",TV5
-http://122.53.222.9:9981/stream/channelid/810732235?profile=pass
 #EXTINF:-1 tvg-id="SIC.K.pt" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/portugal/sic-k-pt.png" group-title="Portugal 🇵🇹" tvg-status="stable",SIC K
 https://tv.jassuncao.work/stream/channelid/943759774?profile=pass
 #EXTINF:-1 tvg-id="SIC.Radical.pt" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/portugal/sic-radical-pt.png" group-title="Portugal 🇵🇹" tvg-status="stable",SIC Radical
