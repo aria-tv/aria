@@ -21,9 +21,9 @@ http://193.154.67.174:9981/stream/channelid/173530577?profile=pass
 http://193.154.67.174:9981/stream/channelid/1190779055?profile=pass
 #EXTINF:-1 tvg-id="Tirol TV" tvg-logo="https://github.com/tv-logo/tv-logos/blob/ded14cb4fe1f98bf27f4e628e1cb8622ac3c53ee/countries/austria/tirol-tv-at.png" group-title="Austria 🇦🇹" tvg-status="unstable",Tirol TV
 http://212.186.45.34:9981/stream/channelid/308149845?profile=pass
-#EXTINF:-1 tvg-id="ProSieben Austria" tvg-logo="https://github.com/tv-logo/tv-logos/blob/ded14cb4fe1f98bf27f4e628e1cb8622ac3c53ee/countries/austria/prosieben-austria-at.png" group-title="Austria 🇦🇹" tvg-status="not-working",ProSieben Austria
+#EXTINF:-1 tvg-id="ProSieben Austria" tvg-logo="https://github.com/tv-logo/tv-logos/blob/ded14cb4fe1f98bf27f4e628e1cb8622ac3c53ee/countries/austria/prosieben-austria-at.png" group-title="Austria 🇦🇹" tvg-status="unstable",ProSieben Austria
 http://212.95.30.186:9981/stream/channelid/719855917?profile=pass
-#EXTINF:-1 tvg-id="Kabel Eins Austria" tvg-logo="https://github.com/tv-logo/tv-logos/blob/ded14cb4fe1f98bf27f4e628e1cb8622ac3c53ee/countries/austria/kabel-eins-austria-at.png" group-title="Austria 🇦🇹" tvg-status="not-working",Kabel Eins Austria
+#EXTINF:-1 tvg-id="Kabel Eins Austria" tvg-logo="https://github.com/tv-logo/tv-logos/blob/ded14cb4fe1f98bf27f4e628e1cb8622ac3c53ee/countries/austria/kabel-eins-austria-at.png" group-title="Austria 🇦🇹" tvg-status="unstable",Kabel Eins Austria
 http://212.95.30.186:9981/stream/channelid/1665759621?profile=pass
 #EXTINF:-1 tvg-id="" tvg-logo="https://github.com/tv-logo/tv-logos/blob/ded14cb4fe1f98bf27f4e628e1cb8622ac3c53ee/countries/austria/canal-plus-action-austria-at.png" group-title="Austria 🇦🇹" tvg-status="not-working",Canal+ Action
 http://5.231.70.95/CanalActionHDMax/index.m3u8

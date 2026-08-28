@@ -68,7 +68,7 @@
 | 64 | SL Two | [>](https://sltwohls.wns.live/hls/stream.m3u8) | SL Two | &nbsp; | stable |
 | 65 | Manoto HD | [>](https://m3u.iranvids.com/manoto/output.m3u8) | Manoto HD | &nbsp; | stable |
 | 66 | PBC Tapesh | [>](https://iptv.tapesh.tv/tapesh/playlist_low/index.m3u8) | PBC Tapesh | &nbsp; | unstable |
-| 67 | AVA Family | [>](https://familyhls.avatv.live/hls/stream.m3u8) | AVA Family | &nbsp; | not-working |
+| 67 | AVA Family | [>](https://familyhls.avatv.live/hls/stream.m3u8) | AVA Family | &nbsp; | unstable |
 | 68 | 24/7 Box | [>](https://hls.247box.live/hls/stream.m3u8) | 24/7 Box | &nbsp; | stable |
 | 69 | VOA Farsi | [>](https://voa-ingest.akamaized.net/hls/live/2033876/tvmc07/playlist_0360.m3u8) | VOA Farsi | &nbsp; | stable |
 | 70 | Radio Farda | [>](https://rfe-ingest.akamaized.net/hls/live/2033042/tvmc01/playlist.m3u8) | Radio Farda | &nbsp; | stable |
