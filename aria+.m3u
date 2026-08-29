@@ -2241,10 +2241,6 @@ http://91.146.94.234:10001/play/a0j8
 http://91.146.94.234:10001/play/a03p
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Rai_S%C3%BCdtirol_-_Logo_2019.svg/1920px-Rai_S%C3%BCdtirol_-_Logo_2019.svg.png" group-title="Italy 🇮🇹" tvg-status="not-working",Rai Südtirol  (Local)
 http://57.128.239.62/RaiBozen/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://api.cvmtv.com/storage/logos/ko8Z2ui2HPKwUmw6FW6DaV666PoaFVWeWqpKMYMI.png" group-title="Jamaica 🇯🇲" tvg-status="not-working",CVM TV
-https://fl5.moveonjoy.com/CVM_TV_CARIBBEAN/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2c/Television_Jamaica_Logo.png/revision/latest?cb=20211223085709" group-title="Jamaica 🇯🇲" tvg-status="not-working",TVJ
-https://fl5.moveonjoy.com/TVJ_CARIBBEAN/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Japan 🇯🇵" tvg-status="not-working",NHK BS
 https://43.100.9.67/api/streams/live/bs101/1080p/mpegts
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Japan 🇯🇵" tvg-status="not-working",WOWOW Prime
