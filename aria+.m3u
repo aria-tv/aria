@@ -197,6 +197,8 @@ http://stream.mcquack.net/37/index.m3u8
 http://ilvip.net:80/live/0546556529/0546556529/256213.ts
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Armenia 🇦🇲" tvg-status="unstable",Amga
 http://ilvip.net:80/live/0546556529/0546556529/256210.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/1d/Kentron_TV_logo.jpg?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=original" group-title="Armenia 🇦🇲" tvg-status="unstable",Kentron TV
+http://ilvip.net:80/live/0546556529/0546556529/256218.ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/australia/abc-au.png" group-title="Australia 🇦🇺" tvg-status="unstable",ABC TV
 https://c.mjh.nz/abc-nsw.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/australia/abc-entertains-au.png" group-title="Australia 🇦🇺" tvg-status="unstable",ABC Entertains
