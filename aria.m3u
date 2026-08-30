@@ -585,18 +585,6 @@ http://185.193.240.245:8000/play/a00r
 http://185.193.240.245:8000/play/a00s
 #EXTINF:-1 tvg-id="" tvg-logo="https://canaln.pe/img/default-seo.jpg" group-title="Peru" tvg-status="stable",Canal N
 http://190.119.176.186:8000/play/a08e
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ab/Am%C3%A9rica_Televisi%C3%B3n_logo_2016.png" group-title="Peru" tvg-status="stable",América Televisión
-http://45.173.72.12:8002/AMERICATV/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/ATV_Peru_2025.svg/1280px-ATV_Peru_2025.svg.png" group-title="Peru" tvg-status="stable",ATV
-http://45.173.72.12:8002/ATV/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://zenoimages.s3.us-west-001.backblazeb2.com/agxzfnplbm8tc3RhdHNyMgsSCkF1dGhDbGllbnQYgIDglJOZiggMCxIOU3RhdGlvblByb2ZpbGUYgIDggrHe1wgMogEEemVubw/images/logo" group-title="Peru" tvg-status="stable",Exitosa TV
-http://45.173.72.12:8002/EXITOSA/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bd/Global_logo_2019.png" group-title="Peru" tvg-status="stable",Global Televisión
-http://45.173.72.12:8002/GLOBALTV/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/61/LatinaPE2024.svg" group-title="Peru" tvg-status="stable",Latina Televisión
-http://45.173.72.12:8002/LATINA/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/ALLTV2_Logo_2024.svg/1920px-ALLTV2_Logo_2024.svg.png" group-title="Philippines 🇵🇭" tvg-status="stable",ALLTV2 (ABS-CBN)
-https://ott.udptv.io/api/streams/3/manifest.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOjczLCJzdHJlYW1Ub2tlbiI6IjY3MjIwOWQyNzg5ZDYzNmMzYTY2NmMyMDE0N2M0YmYzNDUyOGY1NjYzNGRlZDBhMTlmMTYwNTcwYTY0NjhjYmUiLCJpYXQiOjE3ODc4ODc5NTUsImV4cCI6MTc4OTE3MTE5OX0.hs9-ErzV5ws9dDBN5KlDbwyQ6ykUGXZFsR-yRfPxzAc
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f2/Kapamilya_Channel_Logo_2020.svg/1920px-Kapamilya_Channel_Logo_2020.svg.png" group-title="Philippines 🇵🇭" tvg-status="stable",Kapamilya Channel (ABS-CBN)
 https://ott.udptv.io/api/streams/38/manifest.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOjczLCJzdHJlYW1Ub2tlbiI6IjY3MjIwOWQyNzg5ZDYzNmMzYTY2NmMyMDE0N2M0YmYzNDUyOGY1NjYzNGRlZDBhMTlmMTYwNTcwYTY0NjhjYmUiLCJpYXQiOjE3ODc4ODc5NTUsImV4cCI6MTc4OTE3MTE5OX0.hs9-ErzV5ws9dDBN5KlDbwyQ6ykUGXZFsR-yRfPxzAc
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/15/Jeepney_TV_Logo_2015.svg/250px-Jeepney_TV_Logo_2015.svg.png" group-title="Philippines 🇵🇭" tvg-status="stable",Jeepney TV (ABS-CBN)
@@ -609,10 +597,6 @@ https://ott.udptv.io/api/streams/49/manifest.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5
 https://ott.djdoolky76.io/api/streams/2/manifest.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOjIsInN0cmVhbVRva2VuIjoiOGVkOTY4MTIzODE2ZDQyY2U0Y2I5Y2E0YjBkNTI2ZTRlNDFmMDViZTY5MmE1ZjBjNTE3MjU1MjAwNTE3NWQ5OSIsImlhdCI6MTc4ODAxNTcxNCwiZXhwIjoxNzkwNTUzNTk5fQ.g4Cbic93tY4CjwC7cjqasTjVsJWy-lDk4M_X6R0j6o0
 #EXTINF:-1 tvg-id="" tvg-logo="https://cms.cignal.tv/Upload/Images/rptv%20logo%20final-02.png" group-title="Philippines 🇵🇭" tvg-status="stable",RPTV
 https://ott.djdoolky76.io/api/streams/60/manifest.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOjIsInN0cmVhbVRva2VuIjoiOGVkOTY4MTIzODE2ZDQyY2U0Y2I5Y2E0YjBkNTI2ZTRlNDFmMDViZTY5MmE1ZjBjNTE3MjU1MjAwNTE3NWQ5OSIsImlhdCI6MTc4ODAxNTcxNCwiZXhwIjoxNzkwNTUzNTk5fQ.g4Cbic93tY4CjwC7cjqasTjVsJWy-lDk4M_X6R0j6o0
-#EXTINF:-1 tvg-id="" tvg-logo="https://cms.cignal.tv/Upload/Images/IBC.png" group-title="Philippines 🇵🇭" tvg-status="stable",IBC
-https://ott.djdoolky76.io/api/streams/36/manifest.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOjIsInN0cmVhbVRva2VuIjoiOGVkOTY4MTIzODE2ZDQyY2U0Y2I5Y2E0YjBkNTI2ZTRlNDFmMDViZTY5MmE1ZjBjNTE3MjU1MjAwNTE3NWQ5OSIsImlhdCI6MTc4ODAxNTcxNCwiZXhwIjoxNzkwNTUzNTk5fQ.g4Cbic93tY4CjwC7cjqasTjVsJWy-lDk4M_X6R0j6o0
-#EXTINF:-1 tvg-id="" tvg-logo="https://cms.cignal.tv/Upload/Images/Knowledge-Channel.jpg" group-title="Philippines 🇵🇭" tvg-status="stable",Knowledge Channel
-https://ott.djdoolky76.io/api/streams/41/manifest.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOjIsInN0cmVhbVRva2VuIjoiOGVkOTY4MTIzODE2ZDQyY2U0Y2I5Y2E0YjBkNTI2ZTRlNDFmMDViZTY5MmE1ZjBjNTE3MjU1MjAwNTE3NWQ5OSIsImlhdCI6MTc4ODAxNTcxNCwiZXhwIjoxNzkwNTUzNTk5fQ.g4Cbic93tY4CjwC7cjqasTjVsJWy-lDk4M_X6R0j6o0
 #EXTINF:-1 tvg-id="" tvg-logo="https://cms.cignal.tv/Upload/Images/CLTV.png" group-title="Philippines 🇵🇭" tvg-status="stable",CLTV
 https://ott.djdoolky76.io/api/streams/20/manifest.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOjIsInN0cmVhbVRva2VuIjoiOGVkOTY4MTIzODE2ZDQyY2U0Y2I5Y2E0YjBkNTI2ZTRlNDFmMDViZTY5MmE1ZjBjNTE3MjU1MjAwNTE3NWQ5OSIsImlhdCI6MTc4ODAxNTcxNCwiZXhwIjoxNzkwNTUzNTk5fQ.g4Cbic93tY4CjwC7cjqasTjVsJWy-lDk4M_X6R0j6o0
 #EXTINF:-1 tvg-id="" tvg-logo="https://cms.cignal.tv/Upload/Images/Tap-movies.jpg" group-title="Philippines 🇵🇭" tvg-status="stable",Tap Movies

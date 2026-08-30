@@ -8,7 +8,7 @@
 | 4 | Krimi | [>](https://sktv.mxnticek.eu/new/stream.php?ch=Krimi) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/slovakia/markiza-krimi-sk.png"/> | MarkizaKrimi.sk | unstable |
 | 5 | Klasik | [>](https://sktv.mxnticek.eu/new/stream.php?ch=Klasik) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/slovakia/markiza-sk.png"/> | &nbsp; | unstable |
 | 6 | Markíza TN Live | [>](https://sktv.mxnticek.eu/new/stream.php?ch=Mark%C3%ADza%20TN%20Live) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/slovakia/markiza-sk.png"/> | &nbsp; | unstable |
-| 7 | JOJ | [>](https://sktv.mxnticek.eu/new/stream.php?ch=JOJ) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/slovakia/joj-sk.png"/> | JOJ.sk | unstable |
+| 7 | JOJ | [>](https://sktv.mxnticek.eu/new/stream.php?ch=JOJ) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/slovakia/joj-sk.png"/> | JOJ.sk | not-working |
 | 8 | JOJ Plus | [>](https://sktv.mxnticek.eu/new/stream.php?ch=JOJ%20Plus) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/slovakia/joj-plus-sk.png"/> | JOJPlus.sk | unstable |
 | 9 | Wau | [>](https://sktv.mxnticek.eu/new/stream.php?ch=Wau) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/slovakia/joj-wau-sk.png"/> | JOJWau.sk | unstable |
 | 10 | JOJ 24 | [>](https://sktv.mxnticek.eu/new/stream.php?ch=JOJ%2024) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/slovakia/joj-24-sk.png"/> | JOJ24.sk | unstable |

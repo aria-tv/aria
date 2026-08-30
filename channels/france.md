@@ -16,7 +16,7 @@
 | 12 | France 2 | [>](http://5.180.164.197:8080/FRANCE2/index.m3u8) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/france/france-2-fr.png"/> | France.2.fr | stable |
 | 13 | France 3 | [>](http://5.180.164.197:8080/FRANCE3/index.m3u8) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/france/france-3-fr.png"/> | France.3.fr | stable |
 | 14 | France 4 | [>](http://5.180.164.197:8080/FRANCE4/index.m3u8) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/france/france-4-fr.png"/> | France.4.fr | stable |
-| 15 | France 5 | [>](http://5.180.164.197:8080/FRANCE5/index.m3u8) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/france/france-5-fr.png"/> | France.5.fr | not-working |
+| 15 | France 5 | [>](http://5.180.164.197:8080/FRANCE5/index.m3u8) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/france/france-5-fr.png"/> | France.5.fr | unstable |
 | 16 | M6 | [>](http://5.180.164.197:8080/M6/index.m3u8) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/france/m6-fr.png"/> | M6.fr | stable |
 | 17 | Arte | [>](http://86.202.245.66:9981/stream/channelid/1073344969?profile=pass) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/france/arte-fr.png"/> | Arte.fr | unstable |
 | 18 | W9 | [>](http://5.180.164.197:8080/W9/index.m3u8) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/france/w9-fr.png"/> | W9.fr | unstable |
