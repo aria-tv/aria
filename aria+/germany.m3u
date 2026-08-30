@@ -50,7 +50,7 @@ http://178.27.12.3:9981/stream/channelid/1291630320?profile=pass
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/germany/zdf-de.png" group-title="Germany 🇩🇪" tvg-status="unstable",ZDF
 http://178.27.12.3:9981/stream/channelid/1292587401?profile=pass
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/germany/rtl-de.png" group-title="Germany 🇩🇪" tvg-status="unstable",RTL
-http://178.27.12.3:9981/stream/channelid/1204059828?profile=pass
+https://ma.anixa.tv/clips/stream/rtl/playlist.php
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/a3/SAT.1_logo_2016.png" group-title="Germany 🇩🇪" tvg-status="unstable",SAT.1
 http://178.27.12.3:9981/stream/channelid/1282983907?profile=pass
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/RTLZWEI_Logo_2019.svg/1200px-RTLZWEI_Logo_2019.svg.png" group-title="Germany 🇩🇪" tvg-status="not-working",RTL Zwei
@@ -142,4 +142,4 @@ http://178.27.12.3:9981/stream/channelid/269948147?profile=pass
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/germany/toggo-plus-de.png" group-title="Germany 🇩🇪" tvg-status="stable",Toggo Plus
 http://178.27.12.3:9981/stream/channelid/1429480174?profile=pass
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/germany/nickelodeon-de.png" group-title="Germany 🇩🇪" tvg-status="unstable",Nickelodeon/Comedy Central+1
-http://178.27.12.3:9981/stream/channelid/1293845655?profile=pass
+https://ma.anixa.tv/clips/stream/nickelodeon/playlist.php
