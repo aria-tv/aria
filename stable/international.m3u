@@ -19,3 +19,5 @@ https://linear417-gb-hls1-prd-ak.cdn.skycdp.com/100e/Content/HLS_001_1080_30/Liv
 http://190.11.225.124:5000/live/tve_hd/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/1GhzFH2F/1000024586-removebg-preview.png" group-title="International 🌍" tvg-status="stable",First Channel International
 https://amtv.tulixcdn.com/amtv2/am2abr/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5a/FightBox_%282013%29_%2850824%29.webp?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=original" group-title="International 🌍" tvg-status="stable",Fightbox
+https://nosignal1.antenaplay.ro/hls/fightbox-hd/index.m3u8

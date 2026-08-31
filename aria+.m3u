@@ -1975,6 +1975,8 @@ http://95.143.230.238:9981/stream/channelid/1167177042?profile=pass
 http://78.56.193.170:9981/stream/channelid/2017205348?profile=pass
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/1GhzFH2F/1000024586-removebg-preview.png" group-title="International 🌍" tvg-status="stable",First Channel International
 https://amtv.tulixcdn.com/amtv2/am2abr/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5a/FightBox_%282013%29_%2850824%29.webp?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=original" group-title="International 🌍" tvg-status="stable",Fightbox
+https://nosignal1.antenaplay.ro/hls/fightbox-hd/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.telewebion.com/channelsLogo/ZjMzNmU2NTJlZTIyZjU4ZjliMWI2ZmI3NjBjOGRkMTFmODA0ZWUzZGI4ODE2NmFhMmQyNDBkYjFiMDY0NzUzMw/default" group-title="Iran 🇮🇷" tvg-status="not-working",IRIB TV1
 https://stream2.removie.raha.af/live/smil:iribtv1.smil/chunklist_w1989776299_b1500000.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.telewebion.com/channelsLogo/MzYyMzM1NmVhYjc5MmZlY2ZmNzJlMGY3ZmJjZjc5Y2UwNDkyODQxNDU4YzU5MjE0MzFlYjg4NWM4NDZiNzA5NA/default" group-title="Iran 🇮🇷" tvg-status="not-working",IRIB TV3
