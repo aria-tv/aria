@@ -4,7 +4,7 @@
 |:-:|:-------:|:----:|:----:|:------:|:----:|
 | 1 | TV Cultura | [>](https://player-tvcultura.stream.uol.com.br/live/tvcultura.m3u8) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/brazil/tv-cultura-br.png"/> | TV.Cultura.br | unstable |
 | 2 | SBT | [>](http://190.83.85.68/sbt/index.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/pt/thumb/4/41/Logotipo_do_SBT.svg/2048px-Logotipo_do_SBT.svg.png"/> | SBTNacional.br | stable |
-| 3 | Globo | [>](https://media2.cdntvms.com.br/tv_morena_dorados/index.m3u8) | <img height="20" src="https://static.wikia.nocookie.net/logopedia/images/3/35/TVGlobo2025.png/revision/latest?cb=20250403003551"/> | TV.Globo.br | not-working |
+| 3 | Globo | [>](https://media2.cdntvms.com.br/tv_morena_dorados/index.m3u8) | <img height="20" src="https://static.wikia.nocookie.net/logopedia/images/3/35/TVGlobo2025.png/revision/latest?cb=20250403003551"/> | TV.Globo.br | unstable |
 | 4 | Record | [>](http://200.77.176.130:8000/udp/224.0.0.4:49152) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/brazil/record-br.png"/> | Record.TV.br | unstable |
 | 5 | BAND | [>](https://media.cdntvms.com.br/band_sat/index.m3u8) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/brazil/band-br.png"/> | Band.br | unstable |
 | 6 | Rede TV! | [>](http://190.83.85.68/rede_brasil/index.m3u8) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/brazil/rede-tv-br.png"/> | Rede.TV.br | stable |

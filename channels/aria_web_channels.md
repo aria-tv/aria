@@ -23,4 +23,4 @@
 | 19 | Totalmusic Concerts | [>](https://cdn.global.elektamedia.com/live/c7eds/Totalmusic_Concerts/SA_LIVE_hls_enc/master.m3u8) | <img height="20" src="https://webchnl.com/assets/img/channelicons/totalmusicconcerts.png"/> | &nbsp; | stable |
 | 20 | Totalmusic Dance | [>](https://cdn.global.elektamedia.com/live/c7eds/Totalmusic_Dance/SA_LIVE_hls_enc/master.m3u8) | <img height="20" src="https://webchnl.com/assets/img/channelicons/totalmusicdance.png"/> | &nbsp; | stable |
 | 21 | 4GTV | [>](https://4gtv.ngrok.app/hls/stream.m3u8) | 4GTV | &nbsp; | not-working |
-| 22 | Valuto One | [>](http://199.245.173.253:5004/auto/v3.11) | <img height="20" src="https://cdn271.picsart.com/7c6237cf-5ace-44ce-b521-3a4a8e4d688a/525453302021201.png?to=crop&type=webp&r=540x205&q=85"/> | &nbsp; | unstable |
+| 22 | Valuto One | [>](http://199.245.173.253:5004/auto/v3.11) | <img height="20" src="https://cdn271.picsart.com/7c6237cf-5ace-44ce-b521-3a4a8e4d688a/525453302021201.png?to=crop&type=webp&r=540x205&q=85"/> | &nbsp; | not-working |

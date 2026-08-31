@@ -41,5 +41,5 @@ https://cdn.global.elektamedia.com/live/c7eds/Totalmusic_Concerts/SA_LIVE_hls_en
 https://cdn.global.elektamedia.com/live/c7eds/Totalmusic_Dance/SA_LIVE_hls_enc/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Aria Web Channels 📺" tvg-status="not-working",4GTV
 https://4gtv.ngrok.app/hls/stream.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://cdn271.picsart.com/7c6237cf-5ace-44ce-b521-3a4a8e4d688a/525453302021201.png?to=crop&type=webp&r=540x205&q=85" group-title="Aria Web Channels 📺" tvg-status="unstable",Valuto One
+#EXTINF:-1 tvg-id="" tvg-logo="https://cdn271.picsart.com/7c6237cf-5ace-44ce-b521-3a4a8e4d688a/525453302021201.png?to=crop&type=webp&r=540x205&q=85" group-title="Aria Web Channels 📺" tvg-status="not-working",Valuto One
 http://199.245.173.253:5004/auto/v3.11
