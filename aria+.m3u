@@ -1546,29 +1546,29 @@ http://178.27.12.3:9981/stream/channelid/1429480174?profile=pass
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/germany/nickelodeon-de.png" group-title="Germany 🇩🇪" tvg-status="unstable",Nickelodeon/Comedy Central+1
 https://ma.anixa.tv/clips/stream/nickelodeon/playlist.php
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/ERT1_logo_2020.svg/250px-ERT1_logo_2020.svg.png" group-title="Greece 🇬🇷" tvg-status="unstable",ERT 1
-http://185.102.171.218/Ert1HD/index.m3u8
+http://188.4.226.203:666/stream/channelid/995341409?ticket=E7DA94BB4F18CE5B4358645A72518A4CFEDF7D98&profile=pass
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/ERT2_logo_2020.svg/250px-ERT2_logo_2020.svg.png" group-title="Greece 🇬🇷" tvg-status="unstable",ERT 2 Sport
-http://185.102.171.218/Ert2HD/index.m3u8
+http://188.4.226.203:666/stream/channelid/1499176004?ticket=DF021CB38B51DB42707BFB94461017D61AEFD6FA&profile=pass
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/ERT3_logo_2020.svg/250px-ERT3_logo_2020.svg.png" group-title="Greece 🇬🇷" tvg-status="unstable",ERT 3
-http://185.102.171.218/Ert3HD/index.m3u8
+http://188.4.226.203:666/stream/channelid/1916392614?ticket=14394566E3EC7388B1756EE337F29B7F8D0C708C&profile=pass
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/55/ERT_News_%282022%29.svg/revision/latest/scale-to-width-down/284?cb=20230818083854" group-title="Greece 🇬🇷" tvg-status="unstable",ERT News
-http://185.102.171.218/ErtNews/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/70/ANT1_logo.svg" group-title="Greece 🇬🇷" tvg-status="not-working",ANT1
-http://193.92.205.210:666/stream/channelid/1798735192?ticket=B0E589720454D7A886243B52EE9B585997FAC6EC&profile=pass
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Alpha_TV_logo.svg/1200px-Alpha_TV_logo.svg.png" group-title="Greece 🇬🇷" tvg-status="not-working",Alpha
-http://193.92.205.210:666/stream/channelid/316270598?ticket=4EAFCB6CC543B46244367B2AF5D1F70BD8E64CB8&profile=pass
-#EXTINF:-1 tvg-id="" tvg-logo="https://yt3.googleusercontent.com/LcDClj6BUrJu9GJLXYaibB9-2Dvl_lEDCx9g8nHyPQVeg-Yc82B9RwXbn388xCkXoFAxi5EcOA=s900-c-k-c0x00ffffff-no-rj" group-title="Greece 🇬🇷" tvg-status="not-working",MAD
-http://193.92.205.210:666/stream/channelid/713260648?ticket=BCFE397CA2C57FDE9D15132028BBACF5C74DD066&profile=pass
+http://188.4.226.203:666/stream/channelid/1138069875?ticket=30FDA339FEB56BEBE521CA80D39DB7E93476FDB6&profile=pass
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/70/ANT1_logo.svg" group-title="Greece 🇬🇷" tvg-status="unstable",ANT1
+http://188.4.226.203:666/stream/channelid/1555911640?ticket=007268F8E18DA6A800078B56F05AD488EE356CE2&profile=pass
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Alpha_TV_logo.svg/1200px-Alpha_TV_logo.svg.png" group-title="Greece 🇬🇷" tvg-status="unstable",Alpha
+http://188.4.226.203:666/stream/channelid/316270598?ticket=DF401E112134EA8EBB34FE314C93FF199F874CE6&profile=pass
+#EXTINF:-1 tvg-id="" tvg-logo="https://yt3.googleusercontent.com/LcDClj6BUrJu9GJLXYaibB9-2Dvl_lEDCx9g8nHyPQVeg-Yc82B9RwXbn388xCkXoFAxi5EcOA=s900-c-k-c0x00ffffff-no-rj" group-title="Greece 🇬🇷" tvg-status="unstable",MAD
+http://188.4.226.203:666/stream/channelid/713260648?ticket=A992078784B7D258CC3524ABC702313B009FDC89&profile=pass
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Makedonia_TV_2023.svg/1200px-Makedonia_TV_2023.svg.png" group-title="Greece 🇬🇷" tvg-status="not-working",Makedonia TV
 http://193.92.205.210:666/stream/channelid/1494631013?ticket=20C28E1E02AF6180CB1585886C359B3B0EB2B48E&profile=pass
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Skai_TV_logo.svg/1200px-Skai_TV_logo.svg.png" group-title="Greece 🇬🇷" tvg-status="not-working",Skai TV
-http://193.92.205.210:666/stream/channelid/991752849?ticket=784DD68DB7A77EFE467FFD867EF540E4AFF2B553&profile=pass
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Mega_channel_logo.svg/2560px-Mega_channel_logo.svg.png" group-title="Greece 🇬🇷" tvg-status="not-working",MEGA
-http://193.92.205.210:666/stream/channelid/127572322?ticket=DF0DF71DE53B0CEA811D5277F60703C4BB7A80C0&profile=pass
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Skai_TV_logo.svg/1200px-Skai_TV_logo.svg.png" group-title="Greece 🇬🇷" tvg-status="unstable",Skai TV
+http://188.4.226.203:666/stream/channelid/989785308?ticket=1C2B48DBFD55204714F71BB256181AD69AF116A5&profile=pass
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Mega_channel_logo.svg/2560px-Mega_channel_logo.svg.png" group-title="Greece 🇬🇷" tvg-status="unstable",MEGA
+http://188.4.226.203:666/stream/channelid/1854338428?ticket=84E0CF3EEC2FA6CDD3BB54D68E4B175842D73056&profile=pass
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/39/Star_Channel_Greece_logo.svg" group-title="Greece 🇬🇷" tvg-status="unstable",Star
-http://185.102.171.218/StarHD/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/el/e/e5/Open_TV_logo.png" group-title="Greece 🇬🇷" tvg-status="not-working",OPEN Beyond
-http://193.92.205.210:666/stream/channelid/2093067483?ticket=6A2C592AA031EABF9B5D2EB17874AAD15B94691B&profile=pass
+http://188.4.226.203:666/stream/channelid/1303485435?ticket=84005CC8D894FC35518FBA9ECEB0B98A0EC9798B&profile=pass
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/el/e/e5/Open_TV_logo.png" group-title="Greece 🇬🇷" tvg-status="unstable",OPEN Beyond
+http://188.4.226.203:666/stream/channelid/1197354829?ticket=DA3E80BB9500108665889C550EFC5DBE8EB8BCC4&profile=pass
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b6/Keedoo.svg" group-title="Greece 🇬🇷" tvg-status="unstable",Keedo
 http://185.102.171.218/Nickelodeon/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/2022_Disney_Channel_logo.svg/1280px-2022_Disney_Channel_logo.svg.png" group-title="Greece 🇬🇷" tvg-status="unstable",Disney Channel
