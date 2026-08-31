@@ -13,3 +13,11 @@ http://93.95.99.164:10000/play/karusel/index.m3u8
 http://93.95.99.164:10000/play/stslove/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9e/%D0%A2V3_logo_2023.svg" group-title="Russia 🇷🇺" tvg-status="stable",TV-3
 http://93.95.99.164:10000/play/stslove/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/95/Zvezda_logo.svg" group-title="Russia 🇷🇺" tvg-status="stable",Zvezda
+http://5.57.11.195:9981/stream/channelid/912677638?ticket=07BF84763DAFF6CE458F3E9BC852C36FC825A804&profile=pass
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/tvpedia/images/8/81/%D0%9C%D0%B8%D1%80_24.svg/revision/latest/scale-to-width-down/268?cb=20210713113659&path-prefix=ru" group-title="Russia 🇷🇺" tvg-status="stable",World 24
+http://5.57.11.195:9981/stream/channelid/1902478236?ticket=35D7AAC5FF2CA0CBEE1EC8BDBA48C9EECDDFE9F6&profile=pass
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/tvpedia/images/2/27/RT_Documentary.png/revision/latest/scale-to-width-down/268?cb=20240623210059&path-prefix=ru" group-title="Russia 🇷🇺" tvg-status="stable",RT Documentary
+http://5.57.11.195:9981/stream/channelid/150391666?ticket=AD0C27A63CC1DC491652C7270B665DDA08BF6D2D&profile=pass
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/tvpedia/images/7/71/%D0%A2%D0%A0%D0%9A_%D0%97%D0%B0%D0%B1%D0%B0%D0%B9%D0%BA%D0%B0%D0%BB%D1%8C%D0%B5_%282020%29.svg/revision/latest/scale-to-width-down/268?cb=20201024174653&path-prefix=ru" group-title="Russia 🇷🇺" tvg-status="stable",Transbaikalia
+http://5.57.11.195:9981/stream/channelid/322990032?ticket=EA59D7074FB7876761ACF3E752E9F0B34C9AC02C&profile=pass
