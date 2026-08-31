@@ -45,3 +45,4 @@
 | 41 | TVRi | [>](http://95.143.230.238:9981/stream/channelid/1167177042?profile=pass) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/TVRi_Logo_2022.svg/1200px-TVRi_Logo_2022.svg.png"/> | &nbsp; | not-working |
 | 42 | TVP World | [>](http://78.56.193.170:9981/stream/channelid/2017205348?profile=pass) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/poland/tvp-world-pl.png"/> | &nbsp; | not-working |
 | 43 | First Channel International | [>](https://amtv.tulixcdn.com/amtv2/am2abr/index.m3u8) | <img height="20" src="https://i.ibb.co/1GhzFH2F/1000024586-removebg-preview.png"/> | &nbsp; | stable |
+| 44 | Fightbox | [>](https://nosignal1.antenaplay.ro/hls/fightbox-hd/index.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/5/5a/FightBox_%282013%29_%2850824%29.webp?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=original"/> | &nbsp; | stable |
