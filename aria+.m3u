@@ -3853,6 +3853,8 @@ https://gpuserver3.tier1streams.com/ASPIRE/index.m3u8
 https://messi.damitv.st/papi/ts/hbolatino-usa/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/5ltnu.svg/250px-5ltnu.svg.png" group-title="Uruguay" tvg-status="unstable",Canal 5
 https://tinyurl.com/canal5uy
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/iepfanon/images/5/5e/Bolajon_-_logo_%28old%29.jpg/revision/latest?cb=20191220103151" group-title="Uzbekistan 🇺🇿" tvg-status="stable",Bolajon
+https://stream8.cinerama.uz/1007/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.comunicazione.va/content/dam/comunicazione/tentativi-e-proposte/logo%20vatican%20media.png/_jcr_content/renditions/cq5dam.web.1280.1280.png" group-title="Vatican City 🇻🇦" tvg-status="not-working",Vatican Media
 http://77.39.161.42:55555/Vatican%20Media%20HD
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/dc/2016_AXN_logo.svg/revision/latest?cb=20201126064846" group-title="Vietnam 🇻🇳" tvg-status="not-working",AXN
