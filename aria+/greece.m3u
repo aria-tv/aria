@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/ERT1_logo_2020.svg/250px-ERT1_logo_2020.svg.png" group-title="Greece 🇬🇷" tvg-status="unstable",ERT 1
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/ERT1_logo_2020.svg/250px-ERT1_logo_2020.svg.png" group-title="Greece 🇬🇷" tvg-status="not-working",ERT 1
 http://188.4.226.203:666/stream/channelid/995341409?ticket=E7DA94BB4F18CE5B4358645A72518A4CFEDF7D98&profile=pass
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/ERT2_logo_2020.svg/250px-ERT2_logo_2020.svg.png" group-title="Greece 🇬🇷" tvg-status="unstable",ERT 2 Sport
 http://188.4.226.203:666/stream/channelid/1499176004?ticket=DF021CB38B51DB42707BFB94461017D61AEFD6FA&profile=pass
@@ -11,7 +11,7 @@ http://188.4.226.203:666/stream/channelid/1138069875?ticket=30FDA339FEB56BEBE521
 http://188.4.226.203:666/stream/channelid/1555911640?ticket=007268F8E18DA6A800078B56F05AD488EE356CE2&profile=pass
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Alpha_TV_logo.svg/1200px-Alpha_TV_logo.svg.png" group-title="Greece 🇬🇷" tvg-status="unstable",Alpha
 http://188.4.226.203:666/stream/channelid/316270598?ticket=DF401E112134EA8EBB34FE314C93FF199F874CE6&profile=pass
-#EXTINF:-1 tvg-id="" tvg-logo="https://yt3.googleusercontent.com/LcDClj6BUrJu9GJLXYaibB9-2Dvl_lEDCx9g8nHyPQVeg-Yc82B9RwXbn388xCkXoFAxi5EcOA=s900-c-k-c0x00ffffff-no-rj" group-title="Greece 🇬🇷" tvg-status="unstable",MAD
+#EXTINF:-1 tvg-id="" tvg-logo="https://yt3.googleusercontent.com/LcDClj6BUrJu9GJLXYaibB9-2Dvl_lEDCx9g8nHyPQVeg-Yc82B9RwXbn388xCkXoFAxi5EcOA=s900-c-k-c0x00ffffff-no-rj" group-title="Greece 🇬🇷" tvg-status="not-working",MAD
 http://188.4.226.203:666/stream/channelid/713260648?ticket=A992078784B7D258CC3524ABC702313B009FDC89&profile=pass
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Makedonia_TV_2023.svg/1200px-Makedonia_TV_2023.svg.png" group-title="Greece 🇬🇷" tvg-status="not-working",Makedonia TV
 http://193.92.205.210:666/stream/channelid/1494631013?ticket=20C28E1E02AF6180CB1585886C359B3B0EB2B48E&profile=pass
