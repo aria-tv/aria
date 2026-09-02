@@ -3,10 +3,10 @@
 | # | Channel | Link | Logo | EPG id | Type |
 |:-:|:-------:|:----:|:----:|:------:|:----:|
 | 1 | TV Cultura | [>](https://player-tvcultura.stream.uol.com.br/live/tvcultura.m3u8) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/brazil/tv-cultura-br.png"/> | TV.Cultura.br | unstable |
-| 2 | SBT | [>](http://190.83.85.68/sbt/index.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/pt/thumb/4/41/Logotipo_do_SBT.svg/2048px-Logotipo_do_SBT.svg.png"/> | SBTNacional.br | stable |
-| 3 | Globo | [>](https://media2.cdntvms.com.br/tv_morena_dorados/index.m3u8) | <img height="20" src="https://static.wikia.nocookie.net/logopedia/images/3/35/TVGlobo2025.png/revision/latest?cb=20250403003551"/> | TV.Globo.br | not-working |
+| 2 | SBT | [>](http://190.83.85.68/sbt/index.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/pt/thumb/4/41/Logotipo_do_SBT.svg/2048px-Logotipo_do_SBT.svg.png"/> | SBTNacional.br | not-working |
+| 3 | Globo | [>](https://media2.cdntvms.com.br/tv_morena_dorados/index.m3u8) | <img height="20" src="https://static.wikia.nocookie.net/logopedia/images/3/35/TVGlobo2025.png/revision/latest?cb=20250403003551"/> | TV.Globo.br | unstable |
 | 4 | Record | [>](http://200.77.176.130:8000/udp/224.0.0.4:49152) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/brazil/record-br.png"/> | Record.TV.br | unstable |
-| 5 | BAND | [>](https://media.cdntvms.com.br/band_sat/index.m3u8) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/brazil/band-br.png"/> | Band.br | not-working |
+| 5 | BAND | [>](https://media.cdntvms.com.br/band_sat/index.m3u8) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/brazil/band-br.png"/> | Band.br | unstable |
 | 6 | Rede TV! | [>](http://190.83.85.68/rede_brasil/index.m3u8) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/brazil/rede-tv-br.png"/> | Rede.TV.br | stable |
 | 7 | Adult Swim | [>](http://45.185.11.126:8000/play/a06m/index.m3u8) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/adult-swim-ca.png"/> | Adult.Swim.br | stable |
 | 8 | TNT | [>](http://143.244.35.74:8880/IgorRangelXX/IgorRangel3/36121) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/brazil/tnt-br.png"/> | TNT.br | unstable |

@@ -65,9 +65,9 @@ http://103.172.29.30:9991/stream/channelid/1759751142?profile=mobarok/fllusonic
 http://103.172.29.30:9991/stream/channelid/14180834?profile=mobarok/fllusonic
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/a/ab/Jalsha_Movies_prelaunch_logo_2011.png/revision/latest/scale-to-width-down/772?cb=20210611104109" group-title="India 🇮🇳" tvg-status="unstable",Jalsha Movies
 http://103.172.29.30:9991/stream/channelid/1796880303?profile=mobarok/fllusonic
-#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/37/Star-sports-select-1.png/revision/latest?cb=20230128174436" group-title="India 🇮🇳" tvg-status="unstable",Star Sports Select 1
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/37/Star-sports-select-1.png/revision/latest?cb=20230128174436" group-title="India 🇮🇳" tvg-status="not-working",Star Sports Select 1
 http://103.172.29.30:9991/stream/channelid/520033539?profile=mobarok/fllusonic
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/55/Star_Gold_2020.svg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original" group-title="India 🇮🇳" tvg-status="unstable",Star Gold (HD Feed)
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/55/Star_Gold_2020.svg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original" group-title="India 🇮🇳" tvg-status="not-working",Star Gold (HD Feed)
 http://103.172.29.30:9991/stream/channelid/520033539?profile=mobarok/fllusonic
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e8/STAR_Sports_1_logo.png/revision/latest?cb=20150719162710" group-title="India 🇮🇳" tvg-status="unstable",Star Sports 1 (SD Feed)
 http://103.172.29.30:9991/stream/channelid/2135784742?profile=mobarok/fllusonic
