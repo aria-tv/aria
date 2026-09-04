@@ -105,7 +105,7 @@ https://iran613hls.wns.live/hls/stream.m3u8
 https://itthls.wns.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Iran 🇮🇷" tvg-status="not-working",Maawj tv
 https://maawjhls.wns.live/hls/stream.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Iran 🇮🇷" tvg-status="not-working",Persiana Travel
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Iran 🇮🇷" tvg-status="unstable",Persiana Travel
 https://mardomhls.wns.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Iran 🇮🇷" tvg-status="stable",Tapesh 2
 https://maxtvhls.wns.live/hls/stream.m3u8

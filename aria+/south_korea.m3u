@@ -1,21 +1,21 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/cartoon-network-us.png" group-title="South Korea 🇰🇷" tvg-status="stable",Cartoon Network
 https://live-th10.myjktv.com/watch/live.m3u8?video=cartoon_network_540&sid=ibruDlwcarLe4hNycOeEqeww9RLddOcBkRHP5OU3&secret=d85c5f96f376280a040d699f3ebde938&time=1771648839
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/KBS_1_logo.svg/512px-KBS_1_logo.svg.png" group-title="South Korea 🇰🇷" tvg-status="unstable",KBS 1TV [Not 24/7]
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/KBS_1_logo.svg/512px-KBS_1_logo.svg.png" group-title="South Korea 🇰🇷" tvg-status="not-working",KBS 1TV [Not 24/7]
 http://121.149.218.55:9981/stream/channelid/23?ticket=0B823D142BC9B7C3AEF1CEE88FA54B17BEBE2E50
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/KBS_2_logo.svg/512px-KBS_2_logo.svg.png" group-title="South Korea 🇰🇷" tvg-status="unstable",KBS 2TV [Not 24/7]
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/KBS_2_logo.svg/512px-KBS_2_logo.svg.png" group-title="South Korea 🇰🇷" tvg-status="not-working",KBS 2TV [Not 24/7]
 http://121.149.218.55:9981/stream/channelid/22?ticket=F7FAA817F7251629147861FF9EE6B5368AE290C9
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/KBS_JOY.svg/512px-KBS_JOY.svg.png" group-title="South Korea 🇰🇷" tvg-status="unstable",KBS Joy
 http://121.149.218.55:9981/stream/channelid/53?ticket=9A11AC6A5747DF62D2B89189FFAF31C6FF0FDC0D
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/KBS_kids.svg/512px-KBS_kids.svg.png" group-title="South Korea 🇰🇷" tvg-status="not-working",KBS Kids
 http://121.143.97.131:9981/stream/channelid/430628735?profile=pass
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/KBS_Life.svg/512px-KBS_Life.svg.png" group-title="South Korea 🇰🇷" tvg-status="unstable",KBS Life
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/KBS_Life.svg/512px-KBS_Life.svg.png" group-title="South Korea 🇰🇷" tvg-status="not-working",KBS Life
 http://121.149.218.55:9981/stream/channelid/83?ticket=E89E443455BB9AF0E2554C607CA4C98520E94DD1
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/KBS_Story.svg/512px-KBS_Story.svg.png" group-title="South Korea 🇰🇷" tvg-status="unstable",KBS Story
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/KBS_Story.svg/512px-KBS_Story.svg.png" group-title="South Korea 🇰🇷" tvg-status="not-working",KBS Story
 http://121.149.218.55:9981/stream/channelid/65?ticket=100F9D7448E976373991484874A3B0D5B60A5358
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/EBS_1TV_Logo.svg/1200px-EBS_1TV_Logo.svg.png" group-title="South Korea 🇰🇷" tvg-status="unstable",EBS 1 [Not 24/7]
 http://121.143.97.131:9981/stream/channelid/1363616043?profile=pass
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/EBS_2_logo.svg/1280px-EBS_2_logo.svg.png" group-title="South Korea 🇰🇷" tvg-status="not-working",EBS 2 [Not 24/7]
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/EBS_2_logo.svg/1280px-EBS_2_logo.svg.png" group-title="South Korea 🇰🇷" tvg-status="unstable",EBS 2 [Not 24/7]
 http://121.143.97.131:9981/stream/channelid/985201254?profile=pass
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/ab/EBS_kids.svg/revision/latest?cb=20201221111923" group-title="South Korea 🇰🇷" tvg-status="unstable",EBS Kids [Not 24/7]
 http://121.143.97.131:9981/stream/channelid/1357549621?profile=pass
@@ -29,11 +29,11 @@ http://vod.mpmbc.co.kr:1935/live/encoder-tv/playlist.m3u8
 https://d21dxaer0ypwk1.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-a6m2cy2rylsvo-ssai-prd/54ac8e25_eb5a_4f10_ba20_ffb254f0a16c/hls/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Logo_tvN.svg/1200px-Logo_tvN.svg.png" group-title="South Korea 🇰🇷" tvg-status="stable",tvN Show
 https://live-th10.myjktv.com/watch/live.m3u8?video=xtm_540&sid=PFAIITxvW0TtUOE7GDqh12d5WYdLdrMlPprSkxzy&secret=5c986f90b21bf48ab94c72fda0e9a216&time=1771650213
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/JTBC_logo.svg/1200px-JTBC_logo.svg.png" group-title="South Korea 🇰🇷" tvg-status="unstable",JTBC
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/JTBC_logo.svg/1200px-JTBC_logo.svg.png" group-title="South Korea 🇰🇷" tvg-status="not-working",JTBC
 http://121.149.218.55:9981/stream/channelid/42?ticket=8845511601205BAAD524AD5AB1001E8B6824FFEC
-#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8e/JTBC2.jpg/revision/latest?cb=20190616070617" group-title="South Korea 🇰🇷" tvg-status="unstable",JTBC 2
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8e/JTBC2.jpg/revision/latest?cb=20190616070617" group-title="South Korea 🇰🇷" tvg-status="not-working",JTBC 2
 http://121.149.218.55:9981/stream/channelid/69?ticket=CDA0E8B812A5DD28DF486E47D8B5E452F0F411C3
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/95/Mnet.png" group-title="South Korea 🇰🇷" tvg-status="unstable",Mnet
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/95/Mnet.png" group-title="South Korea 🇰🇷" tvg-status="not-working",Mnet
 http://121.149.218.55:9981/stream/channelid/47?ticket=232E7416226FB709AED16893E4D9E19280CFB7E1
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="South Korea 🇰🇷" tvg-status="stable",JEI TV
 https://live-th10.myjktv.com/watch/live.m3u8?video=jei_jenung_540&sid=0U5gGVD8MUVHzIdG1JINTEXBzFPw1TS9XkiLqQM0&secret=8aabea762716b38bbc4b6c6fa0bbe509&time=1771648766
@@ -47,33 +47,33 @@ https://live-th10.myjktv.com/watch/live.m3u8?video=discovery_540&sid=MMRDBICzkAZ
 http://121.143.97.131:9981/stream/channelid/380321103?profile=pass
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="South Korea 🇰🇷" tvg-status="unstable",ABN TV
 http://121.143.97.131:9981/stream/channelid/1286700299?profile=pass
-#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a2/ENA_logo.svg/revision/latest?cb=20230325001135" group-title="South Korea 🇰🇷" tvg-status="unstable",ENA
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a2/ENA_logo.svg/revision/latest?cb=20230325001135" group-title="South Korea 🇰🇷" tvg-status="not-working",ENA
 http://121.149.218.55:9981/stream/channelid/78?ticket=7810E1F0F52C25FE3A1A4DEF5B4E913E12AE55A2
-#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/70/ENA_STORY_logo.svg/revision/latest?cb=20230325063818" group-title="South Korea 🇰🇷" tvg-status="unstable",ENA Story
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/70/ENA_STORY_logo.svg/revision/latest?cb=20230325063818" group-title="South Korea 🇰🇷" tvg-status="not-working",ENA Story
 http://121.149.218.55:9981/stream/channelid/93?ticket=40D60092637787E0D651AD61F3360F1B8411EA17
-#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2c/ENA_PLAY_logo.svg/revision/latest?cb=20230325003332" group-title="South Korea 🇰🇷" tvg-status="unstable",ENA Play
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2c/ENA_PLAY_logo.svg/revision/latest?cb=20230325003332" group-title="South Korea 🇰🇷" tvg-status="not-working",ENA Play
 http://121.149.218.55:9981/stream/channelid/24?ticket=7901052BC9A3EE62AFA5F8FD4556AFC2B764E93C
-#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b6/SBS_Biz.svg/revision/latest/scale-to-width-down/200?cb=20220513000834" group-title="South Korea 🇰🇷" tvg-status="unstable",SBS Biz
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b6/SBS_Biz.svg/revision/latest/scale-to-width-down/200?cb=20220513000834" group-title="South Korea 🇰🇷" tvg-status="not-working",SBS Biz
 http://121.149.218.55:9981/stream/channelid/86?ticket=3A772C680F130237FD0FA7A6EC27EDA1E909F609
-#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e1/SBS_Golf.svg/revision/latest/scale-to-width-down/250?cb=20230410125846" group-title="South Korea 🇰🇷" tvg-status="unstable",SBS Golf
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e1/SBS_Golf.svg/revision/latest/scale-to-width-down/250?cb=20230410125846" group-title="South Korea 🇰🇷" tvg-status="not-working",SBS Golf
 http://121.149.218.55:9981/stream/channelid/60?ticket=F909EAC5CECF8C07F679A7C03E36746C308A1835
-#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5f/SBS_Sports_logo_2018.svg/revision/latest/scale-to-width-down/300?cb=20210713053543" group-title="South Korea 🇰🇷" tvg-status="unstable",SBS Sports
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5f/SBS_Sports_logo_2018.svg/revision/latest/scale-to-width-down/300?cb=20210713053543" group-title="South Korea 🇰🇷" tvg-status="not-working",SBS Sports
 http://121.149.218.55:9981/stream/channelid/36?ticket=7980B2FE56C6956B44EB2E32C12DCF5E26332E79
-#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/03/SBS_plus_2020.svg/revision/latest/scale-to-width-down/250?cb=20211215102417" group-title="South Korea 🇰🇷" tvg-status="unstable",SBS Plus
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/03/SBS_plus_2020.svg/revision/latest/scale-to-width-down/250?cb=20211215102417" group-title="South Korea 🇰🇷" tvg-status="not-working",SBS Plus
 http://121.149.218.55:9981/stream/channelid/89?ticket=C5AC40F746E95129ACE89E5DF979B237B690FC51
-#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/42/JTBCSPORTS.webp/revision/latest/scale-to-width-down/200?cb=20260326122659" group-title="South Korea 🇰🇷" tvg-status="unstable",JTBC Sports
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/42/JTBCSPORTS.webp/revision/latest/scale-to-width-down/200?cb=20260326122659" group-title="South Korea 🇰🇷" tvg-status="not-working",JTBC Sports
 http://121.149.218.55:9981/stream/channelid/109?ticket=3B61D543992E9695D96372BF389985AD8DC4523F
-#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f7/Mbc_on_logo.svg/revision/latest?cb=20201221103646" group-title="South Korea 🇰🇷" tvg-status="unstable",MBC On
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f7/Mbc_on_logo.svg/revision/latest?cb=20201221103646" group-title="South Korea 🇰🇷" tvg-status="not-working",MBC On
 http://121.149.218.55:9981/stream/channelid/26?ticket=B35FDAE71E07E0D56AD0F46F733BADCEDF7D8975
-#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/eb/Mbcdrama_logo.svg/revision/latest?cb=20201221102439" group-title="South Korea 🇰🇷" tvg-status="unstable",MBC Drama
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/eb/Mbcdrama_logo.svg/revision/latest?cb=20201221102439" group-title="South Korea 🇰🇷" tvg-status="not-working",MBC Drama
 http://121.149.218.55:9981/stream/channelid/66?ticket=45B18A5F503BA3D52EFB2D0D6BBA5092787F1482
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/40/MBC_Sports_Plus_%282025%2C_vertical%29.svg/revision/latest/scale-to-width-down/200?cb=20250426023736" group-title="South Korea 🇰🇷" tvg-status="not-working",MBC Sports+
 http://121.149.218.55:9981/stream/channelid/44?ticket=C92116D96E5CFBEE35FF88AD82001781CE87A0EB
-#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0d/MBC_Every_1_2022_%28Vertical%29.svg/revision/latest?cb=20220426080324" group-title="South Korea 🇰🇷" tvg-status="unstable",MBC Every1
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0d/MBC_Every_1_2022_%28Vertical%29.svg/revision/latest?cb=20220426080324" group-title="South Korea 🇰🇷" tvg-status="not-working",MBC Every1
 http://121.149.218.55:9981/stream/channelid/103?ticket=871BD522CCCFFBB6799ECA5EA359E461C1CDDA34
-#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8d/OCN_2020.svg/revision/latest/scale-to-width-down/250?cb=20220716050033" group-title="South Korea 🇰🇷" tvg-status="unstable",OCN
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8d/OCN_2020.svg/revision/latest/scale-to-width-down/250?cb=20220716050033" group-title="South Korea 🇰🇷" tvg-status="not-working",OCN
 http://121.149.218.55:9981/stream/channelid/43?ticket=A590D2F4879A4320285489E71E6E00AC6F02E8E0
-#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/30/OCN_Movies.svg/revision/latest/scale-to-width-down/302?cb=20230609100946" group-title="South Korea 🇰🇷" tvg-status="unstable",OCN Movies
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/30/OCN_Movies.svg/revision/latest/scale-to-width-down/302?cb=20230609100946" group-title="South Korea 🇰🇷" tvg-status="not-working",OCN Movies
 http://121.149.218.55:9981/stream/channelid/81?ticket=0DEDB93998FD27E9FA22141EAE95DB31B23FDB3B
-#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6f/OCN_Movies_2_%28Vector%29.svg/revision/latest/scale-to-width-down/300?cb=20240922030518" group-title="South Korea 🇰🇷" tvg-status="unstable",OCN Movies 2
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6f/OCN_Movies_2_%28Vector%29.svg/revision/latest/scale-to-width-down/300?cb=20240922030518" group-title="South Korea 🇰🇷" tvg-status="not-working",OCN Movies 2
 http://121.149.218.55:9981/stream/channelid/63?ticket=A0C91F78AFB92855D2B4F669B01AF7FDF7EC8D0A

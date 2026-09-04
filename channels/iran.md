@@ -55,7 +55,7 @@
 | 51 | Iran Nama | [>](https://iran613hls.wns.live/hls/stream.m3u8) | Iran Nama | &nbsp; | stable |
 | 52 | 4Music | [>](https://itthls.wns.live/hls/stream.m3u8) | 4Music | &nbsp; | stable |
 | 53 | Maawj tv | [>](https://maawjhls.wns.live/hls/stream.m3u8) | Maawj tv | &nbsp; | not-working |
-| 54 | Persiana Travel | [>](https://mardomhls.wns.live/hls/stream.m3u8) | Persiana Travel | &nbsp; | not-working |
+| 54 | Persiana Travel | [>](https://mardomhls.wns.live/hls/stream.m3u8) | Persiana Travel | &nbsp; | unstable |
 | 55 | Tapesh 2 | [>](https://maxtvhls.wns.live/hls/stream.m3u8) | Tapesh 2 | &nbsp; | stable |
 | 56 | Meta Film | [>](https://metafilmhls.wns.live/hls/stream.m3u8) | Meta Film | &nbsp; | stable |
 | 57 | MTC | [>](https://mtchls.wns.live/hls/stream.m3u8) | MTC | &nbsp; | stable |
