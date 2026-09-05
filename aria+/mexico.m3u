@@ -5,7 +5,7 @@ http://38.59.135.250:8001/play/a0fm/index.m3u8
 http://38.59.135.250:8001/play/a0l1/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/54/BitMe_2025.svg/revision/latest/scale-to-width-down/315?cb=20250307002717" group-title="Mexico 🇲🇽" tvg-status="not-working",BitMe
 http://181.78.4.250:8098/play/0122/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2b/Canal_Once_logo_2025.png" group-title="Mexico 🇲🇽" tvg-status="not-working",Canal Once
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2b/Canal_Once_logo_2025.png" group-title="Mexico 🇲🇽" tvg-status="unstable",Canal Once
 https://s5.mexside.net:1936/stream/stream/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1d/Canal_5_Mexico_logo_2014.svg" group-title="Mexico 🇲🇽" tvg-status="unstable",Canal 5
 http://38.59.135.250:8001/play/a0ll/index.m3u8
