@@ -527,6 +527,16 @@ http://78.130.234.23:9981/stream/channelid/1373620928?profile=pass
 http://78.130.234.23:9981/stream/channelid/1079185859?profile=pass
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/bulgaria/ekids-bg.png" group-title="Bulgaria 🇧🇬" tvg-status="unstable",Ekids
 http://78.130.234.23:9981/stream/channelid/1717094548?profile=pass
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/bulgaria/supertoons-bg.png" group-title="Bulgaria 🇧🇬" tvg-status="unstable",Supertoons
+http://77.76.8.12:82/supertoons/mpegts
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/nickelodeon-us.png" group-title="Bulgaria 🇧🇬" tvg-status="unstable",Nickelodeon
+http://77.76.8.12:82/nickelodeon/mpegts
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/nick-jr-us.png" group-title="Bulgaria 🇧🇬" tvg-status="unstable",Nick Jr.
+http://77.76.8.12:82/nickjr/mpegts
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/nick-toons-us.png" group-title="Bulgaria 🇧🇬" tvg-status="unstable",Nicktoons
+http://77.76.8.12:82/nicktoons/mpegts
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/cartoonito-uk.png" group-title="Bulgaria 🇧🇬" tvg-status="unstable",Cartoonito
+http://77.76.8.12:82/cartoonito/mpegts
 #EXTINF:-1 tvg-id="Adult.Swim.-.East.ca" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/adult-swim-ca.png" group-title="Canada 🇨🇦" tvg-status="unstable",Adult Swim
 http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/44290.ts
 #EXTINF:-1 tvg-id="AMI.TV.ca" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/AMItv.svg/1200px-AMItv.svg.png" group-title="Canada 🇨🇦" tvg-status="unstable",AMI
