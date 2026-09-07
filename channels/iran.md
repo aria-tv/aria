@@ -56,8 +56,8 @@
 | 52 | 4Music | [>](https://itthls.wns.live/hls/stream.m3u8) | 4Music | &nbsp; | stable |
 | 53 | Maawj tv | [>](https://maawjhls.wns.live/hls/stream.m3u8) | Maawj tv | &nbsp; | not-working |
 | 54 | Persiana Travel | [>](https://mardomhls.wns.live/hls/stream.m3u8) | Persiana Travel | &nbsp; | unstable |
-| 55 | Tapesh 2 | [>](https://maxtvhls.wns.live/hls/stream.m3u8) | Tapesh 2 | &nbsp; | stable |
-| 56 | Meta Film | [>](https://metafilmhls.wns.live/hls/stream.m3u8) | Meta Film | &nbsp; | stable |
+| 55 | Tapesh 2 | [>](https://maxtvhls.wns.live/hls/stream.m3u8) | Tapesh 2 | &nbsp; | not-working |
+| 56 | Meta Film | [>](https://metafilmhls.wns.live/hls/stream.m3u8) | Meta Film | &nbsp; | not-working |
 | 57 | MTC | [>](https://mtchls.wns.live/hls/stream.m3u8) | MTC | &nbsp; | stable |
 | 58 | Net TV | [>](https://nethls.wns.live/hls/stream.m3u8) | Net TV | &nbsp; | stable |
 | 59 | Pro Sport International | [>](https://proshls.wns.live/hls/stream.m3u8) | Pro Sport International | &nbsp; | not-working |
@@ -67,7 +67,7 @@
 | 63 | SL One | [>](https://slonehls.wns.live/hls/stream.m3u8) | SL One | &nbsp; | stable |
 | 64 | SL Two | [>](https://sltwohls.wns.live/hls/stream.m3u8) | SL Two | &nbsp; | stable |
 | 65 | Manoto HD | [>](https://m3u.iranvids.com/manoto/output.m3u8) | Manoto HD | &nbsp; | stable |
-| 66 | PBC Tapesh | [>](https://iptv.tapesh.tv/tapesh/playlist_low/index.m3u8) | PBC Tapesh | &nbsp; | not-working |
+| 66 | PBC Tapesh | [>](https://iptv.tapesh.tv/tapesh/playlist_low/index.m3u8) | PBC Tapesh | &nbsp; | unstable |
 | 67 | AVA Family | [>](https://familyhls.avatv.live/hls/stream.m3u8) | AVA Family | &nbsp; | unstable |
 | 68 | 24/7 Box | [>](https://hls.247box.live/hls/stream.m3u8) | 24/7 Box | &nbsp; | stable |
 | 69 | VOA Farsi | [>](https://voa-ingest.akamaized.net/hls/live/2033876/tvmc07/playlist_0360.m3u8) | VOA Farsi | &nbsp; | stable |
