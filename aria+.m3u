@@ -1075,6 +1075,8 @@ http://88.207.21.218:9981/stream/channelid/1495964521?profile=pass
 http://88.207.21.218:9981/stream/channelid/457754451?profile=pass
 #EXTINF:-1 tvg-id="" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/croatia/blue-televizija-hr.png?raw=true" group-title="Croatia 🇭🇷" tvg-status="not-working",Blue Televizija
 http://88.207.21.218:9981/stream/channelid/93847705?profile=pass
+#EXTINF:-1 tvg-id="" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/croatia/mini-tv-hr.png?raw=true" group-title="Croatia 🇭🇷" tvg-status="stable",Mini TV
+https://live.omni3.pl/minitvhr/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Logo_RIK_1_2017.svg/1200px-Logo_RIK_1_2017.svg.png" group-title="Cyprus 🇨🇾" tvg-status="stable",RIK 1
 http://213.7.216.229:8888/udp/239.23.0.1:1234
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Logo_RIK_2_2017.svg/2560px-Logo_RIK_2_2017.svg.png" group-title="Cyprus 🇨🇾" tvg-status="stable",RIK 2
