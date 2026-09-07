@@ -187,6 +187,8 @@ https://cdn.global.elektamedia.com/live/c7eds/Totalmusic_Dance/SA_LIVE_hls_enc/m
 https://4gtv.ngrok.app/hls/stream.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://cdn271.picsart.com/7c6237cf-5ace-44ce-b521-3a4a8e4d688a/525453302021201.png?to=crop&type=webp&r=540x205&q=85" group-title="Aria Web Channels 📺" tvg-status="not-working",Valuto One
 http://199.245.173.253:5004/auto/v3.11
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Aria Web Channels 📺" tvg-status="stable",Hit3
+https://4gtv.ngrok.app/hls/stream.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/kVmqFV29/Armenian-Public-TV-logo-2021-2-svg.png" group-title="Armenia 🇦🇲" tvg-status="unstable",First Channel
 http://ilvip.net:80/live/0546556529/0546556529/256222.ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/hRQwSwnr/1000024588-removebg-preview.png" group-title="Armenia 🇦🇲" tvg-status="unstable",First Channel News
