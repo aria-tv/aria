@@ -535,7 +535,7 @@ http://77.76.8.12:82/nickelodeon/mpegts
 http://77.76.8.12:82/nickjr/mpegts
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/nick-toons-us.png" group-title="Bulgaria 🇧🇬" tvg-status="unstable",Nicktoons
 http://77.76.8.12:82/nicktoons/mpegts
-#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/cartoonito-uk.png" group-title="Bulgaria 🇧🇬" tvg-status="unstable",Cartoonito
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/cartoonito-uk.png" group-title="Bulgaria 🇧🇬" tvg-status="unstable",Cartoonito
 http://77.76.8.12:82/cartoonito/mpegts
 #EXTINF:-1 tvg-id="Adult.Swim.-.East.ca" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/adult-swim-ca.png" group-title="Canada 🇨🇦" tvg-status="unstable",Adult Swim
 http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/44290.ts
