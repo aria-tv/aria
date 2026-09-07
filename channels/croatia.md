@@ -24,3 +24,4 @@
 | 20 | CMC | [>](http://88.207.21.218:9981/stream/channelid/1495964521?profile=pass) | <img height="20" src="https://github.com/tv-logo/tv-logos/blob/main/countries/croatia/cmc-hr.png?raw=true"/> | &nbsp; | not-working |
 | 21 | OTV | [>](http://88.207.21.218:9981/stream/channelid/457754451?profile=pass) | <img height="20" src="https://github.com/tv-logo/tv-logos/blob/main/countries/croatia/otv-hr.png?raw=true"/> | &nbsp; | not-working |
 | 22 | Blue Televizija | [>](http://88.207.21.218:9981/stream/channelid/93847705?profile=pass) | <img height="20" src="https://github.com/tv-logo/tv-logos/blob/main/countries/croatia/blue-televizija-hr.png?raw=true"/> | &nbsp; | not-working |
+| 22 | Mini TV | [>](https://live.omni3.pl/minitvhr/index.m3u8) | <img height="20" src="https://github.com/tv-logo/tv-logos/blob/main/countries/croatia/mini-tv-hr.png?raw=true"/> | &nbsp; | stable |
