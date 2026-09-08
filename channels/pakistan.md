@@ -1,4 +1,4 @@
-# Pakistan 🇵🇰
+# Pakistan
 
 | # | Channel | Link | Logo | EPG id | Type |
 |:-:|:-------:|:----:|:----:|:------:|:----:|

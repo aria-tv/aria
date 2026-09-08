@@ -56,8 +56,8 @@
 | 52 | 4Music | [>](https://itthls.wns.live/hls/stream.m3u8) | 4Music | &nbsp; | stable |
 | 53 | Maawj tv | [>](https://maawjhls.wns.live/hls/stream.m3u8) | Maawj tv | &nbsp; | not-working |
 | 54 | Persiana Travel | [>](https://mardomhls.wns.live/hls/stream.m3u8) | Persiana Travel | &nbsp; | unstable |
-| 55 | Tapesh 2 | [>](https://maxtvhls.wns.live/hls/stream.m3u8) | Tapesh 2 | &nbsp; | not-working |
-| 56 | Meta Film | [>](https://metafilmhls.wns.live/hls/stream.m3u8) | Meta Film | &nbsp; | not-working |
+| 55 | Tapesh 2 | [>](https://maxtvhls.wns.live/hls/stream.m3u8) | Tapesh 2 | &nbsp; | unstable |
+| 56 | Meta Film | [>](https://metafilmhls.wns.live/hls/stream.m3u8) | Meta Film | &nbsp; | unstable |
 | 57 | MTC | [>](https://mtchls.wns.live/hls/stream.m3u8) | MTC | &nbsp; | stable |
 | 58 | Net TV | [>](https://nethls.wns.live/hls/stream.m3u8) | Net TV | &nbsp; | stable |
 | 59 | Pro Sport International | [>](https://proshls.wns.live/hls/stream.m3u8) | Pro Sport International | &nbsp; | not-working |
