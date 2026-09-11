@@ -1,5 +1,3 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Croatia 🇭🇷" tvg-status="stable",MAXtv Promo HD
 https://bpcdnmanprod.nexttv.ht.hr/bpk-tv/Promo/default/index.mpd
-#EXTINF:-1 tvg-id="" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/croatia/mini-tv-hr.png?raw=true" group-title="Croatia 🇭🇷" tvg-status="stable",Mini TV
-https://live.omni3.pl/minitvhr/index.m3u8

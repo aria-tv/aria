@@ -39,8 +39,6 @@ http://209.61.12.77:9000/play/a08g/index.m3u8
 http://209.61.12.77:9000/play/a09u/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/discovery-us.png" group-title="Latin America 🌎" tvg-status="stable",Discovery Channel
 http://209.61.12.77:9000/play/a09g/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/comedy-central-us.png" group-title="Latin America 🌎" tvg-status="stable",Comedy Central
-http://cablemaxsigloxxi.com:8000/play/a07t/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/brazil/home-and-health-br.png" group-title="Latin America 🌎" tvg-status="stable",Discovery Home and Health
 http://209.61.12.77:9000/play/a091/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/brazil/discovery-science-br.png" group-title="Latin America 🌎" tvg-status="stable",Discovery Science
