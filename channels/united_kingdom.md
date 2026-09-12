@@ -13,7 +13,7 @@
 | 9 | Sky Sports F1/Sky Sports Darts | [>](https://xemzi.short.gy/2000005) | <img height="20" src="https://i.ibb.co/h26bK2Q/sky-f1.png"/> | SkySp.F1.HD.uk | unstable |
 | 10 | Sky Sports F1/Sky Sports Darts UHD | [>](https://xemzi.short.gy/2000016) | <img height="20" src="https://i.imgur.com/aetKPNi.png"/> | SkySp.F1.uk | unstable |
 | 11 | Sky Sports Cricket | [>](https://xemzi.short.gy/2000006) | <img height="20" src="https://i.ibb.co/JyPnwvB/sky-cricket.png"/> | SkySpCricket.HD.uk | unstable |
-| 12 | Sky Sports Mix | [>](https://xemzi.short.gy/2000008) | <img height="20" src="https://i.ibb.co/7kYj5gc/sky-mix.png"/> | SkySp.Mix.HD.uk | not-working |
+| 12 | Sky Sports Mix | [>](https://xemzi.short.gy/2000008) | <img height="20" src="https://i.ibb.co/7kYj5gc/sky-mix.png"/> | SkySp.Mix.HD.uk | unstable |
 | 13 | Sky Sports Golf | [>](https://xemzi.short.gy/2000009) | <img height="20" src="https://i.ibb.co/QvhY4tX/sky-golf.png"/> | SkySp.Golf.HD.uk | unstable |
 | 14 | Sky Sports Racing | [>](https://xemzi.short.gy/2000010) | <img height="20" src="https://i.ibb.co/Hnp1hBz/sky-racing.png"/> | SkySp.Racing.HD.uk | unstable |
 | 15 | Sky Sports Action/Sky Sports NFL | [>](https://xemzi.short.gy/2000011) | <img height="20" src="https://i.ibb.co/VqtQrDq/sky-action.png"/> | SkySp.ActionHD.uk | unstable |
@@ -21,7 +21,7 @@
 | 17 | Sky Sports Tennis | [>](https://xemzi.short.gy/2000013) | <img height="20" src="https://i.imgur.com/ZNUDU1r.png"/> | SkySp.Tennis.HD.uk | unstable |
 | 18 | TNT Sports 1 | [>](https://xemzi.short.gy/2000021) | <img height="20" src="https://i.imgur.com/1EYnddH.png"/> | TNT.Sports.1.HD.uk | unstable |
 | 19 | TNT Sports 2 | [>](https://xemzi.short.gy/2000022) | <img height="20" src="https://i.imgur.com/YtGYRIB.png"/> | TNT.Sports.2.HD.uk | unstable |
-| 20 | TNT Sports 3 | [>](https://xemzi.short.gy/2000023) | <img height="20" src="https://i.imgur.com/z1d9M65.png"/> | TNT.Sports.3.HD.uk | not-working |
+| 20 | TNT Sports 3 | [>](https://xemzi.short.gy/2000023) | <img height="20" src="https://i.imgur.com/z1d9M65.png"/> | TNT.Sports.3.HD.uk | unstable |
 | 21 | TNT Sports 4 | [>](https://xemzi.short.gy/2000024) | <img height="20" src="https://i.imgur.com/K92UuvG.png"/> | TNT.Sports.4.HD.uk | unstable |
 | 22 | TNT Sports Ultimate | [>](https://xemzi.short.gy/2000031) | <img height="20" src="https://i.ibb.co/QqGdJnM/TNTSprts-U.png"/> | TNT.Sports.Ultimate.uk | unstable |
 | 23 | Sky Cinema Hits | [>](https://a1xs.vip/210002) | <img height="20" src="https://pixvid.org/images/2025/02/10/sky-cinema-hits.png"/> | Sky.Cinema.Hits.HD.uk | not-working |
