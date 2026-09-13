@@ -12,7 +12,7 @@
 | 8 | Nova HD | [>](http://89.201.195.79:9981/stream/channelid/294410472?profile=pass) | <img height="20" src="https://github.com/tv-logo/tv-logos/blob/main/countries/croatia/nova-hr.png?raw=true"/> | &nbsp; | not-working |
 | 9 | Doma HD | [>](http://88.207.21.218:9981/stream/channelid/1300843533?profile=pass) | <img height="20" src="https://github.com/tv-logo/tv-logos/blob/main/countries/croatia/rtl-living-hr.png?raw=true"/> | &nbsp; | not-working |
 | 10 | MAXtv Promo HD | [>](https://bpcdnmanprod.nexttv.ht.hr/bpk-tv/Promo/default/index.mpd) | MAXtv Promo HD | &nbsp; | stable |
-| 11 | N1 info HR (CNN Croatia) | [>](https://best-str.umn.cdn.united.cloud/stream?stream=sp1400&sp=n1info&channel=n1hrv&u=n1info&p=n1Sh4redSecre7iNf0&player=m3u8) | N1 info HR (CNN Croatia) | &nbsp; | unstable |
+| 11 | N1 info HR (CNN Croatia) | [>](https://best-str.umn.cdn.united.cloud/stream?stream=sp1400&sp=n1info&channel=n1hrv&u=n1info&p=n1Sh4redSecre7iNf0&player=m3u8) | N1 info HR (CNN Croatia) | &nbsp; | not-working |
 | 12 | RTL Living | [>](http://88.207.21.218:9981/stream/channelid/1188033740?profile=pass) | <img height="20" src="https://github.com/tv-logo/tv-logos/blob/main/countries/croatia/rtl-living-hr.png?raw=true"/> | &nbsp; | not-working |
 | 13 | RTL Crime | [>](http://88.207.21.218:9981/stream/channelid/888216525?profile=pass) | <img height="20" src="https://github.com/tv-logo/tv-logos/blob/main/countries/croatia/rtl-crime-hr.png?raw=true"/> | &nbsp; | not-working |
 | 14 | RTL Adria | [>](http://88.207.21.218:9981/stream/channelid/1782700814?profile=pass) | <img height="20" src="https://github.com/tv-logo/tv-logos/blob/main/countries/croatia/rtl-adria-hr.png?raw=true"/> | &nbsp; | not-working |
