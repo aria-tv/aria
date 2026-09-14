@@ -59,7 +59,7 @@ https://a1xs.vip/140002
 https://a1xs.vip/140003
 #EXTINF:-1 tvg-id="Ziggo.Sport.4.nl" tvg-logo="https://i.imgur.com/8mnQvB5.png" group-title="Netherlands 🇳🇱" tvg-status="not-working",Ziggo Sport 4
 https://a1xs.vip/140004
-#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/netherlands/espn-nl.png" group-title="Netherlands 🇳🇱" tvg-status="stable",ESPN
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/netherlands/espn-nl.png" group-title="Netherlands 🇳🇱" tvg-status="not-working",ESPN
 http://46.149.191.219:9100/play/a00e
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/netherlands/rtl-crime-nl.png" group-title="Netherlands 🇳🇱" tvg-status="not-working",RTL Crime
 http://83.85.109.250:9981/stream/channelid/113198168?profile=pass
