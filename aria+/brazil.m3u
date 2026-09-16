@@ -51,7 +51,7 @@ https://tvbrasil-stream.ebc.com.br/index.m3u8
 https://canalgov-stream.ebc.com.br/index.m3u8
 #EXTINF:-1 tvg-id="Gloob.br" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/brazil/gloob-br.png" group-title="Brazil 🇧🇷" tvg-status="unstable",Gloob
 http://45.185.11.126:8000/play/a07v/index.m3u8
-#EXTINF:-1 tvg-id="Gloobinho.br" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/brazil/gloobhino-br.png" group-title="Brazil 🇧🇷" tvg-status="unstable",Gloobinho
+#EXTINF:-1 tvg-id="Gloobinho.br" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/brazil/gloobhino-br.png" group-title="Brazil 🇧🇷" tvg-status="not-working",Gloobinho
 http://45.185.11.126:8000/play/a071/index.m3u8
 #EXTINF:-1 tvg-id="GNT.br" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/brazil/gnt-br.png" group-title="Brazil 🇧🇷" tvg-status="not-working",GNT
 http://143.244.35.74:8880/IgorRangelXX/IgorRangel3/13770
