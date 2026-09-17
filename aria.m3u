@@ -109,10 +109,6 @@ http://131.196.103.111:8089/BANDSPORTS/index.m3u8
 http://131.196.103.111:8089/BANDSPORTS/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/bulgaria/bnt-1-bg.png" group-title="Bulgaria 🇧🇬" tvg-status="stable",BNT 1
 http://hls127.freeott.top:8080/BG_BNT_1/video.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/bulgaria/bnt-2-bg.png" group-title="Bulgaria 🇧🇬" tvg-status="stable",BNT 2
-http://hls127.freeott.top:8080/BG_BNT_2/video.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/bulgaria/bnt-3-bg.png" group-title="Bulgaria 🇧🇬" tvg-status="stable",BNT 3
-http://hls127.freeott.top:8080/BG_BNT_3/video.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/bulgaria/btv-bg.png" group-title="Bulgaria 🇧🇬" tvg-status="stable",BTV
 http://hls127.freeott.top:8080/BG_bTV_HD/video.m3u8
 #EXTINF:-1 tvg-id="Knowledge.Network.ca" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/knowledge-network-ca.png" group-title="Canada 🇨🇦" tvg-status="stable",Knowledge Network
@@ -615,12 +611,8 @@ http://103.86.132.58:9981/stream/channelid/662570916?ticket=A86410C7BBA9A5FB23CA
 http://103.86.132.58:9981/stream/channelid/1804265102?ticket=80F2D96562CB6AB9B3529389786AFFB6A5732F41&profile=pass
 #EXTINF:-1 tvg-id="" tvg-logo="https://canaln.pe/img/default-seo.jpg" group-title="Peru" tvg-status="stable",Canal N
 http://190.119.176.186:8000/play/a08e
-#EXTINF:-1 tvg-id="" tvg-logo="https://cms.cignal.tv/Upload/Images/rptv%20logo%20final-02.png" group-title="Philippines 🇵🇭" tvg-status="stable",RPTV
-https://ott.djdoolky76.io/api/streams/60/manifest.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOjIsInN0cmVhbVRva2VuIjoiOGVkOTY4MTIzODE2ZDQyY2U0Y2I5Y2E0YjBkNTI2ZTRlNDFmMDViZTY5MmE1ZjBjNTE3MjU1MjAwNTE3NWQ5OSIsImlhdCI6MTc4ODAxNTcxNCwiZXhwIjoxNzkwNTUzNTk5fQ.g4Cbic93tY4CjwC7cjqasTjVsJWy-lDk4M_X6R0j6o0
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/6e/TAP_Sports_channel_logo.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail_unscaled" group-title="Philippines 🇵🇭" tvg-status="stable",Tap Sports
 https://ott.djdoolky76.io/api/streams/98/manifest.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOjIsInN0cmVhbVRva2VuIjoiOGVkOTY4MTIzODE2ZDQyY2U0Y2I5Y2E0YjBkNTI2ZTRlNDFmMDViZTY5MmE1ZjBjNTE3MjU1MjAwNTE3NWQ5OSIsImlhdCI6MTc4ODAxNTcxNCwiZXhwIjoxNzkwNTUzNTk5fQ.g4Cbic93tY4CjwC7cjqasTjVsJWy-lDk4M_X6R0j6o0
-#EXTINF:-1 tvg-id="" tvg-logo="https://cms.cignal.tv/Upload/Images/One-News.jpg" group-title="Philippines 🇵🇭" tvg-status="stable",One News
-https://ott.djdoolky76.io/api/streams/53/manifest.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOjIsInN0cmVhbVRva2VuIjoiOGVkOTY4MTIzODE2ZDQyY2U0Y2I5Y2E0YjBkNTI2ZTRlNDFmMDViZTY5MmE1ZjBjNTE3MjU1MjAwNTE3NWQ5OSIsImlhdCI6MTc4ODAxNTcxNCwiZXhwIjoxNzkwNTUzNTk5fQ.g4Cbic93tY4CjwC7cjqasTjVsJWy-lDk4M_X6R0j6o0
 #EXTINF:-1 tvg-id="SIC.K.pt" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/portugal/sic-k-pt.png" group-title="Portugal 🇵🇹" tvg-status="stable",SIC K
 https://tv.jassuncao.work/stream/channelid/943759774?profile=pass
 #EXTINF:-1 tvg-id="SIC.Radical.pt" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/portugal/sic-radical-pt.png" group-title="Portugal 🇵🇹" tvg-status="stable",SIC Radical
@@ -645,8 +637,6 @@ http://93.95.99.164:10000/play/stslove/index.m3u8
 http://93.95.99.164:10000/play/stslove/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/95/Zvezda_logo.svg" group-title="Russia 🇷🇺" tvg-status="stable",Zvezda
 http://5.57.11.195:9981/stream/channelid/912677638?ticket=07BF84763DAFF6CE458F3E9BC852C36FC825A804&profile=pass
-#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/tvpedia/images/8/81/%D0%9C%D0%B8%D1%80_24.svg/revision/latest/scale-to-width-down/268?cb=20210713113659&path-prefix=ru" group-title="Russia 🇷🇺" tvg-status="stable",World 24
-http://5.57.11.195:9981/stream/channelid/1902478236?ticket=35D7AAC5FF2CA0CBEE1EC8BDBA48C9EECDDFE9F6&profile=pass
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/tvpedia/images/2/27/RT_Documentary.png/revision/latest/scale-to-width-down/268?cb=20240623210059&path-prefix=ru" group-title="Russia 🇷🇺" tvg-status="stable",RT Documentary
 http://5.57.11.195:9981/stream/channelid/150391666?ticket=AD0C27A63CC1DC491652C7270B665DDA08BF6D2D&profile=pass
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/tvpedia/images/7/71/%D0%A2%D0%A0%D0%9A_%D0%97%D0%B0%D0%B1%D0%B0%D0%B9%D0%BA%D0%B0%D0%BB%D1%8C%D0%B5_%282020%29.svg/revision/latest/scale-to-width-down/268?cb=20201024174653&path-prefix=ru" group-title="Russia 🇷🇺" tvg-status="stable",Transbaikalia

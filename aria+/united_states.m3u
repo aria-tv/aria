@@ -95,7 +95,7 @@ http://23.237.104.106:8080/USA_HALLMARK/index.m3u8
 http://lunar.pm:8080/live/2055676975/MAAvrCmWZ8FZ/9182.ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/great-american-family-us.png" group-title="United States 🇺🇸" tvg-status="unstable",Great American Family
 http://lunar.pm:8080/live/2055676975/MAAvrCmWZ8FZ/105641.ts
-#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/lifetime-us.png" group-title="United States 🇺🇸" tvg-status="unstable",Lifetime
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/lifetime-us.png" group-title="United States 🇺🇸" tvg-status="not-working",Lifetime
 http://41.205.93.154/LIFETIME/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/lifetime-movie-network-us.png" group-title="United States 🇺🇸" tvg-status="not-working",Lifetime Movie Network
 http://23.237.104.106:8080/USA_LMN/index.m3u8
