@@ -14,7 +14,7 @@
 | 10 | Sky Sports F1/Sky Sports Darts UHD | [>](https://xemzi.short.gy/2000016) | <img height="20" src="https://i.imgur.com/aetKPNi.png"/> | SkySp.F1.uk | unstable |
 | 11 | Sky Sports Cricket | [>](https://xemzi.short.gy/2000006) | <img height="20" src="https://i.ibb.co/JyPnwvB/sky-cricket.png"/> | SkySpCricket.HD.uk | not-working |
 | 12 | Sky Sports Mix | [>](https://xemzi.short.gy/2000008) | <img height="20" src="https://i.ibb.co/7kYj5gc/sky-mix.png"/> | SkySp.Mix.HD.uk | unstable |
-| 13 | Sky Sports Golf | [>](https://xemzi.short.gy/2000009) | <img height="20" src="https://i.ibb.co/QvhY4tX/sky-golf.png"/> | SkySp.Golf.HD.uk | unstable |
+| 13 | Sky Sports Golf | [>](https://xemzi.short.gy/2000009) | <img height="20" src="https://i.ibb.co/QvhY4tX/sky-golf.png"/> | SkySp.Golf.HD.uk | not-working |
 | 14 | Sky Sports Racing | [>](https://xemzi.short.gy/2000010) | <img height="20" src="https://i.ibb.co/Hnp1hBz/sky-racing.png"/> | SkySp.Racing.HD.uk | unstable |
 | 15 | Sky Sports Action/Sky Sports NFL | [>](https://xemzi.short.gy/2000011) | <img height="20" src="https://i.ibb.co/VqtQrDq/sky-action.png"/> | SkySp.ActionHD.uk | unstable |
 | 16 | Sky Sports+ | [>](https://xemzi.short.gy/2000012) | <img height="20" src="https://i.ibb.co/ccNV9ppd/Sky-Sportsplus.png"/> | SkySp+HD.uk | unstable |
