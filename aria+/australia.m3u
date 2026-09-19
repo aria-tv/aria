@@ -87,3 +87,7 @@ http://groundhogday.in/live/Jok123/Jok123/1003706.ts
 https://liveovh010.cda.pl/zkr7GNESGht4_0Wk12c78A/17538736/2782059/enc113/bbcfirsthdraw/bbcfirsthdraw.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://mumbrella.com.au/wp-content/uploads/2026/06/101-logo-e1781133465816.png" group-title="Australia 🇦🇺" tvg-status="unstable",10 +1
 http://44.32.200.142:5004/auto/v14
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.sportspro.com/wp-content/uploads/2023/03/bein-edit-2.png" group-title="Australia 🇦🇺" tvg-status="stable",beIN Sports 1
+https://hls107.streamcollecting.cc/beINSports1AU/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.sportspro.com/wp-content/uploads/2023/03/bein-edit-2.png" group-title="Australia 🇦🇺" tvg-status="stable",beIN Sports 2
+https://hls107.streamcollecting.cc/beINSports2AU/index.m3u8
