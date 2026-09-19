@@ -781,14 +781,32 @@ https://turnerlive.warnermediacdn.com/hls/live/2023185/aswest/noslate/VIDEO_1_51
 https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/tbs-us.png" group-title="United States 🇺🇸" tvg-status="stable",TBS West
 https://turnerlive.warnermediacdn.com/hls/live/2023174/tbswest/slate/VIDEO_0_3564000.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/lifetime-us.png" group-title="United States 🇺🇸" tvg-status="stable",Lifetime
+http://41.205.93.154/LIFETIME/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/mtv-us.png" group-title="United States 🇺🇸" tvg-status="stable",MTV
+http://23.237.104.106:8080/USA_MTV/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/comedy-central-us.png" group-title="United States 🇺🇸" tvg-status="stable",Comedy Central
+http://95.143.42.59:1234/stream/fubochannels/comedycentral/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/TCM_2021.svg/1200px-TCM_2021.svg.png" group-title="United States 🇺🇸" tvg-status="stable",TCM
 https://turnerlive.warnermediacdn.com/hls/live/2023186/tcmeast/noslate/VIDEO_1_5128000.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/TCM_2021.svg/1200px-TCM_2021.svg.png" group-title="United States 🇺🇸" tvg-status="stable",TCM West
 https://turnerlive.warnermediacdn.com/hls/live/2023187/tcmwest/noslate/VIDEO_1_5128000.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/nickelodeon-us.png" group-title="United States 🇺🇸" tvg-status="stable",Nickelodeon
+http://95.143.42.59:1234/stream/fubochannels/nickelodeon/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/nick-jr-us.png" group-title="United States 🇺🇸" tvg-status="stable",Nick Jr.
+http://95.143.42.59:1234/stream/fubochannels/nickjr/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/buzzer-us.png" group-title="United States 🇺🇸" tvg-status="stable",Buzzer
 https://jmp2.uk/plu-5812bfbe4ced4f7b601b12e6.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/nick-toons-us.png" group-title="United States 🇺🇸" tvg-status="stable",Nicktoons
+http://95.143.42.59:1234/stream/fubochannels/nicktoons/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/disney-jr-us.png" group-title="United States 🇺🇸" tvg-status="stable",Disney Jr.
+http://95.143.42.59:1234/stream/rocketchannels/rocket_1493/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/pbs-kids-us.png" group-title="United States 🇺🇸" tvg-status="stable",PBS Kids (Eastern Feed)
 https://livestream.pbskids.org/out/v1/14507d931bbe48a69287e4850e53443c/est.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/msnow-us.png" group-title="United States 🇺🇸" tvg-status="stable",MS NOW
+http://95.143.42.59:1234/stream/rocketchannels/rocket_198/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/teen-nick-us.png" group-title="United States 🇺🇸" tvg-status="stable",TeenNick
+http://95.143.42.59:1234/stream/fubochannels/teennick/master.m3u8
 #EXTINF:-1 tvg-id="FoxWeather.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Fox_Weather_logo.svg/1200px-Fox_Weather_logo.svg.png" group-title="United States 🇺🇸" tvg-status="stable",FOX Weather
 https://247wlive.foxweather.com/stream/index.m3u8
 #EXTINF:-1 tvg-id="HSN.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/HSN_logo.svg/1200px-HSN_logo.svg.png" group-title="United States 🇺🇸" tvg-status="stable",HSN East
@@ -817,7 +835,25 @@ https://qvc-amd-live.akamaized.net/hls/live/2034113/lsqvc1us/master.m3u8
 https://qvc-amd-live.akamaized.net/hls/live/2034113/lsqvc1uswest/master.m3u8
 #EXTINF:-1 tvg-id="QVC2.us" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/ab/QVC2_%282017%29.svg/revision/latest?cb=20210225125729" group-title="United States 🇺🇸" tvg-status="stable",QVC2
 https://qvc-amd-live.akamaized.net/hls/live/2034113/lsqvc2us/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/bet-soul-us.png" group-title="United States 🇺🇸" tvg-status="stable",BET Soul
+http://95.143.42.59:1234/stream/fubochannels/betsoul/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/bet-jams-us.png" group-title="United States 🇺🇸" tvg-status="stable",BET Jams
+http://95.143.42.59:1234/stream/fubochannels/betjams/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/cXTmtzvd/1000024590-removebg-preview.png" group-title="United States 🇺🇸" tvg-status="stable",First Channel America
 https://amtv.tulixcdn.com/amtv4/am4abr/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://images.sidearmdev.com/resize?url=https%3A%2F%2Fdxbhsrqyrr690.cloudfront.net%2Fsidearm.nextgen.sites%2Fgoduke.com%2Fimages%2F2019%2F6%2F5%2FLYNRNTMEJILLFTS.20190605155035.jpg&width=1600&type=jpeg" group-title="United States 🇺🇸" tvg-status="stable",ACC Network
+http://95.143.42.59:1234/stream/fubochannels/accnetwork/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://developer.accuweather.com/brand-assets/stacked/png/AW_Stacked_RGB_R.png" group-title="United States 🇺🇸" tvg-status="stable",AccuWeather Network
+http://95.143.42.59:1234/stream/fubochannels/accuweather/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://thumb.wikimedia.org/wikipedia/en/thumb/e/e2/Altitude_Sports_logo.svg/1280px-Altitude_Sports_logo.svg.png?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=thumbnail" group-title="United States 🇺🇸" tvg-status="stable",Altitude Sports
+http://95.143.42.59:1234/stream/fubochannels/altitudesports/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/hallmark-family-us.png" group-title="United States 🇺🇸" tvg-status="stable",Hallmark Family
+http://95.143.42.59:1234/stream/fubochannels/hallmarkfamily/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/nat-geo-wild-us.png" group-title="United States 🇺🇸" tvg-status="stable",Nat Geo Wild
+http://95.143.42.59:1234/stream/rocketchannels/rocket_235/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/logo-us.png" group-title="United States 🇺🇸" tvg-status="stable",Logo
+http://95.143.42.59:1234/stream/fubochannels/logo/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/pop-us.png" group-title="United States 🇺🇸" tvg-status="stable",Pop
+http://95.143.42.59:1234/stream/fubochannels/pop/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/iepfanon/images/5/5e/Bolajon_-_logo_%28old%29.jpg/revision/latest?cb=20191220103151" group-title="Uzbekistan" tvg-status="stable",Bolajon
 https://stream8.cinerama.uz/1007/playlist.m3u8
