@@ -13,9 +13,9 @@ http://103.253.18.58:8000/play/a00n
 http://103.253.18.58:8000/play/a00n
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/a7/Star_Bharat_Logo.png?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=original" group-title="India 🇮🇳" tvg-status="not-working",Star Bharat
 http://103.253.18.58:8000/play/a00u
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c7/DIHDlogo.png?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=original" group-title="India 🇮🇳" tvg-status="unstable",Disney International HD
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c7/DIHDlogo.png?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=original" group-title="India 🇮🇳" tvg-status="not-working",Disney International HD
 http://103.253.18.58:8000/play/a053
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Nickelodeon_2023_logo.svg/1280px-Nickelodeon_2023_logo.svg.png" group-title="India 🇮🇳" tvg-status="unstable",Nickelodeon (SD Feed)
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Nickelodeon_2023_logo.svg/1280px-Nickelodeon_2023_logo.svg.png" group-title="India 🇮🇳" tvg-status="not-working",Nickelodeon (SD Feed)
 http://103.253.18.58:8000/play/a01c
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/78/Nick_Jr._Splat_2023.png/revision/latest/scale-to-width-down/250?cb=20241015184948" group-title="India 🇮🇳" tvg-status="unstable",Nick Jr.
 http://103.253.18.58:8000/play/a00y

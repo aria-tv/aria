@@ -609,8 +609,6 @@ http://103.86.132.58:9981/stream/channelid/662570916?ticket=A86410C7BBA9A5FB23CA
 http://103.86.132.58:9981/stream/channelid/1804265102?ticket=80F2D96562CB6AB9B3529389786AFFB6A5732F41&profile=pass
 #EXTINF:-1 tvg-id="" tvg-logo="https://canaln.pe/img/default-seo.jpg" group-title="Peru" tvg-status="stable",Canal N
 http://190.119.176.186:8000/play/a08e
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/6e/TAP_Sports_channel_logo.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail_unscaled" group-title="Philippines 🇵🇭" tvg-status="stable",Tap Sports
-https://ott.djdoolky76.io/api/streams/98/manifest.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOjIsInN0cmVhbVRva2VuIjoiOGVkOTY4MTIzODE2ZDQyY2U0Y2I5Y2E0YjBkNTI2ZTRlNDFmMDViZTY5MmE1ZjBjNTE3MjU1MjAwNTE3NWQ5OSIsImlhdCI6MTc4ODAxNTcxNCwiZXhwIjoxNzkwNTUzNTk5fQ.g4Cbic93tY4CjwC7cjqasTjVsJWy-lDk4M_X6R0j6o0
 #EXTINF:-1 tvg-id="SIC.K.pt" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/portugal/sic-k-pt.png" group-title="Portugal 🇵🇹" tvg-status="stable",SIC K
 https://tv.jassuncao.work/stream/channelid/943759774?profile=pass
 #EXTINF:-1 tvg-id="SIC.Radical.pt" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/portugal/sic-radical-pt.png" group-title="Portugal 🇵🇹" tvg-status="stable",SIC Radical
@@ -757,13 +755,3 @@ https://qvc-amd-live.akamaized.net/hls/live/2034113/lsqvc2us/master.m3u8
 https://amtv.tulixcdn.com/amtv4/am4abr/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/iepfanon/images/5/5e/Bolajon_-_logo_%28old%29.jpg/revision/latest?cb=20191220103151" group-title="Uzbekistan" tvg-status="stable",Bolajon
 https://stream8.cinerama.uz/1007/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Vietnam 🇻🇳" tvg-status="stable",HTV1
-https://freem3u.xyz/api/live/play.m3u8?vid=190
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Vietnam 🇻🇳" tvg-status="stable",HTV2
-https://freem3u.xyz/api/live/play.m3u8?vid=191
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Vietnam 🇻🇳" tvg-status="stable",HTV7
-https://freem3u.xyz/api/live/play.m3u8?vid=193
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Vietnam 🇻🇳" tvg-status="stable",THVL3
-https://freem3u.xyz/api/live/play.m3u8?vid=219
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Vietnam 🇻🇳" tvg-status="stable",THVL4
-https://freem3u.xyz/api/live/play.m3u8?vid=220
