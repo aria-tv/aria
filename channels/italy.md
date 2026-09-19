@@ -24,7 +24,7 @@
 | 20 | La7 | [>](http://team-tv.co:81/la7/index.m3u8) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/la7-it.png"/> | &nbsp; | not-working |
 | 21 | LA7 Cinema | [>](http://team-tv.co:81/la7/index.m3u8) | <img height="20" src="https://thumb.wikimedia.org/wikipedia/commons/thumb/2/20/LA7_Cinema.svg/330px-LA7_Cinema.svg.png?utm_source=it.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"/> | &nbsp; | stable |
 | 22 | Canale 5 | [>](https://netplus.zappr.stream/canale5.m3u8) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/canale5-it.png"/> | &nbsp; | stable |
-| 23 | TV8 | [>](ttp://team-tv.co:81/tv8/index.m3u8) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/tv8-it.png"/> | &nbsp; | not-working |
+| 23 | TV8 | [>](ttp://team-tv.co:81/tv8/index.m3u8) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/tv8-it.png"/> | &nbsp; | stable |
 | 24 | Iris | [>](http://91.146.94.234:10001/play/a03i) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/iris-it.png"/> | &nbsp; | not-working |
 | 25 | Focus | [>](http://91.146.94.234:10001/play/a03d) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/focus-it.png"/> | &nbsp; | not-working |
 | 26 | Giallo | [>](ttp://team-tv.co:81/giallo/index.m3u8) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/giallo-it.png"/> | &nbsp; | stable |
