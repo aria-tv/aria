@@ -48,7 +48,7 @@
 | 44 | Datis TV | [>](https://dathls.wns.live/hls/stream.m3u8) | Datis TV | &nbsp; | unstable |
 | 45 | eplanet TV | [>](https://eplhls.wns.live/hls/stream.m3u8) | eplanet TV | &nbsp; | stable |
 | 46 | FX One Farsi | [>](https://fxtvhls.wns.live/hls/stream.m3u8) | FX One Farsi | &nbsp; | stable |
-| 47 | FX Two Farsi | [>](https://toonixhls.wns.live/hls/stream.m3u8) | FX Two Farsi | &nbsp; | not-working |
+| 47 | FX Two Farsi | [>](https://toonixhls.wns.live/hls/stream.m3u8) | FX Two Farsi | &nbsp; | unstable |
 | 48 | Grand Cinema | [>](https://gcinemahls.wns.live/hls/stream.m3u8) | Grand Cinema | &nbsp; | stable |
 | 49 | Home+ | [>](https://homeplushls.wns.live/hls/stream.m3u8) | Home+ | &nbsp; | stable |
 | 50 | iCC+ | [>](https://icchls.wns.live/hls/stream.m3u8) | iCC+ | &nbsp; | stable |
@@ -62,12 +62,12 @@
 | 58 | Net TV | [>](https://nethls.wns.live/hls/stream.m3u8) | Net TV | &nbsp; | stable |
 | 59 | Pro Sport International | [>](https://proshls.wns.live/hls/stream.m3u8) | Pro Sport International | &nbsp; | not-working |
 | 60 | 4Sports | [>](https://orangehls.wns.live/hls/stream.m3u8) | 4Sports | &nbsp; | stable |
-| 61 | PMC Royale | [>](https://pmcrohls.wns.live/hls/stream.m3u8) | PMC Royale | &nbsp; | not-working |
+| 61 | PMC Royale | [>](https://pmcrohls.wns.live/hls/stream.m3u8) | PMC Royale | &nbsp; | unstable |
 | 62 | Radio Javan | [>](https://rjtvhls.wns.live/hls/stream.m3u8) | Radio Javan | &nbsp; | stable |
 | 63 | SL One | [>](https://slonehls.wns.live/hls/stream.m3u8) | SL One | &nbsp; | stable |
 | 64 | SL Two | [>](https://sltwohls.wns.live/hls/stream.m3u8) | SL Two | &nbsp; | stable |
 | 65 | Manoto HD | [>](https://m3u.iranvids.com/manoto/output.m3u8) | Manoto HD | &nbsp; | stable |
-| 66 | PBC Tapesh | [>](https://iptv.tapesh.tv/tapesh/playlist_low/index.m3u8) | PBC Tapesh | &nbsp; | unstable |
+| 66 | PBC Tapesh | [>](https://iptv.tapesh.tv/tapesh/playlist_low/index.m3u8) | PBC Tapesh | &nbsp; | not-working |
 | 67 | AVA Family | [>](https://familyhls.avatv.live/hls/stream.m3u8) | AVA Family | &nbsp; | unstable |
 | 68 | 24/7 Box | [>](https://hls.247box.live/hls/stream.m3u8) | 24/7 Box | &nbsp; | stable |
 | 69 | VOA Farsi | [>](https://voa-ingest.akamaized.net/hls/live/2033876/tvmc07/playlist_0360.m3u8) | VOA Farsi | &nbsp; | stable |

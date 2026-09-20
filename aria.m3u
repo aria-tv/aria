@@ -119,10 +119,6 @@ http://131.196.103.111:8089/BANDSPORTS/index.m3u8
 http://131.196.103.111:8089/BANDSPORTS/index.m3u8
 #EXTINF:-1 tvg-id="History.Channel.br" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/brazil/history-channel-br.png" group-title="Brazil 🇧🇷" tvg-status="stable",History Channel
 http://131.196.103.111:8089/BANDSPORTS/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/bulgaria/bnt-1-bg.png" group-title="Bulgaria 🇧🇬" tvg-status="stable",BNT 1
-http://hls127.freeott.top:8080/BG_BNT_1/video.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/bulgaria/btv-bg.png" group-title="Bulgaria 🇧🇬" tvg-status="stable",BTV
-http://hls127.freeott.top:8080/BG_bTV_HD/video.m3u8
 #EXTINF:-1 tvg-id="Knowledge.Network.ca" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/knowledge-network-ca.png" group-title="Canada 🇨🇦" tvg-status="stable",Knowledge Network
 https://d1wal6k3d7ssin.cloudfront.net/out/v1/ea91db0906c847a4931b46a9ec36e77b/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/24/13c_%282025%29.png" group-title="Chile 🇨🇱" tvg-status="stable",13C
@@ -481,8 +477,6 @@ http://team-tv.co:81/rai5/index.m3u8
 ttp://team-tv.co:81/raistoria/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/rai-movie-it.png" group-title="Italy 🇮🇹" tvg-status="stable",Rai Movie
 http://team-tv.co:81/raimovie/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/rai-premium-it.png" group-title="Italy 🇮🇹" tvg-status="stable",Rai Premium
-http://team-tv.co:81/raipremium/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/italia-1-it.png.png" group-title="Italy 🇮🇹" tvg-status="stable",Itaila 1
 https://netplus.zappr.stream/italia1.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/rete4-it.png" group-title="Italy 🇮🇹" tvg-status="stable",Rete 4
@@ -851,14 +845,10 @@ http://95.143.42.59:1234/stream/fubochannels/betjams/master.m3u8
 https://amtv.tulixcdn.com/amtv4/am4abr/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://images.sidearmdev.com/resize?url=https%3A%2F%2Fdxbhsrqyrr690.cloudfront.net%2Fsidearm.nextgen.sites%2Fgoduke.com%2Fimages%2F2019%2F6%2F5%2FLYNRNTMEJILLFTS.20190605155035.jpg&width=1600&type=jpeg" group-title="United States 🇺🇸" tvg-status="stable",ACC Network
 http://95.143.42.59:1234/stream/fubochannels/accnetwork/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://developer.accuweather.com/brand-assets/stacked/png/AW_Stacked_RGB_R.png" group-title="United States 🇺🇸" tvg-status="stable",AccuWeather Network
-http://95.143.42.59:1234/stream/fubochannels/accuweather/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://thumb.wikimedia.org/wikipedia/en/thumb/e/e2/Altitude_Sports_logo.svg/1280px-Altitude_Sports_logo.svg.png?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=thumbnail" group-title="United States 🇺🇸" tvg-status="stable",Altitude Sports
 http://95.143.42.59:1234/stream/fubochannels/altitudesports/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/hallmark-family-us.png" group-title="United States 🇺🇸" tvg-status="stable",Hallmark Family
 http://95.143.42.59:1234/stream/fubochannels/hallmarkfamily/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/nat-geo-wild-us.png" group-title="United States 🇺🇸" tvg-status="stable",Nat Geo Wild
-http://95.143.42.59:1234/stream/rocketchannels/rocket_235/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/logo-us.png" group-title="United States 🇺🇸" tvg-status="stable",Logo
 http://95.143.42.59:1234/stream/fubochannels/logo/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/pop-us.png" group-title="United States 🇺🇸" tvg-status="stable",Pop

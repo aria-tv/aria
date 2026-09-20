@@ -57,7 +57,7 @@ http://41.205.93.154/AMC/index.m3u8
 http://40.160.24.55/USA_NETWORK/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/bet-us.png" group-title="United States 🇺🇸" tvg-status="unstable",BET
 http://95.143.42.59:1234/stream/fubochannels/bet/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/bet-her-us.png" group-title="United States 🇺🇸" tvg-status="unstable",BET Her
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/bet-her-us.png" group-title="United States 🇺🇸" tvg-status="not-working",BET Her
 http://95.143.42.59:1234/stream/fubochannels/bether/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/cleo-tv-us.png" group-title="United States 🇺🇸" tvg-status="unstable",Cleo TV
 http://lunar.pm:8080/live/2055676975/MAAvrCmWZ8FZ/105644.ts
@@ -89,7 +89,7 @@ http://23.237.104.106:8080/USA_E/index.m3u8
 http://nocable.cc:8080/Darrenshannon76@2.0/Darrenshannon76@2.0/46691
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/paramount-network-us.png" group-title="United States 🇺🇸" tvg-status="unstable",Paramount Network
 http://23.237.104.106:8080/USA_PARAMOUNT_NETWORK/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/hallmark-channel-us.png" group-title="United States 🇺🇸" tvg-status="not-working",Hallmark Channel
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/hallmark-channel-us.png" group-title="United States 🇺🇸" tvg-status="unstable",Hallmark Channel
 http://95.143.42.59:1234/stream/fubochannels/hallmarkchannel/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/hallmark-mystery-us.png" group-title="United States 🇺🇸" tvg-status="unstable",Hallmark Mystery
 http://95.143.42.59:1234/stream/fubochannels/hallmarkmystery/master.m3u8
@@ -331,13 +331,13 @@ https://gpuserver3.tier1streams.com/ASPIRE/index.m3u8
 https://messi.damitv.st/papi/ts/hbolatino-usa/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://images.sidearmdev.com/resize?url=https%3A%2F%2Fdxbhsrqyrr690.cloudfront.net%2Fsidearm.nextgen.sites%2Fgoduke.com%2Fimages%2F2019%2F6%2F5%2FLYNRNTMEJILLFTS.20190605155035.jpg&width=1600&type=jpeg" group-title="United States 🇺🇸" tvg-status="stable",ACC Network
 http://95.143.42.59:1234/stream/fubochannels/accnetwork/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://developer.accuweather.com/brand-assets/stacked/png/AW_Stacked_RGB_R.png" group-title="United States 🇺🇸" tvg-status="stable",AccuWeather Network
+#EXTINF:-1 tvg-id="" tvg-logo="https://developer.accuweather.com/brand-assets/stacked/png/AW_Stacked_RGB_R.png" group-title="United States 🇺🇸" tvg-status="not-working",AccuWeather Network
 http://95.143.42.59:1234/stream/fubochannels/accuweather/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://thumb.wikimedia.org/wikipedia/en/thumb/e/e2/Altitude_Sports_logo.svg/1280px-Altitude_Sports_logo.svg.png?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=thumbnail" group-title="United States 🇺🇸" tvg-status="stable",Altitude Sports
 http://95.143.42.59:1234/stream/fubochannels/altitudesports/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/hallmark-family-us.png" group-title="United States 🇺🇸" tvg-status="stable",Hallmark Family
 http://95.143.42.59:1234/stream/fubochannels/hallmarkfamily/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/nat-geo-wild-us.png" group-title="United States 🇺🇸" tvg-status="stable",Nat Geo Wild
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/nat-geo-wild-us.png" group-title="United States 🇺🇸" tvg-status="not-working",Nat Geo Wild
 http://95.143.42.59:1234/stream/rocketchannels/rocket_235/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/logo-us.png" group-title="United States 🇺🇸" tvg-status="stable",Logo
 http://95.143.42.59:1234/stream/fubochannels/logo/master.m3u8
