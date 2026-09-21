@@ -31,6 +31,10 @@ http://95.143.42.59:1234/stream/fubochannels/nickelodeon/master.m3u8
 http://95.143.42.59:1234/stream/fubochannels/nickjr/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/buzzer-us.png" group-title="United States 🇺🇸" tvg-status="stable",Buzzer
 https://jmp2.uk/plu-5812bfbe4ced4f7b601b12e6.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/fs1-us.png" group-title="United States 🇺🇸" tvg-status="stable",FS1
+http://85.237.89.160:9590/usa-s/FOX-SPORTS-1/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/fox-deportes-us.png" group-title="United States 🇺🇸" tvg-status="stable",FOX Deportes
+http://95.143.42.59:1234/stream/fubochannels/foxdeportes/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/nick-toons-us.png" group-title="United States 🇺🇸" tvg-status="stable",Nicktoons
 http://95.143.42.59:1234/stream/fubochannels/nicktoons/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/disney-jr-us.png" group-title="United States 🇺🇸" tvg-status="stable",Disney Jr.
@@ -77,10 +81,22 @@ https://qvc-amd-live.akamaized.net/hls/live/2034113/lsqvc1us/master.m3u8
 https://qvc-amd-live.akamaized.net/hls/live/2034113/lsqvc1uswest/master.m3u8
 #EXTINF:-1 tvg-id="QVC2.us" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/ab/QVC2_%282017%29.svg/revision/latest?cb=20210225125729" group-title="United States 🇺🇸" tvg-status="stable",QVC2
 https://qvc-amd-live.akamaized.net/hls/live/2034113/lsqvc2us/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://pbs.twimg.com/profile_images/1356268043941380099/QHq2W42n_400x400.jpg" group-title="United States 🇺🇸" tvg-status="stable",CBS Sports Network
+http://95.143.42.59:1234/stream/fubochannels/cbssportsnetwork/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/bet-soul-us.png" group-title="United States 🇺🇸" tvg-status="stable",BET Soul
 http://95.143.42.59:1234/stream/fubochannels/betsoul/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/bet-jams-us.png" group-title="United States 🇺🇸" tvg-status="stable",BET Jams
 http://95.143.42.59:1234/stream/fubochannels/betjams/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/fox-buisness-us.png" group-title="United States 🇺🇸" tvg-status="stable",Fox Buisness
+http://95.143.42.59:1234/stream/fubochannels/foxbusinessnetwork/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/espn-us.png" group-title="United States 🇺🇸" tvg-status="stable",ESPN
+http://95.143.42.59:1234/stream/fubochannels/espn/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/espn-u-us.png" group-title="United States 🇺🇸" tvg-status="stable",ESPN U
+http://95.143.42.59:1234/stream/fubochannels/espnu/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/espn-news-us.png" group-title="United States 🇺🇸" tvg-status="stable",ESPN News
+http://95.143.42.59:1234/stream/fubochannels/espnews/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/fox-soccer-plus-us.png" group-title="United States 🇺🇸" tvg-status="stable",Fox Soccer Plus
+http://95.143.42.59:1234/stream/fubochannels/foxsoccerplus/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/cXTmtzvd/1000024590-removebg-preview.png" group-title="United States 🇺🇸" tvg-status="stable",First Channel America
 https://amtv.tulixcdn.com/amtv4/am4abr/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://images.sidearmdev.com/resize?url=https%3A%2F%2Fdxbhsrqyrr690.cloudfront.net%2Fsidearm.nextgen.sites%2Fgoduke.com%2Fimages%2F2019%2F6%2F5%2FLYNRNTMEJILLFTS.20190605155035.jpg&width=1600&type=jpeg" group-title="United States 🇺🇸" tvg-status="stable",ACC Network
@@ -109,3 +125,13 @@ http://95.143.42.59:1234/stream/rocketchannels/rocket_1752/master.m3u8
 http://95.143.42.59:1234/stream/rocketchannels/rocket_1749/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/starz-encore-suspense-us.png" group-title="United States 🇺🇸" tvg-status="stable",STARZ Encore Suspense
 http://95.143.42.59:1234/stream/rocketchannels/rocket_1751/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/espn2-us.png" group-title="United States 🇺🇸" tvg-status="stable",ESPN 2
+http://95.143.42.59:1234/stream/fubochannels/espn2/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/espn-deportes-us.png" group-title="United States 🇺🇸" tvg-status="stable",ESPN Deportes
+http://95.143.42.59:1234/stream/fubochannels/espndeportes/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/nfl-network-us.png" group-title="United States 🇺🇸" tvg-status="stable",NFL Network
+http://95.143.42.59:1234/stream/rocketchannels/rocket_7838/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5c/NBCSN_2025.svg/250px-NBCSN_2025.svg.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail" group-title="United States 🇺🇸" tvg-status="stable",NBCSN
+http://95.143.42.59:1234/stream/fubochannels/nbcsn/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/fs2-us.png" group-title="United States 🇺🇸" tvg-status="stable",FS2
+http://95.143.42.59:1234/stream/fubochannels/foxsports2/master.m3u8

@@ -137,10 +137,10 @@ https://a-cdn.klowdtv.com/live2/gsn_720p/playlist.m3u8
 https://jmp2.uk/plu-5812bfbe4ced4f7b601b12e6.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/national-geographic-us.png" group-title="United States 🇺🇸" tvg-status="unstable",National Geographic
 http://nocable.cc:8080/Darrenshannon76@2.0/Darrenshannon76@2.0/46722
-#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/fs1-us.png" group-title="United States 🇺🇸" tvg-status="unstable",FS1
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/fs1-us.png" group-title="United States 🇺🇸" tvg-status="stable",FS1
 http://85.237.89.160:9590/usa-s/FOX-SPORTS-1/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/fox-deportes-us.png" group-title="United States 🇺🇸" tvg-status="not-working",FOX Deportes
-https://jmp2.uk/plu-63d0269d60bc8f000890facc.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/fox-deportes-us.png" group-title="United States 🇺🇸" tvg-status="stable",FOX Deportes
+http://95.143.42.59:1234/stream/fubochannels/foxdeportes/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/big-ten-network-us.png" group-title="United States 🇺🇸" tvg-status="unstable",Big Ten Network
 http://23.237.104.106:8080/USA_BTN/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/fanduel-tv-us.png" group-title="United States 🇺🇸" tvg-status="unstable",Fanduel TV
@@ -291,26 +291,26 @@ http://200.115.120.1:8000/play/ca053
 http://200.115.120.1:8000/play/ca053
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/10/MTV_Classic_US.svg" group-title="United States 🇺🇸" tvg-status="unstable",MTV Classics
 http://200.115.120.1:8000/play/ca053
-#EXTINF:-1 tvg-id="" tvg-logo="https://pbs.twimg.com/profile_images/1356268043941380099/QHq2W42n_400x400.jpg" group-title="United States 🇺🇸" tvg-status="not-working",CBS Sports Network
-http://40.160.24.52/CBS_SPORTS_NETWORK/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://pbs.twimg.com/profile_images/1356268043941380099/QHq2W42n_400x400.jpg" group-title="United States 🇺🇸" tvg-status="stable",CBS Sports Network
+http://95.143.42.59:1234/stream/fubochannels/cbssportsnetwork/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/bet-us.png" group-title="United States 🇺🇸" tvg-status="not-working",BET West
 http://40.160.24.52/BET_WEST/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/bet-soul-us.png" group-title="United States 🇺🇸" tvg-status="stable",BET Soul
 http://95.143.42.59:1234/stream/fubochannels/betsoul/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/bet-jams-us.png" group-title="United States 🇺🇸" tvg-status="stable",BET Jams
 http://95.143.42.59:1234/stream/fubochannels/betjams/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/fox-buisness-us.png" group-title="United States 🇺🇸" tvg-status="not-working",Fox Buisness
-http://206.212.244.63/67/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/fox-buisness-us.png" group-title="United States 🇺🇸" tvg-status="stable",Fox Buisness
+http://95.143.42.59:1234/stream/fubochannels/foxbusinessnetwork/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/fetv-us.png" group-title="United States 🇺🇸" tvg-status="not-working",FETV
 http://40.160.24.52/FETV/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/espn-us.png" group-title="United States 🇺🇸" tvg-status="not-working",ESPN
-http://40.160.24.52/ESPN_HD/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/espn-u-us.png" group-title="United States 🇺🇸" tvg-status="not-working",ESPN U
-http://40.160.24.52/ESPN_U/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/espn-news-us.png" group-title="United States 🇺🇸" tvg-status="not-working",ESPN News
-http://40.160.24.52/ESPN_U/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/fox-soccer-plus-us.png" group-title="United States 🇺🇸" tvg-status="not-working",Fox Soccer Plus
-http://40.160.24.52/FOX_SOCCER_PLUS/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/espn-us.png" group-title="United States 🇺🇸" tvg-status="stable",ESPN
+http://95.143.42.59:1234/stream/fubochannels/espn/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/espn-u-us.png" group-title="United States 🇺🇸" tvg-status="stable",ESPN U
+http://95.143.42.59:1234/stream/fubochannels/espnu/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/espn-news-us.png" group-title="United States 🇺🇸" tvg-status="stable",ESPN News
+http://95.143.42.59:1234/stream/fubochannels/espnews/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/fox-soccer-plus-us.png" group-title="United States 🇺🇸" tvg-status="stable",Fox Soccer Plus
+http://95.143.42.59:1234/stream/fubochannels/foxsoccerplus/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/mgm-plus-drive-in-us.png" group-title="United States 🇺🇸" tvg-status="not-working",MGM+ Drive In
 http://40.160.24.52/EPIX_DRIVE-IN/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/mgm-plus-us.png" group-title="United States 🇺🇸" tvg-status="not-working",MGM+
@@ -359,3 +359,13 @@ http://95.143.42.59:1234/stream/rocketchannels/rocket_1752/master.m3u8
 http://95.143.42.59:1234/stream/rocketchannels/rocket_1749/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/starz-encore-suspense-us.png" group-title="United States 🇺🇸" tvg-status="stable",STARZ Encore Suspense
 http://95.143.42.59:1234/stream/rocketchannels/rocket_1751/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/espn2-us.png" group-title="United States 🇺🇸" tvg-status="stable",ESPN 2
+http://95.143.42.59:1234/stream/fubochannels/espn2/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/espn-deportes-us.png" group-title="United States 🇺🇸" tvg-status="stable",ESPN Deportes
+http://95.143.42.59:1234/stream/fubochannels/espndeportes/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/nfl-network-us.png" group-title="United States 🇺🇸" tvg-status="stable",NFL Network
+http://95.143.42.59:1234/stream/rocketchannels/rocket_7838/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5c/NBCSN_2025.svg/250px-NBCSN_2025.svg.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail" group-title="United States 🇺🇸" tvg-status="stable",NBCSN
+http://95.143.42.59:1234/stream/fubochannels/nbcsn/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/fs2-us.png" group-title="United States 🇺🇸" tvg-status="stable",FS2
+http://95.143.42.59:1234/stream/fubochannels/foxsports2/master.m3u8
