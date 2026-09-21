@@ -9,23 +9,3 @@ https://scs.cloudstreamer.cc/TVNZDuke/index.m3u8
 https://i.mjh.nz/.r/bravo-plus1.m3u8
 #EXTINF:-1 tvg-id="ParliamentTV.nz" tvg-logo="" group-title="New Zealand 🇳🇿" tvg-status="stable",Parliament TV
 https://ptvlive.kordia.net.nz/out/v1/daf20b9a9ec5449dadd734e50ce52b74/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c1/Sky_Sport_NZ_2019.svg?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=original" group-title="New Zealand 🇳🇿" tvg-status="stable",Sky Sport 1
-https://hls107.streamcollecting.cc/SkySport1NZ/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c1/Sky_Sport_NZ_2019.svg?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=original" group-title="New Zealand 🇳🇿" tvg-status="stable",Sky Sport 2
-https://hls107.streamcollecting.cc/SkySport2NZ/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c1/Sky_Sport_NZ_2019.svg?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=original" group-title="New Zealand 🇳🇿" tvg-status="stable",Sky Sport 3
-https://hls107.streamcollecting.cc/SkySport3NZ/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c1/Sky_Sport_NZ_2019.svg?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=original" group-title="New Zealand 🇳🇿" tvg-status="stable",Sky Sport 4
-https://hls107.streamcollecting.cc/SkySport4NZ/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c1/Sky_Sport_NZ_2019.svg?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=original" group-title="New Zealand 🇳🇿" tvg-status="stable",Sky Sport 5
-https://hls107.streamcollecting.cc/SkySport5NZ/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c1/Sky_Sport_NZ_2019.svg?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=original" group-title="New Zealand 🇳🇿" tvg-status="stable",Sky Sport 6
-https://hls107.streamcollecting.cc/SkySport6NZ/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c1/Sky_Sport_NZ_2019.svg?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=original" group-title="New Zealand 🇳🇿" tvg-status="stable",Sky Sport 7
-https://hls107.streamcollecting.cc/SkySport7NZ/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c1/Sky_Sport_NZ_2019.svg?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=original" group-title="New Zealand 🇳🇿" tvg-status="stable",Sky Sport 8
-https://hls107.streamcollecting.cc/SkySport8NZ/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c1/Sky_Sport_NZ_2019.svg?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=original" group-title="New Zealand 🇳🇿" tvg-status="stable",Sky Sport 9
-https://hls107.streamcollecting.cc/SkySport9NZ/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c1/Sky_Sport_NZ_2019.svg?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=original" group-title="New Zealand 🇳🇿" tvg-status="stable",Sky Sport Select
-https://hls107.streamcollecting.cc/SkySportSelectNZ/index.m3u8

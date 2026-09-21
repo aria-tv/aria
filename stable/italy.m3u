@@ -17,6 +17,8 @@ http://team-tv.co:81/raimovie/index.m3u8
 https://netplus.zappr.stream/italia1.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/rete4-it.png" group-title="Italy 🇮🇹" tvg-status="stable",Rete 4
 https://netplus.zappr.stream/rete4.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/la7-it.png" group-title="Italy 🇮🇹" tvg-status="stable",La7
+http://team-tv.co:81/la7/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/2/20/LA7_Cinema.svg/330px-LA7_Cinema.svg.png?utm_source=it.wikipedia.org&utm_campaign=parser&utm_content=thumbnail" group-title="Italy 🇮🇹" tvg-status="stable",LA7 Cinema
 http://team-tv.co:81/la7/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/canale5-it.png" group-title="Italy 🇮🇹" tvg-status="stable",Canale 5

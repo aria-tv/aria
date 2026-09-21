@@ -61,20 +61,8 @@ https://cdn.whiplash.cc/whiplash-windowtv/index.m3u8
 https://cdn.whiplash.cc/whiplash-atlas/index.m3u8
 #EXTINF:-1 tvg-id="zenith" tvg-logo="https://webchnl.com/assets/img/channelicons/zenith.png?v=1773360618" group-title="Aria Web Channels 📺" tvg-status="stable",zén!th
 https://live.azenagroup.com/zenith/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://webchnl.com/assets/img/channelicons/totalmusic.png" group-title="Aria Web Channels 📺" tvg-status="stable",Totalmusic
-https://cdn.global.elektamedia.com/live/c7eds/Totalmusic/SA_LIVE_hls_enc/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://webchnl.com/assets/img/channelicons/totalmusic80s.png" group-title="Aria Web Channels 📺" tvg-status="stable",Totalmusic 80s
-https://cdn.global.elektamedia.com/live/c7eds/Totalmusic_80s/SA_LIVE_hls_enc/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://webchnl.com/assets/img/channelicons/totalmusic00s.png" group-title="Aria Web Channels 📺" tvg-status="stable",Totalmusic 00s
-https://cdn.global.elektamedia.com/live/c7eds/Totalmusic_00s/SA_LIVE_hls_enc/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://webchnl.com/assets/img/channelicons/totalmusicconcerts.png" group-title="Aria Web Channels 📺" tvg-status="stable",Totalmusic Concerts
-https://cdn.global.elektamedia.com/live/c7eds/Totalmusic_Concerts/SA_LIVE_hls_enc/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://webchnl.com/assets/img/channelicons/totalmusicdance.png" group-title="Aria Web Channels 📺" tvg-status="stable",Totalmusic Dance
-https://cdn.global.elektamedia.com/live/c7eds/Totalmusic_Dance/SA_LIVE_hls_enc/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/australia/tvsn-au.png" group-title="Australia 🇦🇺" tvg-status="stable",TVSN
 https://tvsnhlslivetest.akamaized.net/hls/live/2034711/TVSN-MSL4/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.sportspro.com/wp-content/uploads/2023/03/bein-edit-2.png" group-title="Australia 🇦🇺" tvg-status="stable",beIN Sports 1
-https://hls107.streamcollecting.cc/beINSports1AU/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.sportspro.com/wp-content/uploads/2023/03/bein-edit-2.png" group-title="Australia 🇦🇺" tvg-status="stable",beIN Sports 2
 https://hls107.streamcollecting.cc/beINSports2AU/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/austria/orf1-at.png" group-title="Austria 🇦🇹" tvg-status="stable",ORF 1
@@ -481,6 +469,8 @@ http://team-tv.co:81/raimovie/index.m3u8
 https://netplus.zappr.stream/italia1.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/rete4-it.png" group-title="Italy 🇮🇹" tvg-status="stable",Rete 4
 https://netplus.zappr.stream/rete4.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/la7-it.png" group-title="Italy 🇮🇹" tvg-status="stable",La7
+http://team-tv.co:81/la7/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/2/20/LA7_Cinema.svg/330px-LA7_Cinema.svg.png?utm_source=it.wikipedia.org&utm_campaign=parser&utm_content=thumbnail" group-title="Italy 🇮🇹" tvg-status="stable",LA7 Cinema
 http://team-tv.co:81/la7/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/canale5-it.png" group-title="Italy 🇮🇹" tvg-status="stable",Canale 5
@@ -639,26 +629,6 @@ https://scs.cloudstreamer.cc/TVNZDuke/index.m3u8
 https://i.mjh.nz/.r/bravo-plus1.m3u8
 #EXTINF:-1 tvg-id="ParliamentTV.nz" tvg-logo="" group-title="New Zealand 🇳🇿" tvg-status="stable",Parliament TV
 https://ptvlive.kordia.net.nz/out/v1/daf20b9a9ec5449dadd734e50ce52b74/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c1/Sky_Sport_NZ_2019.svg?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=original" group-title="New Zealand 🇳🇿" tvg-status="stable",Sky Sport 1
-https://hls107.streamcollecting.cc/SkySport1NZ/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c1/Sky_Sport_NZ_2019.svg?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=original" group-title="New Zealand 🇳🇿" tvg-status="stable",Sky Sport 2
-https://hls107.streamcollecting.cc/SkySport2NZ/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c1/Sky_Sport_NZ_2019.svg?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=original" group-title="New Zealand 🇳🇿" tvg-status="stable",Sky Sport 3
-https://hls107.streamcollecting.cc/SkySport3NZ/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c1/Sky_Sport_NZ_2019.svg?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=original" group-title="New Zealand 🇳🇿" tvg-status="stable",Sky Sport 4
-https://hls107.streamcollecting.cc/SkySport4NZ/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c1/Sky_Sport_NZ_2019.svg?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=original" group-title="New Zealand 🇳🇿" tvg-status="stable",Sky Sport 5
-https://hls107.streamcollecting.cc/SkySport5NZ/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c1/Sky_Sport_NZ_2019.svg?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=original" group-title="New Zealand 🇳🇿" tvg-status="stable",Sky Sport 6
-https://hls107.streamcollecting.cc/SkySport6NZ/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c1/Sky_Sport_NZ_2019.svg?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=original" group-title="New Zealand 🇳🇿" tvg-status="stable",Sky Sport 7
-https://hls107.streamcollecting.cc/SkySport7NZ/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c1/Sky_Sport_NZ_2019.svg?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=original" group-title="New Zealand 🇳🇿" tvg-status="stable",Sky Sport 8
-https://hls107.streamcollecting.cc/SkySport8NZ/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c1/Sky_Sport_NZ_2019.svg?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=original" group-title="New Zealand 🇳🇿" tvg-status="stable",Sky Sport 9
-https://hls107.streamcollecting.cc/SkySport9NZ/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c1/Sky_Sport_NZ_2019.svg?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=original" group-title="New Zealand 🇳🇿" tvg-status="stable",Sky Sport Select
-https://hls107.streamcollecting.cc/SkySportSelectNZ/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Logo_of_Kanal_5.svg/250px-Logo_of_Kanal_5.svg.png" group-title="North Macedonia 🇲🇰" tvg-status="stable",Kanal 5
 http://185.193.240.245:8000/play/a00r
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Logo_of_Sitel.svg/640px-Logo_of_Sitel.svg.png" group-title="North Macedonia 🇲🇰" tvg-status="stable",Sitel
@@ -699,12 +669,6 @@ http://93.95.99.164:10000/play/karusel/index.m3u8
 http://93.95.99.164:10000/play/stslove/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9e/%D0%A2V3_logo_2023.svg" group-title="Russia 🇷🇺" tvg-status="stable",TV-3
 http://93.95.99.164:10000/play/stslove/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/95/Zvezda_logo.svg" group-title="Russia 🇷🇺" tvg-status="stable",Zvezda
-http://5.57.11.195:9981/stream/channelid/912677638?ticket=07BF84763DAFF6CE458F3E9BC852C36FC825A804&profile=pass
-#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/tvpedia/images/2/27/RT_Documentary.png/revision/latest/scale-to-width-down/268?cb=20240623210059&path-prefix=ru" group-title="Russia 🇷🇺" tvg-status="stable",RT Documentary
-http://5.57.11.195:9981/stream/channelid/150391666?ticket=AD0C27A63CC1DC491652C7270B665DDA08BF6D2D&profile=pass
-#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/tvpedia/images/7/71/%D0%A2%D0%A0%D0%9A_%D0%97%D0%B0%D0%B1%D0%B0%D0%B9%D0%BA%D0%B0%D0%BB%D1%8C%D0%B5_%282020%29.svg/revision/latest/scale-to-width-down/268?cb=20201024174653&path-prefix=ru" group-title="Russia 🇷🇺" tvg-status="stable",Transbaikalia
-http://5.57.11.195:9981/stream/channelid/322990032?ticket=EA59D7074FB7876761ACF3E752E9F0B34C9AC02C&profile=pass
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b2/Logo_of_TV_SLO_1_HD_%282012-%29.png" group-title="Slovenia 🇸🇮" tvg-status="stable",TV SLO 1
 http://93.103.246.35:10205/
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/69/Logo_of_TV_SLO_2_HD_%282012-%29.png" group-title="Slovenia 🇸🇮" tvg-status="stable",TV SLO 2
