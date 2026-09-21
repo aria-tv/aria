@@ -3773,16 +3773,16 @@ https://i1.ut770.freelocaltv.org/hls/toons-8.8_hls/toons-8.8_master.m3u8
 https://livestream.pbskids.org/out/v1/14507d931bbe48a69287e4850e53443c/est.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/pbs-kids-us.png" group-title="United States 🇺🇸" tvg-status="unstable",PBS Kids (Hawaii Feed)
 https://livestream.pbskids.org/out/v1/aa31792fee094b24b09045483f04d150/hast.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/fox-news-channel-us.png" group-title="United States 🇺🇸" tvg-status="not-working",Fox News Channel
-http://206.212.244.63/67/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/fox-news-us.png" group-title="United States 🇺🇸" tvg-status="stable",Fox News Channel
+http://95.143.42.59:1234/stream/rocketchannels/rocket_102/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/msnow-us.png" group-title="United States 🇺🇸" tvg-status="stable",MS NOW
 http://95.143.42.59:1234/stream/rocketchannels/rocket_198/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/newsmax-us.png" group-title="United States 🇺🇸" tvg-status="unstable",Newsmax
 https://nmx1ota.akamaized.net/hls/live/2107010/Live_1/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/newsmax2-us.png" group-title="United States 🇺🇸" tvg-status="unstable",Newsmax 2
 https://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/cnbc-us.png" group-title="United States 🇺🇸" tvg-status="not-working",CNBC
-https://stream.livenewsplay.com:9443/hls/cnbc/cnbcsd.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/cnbc-us.png" group-title="United States 🇺🇸" tvg-status="stable",CNBC
+http://95.143.42.59:1234/stream/rocketchannels/rocket_434/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/c-span-1-us.png" group-title="United States 🇺🇸" tvg-status="not-working",C-SPAN
 https://tvpass.org/live/CSPAN/sd
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/c-span-2-us.png" group-title="United States 🇺🇸" tvg-status="not-working",C-SPAN 2
@@ -3829,10 +3829,10 @@ http://23.237.104.106:8080/USA_FOOD_NETWORK/index.m3u8
 http://23.237.104.106:8080/USA_COOKING/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/discovery-channel-us.png" group-title="United States 🇺🇸" tvg-status="not-working",Discovery Channel
 http://23.237.104.106:8080/USA_DISCOVERY/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/showtime-us.png" group-title="United States 🇺🇸" tvg-status="not-working",Paramount+ with  Showtime
-http://23.237.104.106:8080/USA_SHOWTIME/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/starz-us.png" group-title="United States 🇺🇸" tvg-status="not-working",STARZ
-http://23.237.104.106:8080/USA_STARZ/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/showtime-us.png" group-title="United States 🇺🇸" tvg-status="stable",Paramount+ with  Showtime
+http://95.143.42.59:1234/stream/rocketchannels/rocket_1766/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/starz-us.png" group-title="United States 🇺🇸" tvg-status="stable",STARZ
+http://95.143.42.59:1234/stream/rocketchannels/rocket_1769/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/fxm-us.png" group-title="United States 🇺🇸" tvg-status="not-working",FXM
 http://47.40.181.39:9981/stream/channelid/6404291?profile=pass
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/hbo-us.png" group-title="United States 🇺🇸" tvg-status="not-working",HBO
@@ -3945,6 +3945,22 @@ http://95.143.42.59:1234/stream/rocketchannels/rocket_235/master.m3u8
 http://95.143.42.59:1234/stream/fubochannels/logo/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/pop-us.png" group-title="United States 🇺🇸" tvg-status="stable",Pop
 http://95.143.42.59:1234/stream/fubochannels/pop/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/cnbc-world-us.png" group-title="United States 🇺🇸" tvg-status="stable",CNBC World
+http://95.143.42.59:1234/stream/rocketchannels/rocket_197/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/starz-edge-us.png" group-title="United States 🇺🇸" tvg-status="stable",STARZ Edge
+http://95.143.42.59:1234/stream/rocketchannels/rocket_1747/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/starz-cinema-us.png" group-title="United States 🇺🇸" tvg-status="stable",STARZ Cinema
+http://95.143.42.59:1234/stream/rocketchannels/rocket_1746/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/starz-encore-action-us.png" group-title="United States 🇺🇸" tvg-status="stable",STARZ Encore Action
+http://95.143.42.59:1234/stream/rocketchannels/rocket_1748/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/starz-encore-family-us.png" group-title="United States 🇺🇸" tvg-status="stable",STARZ Encore Family
+http://95.143.42.59:1234/stream/rocketchannels/rocket_1750/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/starz-encore-western-us.png" group-title="United States 🇺🇸" tvg-status="stable",STARZ Encore Western
+http://95.143.42.59:1234/stream/rocketchannels/rocket_1752/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/starz-encore-classic-us.png" group-title="United States 🇺🇸" tvg-status="stable",STARZ Encore Classic
+http://95.143.42.59:1234/stream/rocketchannels/rocket_1749/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/starz-encore-suspense-us.png" group-title="United States 🇺🇸" tvg-status="stable",STARZ Encore Suspense
+http://95.143.42.59:1234/stream/rocketchannels/rocket_1751/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/5ltnu.svg/250px-5ltnu.svg.png" group-title="Uruguay" tvg-status="unstable",Canal 5
 https://tinyurl.com/canal5uy
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/iepfanon/images/5/5e/Bolajon_-_logo_%28old%29.jpg/revision/latest?cb=20191220103151" group-title="Uzbekistan" tvg-status="stable",Bolajon
