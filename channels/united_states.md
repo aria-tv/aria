@@ -2,16 +2,16 @@
 
 | # | Channel | Link | Logo | EPG id | Type |
 |:-:|:-------:|:----:|:----:|:------:|:----:|
-| 1 | CBS (Eastern Feed) | [>](http://4.30.180.36:8420/cbs/index.m3u8?token=test) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/7/7a/CBS_Logo.png"/> | &nbsp; | unstable |
-| 2 | NBC (Eastern Feed) | [>](http://4.30.180.36:8420/nbc/index.m3u8?token=test) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/NBC_logo_2022.svg/960px-NBC_logo_2022.svg.png"/> | &nbsp; | unstable |
-| 3 | ABC (Eastern feed) | [>](http://4.30.180.36:8420/abc/index.m3u8?token=test) | <img height="20" src="https://cdn.tvpassport.com/image/station/240x135/v2/s10003_h15_ac.png"/> | &nbsp; | unstable |
-| 4 | FOX (Eastern Feed) | [>](http://4.30.180.36:8420/fox/index.m3u8?token=test) | <img height="20" src="https://cdn.tvpassport.com/image/station/240x135/v2/s10212_h15_ab.png"/> | &nbsp; | not-working |
-| 5 | The CW (Eastern Feed) | [>](http://40.160.24.52/CW/index.m3u8) | <img height="20" src="https://cdn.tvpassport.com/image/station/240x135/v2/s53098_h15_ac.png"/> | &nbsp; | not-working |
-| 6 | MyNetworkTV (Eastern Feed) | [>](http://68.65.124.50:5004/auto/v56.3) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/MyNetworkTV_2D_Logo.svg/1200px-MyNetworkTV_2D_Logo.svg.png"/> | &nbsp; | not-working |
+| 1 | CBS (Eastern Feed) | [>](http://4.30.180.36:8420/cbs/index.m3u8?token=test) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/7/7a/CBS_Logo.png"/> | &nbsp; | stable |
+| 2 | NBC (Eastern Feed) | [>](http://4.30.180.36:8420/nbc/index.m3u8?token=test) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/NBC_logo_2022.svg/960px-NBC_logo_2022.svg.png"/> | &nbsp; | stable |
+| 3 | ABC (Eastern feed) | [>](http://4.30.180.36:8420/abc/index.m3u8?token=test) | <img height="20" src="https://cdn.tvpassport.com/image/station/240x135/v2/s10003_h15_ac.png"/> | &nbsp; | stable |
+| 4 | FOX (Eastern Feed) | [>](http://95.143.42.59:1234/stream/fubochannels/fox/master.m3u8) | <img height="20" src="https://cdn.tvpassport.com/image/station/240x135/v2/s10212_h15_ab.png"/> | &nbsp; | stable |
+| 5 | The CW (Eastern Feed) | [>](http://95.143.42.59:1234/stream/fubochannels/thecw/master.m3u8) | <img height="20" src="https://cdn.tvpassport.com/image/station/240x135/v2/s53098_h15_ac.png"/> | &nbsp; | stable |
+| 6 | MyNetworkTV (Eastern Feed) | [>](http://95.143.42.59:1234/stream/fubochannels/mynetworktv/master.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/MyNetworkTV_2D_Logo.svg/1200px-MyNetworkTV_2D_Logo.svg.png"/> | &nbsp; | stable |
 | 7 | MeTV | [>](https://82934cf9c8696bd2.mediapackage.us-east-1.amazonaws.com/out/v1/23685237ffbb4047a8143ac2166ead44/index.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/en/thumb/5/55/MeTV_Logo.svg/250px-MeTV_Logo.svg.png"/> | &nbsp; | stable |
 | 8 | Univision | [>](http://4.30.180.36:8420/wxtvdt/index.m3u8?token=test) | <img height="20" src="https://www.univision.ca/wp-content/uploads/2025/05/unvision-logo-without-words.webp"/> | &nbsp; | unstable |
 | 9 | Telemundo | [>](http://4.30.180.36:8420/wnjudt/index.m3u8?token=test) | <img height="20" src="https://www.pngmart.com/files/23/Telemundo-Logo-PNG-HD.png"/> | &nbsp; | unstable |
-| 10 | Estrela TV | [>](http://104.12.67.120:9981/stream/channelid/313808151?ticket=4BA4C122665EFA1433B26C336084C1F69564FF7B&profile=pass) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Estrella_TV_2020_Logo.svg/1280px-Estrella_TV_2020_Logo.svg.png"/> | &nbsp; | not-working |
+| 10 | Estrela TV | [>](http://95.143.42.59:1234/stream/fubochannels/estrella/master.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Estrella_TV_2020_Logo.svg/1280px-Estrella_TV_2020_Logo.svg.png"/> | &nbsp; | stable |
 | 11 | AFN Family | [>](https://bbb.exoadash.com/TVD2810/index.mpd) | <img height="20" src="https://static.wikia.nocookie.net/logopedia/images/d/d4/AFN_Family.jpg/revision/latest?cb=20230801175332"/> | &nbsp; | unstable |
 | 12 | AFN Movie | [>](https://bbb.exoadash.com/TVD2812/index.mpd) | <img height="20" src="https://static.wikia.nocookie.net/logopedia/images/3/3a/AFN_Movie.jpg/revision/latest?cb=20230816172837"/> | &nbsp; | unstable |
 | 13 | AFN News | [>](https://bbb.exoadash.com/TVD2809/index.mpd) | <img height="20" src="https://static.wikia.nocookie.net/logopedia/images/8/88/AFN_News.jpg/revision/latest?cb=20230825111528"/> | &nbsp; | unstable |
