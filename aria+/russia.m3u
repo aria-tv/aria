@@ -7,11 +7,11 @@ https://tv.mediacdn.ru/live/solntse/playlist_3000k.m3u8
 http://178.65.76.17:81/play/a059
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6b/Logo_tnt.png" group-title="Russia 🇷🇺" tvg-status="not-working",TNT
 http://178.65.76.17:81/play/a01m
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b7/Logo_KARUSEL_2023.png" group-title="Russia 🇷🇺" tvg-status="stable",Karusel
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b7/Logo_KARUSEL_2023.png" group-title="Russia 🇷🇺" tvg-status="not-working",Karusel
 http://93.95.99.164:10000/play/karusel/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://logo-teka.com/wp-content/uploads/2025/09/sts-love-logo.svg" group-title="Russia 🇷🇺" tvg-status="stable",STS Love
+#EXTINF:-1 tvg-id="" tvg-logo="https://logo-teka.com/wp-content/uploads/2025/09/sts-love-logo.svg" group-title="Russia 🇷🇺" tvg-status="not-working",STS Love
 http://93.95.99.164:10000/play/stslove/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9e/%D0%A2V3_logo_2023.svg" group-title="Russia 🇷🇺" tvg-status="stable",TV-3
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9e/%D0%A2V3_logo_2023.svg" group-title="Russia 🇷🇺" tvg-status="not-working",TV-3
 http://93.95.99.164:10000/play/stslove/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/95/Zvezda_logo.svg" group-title="Russia 🇷🇺" tvg-status="not-working",Zvezda
 http://5.57.11.195:9981/stream/channelid/912677638?ticket=07BF84763DAFF6CE458F3E9BC852C36FC825A804&profile=pass

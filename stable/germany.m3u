@@ -13,16 +13,8 @@ http://178.27.12.3:9981/stream/channelid/1721329750?profile=pass
 http://94.130.204.43:1234/stream/rtlplusgermany/voxup/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/18/Nitro_TV-Logo_2017.png" group-title="Germany 🇩🇪" tvg-status="stable",NITRO
 http://94.130.204.43:1234/stream/rtlplusgermany/nitro/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/de/archive/2/23/20210912232558%21RTL_UP_Logo_2021.png" group-title="Germany 🇩🇪" tvg-status="stable",RTL Up
-http://94.130.204.43:1234/stream/rtlplusgermany/rtlupgermany/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/germany/rtl-super-de.png" group-title="Germany 🇩🇪" tvg-status="stable",RTL Super
 http://94.130.204.43:1234/stream/rtlplusgermany/rtlsuper/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/germany/rtl-passion-de.png" group-title="Germany 🇩🇪" tvg-status="stable",RTL Passion
-http://94.130.204.43:1234/stream/rtlplusgermany/rtlpassiongermany/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/germany/rtl-crime-de.png" group-title="Germany 🇩🇪" tvg-status="stable",RTL Crime
-http://94.130.204.43:1234/stream/rtlplusgermany/rtlcrimegermany/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/germany/rtl-living-de.png" group-title="Germany 🇩🇪" tvg-status="stable",RTL Living
-http://94.130.204.43:1234/stream/rtlplusgermany/rtllivinggermany/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/N-tv_logo-september2017.svg/1200px-N-tv_logo-september2017.svg.png" group-title="Germany 🇩🇪" tvg-status="stable",n-tv
 http://94.130.204.43:1234/stream/rtlplusgermany/ntv/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/germany/welt-de.png" group-title="Germany 🇩🇪" tvg-status="stable",WELT
