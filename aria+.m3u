@@ -3411,6 +3411,10 @@ http://95.70.222.188:1234/stream/tivibucocuk/nickjr/master.m3u8
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:14:B4:DD&stream=196702&extension=ts&play_token=yTqlKNECPP
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/turkey/beyaz-tr.png" group-title="Türkyie 🇹🇷" tvg-status="unstable",Beyaz
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:14:B4:DD&stream=196702&extension=ts&play_token=yTqlKNECPP
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/turkey/bein-sports-1-tr.png" group-title="Türkyie 🇹🇷" tvg-status="unstable",beIN Sports 1
+http://213.254.130.173:9999/stream/test/bein1/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/turkey/bein-sports-2-tr.png" group-title="Türkyie 🇹🇷" tvg-status="unstable",beIN Sports 2
+http://213.254.130.173:9999/stream/test/bein2/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/TET_logo.svg/250px-TET_logo.svg.png" group-title="Ukraine 🇺🇦" tvg-status="stable",TET
 https://iptv.prosto.tv/id11/video.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/1%2B1_Ukraina_%282024%29.svg/250px-1%2B1_Ukraina_%282024%29.svg.png" group-title="Ukraine 🇺🇦" tvg-status="not-working",1+1 Ukraine

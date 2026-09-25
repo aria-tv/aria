@@ -65,3 +65,7 @@ http://95.70.222.188:1234/stream/tivibucocuk/nickjr/master.m3u8
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:14:B4:DD&stream=196702&extension=ts&play_token=yTqlKNECPP
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/turkey/beyaz-tr.png" group-title="Türkyie 🇹🇷" tvg-status="unstable",Beyaz
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:14:B4:DD&stream=196702&extension=ts&play_token=yTqlKNECPP
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/turkey/bein-sports-1-tr.png" group-title="Türkyie 🇹🇷" tvg-status="unstable",beIN Sports 1
+http://213.254.130.173:9999/stream/test/bein1/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/turkey/bein-sports-2-tr.png" group-title="Türkyie 🇹🇷" tvg-status="unstable",beIN Sports 2
+http://213.254.130.173:9999/stream/test/bein2/master.m3u8
