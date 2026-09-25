@@ -14,5 +14,5 @@
 | 10 | TG4 +1 | [>](https://theariatv.github.io/channel.mp4) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/TG4_logo.svg/1200px-TG4_logo.svg.png"/> | &nbsp; | not-working |
 | 11 | RTÉ News | [>](https://theariatv.github.io/channel.mp4) | <img height="20" src="https://upload.wikimedia.org/wikipedia/en/7/78/Updated_RT%C3%89_News_and_Current_Affairs_Logo.png"/> | &nbsp; | not-working |
 | 12 | Tithe an Oireachtais | [>](http://84.203.21.1:9981/stream/channelid/191668237?profile=pass) | Tithe an Oireachtais | &nbsp; | not-working |
-| 13 | RTÈ Kids Jr | [>](http://line.iptvhunt.com:80/play/live.php?mac=00:1A:79:53:70:7D&stream=139649&extension=ts&play_token=f2HRGvFK1E) | <img height="20" src="https://upload.wikimedia.org/wikipedia/en/thumb/d/d9/RT%C3%89_KIDSjr.svg/1280px-RT%C3%89_KIDSjr.svg.png"/> | &nbsp; | unstable |
+| 13 | RTÈ Kids Jr | [>](http://line.iptvhunt.com:80/play/live.php?mac=00:1A:79:53:70:7D&stream=139649&extension=ts&play_token=f2HRGvFK1E) | <img height="20" src="https://upload.wikimedia.org/wikipedia/en/thumb/d/d9/RT%C3%89_KIDSjr.svg/1280px-RT%C3%89_KIDSjr.svg.png"/> | &nbsp; | not-working |
 | 14 | Cúla4 | [>](http://41.180.140.146:4200/bysid/2106) | <img height="20" src="https://static.wikia.nocookie.net/logopedia/images/1/17/C%C3%BAla4_logo_II.svg/revision/latest?cb=20231115010116"/> | &nbsp; | stable |

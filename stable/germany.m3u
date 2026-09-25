@@ -1,8 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Das_Erste-Logo_klein.svg/1200px-Das_Erste-Logo_klein.svg.png" group-title="Germany 🇩🇪" tvg-status="stable",Das Erste
-http://178.27.12.3:9981/stream/channelid/1291630320?profile=pass
-#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/germany/zdf-de.png" group-title="Germany 🇩🇪" tvg-status="stable",ZDF
-http://178.27.12.3:9981/stream/channelid/1292587401?profile=pass
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/germany/rtl-de.png" group-title="Germany 🇩🇪" tvg-status="stable",RTL
 https://ma.anixa.tv/clips/stream/rtl/playlist.php
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/a3/SAT.1_logo_2016.png" group-title="Germany 🇩🇪" tvg-status="stable",SAT.1
