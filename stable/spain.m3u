@@ -1,21 +1,13 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/cuatro-es.png" group-title="Spain 🇪🇸" tvg-status="stable",Cuatro
-http://213.97.163.175:4022/udp/239.10.20.20:1234
-#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/telecinco-es.png" group-title="Spain 🇪🇸" tvg-status="stable",TeleCinco
-http://213.97.163.175:4022/udp/239.10.20.19:1234
-#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/veo7-es.png" group-title="Spain 🇪🇸" tvg-status="stable",Veo7
-http://213.97.163.175:4022/udp/239.10.20.54:1234
-#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/dmax-es.png" group-title="Spain 🇪🇸" tvg-status="stable",DMAX
-http://213.97.163.175:4022/udp/239.10.20.53:1234
-#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/tv3-es.png" group-title="Spain 🇪🇸" tvg-status="stable",TV3
-http://213.97.163.175:4022/udp/239.10.20.100:1234
-#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/3-24-es.png" group-title="Spain 🇪🇸" tvg-status="stable",3/24
-http://213.97.163.175:4022/udp/239.10.20.101:1234
-#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/esport3-es.png" group-title="Spain 🇪🇸" tvg-status="stable",Esport3
-http://213.97.163.175:4022/udp/239.10.20.103:1234
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Spain 🇪🇸" tvg-status="stable",Sqirrel Dos
-http://213.97.163.175:4022/udp/239.10.20.52:1234
-#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/boing-es.png" group-title="Spain 🇪🇸" tvg-status="stable",Boing
-http://213.97.163.175:4022/udp/239.10.20.50:1234
-#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/sx3-es.png" group-title="Spain 🇪🇸" tvg-status="stable",SX3
-http://213.97.163.175:4022/udp/239.10.20.102:1234
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/tve-1-es.png" group-title="Spain 🇪🇸" tvg-status="stable",La 1
+http://83.33.180.73:9700/stream/newtivify/la1/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/tve-2-es.png" group-title="Spain 🇪🇸" tvg-status="stable",La 2
+http://83.33.180.73:9700/stream/newtivify/la2/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/antena-3-es.png" group-title="Spain 🇪🇸" tvg-status="stable",Antena 3
+http://83.33.180.73:9700/stream/newtivify/antena3hd/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/clan-es.png" group-title="Spain 🇪🇸" tvg-status="stable",Clan
+http://83.33.180.73:9700/stream/newtivify/clanhd/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/24h-es.png" group-title="Spain 🇪🇸" tvg-status="stable",24h
+http://83.33.180.73:9700/stream/newtivify/24htvhd/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/tdp-es.png" group-title="Spain 🇪🇸" tvg-status="stable",Teledeporte (TDP)
+http://83.33.180.73:9700/stream/newtivify/teledeportehd/master.m3u8
