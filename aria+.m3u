@@ -2233,7 +2233,7 @@ http://str2.iptvhd.ru:8080/HOT_Senior/index.m3u8
 http://str2.iptvhd.ru:8080/VIVA/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/israel/viva-plus-il.png" group-title="Israel 🇮🇱" tvg-status="stable",Viva Plus
 http://str2.iptvhd.ru:8080/viva_plus/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/israel/hot-comedy-il.png" group-title="Israel 🇮🇱" tvg-status="stable",HOT Senior
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/israel/hot-comedy-il.png" group-title="Israel 🇮🇱" tvg-status="stable",HOT Comedy
 http://str2.iptvhd.ru:8080/HOTCOMEDY/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/israel/one-il.png" group-title="Israel 🇮🇱" tvg-status="stable",One
 http://str2.iptvhd.ru:8080/One/index.m3u8
