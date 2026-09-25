@@ -609,8 +609,22 @@ http://ba261103.amazzin.pw/iptv/9YNR783B2M6ANV6KFA25R382/6410/index.m3u8
 http://ba261103.amazzin.pw/iptv/9YNR783B2M6ANV6KFA25R382/18014/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Latvia" tvg-status="stable",RE TV
 http://ba261103.amazzin.pw/iptv/9YNR783B2M6ANV6KFA25R382/6406/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/LRT_TV_Logo_2022.svg/250px-LRT_TV_Logo_2022.svg.png" group-title="Lithuania 🇱🇹" tvg-status="stable",LRT TV
+http://stream.mcquack.net/31/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/LRT_Plius_Logo_2022.svg/250px-LRT_Plius_Logo_2022.svg.png" group-title="Lithuania 🇱🇹" tvg-status="stable",LRT Plius
+http://stream.mcquack.net/353/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1e/LNK_logotipas.png" group-title="Lithuania 🇱🇹" tvg-status="stable",LNK
 http://stream.mcquack.net/30/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f4/Go3_Films.svg/revision/latest/scale-to-width-down/200?cb=20230808194500" group-title="Lithuania 🇱🇹" tvg-status="stable",Go3 Films
+http://94.130.204.43:1234/stream/tet/go3filmslt/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/03/Go3_Sport.svg/revision/latest/scale-to-width-down/200?cb=20230810135847" group-title="Lithuania 🇱🇹" tvg-status="stable",Go3 Sports 1
+http://94.130.204.43:1234/stream/tet/go3sport1/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/03/Go3_Sport.svg/revision/latest/scale-to-width-down/200?cb=20230810135847" group-title="Lithuania 🇱🇹" tvg-status="stable",Go3 Sports 2
+http://94.130.204.43:1234/stream/tet/go3sport2/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/03/Go3_Sport.svg/revision/latest/scale-to-width-down/200?cb=20230810135847" group-title="Lithuania 🇱🇹" tvg-status="stable",Go3 Sports Open
+http://94.130.204.43:1234/stream/tet/go3sportopen/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/03/Go3_Sport.svg/revision/latest/scale-to-width-down/200?cb=20230810135847" group-title="Lithuania 🇱🇹" tvg-status="stable",Go3 Sports 3
+http://94.130.204.43:1234/stream/tet/go3sport3/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/RTL_Luxembourg_2023.svg/2560px-RTL_Luxembourg_2023.svg.png" group-title="Luxembourg 🇱🇺" tvg-status="stable",RTL
 https://stream.rtl.lu/data/live/tele/channel1/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTz9YMFptVTCaD9iYsUuIN4AP4PYsVxL0mhwg&s" group-title="Luxembourg 🇱🇺" tvg-status="stable",RTL ZWEE
