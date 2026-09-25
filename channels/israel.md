@@ -30,5 +30,5 @@
 | 26 | HOT Senior | [>](http://str2.iptvhd.ru:8080/HOT_Senior/index.m3u8) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/israel/hot-senior-il.png"/> | &nbsp; | stable |
 | 27 | Viva | [>](http://str2.iptvhd.ru:8080/VIVA/index.m3u8) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/israel/viva-il.png"/> | &nbsp; | stable |
 | 28 | Viva Plus | [>](http://str2.iptvhd.ru:8080/viva_plus/index.m3u8) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/israel/viva-plus-il.png"/> | &nbsp; | stable |
-| 29 | HOT Senior | [>](http://str2.iptvhd.ru:8080/HOTCOMEDY/index.m3u8) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/israel/hot-comedy-il.png"/> | &nbsp; | stable |
+| 29 | HOT Comedy | [>](http://str2.iptvhd.ru:8080/HOTCOMEDY/index.m3u8) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/israel/hot-comedy-il.png"/> | &nbsp; | stable |
 | 30 | One | [>](http://str2.iptvhd.ru:8080/One/index.m3u8) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/israel/one-il.png"/> | &nbsp; | stable |
