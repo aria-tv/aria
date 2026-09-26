@@ -3,7 +3,7 @@
 | # | Channel | Link | Logo | EPG id | Type |
 |:-:|:-------:|:----:|:----:|:------:|:----:|
 | 1 | La 1 | [>](http://83.33.180.73:9700/stream/newtivify/la1/master.m3u8) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/tve-1-es.png"/> | &nbsp; | stable |
-| 2 | La 2 | [>](http://83.33.180.73:9700/stream/newtivify/la2/master.m3u8) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/tve-2-es.png"/> | &nbsp; | stable |
+| 2 | La 2 | [>](http://83.33.180.73:9700/stream/newtivify/la2/master.m3u8) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/tve-2-es.png"/> | &nbsp; | not-working |
 | 3 | Antena 3 | [>](http://83.33.180.73:9700/stream/newtivify/antena3hd/master.m3u8) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/antena-3-es.png"/> | &nbsp; | stable |
 | 4 | Cuatro | [>](http://213.97.163.175:4022/udp/239.10.20.20:1234) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/cuatro-es.png"/> | &nbsp; | unstable |
 | 5 | TeleCinco | [>](http://213.97.163.175:4022/udp/239.10.20.19:1234) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/telecinco-es.png"/> | &nbsp; | unstable |
@@ -21,8 +21,8 @@
 | 17 | Squirrel | [>](http://176.65.146.237:8401/play/a09h/index.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Squirrel_TV_logo.svg/1920px-Squirrel_TV_logo.svg.png"/> | &nbsp; | not-working |
 | 18 | Sqirrel Dos | [>](http://213.97.163.175:4022/udp/239.10.20.52:1234) | Sqirrel Dos | &nbsp; | unstable |
 | 19 | A3Series | [>](http://176.65.146.99:4310/) | A3Series | &nbsp; | not-working |
-| 20 | Clan | [>](http://83.33.180.73:9700/stream/newtivify/clanhd/master.m3u8) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/clan-es.png"/> | &nbsp; | stable |
+| 20 | Clan | [>](http://83.33.180.73:9700/stream/newtivify/clanhd/master.m3u8) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/clan-es.png"/> | &nbsp; | not-working |
 | 21 | Boing | [>](http://213.97.163.175:4022/udp/239.10.20.50:1234) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/boing-es.png"/> | &nbsp; | unstable |
 | 22 | SX3 | [>](http://213.97.163.175:4022/udp/239.10.20.102:1234) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/sx3-es.png"/> | &nbsp; | unstable |
 | 23 | 24h | [>](http://83.33.180.73:9700/stream/newtivify/24htvhd/master.m3u8) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/24h-es.png"/> | &nbsp; | stable |
-| 24 | Teledeporte (TDP) | [>](http://83.33.180.73:9700/stream/newtivify/teledeportehd/master.m3u8) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/tdp-es.png"/> | &nbsp; | stable |
+| 24 | Teledeporte (TDP) | [>](http://83.33.180.73:9700/stream/newtivify/teledeportehd/master.m3u8) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/tdp-es.png"/> | &nbsp; | not-working |

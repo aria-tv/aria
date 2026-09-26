@@ -47,8 +47,6 @@ https://qvc-amd-live.akamaized.net/hls/live/2034113/lshsn1us/master.m3u8
 https://qvc-amd-live.akamaized.net/hls/live/2034113/lshsn1uswest/master.m3u8
 #EXTINF:-1 tvg-id="HSN2.us" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/11/HSN2_2018.svg/revision/latest?cb=20221114163129" group-title="United States 🇺🇸" tvg-status="stable",HSN 2
 https://qvc-amd-live.akamaized.net/hls/live/2034113/lshsn2us/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/starz-us.png" group-title="United States 🇺🇸" tvg-status="stable",STARZ
-http://95.143.42.59:1234/stream/rocketchannels/rocket_1769/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/0V6R2Zt5/IMG-2483.png" group-title="United States 🇺🇸" tvg-status="stable",HBO Hits
 http://4.30.180.36:8420/hbo2/index.m3u8?token=test
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/pv3f5J0T/IMG-2486.png" group-title="United States 🇺🇸" tvg-status="stable",HBO Movies
@@ -75,25 +73,9 @@ http://95.143.42.59:1234/stream/fubochannels/betsoul/master.m3u8
 http://95.143.42.59:1234/stream/fubochannels/betjams/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/espn-us.png" group-title="United States 🇺🇸" tvg-status="stable",ESPN
 http://95.143.42.59:1234/stream/fubochannels/espn/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/espn-u-us.png" group-title="United States 🇺🇸" tvg-status="stable",ESPN U
-http://95.143.42.59:1234/stream/fubochannels/espnu/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/espn-news-us.png" group-title="United States 🇺🇸" tvg-status="stable",ESPN News
 http://95.143.42.59:1234/stream/fubochannels/espnews/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/cXTmtzvd/1000024590-removebg-preview.png" group-title="United States 🇺🇸" tvg-status="stable",First Channel America
 https://amtv.tulixcdn.com/amtv4/am4abr/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/hallmark-family-us.png" group-title="United States 🇺🇸" tvg-status="stable",Hallmark Family
-http://95.143.42.59:1234/stream/fubochannels/hallmarkfamily/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/pop-us.png" group-title="United States 🇺🇸" tvg-status="stable",Pop
-http://95.143.42.59:1234/stream/fubochannels/pop/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/starz-cinema-us.png" group-title="United States 🇺🇸" tvg-status="stable",STARZ Cinema
-http://95.143.42.59:1234/stream/rocketchannels/rocket_1746/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/starz-encore-action-us.png" group-title="United States 🇺🇸" tvg-status="stable",STARZ Encore Action
-http://95.143.42.59:1234/stream/rocketchannels/rocket_1748/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/starz-encore-classic-us.png" group-title="United States 🇺🇸" tvg-status="stable",STARZ Encore Classic
-http://95.143.42.59:1234/stream/rocketchannels/rocket_1749/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/espn2-us.png" group-title="United States 🇺🇸" tvg-status="stable",ESPN 2
-http://95.143.42.59:1234/stream/fubochannels/espn2/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/espn-deportes-us.png" group-title="United States 🇺🇸" tvg-status="stable",ESPN Deportes
 http://95.143.42.59:1234/stream/fubochannels/espndeportes/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5c/NBCSN_2025.svg/250px-NBCSN_2025.svg.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail" group-title="United States 🇺🇸" tvg-status="stable",NBCSN
-http://95.143.42.59:1234/stream/fubochannels/nbcsn/master.m3u8

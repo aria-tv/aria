@@ -1,10 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="2873775b4b455d688ceebe2b2ed817dc" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a3/TVNZ_1_logo.svg/250px-TVNZ_1_logo.svg.png" group-title="New Zealand 🇳🇿" tvg-status="stable",TVNZ 1
-https://scs.cloudstreamer.cc/TVNZ1/index.m3u8
-#EXTINF:-1 tvg-id="be943e8f6dac2667f09eeaeb308e6c62" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/bb/TVNZ_2_logo.svg/1280px-TVNZ_2_logo.svg.png" group-title="New Zealand 🇳🇿" tvg-status="stable",TVNZ 2
-https://scs.cloudstreamer.cc/TVNZ2/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/85/TVNZ_Duke_logo.svg/1280px-TVNZ_Duke_logo.svg.png" group-title="New Zealand 🇳🇿" tvg-status="stable",TVNZ DUKE
-https://scs.cloudstreamer.cc/TVNZDuke/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/2/22/Bravo_2024.svg/250px-Bravo_2024.svg.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail" group-title="New Zealand 🇳🇿" tvg-status="stable",Bravo +1
 https://i.mjh.nz/.r/bravo-plus1.m3u8
 #EXTINF:-1 tvg-id="ParliamentTV.nz" tvg-logo="" group-title="New Zealand 🇳🇿" tvg-status="stable",Parliament TV

@@ -17,7 +17,7 @@ http://94.21.17.223:9981/stream/channelid/1268791284?profile=pass
 http://94.21.17.223:9981/stream/channelid/1573183651?profile=pass
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/hungary/rtl-harom-hu.png" group-title="Hungary 🇭🇺" tvg-status="not-working",RTL HÁROM HD
 http://94.21.17.223:9981/stream/channelid/1395685967?profile=pass
-#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/hungary/rtl-gold-hu.png" group-title="Hungary 🇭🇺" tvg-status="stable",RTL Gold
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/hungary/rtl-gold-hu.png" group-title="Hungary 🇭🇺" tvg-status="not-working",RTL Gold
 https://dash2.antik.sk/live/test_film_plus_2_hungary_1200_atk/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/hungary/sorozat-plus-hu.png" group-title="Hungary 🇭🇺" tvg-status="not-working",Sorozat+
 http://94.21.17.223:9981/stream/channelid/1235570618?profile=pass

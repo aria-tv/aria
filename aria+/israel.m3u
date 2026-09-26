@@ -29,9 +29,9 @@ http://6f1f83d9.akadatel.com/iptv/ET85VGCD8YTWLC/2346/index.m3u8
 http://6f1f83d9.akadatel.com/iptv/ET85VGCD8YTWLC/2345/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/israel/hop-il.png" group-title="Israel 🇮🇱" tvg-status="not-working",Hop!
 http://6f1f83d9.akadatel.com/iptv/ET85VGCD8YTWLC/12244/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/israel/nickelodeon-il.png" group-title="Israel 🇮🇱" tvg-status="not-working",Nickelodeon
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/israel/nickelodeon-il.png" group-title="Israel 🇮🇱" tvg-status="unstable",Nickelodeon
 http://str2.iptvhd.ru:8080/Nickelodeon/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/nick-jr-us.png" group-title="Israel 🇮🇱" tvg-status="stable",Nick Jr.
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/nick-jr-us.png" group-title="Israel 🇮🇱" tvg-status="not-working",Nick Jr.
 http://bethoven.af-stream.com:1600/s/kwtlxswl/nick-jr-il/video.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/teen-nick-us.png" group-title="Israel 🇮🇱" tvg-status="stable",TeenNick
 http://str2.iptvhd.ru:8080/TeenNick/index.m3u8
@@ -55,7 +55,7 @@ http://str2.iptvhd.ru:8080/HOT_Senior/index.m3u8
 http://str2.iptvhd.ru:8080/VIVA/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/israel/viva-plus-il.png" group-title="Israel 🇮🇱" tvg-status="stable",Viva Plus
 http://str2.iptvhd.ru:8080/viva_plus/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/israel/hot-comedy-il.png" group-title="Israel 🇮🇱" tvg-status="stable",HOT Comedy
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/israel/hot-comedy-il.png" group-title="Israel 🇮🇱" tvg-status="not-working",HOT Comedy
 http://str2.iptvhd.ru:8080/HOTCOMEDY/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/israel/one-il.png" group-title="Israel 🇮🇱" tvg-status="stable",One
 http://str2.iptvhd.ru:8080/One/index.m3u8

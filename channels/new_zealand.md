@@ -2,10 +2,10 @@
 
 | # | Channel | Link | Logo | EPG id | Type |
 |:-:|:-------:|:----:|:----:|:------:|:----:|
-| 1 | TVNZ 1 | [>](https://scs.cloudstreamer.cc/TVNZ1/index.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/en/thumb/a/a3/TVNZ_1_logo.svg/250px-TVNZ_1_logo.svg.png"/> | 2873775b4b455d688ceebe2b2ed817dc | stable |
-| 2 | TVNZ 2 | [>](https://scs.cloudstreamer.cc/TVNZ2/index.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/en/thumb/b/bb/TVNZ_2_logo.svg/1280px-TVNZ_2_logo.svg.png"/> | be943e8f6dac2667f09eeaeb308e6c62 | stable |
+| 1 | TVNZ 1 | [>](https://scs.cloudstreamer.cc/TVNZ1/index.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/en/thumb/a/a3/TVNZ_1_logo.svg/250px-TVNZ_1_logo.svg.png"/> | 2873775b4b455d688ceebe2b2ed817dc | not-working |
+| 2 | TVNZ 2 | [>](https://scs.cloudstreamer.cc/TVNZ2/index.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/en/thumb/b/bb/TVNZ_2_logo.svg/1280px-TVNZ_2_logo.svg.png"/> | be943e8f6dac2667f09eeaeb308e6c62 | not-working |
 | 3 | Three | [>](https://tv.wyatts-server.com/stream/channelid/1655729639?profile=pass) | <img height="20" src="https://tv.wyatts-server.com/imagecache/6816"/> | e76db0e276ca6c0872144209face3fa6 | not-working |
-| 4 | TVNZ DUKE | [>](https://scs.cloudstreamer.cc/TVNZDuke/index.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/en/thumb/8/85/TVNZ_Duke_logo.svg/1280px-TVNZ_Duke_logo.svg.png"/> | &nbsp; | stable |
+| 4 | TVNZ DUKE | [>](https://scs.cloudstreamer.cc/TVNZDuke/index.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/en/thumb/8/85/TVNZ_Duke_logo.svg/1280px-TVNZ_Duke_logo.svg.png"/> | &nbsp; | not-working |
 | 5 | Sky Open | [>](http://121.74.22.14:62381/stream/channelid/176982190?profile=pass) | <img height="20" src="https://tv.wyatts-server.com/imagecache/6814"/> | &nbsp; | not-working |
 | 6 | Sky 5 | [>](http://121.74.22.14:62381/stream/channelid/1199483279?profile=pass) | <img height="20" src="https://upload.wikimedia.org/wikipedia/en/9/9f/MK_SKY5_LogoSmall_250x180.png"/> | &nbsp; | not-working |
 | 7 | Sky Comedy | [>](http://121.74.22.14:62381/stream/channelid/2070625020?profile=pass) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Sky_Comedy_%28New_Zealand%29.png/250px-Sky_Comedy_%28New_Zealand%29.png"/> | &nbsp; | not-working |
