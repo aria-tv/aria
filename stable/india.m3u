@@ -19,8 +19,6 @@ https://cloudplay-sonyliv.pages.dev/max2.m3u8
 https://cloudplay-sonyliv.pages.dev/ten1hd.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/cd/Sony_Sports_Network.svg?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=original" group-title="India 🇮🇳" tvg-status="stable",Sony Sports Ten 1 (SD Feed)
 https://cloudplay-sonyliv.pages.dev/ten1.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/cd/Sony_Sports_Network.svg?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=original" group-title="India 🇮🇳" tvg-status="stable",Sony Sports Ten 2 (HD Feed)
-https://cloudplay-sonyliv.pages.dev/ten2hd.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/cd/Sony_Sports_Network.svg?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=original" group-title="India 🇮🇳" tvg-status="stable",Sony Sports Ten 2 (SD Feed)
 https://cloudplay-sonyliv.pages.dev/ten2.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/cd/Sony_Sports_Network.svg?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=original" group-title="India 🇮🇳" tvg-status="stable",Sony Sports Ten 3 Hindi (HD Feed)

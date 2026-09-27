@@ -5,7 +5,7 @@
 | 1 | MTV | [>](https://a1xs.vip/1000037) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/mtv-uk.png"/> | MTV.HD.uk | not-working |
 | 2 | Discovery | [>](https://a1xs.vip/1000033) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/discovery-channel-uk.png"/> | Discovery.HD.uk | not-working |
 | 3 | Sky Atlantic | [>](https://a1xs.vip/210001) | <img height="20" src="https://pixvid.org/images/2025/02/10/sky-atlantic.png"/> | Sky.Atlantic.HD.uk | not-working |
-| 4 | Sky Sports Main Event | [>](https://xemzi.short.gy/2000001) | <img height="20" src="https://i.ibb.co/CwMZcpP/sky-main-event.png"/> | SkySpMainEvHD.uk | unstable |
+| 4 | Sky Sports Main Event | [>](https://xemzi.short.gy/2000001) | <img height="20" src="https://i.ibb.co/CwMZcpP/sky-main-event.png"/> | SkySpMainEvHD.uk | not-working |
 | 5 | Sky Sports Main Event UHD | [>](https://xemzi.short.gy/2000015) | <img height="20" src="https://i.ibb.co/gwCk7Bc/sky-m-event-uhd.png"/> | SkySpMainEvHD.uk | unstable |
 | 6 | Sky Sports Premier League | [>](https://xemzi.short.gy/2000002) | <img height="20" src="https://i.ibb.co/rcSRMh9/sky-sports-pl.png"/> | SkySp.PL.HD.uk | unstable |
 | 7 | Sky Sports Football | [>](https://xemzi.short.gy/2000003) | <img height="20" src="https://i.ibb.co/WcCrBqx/sky-football.png"/> | SkySp.Fball.HD.uk | unstable |

@@ -13,7 +13,7 @@
 | 9 | Whiplash | [>](https://cdn.whiplash.cc/whiplash/index.m3u8) | <img height="20" src="https://whiplash.cc/assets/img/channels/whiplash.png"/> | C1.1.146.ersatztv.org | stable |
 | 10 | Whiplash 2 | [>](https://cdn.whiplash.cc/whiplash-2/index.m3u8) | <img height="20" src="https://whiplash.cc/assets/img/channels/whiplash2.png"/> | C2.1.147.ersatztv.org | stable |
 | 11 | Whiplash Cinema | [>](https://cdn.whiplash.cc/whiplash-cinema/index.m3u8) | <img height="20" src="https://whiplash.cc/assets/img/channels/whiplashcinema.png"/> | C3.1.148.ersatztv.org | stable |
-| 12 | Window TV | [>](https://cdn.whiplash.cc/whiplash-windowtv/index.m3u8) | <img height="20" src="https://whiplash.cc/assets/img/channels/windowtv.png"/> | C3.147.ersatztv.org | stable |
+| 12 | Window TV | [>](https://cdn.whiplash.cc/whiplash-windowtv/index.m3u8) | <img height="20" src="https://whiplash.cc/assets/img/channels/windowtv.png"/> | C3.147.ersatztv.org | not-working |
 | 13 | Atlas | [>](https://cdn.whiplash.cc/whiplash-atlas/index.m3u8) | <img height="20" src="https://whiplash.cc/assets/img/channels/atlas.png"/> | C7.151.ersatztv.org | stable |
 | 14 | zén!th | [>](https://live.azenagroup.com/zenith/index.m3u8) | <img height="20" src="https://webchnl.com/assets/img/channelicons/zenith.png?v=1773360618"/> | zenith | stable |
 | 15 | Valuto Cinema | [>](http://199.245.173.253:5004/auto/v3.12) | <img height="20" src="https://cdn271.picsart.com/1195f887-8d8b-4743-a651-3e78afc830a2/525454119013201.png?to=crop&type=webp&r=540x216&q=85"/> | &nbsp; | unstable |
