@@ -13,15 +13,15 @@
 | 9 | Whiplash | [>](https://cdn.whiplash.cc/whiplash/index.m3u8) | <img height="20" src="https://whiplash.cc/assets/img/channels/whiplash.png"/> | C1.1.146.ersatztv.org | stable |
 | 10 | Whiplash 2 | [>](https://cdn.whiplash.cc/whiplash-2/index.m3u8) | <img height="20" src="https://whiplash.cc/assets/img/channels/whiplash2.png"/> | C2.1.147.ersatztv.org | stable |
 | 11 | Whiplash Cinema | [>](https://cdn.whiplash.cc/whiplash-cinema/index.m3u8) | <img height="20" src="https://whiplash.cc/assets/img/channels/whiplashcinema.png"/> | C3.1.148.ersatztv.org | stable |
-| 12 | Window TV | [>](https://cdn.whiplash.cc/whiplash-windowtv/index.m3u8) | <img height="20" src="https://whiplash.cc/assets/img/channels/windowtv.png"/> | C3.147.ersatztv.org | not-working |
+| 12 | Window TV | [>](https://cdn.whiplash.cc/whiplash-windowtv/index.m3u8) | <img height="20" src="https://whiplash.cc/assets/img/channels/windowtv.png"/> | C3.147.ersatztv.org | unstable |
 | 13 | Atlas | [>](https://cdn.whiplash.cc/whiplash-atlas/index.m3u8) | <img height="20" src="https://whiplash.cc/assets/img/channels/atlas.png"/> | C7.151.ersatztv.org | stable |
 | 14 | zén!th | [>](https://live.azenagroup.com/zenith/index.m3u8) | <img height="20" src="https://webchnl.com/assets/img/channelicons/zenith.png?v=1773360618"/> | zenith | stable |
-| 15 | Valuto Cinema | [>](http://199.245.173.253:5004/auto/v3.12) | <img height="20" src="https://cdn271.picsart.com/1195f887-8d8b-4743-a651-3e78afc830a2/525454119013201.png?to=crop&type=webp&r=540x216&q=85"/> | &nbsp; | unstable |
+| 15 | Valuto Cinema | [>](http://199.245.173.253:5004/auto/v3.12) | <img height="20" src="https://cdn271.picsart.com/1195f887-8d8b-4743-a651-3e78afc830a2/525454119013201.png?to=crop&type=webp&r=540x216&q=85"/> | &nbsp; | not-working |
 | 16 | Totalmusic | [>](https://cdn.global.elektamedia.com/live/c7eds/Totalmusic/SA_LIVE_hls_enc/master.m3u8) | <img height="20" src="https://webchnl.com/assets/img/channelicons/totalmusic.png"/> | &nbsp; | unstable |
 | 17 | Totalmusic 80s | [>](https://cdn.global.elektamedia.com/live/c7eds/Totalmusic_80s/SA_LIVE_hls_enc/master.m3u8) | <img height="20" src="https://webchnl.com/assets/img/channelicons/totalmusic80s.png"/> | &nbsp; | unstable |
 | 18 | Totalmusic 00s | [>](https://cdn.global.elektamedia.com/live/c7eds/Totalmusic_00s/SA_LIVE_hls_enc/master.m3u8) | <img height="20" src="https://webchnl.com/assets/img/channelicons/totalmusic00s.png"/> | &nbsp; | unstable |
 | 19 | Totalmusic Concerts | [>](https://cdn.global.elektamedia.com/live/c7eds/Totalmusic_Concerts/SA_LIVE_hls_enc/master.m3u8) | <img height="20" src="https://webchnl.com/assets/img/channelicons/totalmusicconcerts.png"/> | &nbsp; | unstable |
 | 20 | Totalmusic Dance | [>](https://cdn.global.elektamedia.com/live/c7eds/Totalmusic_Dance/SA_LIVE_hls_enc/master.m3u8) | <img height="20" src="https://webchnl.com/assets/img/channelicons/totalmusicdance.png"/> | &nbsp; | unstable |
 | 21 | 4GTV | [>](https://4gtv.ngrok.app/hls/stream.m3u8) | 4GTV | &nbsp; | not-working |
-| 22 | Valuto One | [>](http://199.245.173.253:5004/auto/v3.11) | <img height="20" src="https://cdn271.picsart.com/7c6237cf-5ace-44ce-b521-3a4a8e4d688a/525453302021201.png?to=crop&type=webp&r=540x205&q=85"/> | &nbsp; | unstable |
+| 22 | Valuto One | [>](http://199.245.173.253:5004/auto/v3.11) | <img height="20" src="https://cdn271.picsart.com/7c6237cf-5ace-44ce-b521-3a4a8e4d688a/525453302021201.png?to=crop&type=webp&r=540x205&q=85"/> | &nbsp; | not-working |
 | 23 | Hit3 | [>](https://4gtv.ngrok.app/hls/stream.m3u8) | Hit3 | &nbsp; | not-working |
