@@ -31,11 +31,11 @@ http://6f1f83d9.akadatel.com/iptv/ET85VGCD8YTWLC/2345/index.m3u8
 http://6f1f83d9.akadatel.com/iptv/ET85VGCD8YTWLC/12244/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/israel/nickelodeon-il.png" group-title="Israel 🇮🇱" tvg-status="unstable",Nickelodeon
 http://str2.iptvhd.ru:8080/Nickelodeon/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/nick-jr-us.png" group-title="Israel 🇮🇱" tvg-status="not-working",Nick Jr.
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/nick-jr-us.png" group-title="Israel 🇮🇱" tvg-status="unstable",Nick Jr.
 http://bethoven.af-stream.com:1600/s/kwtlxswl/nick-jr-il/video.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/teen-nick-us.png" group-title="Israel 🇮🇱" tvg-status="stable",TeenNick
 http://str2.iptvhd.ru:8080/TeenNick/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/israel/disney-channel-il.png" group-title="Israel 🇮🇱" tvg-status="not-working",Disney Channel
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/israel/disney-channel-il.png" group-title="Israel 🇮🇱" tvg-status="unstable",Disney Channel
 http://bethoven.af-stream.com:1600/s/kwtlxswl/yes-disney-il-hd/video.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/israel/junior-il.png" group-title="Israel 🇮🇱" tvg-status="stable",Junior
 http://str2.iptvhd.ru:8080/junior/index.m3u8
