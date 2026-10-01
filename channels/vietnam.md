@@ -21,7 +21,7 @@
 | 17 | HTV2 | [>](https://freem3u.xyz/api/live/play.m3u8?vid=191) | HTV2 | &nbsp; | unstable |
 | 18 | HTV3 | [>](https://freem3u.xyz/api/live/play.m3u8?vid=192) | HTV3 | &nbsp; | unstable |
 | 19 | HTV4 | [>](http://14.187.176.206:9981/stream/channelid/851268162?profile=pass) | HTV4 | &nbsp; | not-working |
-| 20 | HTV7 | [>](https://freem3u.xyz/api/live/play.m3u8?vid=193) | HTV7 | &nbsp; | unstable |
+| 20 | HTV7 | [>](https://freem3u.xyz/api/live/play.m3u8?vid=193) | HTV7 | &nbsp; | not-working |
 | 21 | HTV9 | [>](http://14.187.176.206:9981/stream/channelid/743603966?profile=pass) | HTV9 | &nbsp; | not-working |
 | 22 | Vietnam Today | [>](http://14.245.172.189:9981/stream/channelid/1688328405?profile=pass) | <img height="20" src="https://yt3.googleusercontent.com/2VzgjBz1GRNJBFZ0JcaJad1M089lVy3ihBz2NeGeyvbAQHSNSMz7lSDymO8njLY_lhy3AFcTXKw=s900-c-k-c0x00ffffff-no-rj"/> | &nbsp; | not-working |
 | 23 | QTTV | [>](http://14.245.172.189:9981/stream/channelid/1989195258?profile=pass) | <img height="20" src="https://static.wikia.nocookie.net/logopedia/images/8/89/QTTV.png/revision/latest/scale-to-width-down/300?cb=20250709050941"/> | &nbsp; | not-working |

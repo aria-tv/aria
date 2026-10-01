@@ -31,13 +31,13 @@ http://78.130.234.23:9981/stream/channelid/1373620928?profile=pass
 http://78.130.234.23:9981/stream/channelid/1079185859?profile=pass
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/bulgaria/ekids-bg.png" group-title="Bulgaria 🇧🇬" tvg-status="not-working",Ekids
 http://78.130.234.23:9981/stream/channelid/1717094548?profile=pass
-#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/bulgaria/supertoons-bg.png" group-title="Bulgaria 🇧🇬" tvg-status="unstable",Supertoons
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/bulgaria/supertoons-bg.png" group-title="Bulgaria 🇧🇬" tvg-status="not-working",Supertoons
 http://77.76.8.12:82/supertoons/mpegts
-#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/nickelodeon-us.png" group-title="Bulgaria 🇧🇬" tvg-status="unstable",Nickelodeon
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/nickelodeon-us.png" group-title="Bulgaria 🇧🇬" tvg-status="not-working",Nickelodeon
 http://77.76.8.12:82/nickelodeon/mpegts
-#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/nick-jr-us.png" group-title="Bulgaria 🇧🇬" tvg-status="unstable",Nick Jr.
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/nick-jr-us.png" group-title="Bulgaria 🇧🇬" tvg-status="not-working",Nick Jr.
 http://77.76.8.12:82/nickjr/mpegts
-#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/nick-toons-us.png" group-title="Bulgaria 🇧🇬" tvg-status="unstable",Nicktoons
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/nick-toons-us.png" group-title="Bulgaria 🇧🇬" tvg-status="not-working",Nicktoons
 http://77.76.8.12:82/nicktoons/mpegts
-#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/cartoonito-uk.png" group-title="Bulgaria 🇧🇬" tvg-status="unstable",Cartoonito
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/cartoonito-uk.png" group-title="Bulgaria 🇧🇬" tvg-status="not-working",Cartoonito
 http://77.76.8.12:82/cartoonito/mpegts
