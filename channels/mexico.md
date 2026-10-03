@@ -5,7 +5,7 @@
 | 1 | Azteca 7 | [>](http://38.59.135.250:8001/play/a0fm/index.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/5/5f/Logo_de_Azteca_7_2024.png"/> | &nbsp; | unstable |
 | 2 | Azteca Uno | [>](http://38.59.135.250:8001/play/a0l1/index.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/d/d3/Logo_Azteca_Uno_2023.webp"/> | &nbsp; | unstable |
 | 3 | BitMe | [>](http://181.78.4.250:8098/play/0122/index.m3u8) | <img height="20" src="https://static.wikia.nocookie.net/logopedia/images/5/54/BitMe_2025.svg/revision/latest/scale-to-width-down/315?cb=20250307002717"/> | &nbsp; | not-working |
-| 4 | Canal Once | [>](https://s5.mexside.net:1936/stream/stream/playlist.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/2/2b/Canal_Once_logo_2025.png"/> | &nbsp; | unstable |
+| 4 | Canal Once | [>](https://s5.mexside.net:1936/stream/stream/playlist.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/2/2b/Canal_Once_logo_2025.png"/> | &nbsp; | not-working |
 | 5 | Canal 5 | [>](http://38.59.135.250:8001/play/a0ll/index.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/1/1d/Canal_5_Mexico_logo_2014.svg"/> | &nbsp; | unstable |
 | 6 | Canal Catorce | [>](https://s5.mexside.net:1936/canal14/canal14/playlist.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/0/01/Logo_Canal_14_M%C3%A9xico.svg"/> | &nbsp; | stable |
 | 7 | TV UNAM | [>](https://5e50264bd6766.streamlock.net/tvunam/videotvunam/playlist.m3u8?DVR) | TV UNAM | &nbsp; | stable |

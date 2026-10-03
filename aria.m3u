@@ -83,8 +83,6 @@ https://c9851ec-rbm-hilv-fsly.cdn.redbee.live/L22/6d35e26e/1bffdaaf.isml/.m3u8
 https://mob.webtvstream.bhtelecom.ba/hls13/bhrtportal_hd_1200.m3u8
 #EXTINF:-1 tvg-id="Rede.TV.br" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/brazil/rede-tv-br.png" group-title="Brazil 🇧🇷" tvg-status="stable",Rede TV!
 http://190.83.85.68/rede_brasil/index.m3u8
-#EXTINF:-1 tvg-id="Adult.Swim.br" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/adult-swim-ca.png" group-title="Brazil 🇧🇷" tvg-status="stable",Adult Swim
-http://45.185.11.126:8000/play/a06m/index.m3u8
 #EXTINF:-1 tvg-id="TNT.Novelas.br" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/brazil/tnt-novelas-br.png" group-title="Brazil 🇧🇷" tvg-status="stable",TNT Novelas
 http://45.185.11.126:8000/play/a088/index.m3u8
 #EXTINF:-1 tvg-id="Discovery.Science.br" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/brazil/discovery-science-br.png" group-title="Brazil 🇧🇷" tvg-status="stable",Discovery Science
@@ -175,60 +173,6 @@ http://185.236.230.212:9981/play/a0cl
 http://185.236.230.212:9981/play/a0by
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Logo_Nova_Lady_2021.png/1200px-Logo_Nova_Lady_2021.png" group-title="Czechia 🇨🇿" tvg-status="stable",NOVA LADY
 http://185.236.230.212:9981/play/a0bl
-#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/72/Duo3.svg/revision/latest?cb=20210822031500" group-title="Estonia 🇪🇪" tvg-status="stable",Duo 3
-http://217.159.149.163:9091/play/a04k
-#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/ec/Duo_Drama_%282026%29.svg/revision/latest/scale-to-width-down/250?cb=20260810112238" group-title="Estonia 🇪🇪" tvg-status="stable",Duo Drama
-http://217.159.149.163:9091/play/a05c
-#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/87/Duo_Star_%282026%29.svg/revision/latest/scale-to-width-down/250?cb=20260810114607" group-title="Estonia 🇪🇪" tvg-status="stable",Duo Star
-http://217.159.149.163:9091/play/a04s
-#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/55/Duo6.svg/revision/latest?cb=20210822031606" group-title="Estonia 🇪🇪" tvg-status="stable",Duo 6
-http://217.159.149.163:9091/play/a04r
-#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/ed/Eesti_Kanal_2021.svg/revision/latest?cb=20210709183756" group-title="Estonia 🇪🇪" tvg-status="stable",Eesti Kanal
-http://217.159.149.163:9091/play/a054
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/TV3_Life_Logo_2020.svg/3840px-TV3_Life_Logo_2020.svg.png" group-title="Estonia 🇪🇪" tvg-status="stable",TV3 Life
-http://217.159.149.163:9091/play/a04z
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/TV6_Logo_2022.svg/120px-TV6_Logo_2022.svg.png" group-title="Estonia 🇪🇪" tvg-status="stable",TV6
-http://217.159.149.163:9091/play/a04q
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.radio.net/300/myhits.png?version=e56faff084452aa4c8a0a769c9e0af412e11fe12" group-title="Estonia 🇪🇪" tvg-status="stable",My Hits
-http://217.159.149.163:9091/play/a05d
-#EXTINF:-1 tvg-id="" tvg-logo="https://assets.radioplayer.org/233/233196/1600/1200/mbg9klld.png" group-title="Estonia 🇪🇪" tvg-status="stable",My Hits Dance
-http://217.159.149.163:9091/play/a05d
-#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/65/Filmzone_2024.svg/revision/latest?cb=20240304122546" group-title="Estonia 🇪🇪" tvg-status="stable",Film Zone
-http://217.159.149.163:9091/play/a055
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/FX_Logo_2023.svg/1280px-FX_Logo_2023.svg.png" group-title="Estonia 🇪🇪" tvg-status="stable",FX (Estonian Subtiles only)
-http://217.159.149.163:9091/play/a05a
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/FX_Life_Logo_2023.svg/1280px-FX_Life_Logo_2023.svg.png" group-title="Estonia 🇪🇪" tvg-status="stable",FX Life (Estonian Subtiles only)
-http://217.159.149.163:9091/play/a059
-#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/tera-pedia/images/1/10/Yle_TV1_logo_color.svg/revision/latest?cb=20230616071510" group-title="Finland 🇫🇮" tvg-status="stable",Yle TV1
-http://217.159.149.163:9091/play/a04a
-#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/friendshipismagicfanon/images/5/5c/YLE_TV2_logo.png/revision/latest/thumbnail/width/360/height/450?cb=20230717184535" group-title="Finland 🇫🇮" tvg-status="stable",Yle TV2
-http://217.159.149.163:9091/play/a04b
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/MTV3_logo_2019.svg/1200px-MTV3_logo_2019.svg.png" group-title="Finland 🇫🇮" tvg-status="stable",MTV3
-http://217.159.149.163:9091/play/a04d
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/38/Nelonen_color_RGB.png" group-title="Finland 🇫🇮" tvg-status="stable",Nelonen
-http://217.159.149.163:9091/play/a049
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Yle_Teema_%26_Fem.svg/1200px-Yle_Teema_%26_Fem.svg.png" group-title="Finland 🇫🇮" tvg-status="stable",Yle Teema & Fam
-http://217.159.149.163:9091/play/a04c
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/MTV_Sub_Logo_2022.svg/1200px-MTV_Sub_Logo_2022.svg.png" group-title="Finland 🇫🇮" tvg-status="stable",MTV Sub
-http://217.159.149.163:9091/play/a03x
-#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/72/Kanal_5_TV5_2024.svg/revision/latest?cb=20240115083428" group-title="Finland 🇫🇮" tvg-status="stable",TV5
-http://217.159.149.163:9091/play/a05j
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/06/Liv_color_RGB.png" group-title="Finland 🇫🇮" tvg-status="stable",Liv
-http://217.159.149.163:9091/play/a03z
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Jim_color_RGB.png/960px-Jim_color_RGB.png" group-title="Finland 🇫🇮" tvg-status="stable",Jim
-http://217.159.149.163:9091/play/a040
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/6%27eren_%26_Kutonen_Logo_2024.svg/1200px-6%27eren_%26_Kutonen_Logo_2024.svg.png" group-title="Finland 🇫🇮" tvg-status="stable",Kutonen
-http://217.159.149.163:9091/play/a05k
-#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/nordic/finland/star-channel-fi.png" group-title="Finland 🇫🇮" tvg-status="stable",Star Channel
-http://217.159.149.163:9091/play/a05m
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/MTV_Ava_Logo_2022.svg/960px-MTV_Ava_Logo_2022.svg.png" group-title="Finland 🇫🇮" tvg-status="stable",MTV Ava
-http://217.159.149.163:9091/play/a03y
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Hero_color_RGB.png/1280px-Hero_color_RGB.png" group-title="Finland 🇫🇮" tvg-status="stable",Hero
-http://217.159.149.163:9091/play/a05p
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Frii_Logo_2024.svg/960px-Frii_Logo_2024.svg.png" group-title="Finland 🇫🇮" tvg-status="stable",Frii
-http://217.159.149.163:9091/play/a05n
-#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/national-geographic-us.png" group-title="Finland 🇫🇮" tvg-status="stable",National Geographic
-http://217.159.149.163:9091/play/a05o
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/64/MTV_Uutiset_2022_II.svg/revision/latest?cb=20230401223036" group-title="Finland 🇫🇮" tvg-status="stable",MTV Uutiset
 https://live.streaming.a2d.tv/asset/20025962.isml/.m3u8
 #EXTINF:-1 tvg-id="TF1.fr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/france/tf1-fr.png" group-title="France 🇫🇷" tvg-status="stable",TF1
@@ -383,8 +327,6 @@ https://eplhls.wns.live/hls/stream.m3u8
 https://fxtvhls.wns.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Iran 🇮🇷" tvg-status="stable",Grand Cinema
 https://gcinemahls.wns.live/hls/stream.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Iran 🇮🇷" tvg-status="stable",Home+
-https://homeplushls.wns.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Iran 🇮🇷" tvg-status="stable",Iran Nama
 https://iran613hls.wns.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Iran 🇮🇷" tvg-status="stable",4Music
@@ -479,8 +421,6 @@ https://cachehsi1a.netplus.ch/live/eds/dmaxitalia/browser-dash/dmaxitalia.mpd
 ttp://team-tv.co:81/discovery/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/real-time-it.png" group-title="Italy 🇮🇹" tvg-status="stable",RealTime
 ttp://team-tv.co:81/realtime/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/nickelodeon-us.png" group-title="Italy 🇮🇹" tvg-status="stable",Nickelodeon
-http://team-tv.co:81/nick/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/top-crime-it.png" group-title="Italy 🇮🇹" tvg-status="stable",Top Crime
 http://team-tv.co:81/topcrime/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/inter-tv-it.png" group-title="Italy 🇮🇹" tvg-status="stable",Inter TV
