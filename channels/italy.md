@@ -44,7 +44,7 @@
 | 40 | Super!/Super! Junior | [>](http://91.146.94.234:10001/play/a0j8) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/super-it.png"/> | &nbsp; | not-working |
 | 41 | Cartoonito | [>](http://91.146.94.234:10001/play/a03p) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/cartoonito-it.png"/> | &nbsp; | not-working |
 | 42 | Rai Südtirol  (Local) | [>](http://57.128.239.62/RaiBozen/index.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Rai_S%C3%BCdtirol_-_Logo_2019.svg/1920px-Rai_S%C3%BCdtirol_-_Logo_2019.svg.png"/> | &nbsp; | not-working |
-| 43 | Nickelodeon | [>](http://team-tv.co:81/nick/index.m3u8) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/nickelodeon-us.png"/> | &nbsp; | not-working |
+| 43 | Nickelodeon | [>](http://team-tv.co:81/nick/index.m3u8) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/nickelodeon-us.png"/> | &nbsp; | unstable |
 | 44 | Top Crime | [>](http://team-tv.co:81/topcrime/index.m3u8) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/top-crime-it.png"/> | &nbsp; | stable |
 | 45 | Inter TV | [>](http://team-tv.co:81/inter/index.m3u8) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/inter-tv-it.png"/> | &nbsp; | stable |
 | 46 | TV 2000 | [>](http://team-tv.co:81/tv2000/index.m3u8) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/tv2000-it.png"/> | &nbsp; | stable |
