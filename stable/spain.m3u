@@ -3,5 +3,3 @@
 http://83.33.180.73:9700/stream/newtivify/la1/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/antena-3-es.png" group-title="Spain 🇪🇸" tvg-status="stable",Antena 3
 http://83.33.180.73:9700/stream/newtivify/antena3hd/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/24h-es.png" group-title="Spain 🇪🇸" tvg-status="stable",24h
-http://83.33.180.73:9700/stream/newtivify/24htvhd/master.m3u8

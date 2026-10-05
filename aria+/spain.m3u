@@ -43,7 +43,7 @@ http://83.33.180.73:9700/stream/newtivify/clanhd/master.m3u8
 http://213.97.163.175:4022/udp/239.10.20.50:1234
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/sx3-es.png" group-title="Spain 🇪🇸" tvg-status="unstable",SX3
 http://213.97.163.175:4022/udp/239.10.20.102:1234
-#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/24h-es.png" group-title="Spain 🇪🇸" tvg-status="stable",24h
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/24h-es.png" group-title="Spain 🇪🇸" tvg-status="not-working",24h
 http://83.33.180.73:9700/stream/newtivify/24htvhd/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/tdp-es.png" group-title="Spain 🇪🇸" tvg-status="not-working",Teledeporte (TDP)
 http://83.33.180.73:9700/stream/newtivify/teledeportehd/master.m3u8

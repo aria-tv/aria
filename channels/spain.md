@@ -24,5 +24,5 @@
 | 20 | Clan | [>](http://83.33.180.73:9700/stream/newtivify/clanhd/master.m3u8) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/clan-es.png"/> | &nbsp; | not-working |
 | 21 | Boing | [>](http://213.97.163.175:4022/udp/239.10.20.50:1234) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/boing-es.png"/> | &nbsp; | unstable |
 | 22 | SX3 | [>](http://213.97.163.175:4022/udp/239.10.20.102:1234) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/sx3-es.png"/> | &nbsp; | unstable |
-| 23 | 24h | [>](http://83.33.180.73:9700/stream/newtivify/24htvhd/master.m3u8) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/24h-es.png"/> | &nbsp; | stable |
+| 23 | 24h | [>](http://83.33.180.73:9700/stream/newtivify/24htvhd/master.m3u8) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/24h-es.png"/> | &nbsp; | not-working |
 | 24 | Teledeporte (TDP) | [>](http://83.33.180.73:9700/stream/newtivify/teledeportehd/master.m3u8) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/tdp-es.png"/> | &nbsp; | not-working |
