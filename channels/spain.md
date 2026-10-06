@@ -2,9 +2,9 @@
 
 | # | Channel | Link | Logo | EPG id | Type |
 |:-:|:-------:|:----:|:----:|:------:|:----:|
-| 1 | La 1 | [>](http://83.33.180.73:9700/stream/newtivify/la1/master.m3u8) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/tve-1-es.png"/> | &nbsp; | stable |
+| 1 | La 1 | [>](http://83.33.180.73:9700/stream/newtivify/la1/master.m3u8) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/tve-1-es.png"/> | &nbsp; | not-working |
 | 2 | La 2 | [>](http://83.33.180.73:9700/stream/newtivify/la2/master.m3u8) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/tve-2-es.png"/> | &nbsp; | not-working |
-| 3 | Antena 3 | [>](http://83.33.180.73:9700/stream/newtivify/antena3hd/master.m3u8) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/antena-3-es.png"/> | &nbsp; | stable |
+| 3 | Antena 3 | [>](http://83.33.180.73:9700/stream/newtivify/antena3hd/master.m3u8) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/antena-3-es.png"/> | &nbsp; | not-working |
 | 4 | Cuatro | [>](http://213.97.163.175:4022/udp/239.10.20.20:1234) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/cuatro-es.png"/> | &nbsp; | unstable |
 | 5 | TeleCinco | [>](http://213.97.163.175:4022/udp/239.10.20.19:1234) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/telecinco-es.png"/> | &nbsp; | unstable |
 | 6 | La Sexta | [>](http://83.63.50.226:9981/stream/channelid/55679957?ticket=BEE678E994F1571037FEFF18360CE90E9456D629&profile=pass) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/lasexta-es.png"/> | &nbsp; | not-working |
