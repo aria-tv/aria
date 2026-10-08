@@ -9,13 +9,13 @@ https://sktv.mxnticek.eu/new/stream.php?ch=Dajto
 https://sktv.mxnticek.eu/new/stream.php?ch=Krimi
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/slovakia/markiza-sk.png" group-title="Slovakia 🇸🇰" tvg-status="unstable",Klasik
 https://sktv.mxnticek.eu/new/stream.php?ch=Klasik
-#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/slovakia/markiza-sk.png" group-title="Slovakia 🇸🇰" tvg-status="not-working",Markíza TN Live
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/slovakia/markiza-sk.png" group-title="Slovakia 🇸🇰" tvg-status="unstable",Markíza TN Live
 https://sktv.mxnticek.eu/new/stream.php?ch=Mark%C3%ADza%20TN%20Live
-#EXTINF:-1 tvg-id="JOJ.sk" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/slovakia/joj-sk.png" group-title="Slovakia 🇸🇰" tvg-status="unstable",JOJ
+#EXTINF:-1 tvg-id="JOJ.sk" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/slovakia/joj-sk.png" group-title="Slovakia 🇸🇰" tvg-status="not-working",JOJ
 https://sktv.mxnticek.eu/new/stream.php?ch=JOJ
 #EXTINF:-1 tvg-id="JOJPlus.sk" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/slovakia/joj-plus-sk.png" group-title="Slovakia 🇸🇰" tvg-status="not-working",JOJ Plus
 https://sktv.mxnticek.eu/new/stream.php?ch=JOJ%20Plus
-#EXTINF:-1 tvg-id="JOJWau.sk" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/slovakia/joj-wau-sk.png" group-title="Slovakia 🇸🇰" tvg-status="not-working",Wau
+#EXTINF:-1 tvg-id="JOJWau.sk" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/slovakia/joj-wau-sk.png" group-title="Slovakia 🇸🇰" tvg-status="unstable",Wau
 https://sktv.mxnticek.eu/new/stream.php?ch=Wau
 #EXTINF:-1 tvg-id="JOJ24.sk" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/slovakia/joj-24-sk.png" group-title="Slovakia 🇸🇰" tvg-status="not-working",JOJ 24
 https://sktv.mxnticek.eu/new/stream.php?ch=JOJ%2024
@@ -33,7 +33,7 @@ https://sktv.mxnticek.eu/new/stream.php?ch=STVR%20%3AO
 https://sktv.mxnticek.eu/new/stream.php?ch=NR%20SR
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Slovakia 🇸🇰" tvg-status="unstable",STVR Live
 https://sktv.mxnticek.eu/new/stream.php?ch=STVR%20Live
-#EXTINF:-1 tvg-id="TA3.sk" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/slovakia/ta3-sk.png" group-title="Slovakia 🇸🇰" tvg-status="not-working",TA3
+#EXTINF:-1 tvg-id="TA3.sk" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/slovakia/ta3-sk.png" group-title="Slovakia 🇸🇰" tvg-status="unstable",TA3
 https://sktv.mxnticek.eu/new/stream.php?ch=TA3
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/70/Jednotka_2026.svg/revision/latest?cb=20260220235246" group-title="Slovakia 🇸🇰" tvg-status="unstable",Jednotka
 http://46.149.191.219:9114/play/a01s
