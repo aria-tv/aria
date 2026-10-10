@@ -1,13 +1,13 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="TV.Cultura.br" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/brazil/tv-cultura-br.png" group-title="Brazil 🇧🇷" tvg-status="unstable",TV Cultura
+#EXTINF:-1 tvg-id="TV.Cultura.br" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/brazil/tv-cultura-br.png" group-title="Brazil 🇧🇷" tvg-status="not-working",TV Cultura
 https://player-tvcultura.stream.uol.com.br/live/tvcultura.m3u8
 #EXTINF:-1 tvg-id="SBTNacional.br" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/4/41/Logotipo_do_SBT.svg/2048px-Logotipo_do_SBT.svg.png" group-title="Brazil 🇧🇷" tvg-status="not-working",SBT
 http://190.83.85.68/sbt/index.m3u8
-#EXTINF:-1 tvg-id="TV.Globo.br" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/35/TVGlobo2025.png/revision/latest?cb=20250403003551" group-title="Brazil 🇧🇷" tvg-status="unstable",Globo
+#EXTINF:-1 tvg-id="TV.Globo.br" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/35/TVGlobo2025.png/revision/latest?cb=20250403003551" group-title="Brazil 🇧🇷" tvg-status="not-working",Globo
 https://media2.cdntvms.com.br/tv_morena_dorados/index.m3u8
 #EXTINF:-1 tvg-id="Record.TV.br" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/brazil/record-br.png" group-title="Brazil 🇧🇷" tvg-status="unstable",Record
 http://200.77.176.130:8000/udp/224.0.0.4:49152
-#EXTINF:-1 tvg-id="Band.br" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/brazil/band-br.png" group-title="Brazil 🇧🇷" tvg-status="unstable",BAND
+#EXTINF:-1 tvg-id="Band.br" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/brazil/band-br.png" group-title="Brazil 🇧🇷" tvg-status="not-working",BAND
 https://media.cdntvms.com.br/band_sat/index.m3u8
 #EXTINF:-1 tvg-id="Rede.TV.br" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/brazil/rede-tv-br.png" group-title="Brazil 🇧🇷" tvg-status="stable",Rede TV!
 http://190.83.85.68/rede_brasil/index.m3u8
@@ -19,7 +19,7 @@ http://143.244.35.74:8880/IgorRangelXX/IgorRangel3/36121
 http://45.185.11.126:8000/play/a08a/index.m3u8
 #EXTINF:-1 tvg-id="TNT.Novelas.br" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/brazil/tnt-novelas-br.png" group-title="Brazil 🇧🇷" tvg-status="unstable",TNT Novelas
 http://45.185.11.126:8000/play/a088/index.m3u8
-#EXTINF:-1 tvg-id="AMC.br" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/amc-us.png" group-title="Brazil 🇧🇷" tvg-status="not-working",AMC
+#EXTINF:-1 tvg-id="AMC.br" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/amc-us.png" group-title="Brazil 🇧🇷" tvg-status="unstable",AMC
 http://45.185.11.126:8000/play/a06s/index.m3u8
 #EXTINF:-1 tvg-id="TLC.br" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/tlc-us.png" group-title="Brazil 🇧🇷" tvg-status="unstable",TLC
 http://45.185.11.126:8000/play/a0aa/index.m3u8
