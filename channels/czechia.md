@@ -4,7 +4,7 @@
 |:-:|:-------:|:----:|:----:|:------:|:----:|
 | 1 | ČT1 | [>](https://sktv.mxnticek.eu/new/stream.php?ch=CT1) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/czech-republic/ct1-cz.png"/> | CT1.cz | not-working |
 | 2 | ČT2 | [>](https://sktv.mxnticek.eu/new/stream.php?ch=CT2) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/czech-republic/ct2-cz.png"/> | CT2.cz | not-working |
-| 3 | ČT24 | [>](https://sktv.mxnticek.eu/new/stream.php?ch=CT24) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/czech-republic/ct24-cz.png"/> | CT24.cz | unstable |
+| 3 | ČT24 | [>](https://sktv.mxnticek.eu/new/stream.php?ch=CT24) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/czech-republic/ct24-cz.png"/> | CT24.cz | not-working |
 | 4 | ČT sport | [>](https://sktv.mxnticek.eu/new/stream.php?ch=CTsport) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/czech-republic/ct-sport-cz.png"/> | CTSport.cz | not-working |
 | 5 | ČT :D | [>](https://sktv.mxnticek.eu/new/stream.php?ch=CT_D) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/czech-republic/ct-d-cz.png"/> | CTDecko.cz | not-working |
 | 6 | ČT art | [>](https://sktv.mxnticek.eu/new/stream.php?ch=CTart) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/czech-republic/ct-art-cz.png"/> | CTart.cz | not-working |
