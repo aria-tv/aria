@@ -1,13 +1,13 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/rai-1-it.png" group-title="Italy 🇮🇹" tvg-status="stable",Rai 1
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/rai-1-it.png" group-title="Italy 🇮🇹" tvg-status="not-working",Rai 1
 http://team-tv.co:81/rai1/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/rai-2-it.png" group-title="Italy 🇮🇹" tvg-status="stable",Rai 2
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/rai-2-it.png" group-title="Italy 🇮🇹" tvg-status="not-working",Rai 2
 http://team-tv.co:81/rai2/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/rai-3-it.png" group-title="Italy 🇮🇹" tvg-status="stable",Rai 3
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/rai-3-it.png" group-title="Italy 🇮🇹" tvg-status="not-working",Rai 3
 http://team-tv.co:81/rai3/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/rai-4-it.png" group-title="Italy 🇮🇹" tvg-status="stable",Rai 4
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/rai-4-it.png" group-title="Italy 🇮🇹" tvg-status="not-working",Rai 4
 http://team-tv.co:81/rai4/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/rai-5-it.png" group-title="Italy 🇮🇹" tvg-status="stable",Rai 5
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/rai-5-it.png" group-title="Italy 🇮🇹" tvg-status="not-working",Rai 5
 http://team-tv.co:81/rai5/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/rai-4k-it.png" group-title="Italy 🇮🇹" tvg-status="not-working",Rai 4K
 http://91.146.94.234:10001/play/a131
@@ -23,7 +23,7 @@ http://79.127.207.193/RaiGulp/playlist.m3u8
 http://91.146.94.234:10001/play/a039
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/rai-scuola-it.png" group-title="Italy 🇮🇹" tvg-status="not-working",Rai Scuola
 http://79.127.207.193/RaiScuola/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/rai-movie-it.png" group-title="Italy 🇮🇹" tvg-status="stable",Rai Movie
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/rai-movie-it.png" group-title="Italy 🇮🇹" tvg-status="not-working",Rai Movie
 http://team-tv.co:81/raimovie/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/rai-premium-it.png" group-title="Italy 🇮🇹" tvg-status="not-working",Rai Premium
 http://team-tv.co:81/raipremium/index.m3u8
@@ -37,9 +37,9 @@ http://91.146.94.234:10001/play/a03n
 https://netplus.zappr.stream/rete4.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/tgcom24-it.png" group-title="Italy 🇮🇹" tvg-status="not-working",TGCOM 24
 http://91.146.94.234:10001/play/a08t
-#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/la7-it.png" group-title="Italy 🇮🇹" tvg-status="stable",La7
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/la7-it.png" group-title="Italy 🇮🇹" tvg-status="not-working",La7
 http://team-tv.co:81/la7/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/2/20/LA7_Cinema.svg/330px-LA7_Cinema.svg.png?utm_source=it.wikipedia.org&utm_campaign=parser&utm_content=thumbnail" group-title="Italy 🇮🇹" tvg-status="stable",LA7 Cinema
+#EXTINF:-1 tvg-id="" tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/2/20/LA7_Cinema.svg/330px-LA7_Cinema.svg.png?utm_source=it.wikipedia.org&utm_campaign=parser&utm_content=thumbnail" group-title="Italy 🇮🇹" tvg-status="not-working",LA7 Cinema
 http://team-tv.co:81/la7/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/canale5-it.png" group-title="Italy 🇮🇹" tvg-status="stable",Canale 5
 https://netplus.zappr.stream/canale5.m3u8
@@ -55,7 +55,7 @@ ttp://team-tv.co:81/giallo/index.m3u8
 http://91.146.94.234:10001/play/a08u
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/cine34-it.png" group-title="Italy 🇮🇹" tvg-status="not-working",Cine34
 http://91.146.94.234:10001/play/a04o
-#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/la-5-it.png" group-title="Italy 🇮🇹" tvg-status="stable",La 5
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/la-5-it.png" group-title="Italy 🇮🇹" tvg-status="not-working",La 5
 http://team-tv.co:81/la5/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/nove-it.png" group-title="Italy 🇮🇹" tvg-status="not-working",Nove
 http://91.146.94.234:10001/play/a09q
@@ -85,9 +85,9 @@ http://91.146.94.234:10001/play/a03p
 http://57.128.239.62/RaiBozen/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/nickelodeon-us.png" group-title="Italy 🇮🇹" tvg-status="unstable",Nickelodeon
 http://team-tv.co:81/nick/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/top-crime-it.png" group-title="Italy 🇮🇹" tvg-status="stable",Top Crime
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/top-crime-it.png" group-title="Italy 🇮🇹" tvg-status="not-working",Top Crime
 http://team-tv.co:81/topcrime/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/inter-tv-it.png" group-title="Italy 🇮🇹" tvg-status="stable",Inter TV
 http://team-tv.co:81/inter/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/tv2000-it.png" group-title="Italy 🇮🇹" tvg-status="stable",TV 2000
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/tv2000-it.png" group-title="Italy 🇮🇹" tvg-status="not-working",TV 2000
 http://team-tv.co:81/tv2000/index.m3u8

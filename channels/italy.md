@@ -2,11 +2,11 @@
 
 | # | Channel | Link | Logo | EPG id | Type |
 |:-:|:-------:|:----:|:----:|:------:|:----:|
-| 1 | Rai 1 | [>](http://team-tv.co:81/rai1/index.m3u8) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/rai-1-it.png"/> | &nbsp; | stable |
-| 2 | Rai 2 | [>](http://team-tv.co:81/rai2/index.m3u8) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/rai-2-it.png"/> | &nbsp; | stable |
-| 3 | Rai 3 | [>](http://team-tv.co:81/rai3/index.m3u8) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/rai-3-it.png"/> | &nbsp; | stable |
-| 4 | Rai 4 | [>](http://team-tv.co:81/rai4/index.m3u8) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/rai-4-it.png"/> | &nbsp; | stable |
-| 5 | Rai 5 | [>](http://team-tv.co:81/rai5/index.m3u8) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/rai-5-it.png"/> | &nbsp; | stable |
+| 1 | Rai 1 | [>](http://team-tv.co:81/rai1/index.m3u8) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/rai-1-it.png"/> | &nbsp; | not-working |
+| 2 | Rai 2 | [>](http://team-tv.co:81/rai2/index.m3u8) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/rai-2-it.png"/> | &nbsp; | not-working |
+| 3 | Rai 3 | [>](http://team-tv.co:81/rai3/index.m3u8) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/rai-3-it.png"/> | &nbsp; | not-working |
+| 4 | Rai 4 | [>](http://team-tv.co:81/rai4/index.m3u8) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/rai-4-it.png"/> | &nbsp; | not-working |
+| 5 | Rai 5 | [>](http://team-tv.co:81/rai5/index.m3u8) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/rai-5-it.png"/> | &nbsp; | not-working |
 | 6 | Rai 4K | [>](http://91.146.94.234:10001/play/a131) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/rai-4k-it.png"/> | &nbsp; | not-working |
 | 7 | Rai News 24 | [>](https://ilglobotv-live.akamaized.net/channels/RAINews24/Live.m3u8) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/rai-news-24-it.png"/> | &nbsp; | not-working |
 | 8 | Rai Sport | [>](http://79.127.207.193/RaiSport/playlist.m3u8) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/rai-sport-it.png"/> | &nbsp; | not-working |
@@ -14,15 +14,15 @@
 | 10 | V/BE (Coming January 2027) | [>](http://79.127.207.193/RaiGulp/playlist.m3u8) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/rai-gulp-it.png"/> | &nbsp; | not-working |
 | 11 | Rai YoYo | [>](http://91.146.94.234:10001/play/a039) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/rai-yoyo-it.png"/> | &nbsp; | not-working |
 | 12 | Rai Scuola | [>](http://79.127.207.193/RaiScuola/playlist.m3u8) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/rai-scuola-it.png"/> | &nbsp; | not-working |
-| 13 | Rai Movie | [>](http://team-tv.co:81/raimovie/index.m3u8) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/rai-movie-it.png"/> | &nbsp; | stable |
+| 13 | Rai Movie | [>](http://team-tv.co:81/raimovie/index.m3u8) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/rai-movie-it.png"/> | &nbsp; | not-working |
 | 14 | Rai Premium | [>](http://team-tv.co:81/raipremium/index.m3u8) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/rai-premium-it.png"/> | &nbsp; | not-working |
 | 15 | Itaila 1 | [>](https://netplus.zappr.stream/italia1.m3u8) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/italia-1-it.png.png"/> | &nbsp; | stable |
 | 16 | Cielo [X] | [>](http://77.39.161.42:55555/Cielo) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/cielo-it.png"/> | &nbsp; | not-working |
 | 17 | Italia 2 | [>](http://91.146.94.234:10001/play/a03n) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/italia-2-it.png"/> | &nbsp; | not-working |
 | 18 | Rete 4 | [>](https://netplus.zappr.stream/rete4.m3u8) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/rete4-it.png"/> | &nbsp; | stable |
 | 19 | TGCOM 24 | [>](http://91.146.94.234:10001/play/a08t) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/tgcom24-it.png"/> | &nbsp; | not-working |
-| 20 | La7 | [>](http://team-tv.co:81/la7/index.m3u8) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/la7-it.png"/> | &nbsp; | stable |
-| 21 | LA7 Cinema | [>](http://team-tv.co:81/la7/index.m3u8) | <img height="20" src="https://thumb.wikimedia.org/wikipedia/commons/thumb/2/20/LA7_Cinema.svg/330px-LA7_Cinema.svg.png?utm_source=it.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"/> | &nbsp; | stable |
+| 20 | La7 | [>](http://team-tv.co:81/la7/index.m3u8) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/la7-it.png"/> | &nbsp; | not-working |
+| 21 | LA7 Cinema | [>](http://team-tv.co:81/la7/index.m3u8) | <img height="20" src="https://thumb.wikimedia.org/wikipedia/commons/thumb/2/20/LA7_Cinema.svg/330px-LA7_Cinema.svg.png?utm_source=it.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"/> | &nbsp; | not-working |
 | 22 | Canale 5 | [>](https://netplus.zappr.stream/canale5.m3u8) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/canale5-it.png"/> | &nbsp; | stable |
 | 23 | TV8 | [>](ttp://team-tv.co:81/tv8/index.m3u8) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/tv8-it.png"/> | &nbsp; | stable |
 | 24 | Iris | [>](http://91.146.94.234:10001/play/a03i) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/iris-it.png"/> | &nbsp; | not-working |
@@ -30,7 +30,7 @@
 | 26 | Giallo | [>](ttp://team-tv.co:81/giallo/index.m3u8) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/giallo-it.png"/> | &nbsp; | stable |
 | 27 | 27Twentyseven | [>](http://91.146.94.234:10001/play/a08u) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/twenty-seven-it.png"/> | &nbsp; | not-working |
 | 28 | Cine34 | [>](http://91.146.94.234:10001/play/a04o) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/cine34-it.png"/> | &nbsp; | not-working |
-| 29 | La 5 | [>](http://team-tv.co:81/la5/index.m3u8) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/la-5-it.png"/> | &nbsp; | stable |
+| 29 | La 5 | [>](http://team-tv.co:81/la5/index.m3u8) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/la-5-it.png"/> | &nbsp; | not-working |
 | 30 | Nove | [>](http://91.146.94.234:10001/play/a09q) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/nove-it.png"/> | &nbsp; | not-working |
 | 31 | DMAX | [>](https://cachehsi1a.netplus.ch/live/eds/dmaxitalia/browser-dash/dmaxitalia.mpd) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/dmax-it.png"/> | &nbsp; | stable |
 | 32 | Discovery Channel | [>](ttp://team-tv.co:81/discovery/index.m3u8) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/discovery-channel-uk.png"/> | &nbsp; | stable |
@@ -45,6 +45,6 @@
 | 41 | Cartoonito | [>](http://91.146.94.234:10001/play/a03p) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/cartoonito-it.png"/> | &nbsp; | not-working |
 | 42 | Rai Südtirol  (Local) | [>](http://57.128.239.62/RaiBozen/index.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Rai_S%C3%BCdtirol_-_Logo_2019.svg/1920px-Rai_S%C3%BCdtirol_-_Logo_2019.svg.png"/> | &nbsp; | not-working |
 | 43 | Nickelodeon | [>](http://team-tv.co:81/nick/index.m3u8) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/nickelodeon-us.png"/> | &nbsp; | unstable |
-| 44 | Top Crime | [>](http://team-tv.co:81/topcrime/index.m3u8) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/top-crime-it.png"/> | &nbsp; | stable |
+| 44 | Top Crime | [>](http://team-tv.co:81/topcrime/index.m3u8) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/top-crime-it.png"/> | &nbsp; | not-working |
 | 45 | Inter TV | [>](http://team-tv.co:81/inter/index.m3u8) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/inter-tv-it.png"/> | &nbsp; | stable |
-| 46 | TV 2000 | [>](http://team-tv.co:81/tv2000/index.m3u8) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/tv2000-it.png"/> | &nbsp; | stable |
+| 46 | TV 2000 | [>](http://team-tv.co:81/tv2000/index.m3u8) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/tv2000-it.png"/> | &nbsp; | not-working |
