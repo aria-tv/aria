@@ -31,7 +31,7 @@ http://main.light-ott.net:80/play/live.php?mac=00:1A:79:14:B4:DD&stream=9&extens
 http://217.73.139.200:5443/play/a00f
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3c/RTSH22026.svg/revision/latest/scale-to-width-down/300?cb=20260921081306" group-title="Albania 🇦🇱" tvg-status="unstable",RTSH 2
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:14:B4:DD&stream=67&extension=ts&play_token=RszxpMgIa8
-#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a1/RTSH242026.svg/revision/latest/scale-to-width-down/300?cb=20260921081306" group-title="Albania 🇦🇱" tvg-status="not-working",RTSH 24
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a1/RTSH242026.svg/revision/latest/scale-to-width-down/300?cb=20260921081306" group-title="Albania 🇦🇱" tvg-status="unstable",RTSH 24
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:14:B4:DD&stream=69&extension=ts&play_token=v3mku3XXZq
 #EXTINF:-1 tvg-id="" tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c0/RTSH2026.svg/960px-RTSH2026.svg.png?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=thumbnail" group-title="Albania 🇦🇱" tvg-status="not-working",RTSH Shkolle
 http://217.73.139.200:5443/play/a00v
