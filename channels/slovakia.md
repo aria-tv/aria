@@ -2,10 +2,10 @@
 
 | # | Channel | Link | Logo | EPG id | Type |
 |:-:|:-------:|:----:|:----:|:------:|:----:|
-| 1 | Markíza | [>](https://sktv.mxnticek.eu/new/stream.php?ch=Markiza) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/slovakia/markiza-sk.png"/> | Markiza.sk | unstable |
-| 2 | Doma | [>](https://sktv.mxnticek.eu/new/stream.php?ch=Doma) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/slovakia/markiza-doma-sk.png"/> | MarkizaDoma.sk | unstable |
-| 3 | Dajto | [>](https://sktv.mxnticek.eu/new/stream.php?ch=Dajto) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/slovakia/markiza-dajto-sk.png"/> | MarkizaDajto.sk | unstable |
-| 4 | Krimi | [>](https://sktv.mxnticek.eu/new/stream.php?ch=Krimi) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/slovakia/markiza-krimi-sk.png"/> | MarkizaKrimi.sk | unstable |
+| 1 | Markíza | [>](https://sktv.mxnticek.eu/new/stream.php?ch=Markiza) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/slovakia/markiza-sk.png"/> | Markiza.sk | not-working |
+| 2 | Doma | [>](https://sktv.mxnticek.eu/new/stream.php?ch=Doma) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/slovakia/markiza-doma-sk.png"/> | MarkizaDoma.sk | not-working |
+| 3 | Dajto | [>](https://sktv.mxnticek.eu/new/stream.php?ch=Dajto) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/slovakia/markiza-dajto-sk.png"/> | MarkizaDajto.sk | not-working |
+| 4 | Krimi | [>](https://sktv.mxnticek.eu/new/stream.php?ch=Krimi) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/slovakia/markiza-krimi-sk.png"/> | MarkizaKrimi.sk | not-working |
 | 5 | Klasik | [>](https://sktv.mxnticek.eu/new/stream.php?ch=Klasik) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/slovakia/markiza-sk.png"/> | &nbsp; | unstable |
 | 6 | Markíza TN Live | [>](https://sktv.mxnticek.eu/new/stream.php?ch=Mark%C3%ADza%20TN%20Live) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/slovakia/markiza-sk.png"/> | &nbsp; | not-working |
 | 7 | JOJ | [>](https://sktv.mxnticek.eu/new/stream.php?ch=JOJ) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/slovakia/joj-sk.png"/> | JOJ.sk | not-working |
@@ -20,5 +20,5 @@
 | 16 | NR SR | [>](https://sktv.mxnticek.eu/new/stream.php?ch=NR%20SR) | NR SR | &nbsp; | unstable |
 | 17 | STVR Live | [>](https://sktv.mxnticek.eu/new/stream.php?ch=STVR%20Live) | STVR Live | &nbsp; | unstable |
 | 18 | TA3 | [>](https://sktv.mxnticek.eu/new/stream.php?ch=TA3) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/slovakia/ta3-sk.png"/> | TA3.sk | unstable |
-| 19 | Jednotka | [>](http://46.149.191.219:9114/play/a01s) | <img height="20" src="https://static.wikia.nocookie.net/logopedia/images/7/70/Jednotka_2026.svg/revision/latest?cb=20260220235246"/> | &nbsp; | not-working |
-| 20 | Dvojka | [>](http://46.149.191.219:9114/play/a01t) | <img height="20" src="https://static.wikia.nocookie.net/logopedia/images/c/ca/Dvojka_2026.svg/revision/latest?cb=20260222043909"/> | &nbsp; | not-working |
+| 19 | Jednotka | [>](http://46.149.191.219:9114/play/a01s) | <img height="20" src="https://static.wikia.nocookie.net/logopedia/images/7/70/Jednotka_2026.svg/revision/latest?cb=20260220235246"/> | &nbsp; | unstable |
+| 20 | Dvojka | [>](http://46.149.191.219:9114/play/a01t) | <img height="20" src="https://static.wikia.nocookie.net/logopedia/images/c/ca/Dvojka_2026.svg/revision/latest?cb=20260222043909"/> | &nbsp; | unstable |
