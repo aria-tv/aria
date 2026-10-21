@@ -43,7 +43,7 @@
 | 39 | TBS West | [>](https://turnerlive.warnermediacdn.com/hls/live/2023174/tbswest/slate/VIDEO_0_3564000.m3u8) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/tbs-us.png"/> | &nbsp; | stable |
 | 40 | FX | [>](http://23.237.104.106:8080/USA_FX/index.m3u8) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/fx-us.png"/> | &nbsp; | not-working |
 | 41 | FXX | [>](http://23.237.104.106:8080/USA_FXX/index.m3u8) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/fxx-us.png"/> | &nbsp; | not-working |
-| 42 | Bravo | [>](http://41.205.93.154/BRAVO/index.m3u8) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/bravo-us.png"/> | &nbsp; | not-working |
+| 42 | Bravo | [>](http://41.205.93.154/BRAVO/index.m3u8) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/bravo-us.png"/> | &nbsp; | unstable |
 | 43 | E! | [>](http://23.237.104.106:8080/USA_E/index.m3u8) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/e-entertainment-us.png"/> | &nbsp; | unstable |
 | 44 | TLC | [>](http://nocable.cc:8080/Darrenshannon76@2.0/Darrenshannon76@2.0/46691) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/tlc-us.png"/> | &nbsp; | unstable |
 | 45 | Paramount Network | [>](http://23.237.104.106:8080/USA_PARAMOUNT_NETWORK/index.m3u8) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/paramount-network-us.png"/> | &nbsp; | unstable |
