@@ -3561,25 +3561,25 @@ http://81.78.186.155:7000/stream/channelid/265935771?ticket=F703B32BD7B5CDA0D39A
 http://81.78.186.155:7000/stream/channelid/655798574?ticket=8585E15C37B83ED0F8267A15369AE6BCD7143AE9&profile=pass
 #EXTINF:-1 tvg-id="Film4.HD.uk" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/film-4-uk.png" group-title="United Kingdom 🇬🇧" tvg-status="not-working",Film4
 https://viamotionhsi.netplus.ch/live/eds/film4/browser-dash/film4.mpd
-#EXTINF:-1 tvg-id="4seven.uk" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/4-seven-uk.png" group-title="United Kingdom 🇬🇧" tvg-status="not-working",4seven
-http:\\82.68.56.43:9981\stream\channelid\281530257?profile=pass
+#EXTINF:-1 tvg-id="4seven.uk" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/4-seven-uk.png" group-title="United Kingdom 🇬🇧" tvg-status="unstable",4seven
+http://81.78.186.155:7000/stream/channelid/1407444150?ticket=1D12C21A475B122CE1634BBACDC92F11DD9E9B13&profile=pass
 #EXTINF:-1 tvg-id="More4.uk" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/4-more-uk.png" group-title="United Kingdom 🇬🇧" tvg-status="not-working",More4
 https://viamotionhsi.netplus.ch/live/eds/more4/browser-dash/more4.mpd
 #EXTINF:-1 tvg-id="BBC.ALBA.HD.uk" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/bbc-alba-uk.png" group-title="United Kingdom 🇬🇧" tvg-status="not-working",BBC ALBA
 http://185.99.136.50:9981/stream/channelid/631212963?profile=pass
 #EXTINF:-1 tvg-id="BBCScotlandHD.uk" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/bbc-scotland-uk.png" group-title="United Kingdom 🇬🇧" tvg-status="not-working",BBC Scotland
 http://185.99.136.50:9981/stream/channelid/1801269588?profile=pass
-#EXTINF:-1 tvg-id="Sky.Mix.HD.uk" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/sky-mix-uk.png" group-title="United Kingdom 🇬🇧" tvg-status="not-working",Sky Mix
-http://86.180.115.121:1990/stream/channelid/914757818?profile=pass
-#EXTINF:-1 tvg-id="Challange.uk" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/challenge-uk.png" group-title="United Kingdom 🇬🇧" tvg-status="not-working",Challange
-http://86.180.115.121:1990/stream/channelid/242741757?profile=pass
+#EXTINF:-1 tvg-id="Sky.Mix.HD.uk" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/sky-mix-uk.png" group-title="United Kingdom 🇬🇧" tvg-status="unstable",Sky Mix
+http://81.78.186.155:7000/stream/channelid/1449116447?ticket=96ED188DBDBC90EC550D83AA3B691E85389C2489&profile=pass
+#EXTINF:-1 tvg-id="Challange.uk" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/challenge-uk.png" group-title="United Kingdom 🇬🇧" tvg-status="unstable",Challange
+http://81.78.186.155:7000/stream/channelid/1856340641?ticket=FC2A1D8601B9DCD6D2D38C542F4E177F0D063FB0&profile=pass
 #EXTINF:-1 tvg-id="5ACTION.uk" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/5-action-uk.png" group-title="United Kingdom 🇬🇧" tvg-status="not-working",5ACTION
 http://176.65.146.99:57/
 #EXTINF:-1 tvg-id="5.USA.uk" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/5-usa-uk.png" group-title="United Kingdom 🇬🇧" tvg-status="not-working",5USA
 http://176.65.146.99:41/
 #EXTINF:-1 tvg-id="5STAR.uk" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/5-star-uk.png" group-title="United Kingdom 🇬🇧" tvg-status="not-working",5STAR
 http://176.65.146.99:29/
-#EXTINF:-1 tvg-id="5SELECT.uk" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/5-select-uk.png" group-title="United Kingdom 🇬🇧" tvg-status="not-working",5SELECT
+#EXTINF:-1 tvg-id="5SELECT.uk" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/5-select-uk.png" group-title="United Kingdom 🇬🇧" tvg-status="not-working",5DRAMA
 http://176.65.146.99:59/
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/80/That%27s_TV_logo.png" group-title="United Kingdom 🇬🇧" tvg-status="not-working",That's TV
 http://86.180.115.121:1990/stream/channelid/1980028771?profile=pass
