@@ -71,12 +71,12 @@ http://204.52.191.254:80/play/live.php?mac=00:1A:79:E6:15:73&stream=162241&exten
 http://204.52.191.254:80/play/live.php?mac=00:1A:79:E6:15:73&stream=162242&extension=ts
 #EXTINF:-1 tvg-id="DisneyJr.uk (src01)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/disney-jr-uk.png" group-title="United Kingdom 🇬🇧" tvg-status="not-working",Disney Jr.
 http://benchoda.xyz:8880/live/andylilly/102369/4527693.ts
-#EXTINF:-1 tvg-id="BBC.One.Lon.HD.uk" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/bbc-one-uk.png" group-title="United Kingdom 🇬🇧" tvg-status="not-working",BBC One
-http://86.180.115.121:1990/stream/channelid/2113595444?profile=pass
+#EXTINF:-1 tvg-id="BBC.One.Lon.HD.uk" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/bbc-one-uk.png" group-title="United Kingdom 🇬🇧" tvg-status="unstable",BBC One
+http://81.78.186.155:7000/stream/channelid/1770799995?ticket=CA98878D5FA5D328EC31DCB2930E3F78A4D16442&profile=pass
 #EXTINF:-1 tvg-id="BBC.Two.HD.uk" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/bbc-two-uk.png" group-title="United Kingdom 🇬🇧" tvg-status="not-working",BBC Two
 https://viamotionhsi.netplus.ch/live/eds/bbc2/browser-dash/bbc2.mpd
-#EXTINF:-1 tvg-id="ITV1.HD.uk" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/itv-1-uk.png" group-title="United Kingdom 🇬🇧" tvg-status="not-working",ITV1
-http:\\82.68.56.43:9981\stream\channelid\991521084?profile=pass
+#EXTINF:-1 tvg-id="ITV1.HD.uk" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/itv-1-uk.png" group-title="United Kingdom 🇬🇧" tvg-status="unstable",ITV1
+http://81.78.186.155:7000/stream/channelid/258981055?ticket=2F092BB9347E9BE6DA5C42832CA799FE49F22BCE&profile=pass
 #EXTINF:-1 tvg-id="Channel.4.hd.uk" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/channel-4-uk.png" group-title="United Kingdom 🇬🇧" tvg-status="not-working",Channel 4
 https://viamotionhsi.netplus.ch/live/eds/channel4/browser-dash/channel4.mpd
 #EXTINF:-1 tvg-id="Channel.5.HD.uk" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/channel-5-uk.png" group-title="United Kingdom 🇬🇧" tvg-status="not-working",5
@@ -91,14 +91,14 @@ https://viamotionhsi.netplus.ch/live/eds/itv2/browser-dash/itv2.mpd
 https://viamotionhsi.netplus.ch/live/eds/itv3/browser-dash/itv3.mpd
 #EXTINF:-1 tvg-id="ITV4.HD.uk" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/itv-4-uk.png" group-title="United Kingdom 🇬🇧" tvg-status="not-working",ITV4
 https://viamotionhsi.netplus.ch/live/eds/itv4/browser-dash/itv4.mpd
-#EXTINF:-1 tvg-id="ITV.Quiz.HD.uk" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/itv-quiz-uk.png" group-title="United Kingdom 🇬🇧" tvg-status="not-working",ITV Quiz
-http:\\82.68.56.43:9981\stream\channelid\330902622?profile=pass
+#EXTINF:-1 tvg-id="ITV.Quiz.HD.uk" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/itv-quiz-uk.png" group-title="United Kingdom 🇬🇧" tvg-status="unstable",ITV Quiz
+http://81.78.186.155:7000/stream/channelid/1328269162?ticket=A62D2B1A92CE5BC7617A980A411B4697AC3D66A2&profile=pass
 #EXTINF:-1 tvg-id="STV.uk" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/stv-uk.png" group-title="United Kingdom 🇬🇧" tvg-status="stable",STV
 https://csm-e-stv-eb.tls1.yospace.com/csm/extlive/stv01,prd-ml-stv-edi-subs.m3u8
-#EXTINF:-1 tvg-id="E4.hd.uk" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/e-4-uk.png" group-title="United Kingdom 🇬🇧" tvg-status="not-working",E4
-http:\\82.68.56.43:9981\stream\channelid\1288613582?profile=pass
-#EXTINF:-1 tvg-id="E4.Extra.uk" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/e-4-extra-uk.png" group-title="United Kingdom 🇬🇧" tvg-status="not-working",E4 Extra
-http:\\82.68.56.43:9981\stream\channelid\1731879647?profile=pass
+#EXTINF:-1 tvg-id="E4.hd.uk" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/e-4-uk.png" group-title="United Kingdom 🇬🇧" tvg-status="unstable",E4
+http://81.78.186.155:7000/stream/channelid/265935771?ticket=F703B32BD7B5CDA0D39A0A2CDCE43CF4C812A6C8&profile=pass
+#EXTINF:-1 tvg-id="E4.Extra.uk" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/e-4-extra-uk.png" group-title="United Kingdom 🇬🇧" tvg-status="unstable",E4 Extra
+http://81.78.186.155:7000/stream/channelid/655798574?ticket=8585E15C37B83ED0F8267A15369AE6BCD7143AE9&profile=pass
 #EXTINF:-1 tvg-id="Film4.HD.uk" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/film-4-uk.png" group-title="United Kingdom 🇬🇧" tvg-status="not-working",Film4
 https://viamotionhsi.netplus.ch/live/eds/film4/browser-dash/film4.mpd
 #EXTINF:-1 tvg-id="4seven.uk" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/4-seven-uk.png" group-title="United Kingdom 🇬🇧" tvg-status="not-working",4seven
