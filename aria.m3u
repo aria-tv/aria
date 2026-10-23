@@ -511,12 +511,8 @@ https://video-auth4.iol.pt/live_tvi_reality/live_tvi_reality/edge_servers/tvirea
 https://tv.jassuncao.work/stream/channelid/620926503?profile=pass
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/iepfanon/images/5/55/%D0%9B%D0%BE%D0%B3%D0%BE%D1%82%D0%B8%D0%BF_%D1%82%D0%B5%D0%BB%D0%B5%D0%BA%D0%B0%D0%BD%D0%B0%D0%BB%D0%B0_%D0%A1%D0%9E%D0%9B%D0%9D%D0%A6%D0%95.png/revision/latest?cb=20230717235537" group-title="Russia 🇷🇺" tvg-status="stable",Solnce
 https://tv.mediacdn.ru/live/solntse/playlist_3000k.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b2/Logo_of_TV_SLO_1_HD_%282012-%29.png" group-title="Slovenia 🇸🇮" tvg-status="stable",TV SLO 1
-http://93.103.246.35:10205/
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/69/Logo_of_TV_SLO_2_HD_%282012-%29.png" group-title="Slovenia 🇸🇮" tvg-status="stable",TV SLO 2
 http://88.212.15.50/live/test_slo2_tizen/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.sportspro.com/wp-content/uploads/2023/03/Eurosport_Logo_2015.svg_.png" group-title="Slovenia 🇸🇮" tvg-status="stable",Eurosport
-http://93.103.246.35:10206/
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/cartoon-network-us.png" group-title="South Korea 🇰🇷" tvg-status="stable",Cartoon Network
 https://live-th10.myjktv.com/watch/live.m3u8?video=cartoon_network_540&sid=ibruDlwcarLe4hNycOeEqeww9RLddOcBkRHP5OU3&secret=d85c5f96f376280a040d699f3ebde938&time=1771648839
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Seoul_Broadcasting_System_logo.svg/250px-Seoul_Broadcasting_System_logo.svg.png" group-title="South Korea 🇰🇷" tvg-status="stable",SBS
