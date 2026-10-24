@@ -3581,10 +3581,10 @@ http://81.78.186.155:7000/stream/channelid/1933924801?ticket=71AA4F373183328A9E1
 http://81.78.186.155:7000/stream/channelid/166770570?ticket=0F8869152F31B72835CBD2CF1968DC0E1F914BF6&profile=pass
 #EXTINF:-1 tvg-id="5SELECT.uk" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/5-select-uk.png" group-title="United Kingdom 🇬🇧" tvg-status="not-working",5DRAMA
 http://81.78.186.155:7000/stream/channelid/2109240032?ticket=0BF0684D9DA3252A9569E6D60CB0C6222BF57A14&profile=pass
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/80/That%27s_TV_logo.png" group-title="United Kingdom 🇬🇧" tvg-status="not-working",That's TV
-http://86.180.115.121:1990/stream/channelid/1980028771?profile=pass
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/80/That%27s_TV_logo.png" group-title="United Kingdom 🇬🇧" tvg-status="unstable",That's TV
+http://81.78.186.155:7000/stream/channelid/709750310?ticket=7BF91EBBBF528E337E1383A8035638A5677F50AC&profile=pass
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a4/That%27s_TV_2.svg/revision/latest?cb=20240103151500" group-title="United Kingdom 🇬🇧" tvg-status="not-working",That's TV 2
-http://86.180.115.121:1990/stream/channelid/556880536?profile=pass
+http://81.78.186.155:7000/stream/channelid/571318195?ticket=9EBBBE3C6BF810CFA3C7584325A6688C44EBD452&profile=pass
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b9/That%27s_Oldies.png/revision/latest?cb=20250207172934" group-title="United Kingdom 🇬🇧" tvg-status="not-working",That's Oldies
 http://193.237.220.135:55555/That's%20Dance
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/pBR8mCHv/That-s-Melody.png" group-title="United Kingdom 🇬🇧" tvg-status="not-working",That's Melody
