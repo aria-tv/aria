@@ -37,8 +37,6 @@ https://orangehls.wns.live/hls/stream.m3u8
 https://slonehls.wns.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Iran 🇮🇷" tvg-status="stable",SL Two
 https://sltwohls.wns.live/hls/stream.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Iran 🇮🇷" tvg-status="stable",Manoto HD
-https://m3u.iranvids.com/manoto/output.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Iran 🇮🇷" tvg-status="stable",24/7 Box
 https://hls.247box.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Iran 🇮🇷" tvg-status="stable",VOA Farsi

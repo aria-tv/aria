@@ -66,7 +66,7 @@
 | 62 | Radio Javan | [>](https://rjtvhls.wns.live/hls/stream.m3u8) | Radio Javan | &nbsp; | unstable |
 | 63 | SL One | [>](https://slonehls.wns.live/hls/stream.m3u8) | SL One | &nbsp; | stable |
 | 64 | SL Two | [>](https://sltwohls.wns.live/hls/stream.m3u8) | SL Two | &nbsp; | stable |
-| 65 | Manoto HD | [>](https://m3u.iranvids.com/manoto/output.m3u8) | Manoto HD | &nbsp; | stable |
+| 65 | Manoto HD | [>](https://m3u.iranvids.com/manoto/output.m3u8) | Manoto HD | &nbsp; | not-working |
 | 66 | PBC Tapesh | [>](https://iptv.tapesh.tv/tapesh/playlist_low/index.m3u8) | PBC Tapesh | &nbsp; | unstable |
 | 67 | AVA Family | [>](https://familyhls.avatv.live/hls/stream.m3u8) | AVA Family | &nbsp; | unstable |
 | 68 | 24/7 Box | [>](https://hls.247box.live/hls/stream.m3u8) | 24/7 Box | &nbsp; | stable |
