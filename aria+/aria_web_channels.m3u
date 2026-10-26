@@ -45,3 +45,5 @@ https://4gtv.ngrok.app/hls/stream.m3u8
 http://199.245.173.253:5004/auto/v3.11
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Aria Web Channels 📺" tvg-status="not-working",Hit3
 https://4gtv.ngrok.app/hls/stream.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Aria Web Channels 📺" tvg-status="stable",BirdONE
+https://aria.5x0.org/channeldead.mp4
