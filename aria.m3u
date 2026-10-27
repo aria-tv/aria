@@ -461,8 +461,6 @@ https://tvr-moldova.lg.mncdn.com/tvrmoldova/tvrmoldova.stream/playlist.m3u8
 http://ba261103.amazzin.pw/iptv/9YNR783B2M6ANV6KFA25R382/19452/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/42/TV_Monaco_logo.png" group-title="Monaco 🇲🇨" tvg-status="stable",TVMonaco
 http://149.249.198.5:9981/stream/channelid/1580675096?profile=pass
-#EXTINF:-1 tvg-id="" tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/2/22/Bravo_2024.svg/250px-Bravo_2024.svg.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail" group-title="New Zealand 🇳🇿" tvg-status="stable",Bravo +1
-https://i.mjh.nz/.r/bravo-plus1.m3u8
 #EXTINF:-1 tvg-id="ParliamentTV.nz" tvg-logo="" group-title="New Zealand 🇳🇿" tvg-status="stable",Parliament TV
 https://ptvlive.kordia.net.nz/out/v1/daf20b9a9ec5449dadd734e50ce52b74/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Logo_of_Kanal_5.svg/250px-Logo_of_Kanal_5.svg.png" group-title="North Macedonia 🇲🇰" tvg-status="stable",Kanal 5
@@ -571,8 +569,6 @@ https://turnerlive.warnermediacdn.com/hls/live/2023174/tbswest/slate/VIDEO_0_356
 https://turnerlive.warnermediacdn.com/hls/live/2023186/tcmeast/noslate/VIDEO_1_5128000.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/TCM_2021.svg/1200px-TCM_2021.svg.png" group-title="United States 🇺🇸" tvg-status="stable",TCM West
 https://turnerlive.warnermediacdn.com/hls/live/2023187/tcmwest/noslate/VIDEO_1_5128000.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/buzzer-us.png" group-title="United States 🇺🇸" tvg-status="stable",Buzzer
-https://jmp2.uk/plu-5812bfbe4ced4f7b601b12e6.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/fs1-us.png" group-title="United States 🇺🇸" tvg-status="stable",FS1
 http://85.237.89.160:9590/usa-s/FOX-SPORTS-1/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/pbs-kids-us.png" group-title="United States 🇺🇸" tvg-status="stable",PBS Kids (Eastern Feed)

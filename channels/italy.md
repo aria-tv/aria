@@ -3,7 +3,7 @@
 | # | Channel | Link | Logo | EPG id | Type |
 |:-:|:-------:|:----:|:----:|:------:|:----:|
 | 1 | Rai 1 | [>](http://team-tv.co:81/rai1/index.m3u8) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/rai-1-it.png"/> | &nbsp; | unstable |
-| 2 | Rai 2 | [>](http://team-tv.co:81/rai2/index.m3u8) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/rai-2-it.png"/> | &nbsp; | not-working |
+| 2 | Rai 2 | [>](http://team-tv.co:81/rai2/index.m3u8) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/rai-2-it.png"/> | &nbsp; | unstable |
 | 3 | Rai 3 | [>](http://team-tv.co:81/rai3/index.m3u8) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/rai-3-it.png"/> | &nbsp; | unstable |
 | 4 | Rai 4 | [>](http://team-tv.co:81/rai4/index.m3u8) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/rai-4-it.png"/> | &nbsp; | unstable |
 | 5 | Rai 5 | [>](http://team-tv.co:81/rai5/index.m3u8) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/rai-5-it.png"/> | &nbsp; | unstable |
