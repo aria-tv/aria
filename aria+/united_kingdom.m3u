@@ -82,9 +82,9 @@ http://81.78.186.155:7000/stream/channelid/1359233332?ticket=B27E816107D1452EC36
 #EXTINF:-1 tvg-id="Channel.5.HD.uk" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/channel-5-uk.png" group-title="United Kingdom 🇬🇧" tvg-status="unstable",5
 http://81.78.186.155:7000/stream/channelid/1535545267?ticket=31FBC7540F4CFEC1EB37C64C8F123510A9E84D86&profile=pass
 #EXTINF:-1 tvg-id="BBC.Three.HD.uk" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/bbc-three-uk.png" group-title="United Kingdom 🇬🇧" tvg-status="not-working",BBC Three
-https://viamotionhsi.netplus.ch/live/eds/bbc3cbbc/browser-dash/bbc3cbbc.mpd
+https://biptv.s.gy/bbc3cbbcuk
 #EXTINF:-1 tvg-id="BBC.Four.HD.uk" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/bbc-four-uk.png" group-title="United Kingdom 🇬🇧" tvg-status="not-working",BBC Four
-https://viamotionhsi.netplus.ch/live/eds/bbc4cbeebies/browser-dash/bbc4cbeebies.mpd
+https://biptv.s.gy/bbc4cbeebiesuk
 #EXTINF:-1 tvg-id="ITV2.HD.uk" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/itv-2-uk.png" group-title="United Kingdom 🇬🇧" tvg-status="unstable",ITV2
 http://81.78.186.155:7000/stream/channelid/1128346749?ticket=5D2AC9A6C0C48E9D4E7E8CF958060879FD64795F&profile=pass
 #EXTINF:-1 tvg-id="ITV3.HD.uk" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/itv-3-uk.png" group-title="United Kingdom 🇬🇧" tvg-status="unstable",ITV3
@@ -106,9 +106,9 @@ http://81.78.186.155:7000/stream/channelid/1407444150?ticket=1D12C21A475B122CE16
 #EXTINF:-1 tvg-id="More4.uk" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/4-more-uk.png" group-title="United Kingdom 🇬🇧" tvg-status="unstable",More4
 http://81.78.186.155:7000/stream/channelid/882020808?ticket=027AD14D086F9C18350FBFE0F84F0D40D2253C23&profile=pass
 #EXTINF:-1 tvg-id="BBC.ALBA.HD.uk" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/bbc-alba-uk.png" group-title="United Kingdom 🇬🇧" tvg-status="not-working",BBC ALBA
-http://185.99.136.50:9981/stream/channelid/631212963?profile=pass
+https://biptv.s.gy/bbcalbauk
 #EXTINF:-1 tvg-id="BBCScotlandHD.uk" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/bbc-scotland-uk.png" group-title="United Kingdom 🇬🇧" tvg-status="not-working",BBC Scotland
-http://185.99.136.50:9981/stream/channelid/1801269588?profile=pass
+https://biptv.s.gy/bbcscotlanduk
 #EXTINF:-1 tvg-id="Sky.Mix.HD.uk" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/sky-mix-uk.png" group-title="United Kingdom 🇬🇧" tvg-status="unstable",Sky Mix
 http://81.78.186.155:7000/stream/channelid/1449116447?ticket=96ED188DBDBC90EC550D83AA3B691E85389C2489&profile=pass
 #EXTINF:-1 tvg-id="Challange.uk" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/challenge-uk.png" group-title="United Kingdom 🇬🇧" tvg-status="unstable",Challange
