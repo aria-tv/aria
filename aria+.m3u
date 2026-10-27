@@ -2171,8 +2171,8 @@ http://41.180.140.146:4200/bysid/2111
 http://41.180.140.146:4200/bysid/2102
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/TG4_logo.svg/1200px-TG4_logo.svg.png" group-title="Ireland 🇮🇪" tvg-status="not-working",TG4 +1
 https://theariatv.github.io/channel.mp4
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/78/Updated_RT%C3%89_News_and_Current_Affairs_Logo.png" group-title="Ireland 🇮🇪" tvg-status="not-working",RTÉ News
-https://theariatv.github.io/channel.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/78/Updated_RT%C3%89_News_and_Current_Affairs_Logo.png" group-title="Ireland 🇮🇪" tvg-status="unstable",RTÉ News
+https://biptv.s.gy/rtenewsie
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Ireland 🇮🇪" tvg-status="not-working",Tithe an Oireachtais
 http://84.203.21.1:9981/stream/channelid/191668237?profile=pass
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d9/RT%C3%89_KIDSjr.svg/1280px-RT%C3%89_KIDSjr.svg.png" group-title="Ireland 🇮🇪" tvg-status="not-working",RTÈ Kids Jr
