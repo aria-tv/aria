@@ -3603,14 +3603,14 @@ http://193.237.220.135:55555/That's%20Melody
 http://193.237.220.135:55555/That's%20Summer
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/NnxpHKJF/Clubland-2022-OSB.png" group-title="United Kingdom 🇬🇧" tvg-status="unstable",Clubland TV
 https://biptv.s.gy/clublandtvuk
-#EXTINF:-1 tvg-id="Great.TV.uk" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/great-tv-uk.png" group-title="United Kingdom 🇬🇧" tvg-status="not-working",Great! TV
-http://176.65.146.99:60/
+#EXTINF:-1 tvg-id="Great.TV.uk" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/great-tv-uk.png" group-title="United Kingdom 🇬🇧" tvg-status="unstable",Great! TV
+https://biptv.s.gy/greattvuk
 #EXTINF:-1 tvg-id="Great.Action.uk" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/great-action-uk.png" group-title="United Kingdom 🇬🇧" tvg-status="unstable",Great! Action
 http://81.78.186.155:7000/stream/channelid/202413153?ticket=057B1D45A52048679A131141A958ED1B5DEB9780&profile=pass
-#EXTINF:-1 tvg-id="Great.Movies.uk" tvg-logo="" group-title="United Kingdom 🇬🇧" tvg-status="not-working",Great! Mystery
-http://86.180.115.121:1990/stream/channelid/903016744?profile=pass
-#EXTINF:-1 tvg-id="Great.Romance.uk" tvg-logo="" group-title="United Kingdom 🇬🇧" tvg-status="not-working",Great! Romance/Great! Christmas
-http://86.180.115.121:1990/stream/channelid/706020549?profile=pass
+#EXTINF:-1 tvg-id="Great.Movies.uk" tvg-logo="" group-title="United Kingdom 🇬🇧" tvg-status="unstable",Great! Mystery
+https://biptv.s.gy/greatmysteryuk
+#EXTINF:-1 tvg-id="Great.Romance.uk" tvg-logo="" group-title="United Kingdom 🇬🇧" tvg-status="unstable",Great! Romance/Great! Christmas
+https://biptv.s.gy/greatromanceuk
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/9c/Sky_Arts_2020.png" group-title="United Kingdom 🇬🇧" tvg-status="unstable",Sky Arts
 http://81.78.186.155:7000/stream/channelid/301482187?ticket=625A11AF533FBBE70619A9862B5648FA7146E2C4&profile=pass
 #EXTINF:-1 tvg-id="Together.TV.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/ce/Together_TV_logo.svg/2560px-Together_TV_logo.svg.png" group-title="United Kingdom 🇬🇧" tvg-status="not-working",Together TV
