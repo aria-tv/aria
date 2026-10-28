@@ -69,8 +69,8 @@ http://204.52.191.254:80/play/live.php?mac=00:1A:79:E6:15:73&stream=162236&exten
 http://204.52.191.254:80/play/live.php?mac=00:1A:79:E6:15:73&stream=162241&extension=ts
 #EXTINF:-1 tvg-id="NickJr.uk" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/nick-jr-uk.png" group-title="United Kingdom 🇬🇧" tvg-status="not-working",Nick Jr.
 http://204.52.191.254:80/play/live.php?mac=00:1A:79:E6:15:73&stream=162242&extension=ts
-#EXTINF:-1 tvg-id="DisneyJr.uk (src01)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/disney-jr-uk.png" group-title="United Kingdom 🇬🇧" tvg-status="not-working",Disney Jr.
-http://benchoda.xyz:8880/live/andylilly/102369/4527693.ts
+#EXTINF:-1 tvg-id="Disney.Jr.HD.uk" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/disney-jr-uk.png" group-title="United Kingdom 🇬🇧" tvg-status="unstable",Disney Jr.
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:E6:15:73&stream=1739582&extension=ts
 #EXTINF:-1 tvg-id="BBC.One.Lon.HD.uk" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/bbc-one-uk.png" group-title="United Kingdom 🇬🇧" tvg-status="unstable",BBC One
 http://81.78.186.155:7000/stream/channelid/1770799995?ticket=CA98878D5FA5D328EC31DCB2930E3F78A4D16442&profile=pass
 #EXTINF:-1 tvg-id="BBC.Two.HD.uk" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/bbc-two-uk.png" group-title="United Kingdom 🇬🇧" tvg-status="unstable",BBC Two
