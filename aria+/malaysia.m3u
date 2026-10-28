@@ -1,9 +1,9 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="TV1.HD.my" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/malaysia/tv1-my.png" group-title="Malaysia 🇲🇾" tvg-status="unstable",TV1
+#EXTINF:-1 tvg-id="TV1.HD.my" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/malaysia/tv1-my.png" group-title="Malaysia" tvg-status="unstable",TV1
 http://tivoku.org/127361009115554/iRTdSQfqDN/1052624
-#EXTINF:-1 tvg-id="TV2.HD.my" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/malaysia/tv2-my.png" group-title="Malaysia 🇲🇾" tvg-status="unstable",TV2
+#EXTINF:-1 tvg-id="TV2.HD.my" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/malaysia/tv2-my.png" group-title="Malaysia" tvg-status="unstable",TV2
 http://tivoku.org/127361009115554/iRTdSQfqDN/260557
-#EXTINF:-1 tvg-id="TV3.my" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/malaysia/tv3-my.png" group-title="Malaysia 🇲🇾" tvg-status="unstable",TV3
+#EXTINF:-1 tvg-id="TV3.my" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/malaysia/tv3-my.png" group-title="Malaysia" tvg-status="unstable",TV3
 http://tivoku.org/127361009115554/iRTdSQfqDN/1052628
-#EXTINF:-1 tvg-id="Astro.Ria.HD.my" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/malaysia/astro-ria-my.png" group-title="Malaysia 🇲🇾" tvg-status="unstable",Astro Ria
+#EXTINF:-1 tvg-id="Astro.Ria.HD.my" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/malaysia/astro-ria-my.png" group-title="Malaysia" tvg-status="unstable",Astro Ria
 http://tivoku.org/127361009115554/iRTdSQfqDN/1119956
