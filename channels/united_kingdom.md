@@ -69,10 +69,10 @@
 | 65 | That's Melody | [>](http://193.237.220.135:55555/That's%20Melody) | <img height="20" src="https://i.ibb.co/pBR8mCHv/That-s-Melody.png"/> | &nbsp; | not-working |
 | 66 | That's Rock | [>](http://193.237.220.135:55555/That's%20Summer) | <img height="20" src="https://static.wikia.nocookie.net/logopedia/images/1/1c/That%27s_Rock_2025.svg/revision/latest?cb=20250820172319"/> | &nbsp; | not-working |
 | 67 | Clubland TV | [>](https://biptv.s.gy/clublandtvuk) | <img height="20" src="https://i.ibb.co/NnxpHKJF/Clubland-2022-OSB.png"/> | &nbsp; | unstable |
-| 68 | Great! TV | [>](http://176.65.146.99:60/) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/great-tv-uk.png"/> | Great.TV.uk | not-working |
+| 68 | Great! TV | [>](https://biptv.s.gy/greattvuk) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/great-tv-uk.png"/> | Great.TV.uk | unstable |
 | 69 | Great! Action | [>](http://81.78.186.155:7000/stream/channelid/202413153?ticket=057B1D45A52048679A131141A958ED1B5DEB9780&profile=pass) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/great-action-uk.png"/> | Great.Action.uk | unstable |
-| 70 | Great! Mystery | [>](http://86.180.115.121:1990/stream/channelid/903016744?profile=pass) | Great! Mystery | Great.Movies.uk | not-working |
-| 71 | Great! Romance/Great! Christmas | [>](http://86.180.115.121:1990/stream/channelid/706020549?profile=pass) | Great! Romance/Great! Christmas | Great.Romance.uk | not-working |
+| 70 | Great! Mystery | [>](https://biptv.s.gy/greatmysteryuk) | Great! Mystery | Great.Movies.uk | unstable |
+| 71 | Great! Romance/Great! Christmas | [>](https://biptv.s.gy/greatromanceuk) | Great! Romance/Great! Christmas | Great.Romance.uk | unstable |
 | 72 | Sky Arts | [>](http://81.78.186.155:7000/stream/channelid/301482187?ticket=625A11AF533FBBE70619A9862B5648FA7146E2C4&profile=pass) | <img height="20" src="https://upload.wikimedia.org/wikipedia/en/9/9c/Sky_Arts_2020.png"/> | &nbsp; | unstable |
 | 73 | Together TV | [>](http://185.99.136.50:9981/stream/channelid/944647027?profile=pass) | <img height="20" src="https://upload.wikimedia.org/wikipedia/en/thumb/c/ce/Together_TV_logo.svg/2560px-Together_TV_logo.svg.png"/> | Together.TV.uk | not-working |
 | 74 | PBS America | [>](https://biptv.s.gy/pbsamericauk) | <img height="20" src="https://www.pbsamerica.co.uk/wp-content/themes/pbs-2022/img/logo.png"/> | &nbsp; | unstable |
