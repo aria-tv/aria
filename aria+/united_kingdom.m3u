@@ -171,5 +171,7 @@ http://86.180.115.121:1990/stream/channelid/549388043?profile=pass
 http://86.180.115.121:1990/stream/channelid/986844643?profile=pass
 #EXTINF:-1 tvg-id="U&Davejavu.uk" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/u-and-davejavu-uk.png" group-title="United Kingdom 🇬🇧" tvg-status="not-working",U&Davejavu
 http:\\82.68.56.43:9981\stream\channelid\1021226135?profile=pass
+#EXTINF:-1 tvg-id="U.and.Eden.uk" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/u-and-eden-uk.png" group-title="United Kingdom 🇬🇧" tvg-status="unstable",U&Eden
+https://biptv.s.gy/uandedenuk
 #EXTINF:-1 tvg-id="E4.+1.uk" tvg-logo="https://www.freeview.co.uk/sites/default/files/styles/255_wide/public/2019-10/E4-%2B1-RGB-Colour-Positive-255x140.png?itok=B49Vws0Y" group-title="United Kingdom 🇬🇧" tvg-status="not-working",E4 +1
 http://86.180.115.121:1990/stream/channelid/1993018842?profile=pass
