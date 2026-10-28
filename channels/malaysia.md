@@ -1,4 +1,4 @@
-# Malaysia 🇲🇾
+# Malaysia
 
 | # | Channel | Link | Logo | EPG id | Type |
 |:-:|:-------:|:----:|:----:|:------:|:----:|

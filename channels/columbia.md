@@ -7,7 +7,7 @@
 | 3 | CityTV | [>](http://138.121.15.230:9002/CITY-TV/index.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/1/11/Citytv2025.png"/> | &nbsp; | unstable |
 | 4 | Caracol | [>](http://138.121.15.230:9002/CARACOL/index.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/e/ec/CaracolTV2025.png"/> | &nbsp; | stable |
 | 5 | Win Sports | [>](http://138.121.15.230:9002/WIN-SPORT/index.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/5/58/Win_Sports_nuevo_logo.svg.png"/> | &nbsp; | unstable |
-| 6 | RCN HD 2 | [>](http://190.60.32.178:8178/play/a0ga/index.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/9/91/RCN_HD2_2023.png"/> | &nbsp; | not-working |
+| 6 | RCN HD 2 | [>](http://190.60.32.178:8178/play/a0ga/index.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/9/91/RCN_HD2_2023.png"/> | &nbsp; | unstable |
 | 7 | Canal Congreso | [>](http://190.60.32.178:8178/play/a0g1/index.m3u8) | <img height="20" src="https://yt3.googleusercontent.com/j5c-biD-Oj1DkH79NEPRUD_ByQTCPk2-eQuNLNd4ALgLWCYY8JjG0Izn8xmctxpMc8nUVzRl6qA=s900-c-k-c0x00ffffff-no-rj"/> | &nbsp; | unstable |
 | 8 | MiTv Canal 20 | [>](http://190.60.32.178:8178/play/a034/index.m3u8) | <img height="20" src="https://yt3.googleusercontent.com/F-qOwFxL02clt0Guihyvc_UGsTmZI1IbAMBp8xyEYmd0HMaBGiFWN43EFbjv8iNNldF0VWe3Ww=s900-c-k-c0x00ffffff-no-rj"/> | &nbsp; | unstable |
 | 9 | Mimusica Popular | [>](http://190.60.32.178:8178/play/a07e/index.m3u8) | <img height="20" src="https://www.latingroup.us/images/logommpo.png"/> | &nbsp; | unstable |
