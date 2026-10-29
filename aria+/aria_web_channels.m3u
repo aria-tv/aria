@@ -29,16 +29,16 @@ https://cdn.whiplash.cc/whiplash-atlas/index.m3u8
 https://live.azenagroup.com/zenith/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://cdn271.picsart.com/1195f887-8d8b-4743-a651-3e78afc830a2/525454119013201.png?to=crop&type=webp&r=540x216&q=85" group-title="Aria Web Channels 📺" tvg-status="not-working",Valuto Cinema
 http://199.245.173.253:5004/auto/v3.12
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.40mediagroup.com/images/channels/ent-channel.png" group-title="Aria Web Channels 📺" tvg-status="unstable",ENT Channel
-https://cdn.40mediagroup.com/live/c7eds/ent_channel/SA_LIVE_hls_enc/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.40mediagroup.com/images/channels/ent-family.png" group-title="Aria Web Channels 📺" tvg-status="unstable",ENT Family
-https://cdn.40mediagroup.com/live/c7eds/ent_family/SA_LIVE_hls_enc/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://webchnl.com/assets/img/channelicons/totalmusic.png" group-title="Aria Web Channels 📺" tvg-status="unstable",Totalmusic
-https://cdn.40mediagroup.com/live/c7eds/Totalmusic/SA_LIVE_hls_enc/master.m3u8
+https://cdn.global.elektamedia.com/live/c7eds/Totalmusic/SA_LIVE_hls_enc/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://webchnl.com/assets/img/channelicons/totalmusic80s.png" group-title="Aria Web Channels 📺" tvg-status="unstable",Totalmusic 80s
-https://cdn.40mediagroup.com/live/c7eds/Totalmusic_80s/SA_LIVE_hls_enc/master.m3u8
+https://cdn.global.elektamedia.com/live/c7eds/Totalmusic_80s/SA_LIVE_hls_enc/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://webchnl.com/assets/img/channelicons/totalmusic00s.png" group-title="Aria Web Channels 📺" tvg-status="unstable",Totalmusic 00s
-https://cdn.40mediagroup.com/live/c7eds/Totalmusic_00s/SA_LIVE_hls_enc/master.m3u8
+https://cdn.global.elektamedia.com/live/c7eds/Totalmusic_00s/SA_LIVE_hls_enc/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://webchnl.com/assets/img/channelicons/totalmusicconcerts.png" group-title="Aria Web Channels 📺" tvg-status="unstable",Totalmusic Concerts
+https://cdn.global.elektamedia.com/live/c7eds/Totalmusic_Concerts/SA_LIVE_hls_enc/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://webchnl.com/assets/img/channelicons/totalmusicdance.png" group-title="Aria Web Channels 📺" tvg-status="unstable",Totalmusic Dance
+https://cdn.global.elektamedia.com/live/c7eds/Totalmusic_Dance/SA_LIVE_hls_enc/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Aria Web Channels 📺" tvg-status="not-working",4GTV
 https://4gtv.ngrok.app/hls/stream.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://cdn271.picsart.com/7c6237cf-5ace-44ce-b521-3a4a8e4d688a/525453302021201.png?to=crop&type=webp&r=540x205&q=85" group-title="Aria Web Channels 📺" tvg-status="not-working",Valuto One
