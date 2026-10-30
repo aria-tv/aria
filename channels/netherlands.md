@@ -36,3 +36,6 @@
 | 32 | RTL Crime | [>](http://83.85.109.250:9981/stream/channelid/113198168?profile=pass) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/netherlands/rtl-crime-nl.png"/> | &nbsp; | not-working |
 | 33 | RTL Telekids | [>](http://83.85.109.250:9981/stream/channelid/817423926?profile=pass) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/netherlands/rtl-telekids-nl.png"/> | &nbsp; | not-working |
 | 34 | Filmbox+ one | [>](https://biptv.s.gy/filmboxonenl) | <img height="20" src="https://cdn.iptvboss.pro/logos/Netherlands/FilmBox.nl.png"/> | &nbsp; | unstable |
+| 35 | Film1 Premiere | [>](https://biptv.s.gy/film1premierenl) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/netherlands/film1-premiere-nl.png"/> | Film1.Premiere.nl | unstable |
+| 36 | Film1 Action | [>](https://biptv.s.gy/film1actionnl) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/netherlands/film1-action-nl.png"/> | Film1.Action.nl | unstable |
+| 37 | Film1 Family | [>](https://biptv.s.gy/film1familynl) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/netherlands/film1-family-nl.png"/> | Film1.Family.nl | unstable |
