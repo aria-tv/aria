@@ -2719,6 +2719,12 @@ http://83.85.109.250:9981/stream/channelid/113198168?profile=pass
 http://83.85.109.250:9981/stream/channelid/817423926?profile=pass
 #EXTINF:-1 tvg-id="" tvg-logo="https://cdn.iptvboss.pro/logos/Netherlands/FilmBox.nl.png" group-title="Netherlands 🇳🇱" tvg-status="unstable",Filmbox+ one
 https://biptv.s.gy/filmboxonenl
+#EXTINF:-1 tvg-id="Film1.Premiere.nl" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/netherlands/film1-premiere-nl.png" group-title="Netherlands 🇳🇱" tvg-status="unstable",Film1 Premiere
+https://biptv.s.gy/film1premierenl
+#EXTINF:-1 tvg-id="Film1.Action.nl" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/netherlands/film1-action-nl.png" group-title="Netherlands 🇳🇱" tvg-status="unstable",Film1 Action
+https://biptv.s.gy/film1actionnl
+#EXTINF:-1 tvg-id="Film1.Family.nl" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/netherlands/film1-family-nl.png" group-title="Netherlands 🇳🇱" tvg-status="unstable",Film1 Family
+https://biptv.s.gy/film1familynl
 #EXTINF:-1 tvg-id="2873775b4b455d688ceebe2b2ed817dc" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a3/TVNZ_1_logo.svg/250px-TVNZ_1_logo.svg.png" group-title="New Zealand 🇳🇿" tvg-status="not-working",TVNZ 1
 https://scs.cloudstreamer.cc/TVNZ1/index.m3u8
 #EXTINF:-1 tvg-id="be943e8f6dac2667f09eeaeb308e6c62" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/bb/TVNZ_2_logo.svg/1280px-TVNZ_2_logo.svg.png" group-title="New Zealand 🇳🇿" tvg-status="not-working",TVNZ 2

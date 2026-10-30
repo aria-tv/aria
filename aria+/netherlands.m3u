@@ -67,3 +67,9 @@ http://83.85.109.250:9981/stream/channelid/113198168?profile=pass
 http://83.85.109.250:9981/stream/channelid/817423926?profile=pass
 #EXTINF:-1 tvg-id="" tvg-logo="https://cdn.iptvboss.pro/logos/Netherlands/FilmBox.nl.png" group-title="Netherlands 🇳🇱" tvg-status="unstable",Filmbox+ one
 https://biptv.s.gy/filmboxonenl
+#EXTINF:-1 tvg-id="Film1.Premiere.nl" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/netherlands/film1-premiere-nl.png" group-title="Netherlands 🇳🇱" tvg-status="unstable",Film1 Premiere
+https://biptv.s.gy/film1premierenl
+#EXTINF:-1 tvg-id="Film1.Action.nl" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/netherlands/film1-action-nl.png" group-title="Netherlands 🇳🇱" tvg-status="unstable",Film1 Action
+https://biptv.s.gy/film1actionnl
+#EXTINF:-1 tvg-id="Film1.Family.nl" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/netherlands/film1-family-nl.png" group-title="Netherlands 🇳🇱" tvg-status="unstable",Film1 Family
+https://biptv.s.gy/film1familynl
