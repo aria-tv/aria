@@ -109,9 +109,9 @@ http://81.78.186.155:7000/stream/channelid/882020808?ticket=027AD14D086F9C18350F
 https://biptv.s.gy/bbcalbauk
 #EXTINF:-1 tvg-id="BBCScotlandHD.uk" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/bbc-scotland-uk.png" group-title="United Kingdom 🇬🇧" tvg-status="unstable",BBC Scotland
 https://biptv.s.gy/bbcscotlanduk
-#EXTINF:-1 tvg-id="Sky.Mix.HD.uk" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/sky-mix-uk.png" group-title="United Kingdom 🇬🇧" tvg-status="unstable",Sky Mix
+#EXTINF:-1 tvg-id="Sky.Mix.HD.uk" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/sky-mix-uk.png" group-title="United Kingdom 🇬🇧" tvg-status="not-working",Sky Mix
 http://81.78.186.155:7000/stream/channelid/1449116447?ticket=96ED188DBDBC90EC550D83AA3B691E85389C2489&profile=pass
-#EXTINF:-1 tvg-id="Challange.uk" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/challenge-uk.png" group-title="United Kingdom 🇬🇧" tvg-status="unstable",Challange
+#EXTINF:-1 tvg-id="Challange.uk" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/challenge-uk.png" group-title="United Kingdom 🇬🇧" tvg-status="not-working",Challange
 http://81.78.186.155:7000/stream/channelid/1856340641?ticket=FC2A1D8601B9DCD6D2D38C542F4E177F0D063FB0&profile=pass
 #EXTINF:-1 tvg-id="5ACTION.uk" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/5-action-uk.png" group-title="United Kingdom 🇬🇧" tvg-status="not-working",5ACTION
 http://81.78.186.155:7000/stream/channelid/1140564834?ticket=DC58B74221F7538A7AAF71DC36933603480AC7E8&profile=pass
@@ -123,7 +123,7 @@ http://81.78.186.155:7000/stream/channelid/166770570?ticket=0F8869152F31B72835CB
 http://81.78.186.155:7000/stream/channelid/2109240032?ticket=0BF0684D9DA3252A9569E6D60CB0C6222BF57A14&profile=pass
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/80/That%27s_TV_logo.png" group-title="United Kingdom 🇬🇧" tvg-status="not-working",That's TV
 http://81.78.186.155:7000/stream/channelid/709750310?ticket=7BF91EBBBF528E337E1383A8035638A5677F50AC&profile=pass
-#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a4/That%27s_TV_2.svg/revision/latest?cb=20240103151500" group-title="United Kingdom 🇬🇧" tvg-status="unstable",That's TV 2
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a4/That%27s_TV_2.svg/revision/latest?cb=20240103151500" group-title="United Kingdom 🇬🇧" tvg-status="not-working",That's TV 2
 http://81.78.186.155:7000/stream/channelid/571318195?ticket=9EBBBE3C6BF810CFA3C7584325A6688C44EBD452&profile=pass
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b9/That%27s_Oldies.png/revision/latest?cb=20250207172934" group-title="United Kingdom 🇬🇧" tvg-status="not-working",That's Oldies
 http://193.237.220.135:55555/That's%20Dance
@@ -141,7 +141,7 @@ http://81.78.186.155:7000/stream/channelid/202413153?ticket=057B1D45A52048679A13
 https://biptv.s.gy/greatmysteryuk
 #EXTINF:-1 tvg-id="Great.Romance.uk" tvg-logo="" group-title="United Kingdom 🇬🇧" tvg-status="unstable",Great! Romance/Great! Christmas
 https://biptv.s.gy/greatromanceuk
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/9c/Sky_Arts_2020.png" group-title="United Kingdom 🇬🇧" tvg-status="unstable",Sky Arts
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/9c/Sky_Arts_2020.png" group-title="United Kingdom 🇬🇧" tvg-status="not-working",Sky Arts
 http://81.78.186.155:7000/stream/channelid/301482187?ticket=625A11AF533FBBE70619A9862B5648FA7146E2C4&profile=pass
 #EXTINF:-1 tvg-id="Together.TV.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/ce/Together_TV_logo.svg/2560px-Together_TV_logo.svg.png" group-title="United Kingdom 🇬🇧" tvg-status="not-working",Together TV
 http://185.99.136.50:9981/stream/channelid/944647027?profile=pass
