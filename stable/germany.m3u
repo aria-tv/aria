@@ -1,14 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/germany/rtl-de.png" group-title="Germany 🇩🇪" tvg-status="stable",RTL
 https://ma.anixa.tv/clips/stream/rtl/playlist.php
-#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/germany/vox-up-de.png" group-title="Germany 🇩🇪" tvg-status="stable",VOXup
-http://94.130.204.43:1234/stream/rtlplusgermany/voxup/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/18/Nitro_TV-Logo_2017.png" group-title="Germany 🇩🇪" tvg-status="stable",NITRO
-http://94.130.204.43:1234/stream/rtlplusgermany/nitro/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/germany/rtl-super-de.png" group-title="Germany 🇩🇪" tvg-status="stable",RTL Super
-http://94.130.204.43:1234/stream/rtlplusgermany/rtlsuper/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/N-tv_logo-september2017.svg/1200px-N-tv_logo-september2017.svg.png" group-title="Germany 🇩🇪" tvg-status="stable",n-tv
-http://94.130.204.43:1234/stream/rtlplusgermany/ntv/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/germany/xplore-de.png" group-title="Germany 🇩🇪" tvg-status="stable",Xplore
 http://149.249.198.5:9981/stream/channelid/40846484?profile=pass
 #EXTINF:-1 tvg-id="" tvg-logo="https://cdn.broadbandtvnews.com/wp-content/uploads/2014/05/14121747/RiC-Logo-NEU.jpg" group-title="Germany 🇩🇪" tvg-status="stable",RiC

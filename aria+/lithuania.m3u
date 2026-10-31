@@ -13,13 +13,13 @@ http://6f1f83d9.akadatel.com/iptv/ET85VGCD8YTWLC/12001/index.m3u8
 http://78.56.193.170:9981/stream/channelid/328469358?profile=pass
 #EXTINF:-1 tvg-id="" tvg-logo="https://play-lh.googleusercontent.com/CxJPaEVfX018WxwGaGedmCmBYpZlzqsI2PrGNCdofITvoeysAeHYovPeqMmAOCRdsBY" group-title="Lithuania 🇱🇹" tvg-status="not-working",TV3
 http://78.56.193.170:9981/stream/channelid/850565852?profile=pass
-#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f4/Go3_Films.svg/revision/latest/scale-to-width-down/200?cb=20230808194500" group-title="Lithuania 🇱🇹" tvg-status="stable",Go3 Films
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f4/Go3_Films.svg/revision/latest/scale-to-width-down/200?cb=20230808194500" group-title="Lithuania 🇱🇹" tvg-status="not-working",Go3 Films
 http://94.130.204.43:1234/stream/tet/go3filmslt/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/03/Go3_Sport.svg/revision/latest/scale-to-width-down/200?cb=20230810135847" group-title="Lithuania 🇱🇹" tvg-status="stable",Go3 Sports 1
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/03/Go3_Sport.svg/revision/latest/scale-to-width-down/200?cb=20230810135847" group-title="Lithuania 🇱🇹" tvg-status="not-working",Go3 Sports 1
 http://94.130.204.43:1234/stream/tet/go3sport1/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/03/Go3_Sport.svg/revision/latest/scale-to-width-down/200?cb=20230810135847" group-title="Lithuania 🇱🇹" tvg-status="stable",Go3 Sports 2
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/03/Go3_Sport.svg/revision/latest/scale-to-width-down/200?cb=20230810135847" group-title="Lithuania 🇱🇹" tvg-status="not-working",Go3 Sports 2
 http://94.130.204.43:1234/stream/tet/go3sport2/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/03/Go3_Sport.svg/revision/latest/scale-to-width-down/200?cb=20230810135847" group-title="Lithuania 🇱🇹" tvg-status="stable",Go3 Sports Open
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/03/Go3_Sport.svg/revision/latest/scale-to-width-down/200?cb=20230810135847" group-title="Lithuania 🇱🇹" tvg-status="not-working",Go3 Sports Open
 http://94.130.204.43:1234/stream/tet/go3sportopen/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/03/Go3_Sport.svg/revision/latest/scale-to-width-down/200?cb=20230810135847" group-title="Lithuania 🇱🇹" tvg-status="stable",Go3 Sports 3
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/03/Go3_Sport.svg/revision/latest/scale-to-width-down/200?cb=20230810135847" group-title="Lithuania 🇱🇹" tvg-status="not-working",Go3 Sports 3
 http://94.130.204.43:1234/stream/tet/go3sport3/master.m3u8

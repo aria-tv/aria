@@ -65,7 +65,7 @@
 | 61 | PMC Royale | [>](https://pmcrohls.wns.live/hls/stream.m3u8) | PMC Royale | &nbsp; | unstable |
 | 62 | Radio Javan | [>](https://rjtvhls.wns.live/hls/stream.m3u8) | Radio Javan | &nbsp; | unstable |
 | 63 | SL One | [>](https://slonehls.wns.live/hls/stream.m3u8) | SL One | &nbsp; | stable |
-| 64 | SL Two | [>](https://sltwohls.wns.live/hls/stream.m3u8) | SL Two | &nbsp; | stable |
+| 64 | SL Two | [>](https://sltwohls.wns.live/hls/stream.m3u8) | SL Two | &nbsp; | not-working |
 | 65 | Manoto HD | [>](https://m3u.iranvids.com/manoto/output.m3u8) | Manoto HD | &nbsp; | unstable |
 | 66 | PBC Tapesh | [>](https://iptv.tapesh.tv/tapesh/playlist_low/index.m3u8) | PBC Tapesh | &nbsp; | unstable |
 | 67 | AVA Family | [>](https://familyhls.avatv.live/hls/stream.m3u8) | AVA Family | &nbsp; | unstable |

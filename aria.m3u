@@ -81,8 +81,6 @@ https://mob.webtvstream.bhtelecom.ba/hls13/bhrtportal_hd_1200.m3u8
 http://190.83.85.68/rede_brasil/index.m3u8
 #EXTINF:-1 tvg-id="Canal.Saude.br" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/brazil/canal-saude-br.png" group-title="Brazil 🇧🇷" tvg-status="stable",Canal Saude
 https://eitv7.cdn.broadpeak.io/account351-i1495/event/canalsaude/format720p.m3u8
-#EXTINF:-1 tvg-id="Canal.Rural.br" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/brazil/canal-rural-br.png" group-title="Brazil 🇧🇷" tvg-status="stable",Canal Rural
-https://607d2a1a47b1f.streamlock.net/crur/smil:canalrural.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="Band.Sports.br" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/brazil/band-sports-br.png" group-title="Brazil 🇧🇷" tvg-status="stable",BAND Sports
 http://131.196.103.111:8089/BANDSPORTS/index.m3u8
 #EXTINF:-1 tvg-id="USA.Network.br" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/brazil/usa-network-br.png" group-title="Brazil 🇧🇷" tvg-status="stable",USA Network
@@ -175,14 +173,6 @@ https://tv.cdn.xsg.ge/gpb-2tv/index.m3u8
 https://tv.cdn.xsg.ge/imedihd/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/germany/rtl-de.png" group-title="Germany 🇩🇪" tvg-status="stable",RTL
 https://ma.anixa.tv/clips/stream/rtl/playlist.php
-#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/germany/vox-up-de.png" group-title="Germany 🇩🇪" tvg-status="stable",VOXup
-http://94.130.204.43:1234/stream/rtlplusgermany/voxup/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/18/Nitro_TV-Logo_2017.png" group-title="Germany 🇩🇪" tvg-status="stable",NITRO
-http://94.130.204.43:1234/stream/rtlplusgermany/nitro/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/germany/rtl-super-de.png" group-title="Germany 🇩🇪" tvg-status="stable",RTL Super
-http://94.130.204.43:1234/stream/rtlplusgermany/rtlsuper/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/N-tv_logo-september2017.svg/1200px-N-tv_logo-september2017.svg.png" group-title="Germany 🇩🇪" tvg-status="stable",n-tv
-http://94.130.204.43:1234/stream/rtlplusgermany/ntv/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/germany/xplore-de.png" group-title="Germany 🇩🇪" tvg-status="stable",Xplore
 http://149.249.198.5:9981/stream/channelid/40846484?profile=pass
 #EXTINF:-1 tvg-id="" tvg-logo="https://cdn.broadbandtvnews.com/wp-content/uploads/2014/05/14121747/RiC-Logo-NEU.jpg" group-title="Germany 🇩🇪" tvg-status="stable",RiC
@@ -263,8 +253,6 @@ https://nethls.wns.live/hls/stream.m3u8
 https://orangehls.wns.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Iran 🇮🇷" tvg-status="stable",SL One
 https://slonehls.wns.live/hls/stream.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Iran 🇮🇷" tvg-status="stable",SL Two
-https://sltwohls.wns.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Iran 🇮🇷" tvg-status="stable",24/7 Box
 https://hls.247box.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Iran 🇮🇷" tvg-status="stable",VOA Farsi
@@ -419,16 +407,6 @@ http://stream.mcquack.net/31/index.m3u8
 http://stream.mcquack.net/353/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1e/LNK_logotipas.png" group-title="Lithuania 🇱🇹" tvg-status="stable",LNK
 http://stream.mcquack.net/30/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f4/Go3_Films.svg/revision/latest/scale-to-width-down/200?cb=20230808194500" group-title="Lithuania 🇱🇹" tvg-status="stable",Go3 Films
-http://94.130.204.43:1234/stream/tet/go3filmslt/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/03/Go3_Sport.svg/revision/latest/scale-to-width-down/200?cb=20230810135847" group-title="Lithuania 🇱🇹" tvg-status="stable",Go3 Sports 1
-http://94.130.204.43:1234/stream/tet/go3sport1/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/03/Go3_Sport.svg/revision/latest/scale-to-width-down/200?cb=20230810135847" group-title="Lithuania 🇱🇹" tvg-status="stable",Go3 Sports 2
-http://94.130.204.43:1234/stream/tet/go3sport2/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/03/Go3_Sport.svg/revision/latest/scale-to-width-down/200?cb=20230810135847" group-title="Lithuania 🇱🇹" tvg-status="stable",Go3 Sports Open
-http://94.130.204.43:1234/stream/tet/go3sportopen/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/03/Go3_Sport.svg/revision/latest/scale-to-width-down/200?cb=20230810135847" group-title="Lithuania 🇱🇹" tvg-status="stable",Go3 Sports 3
-http://94.130.204.43:1234/stream/tet/go3sport3/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/RTL_Luxembourg_2023.svg/2560px-RTL_Luxembourg_2023.svg.png" group-title="Luxembourg 🇱🇺" tvg-status="stable",RTL
 https://stream.rtl.lu/data/live/tele/channel1/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTz9YMFptVTCaD9iYsUuIN4AP4PYsVxL0mhwg&s" group-title="Luxembourg 🇱🇺" tvg-status="stable",RTL ZWEE
