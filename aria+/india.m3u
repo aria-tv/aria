@@ -61,7 +61,7 @@ http://103.172.29.30:9991/stream/channelid/1848362957?profile=mobarok/fllusonic
 http://103.172.29.30:9991/stream/channelid/1796880303?profile=mobarok/fllusonic
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/7f/Colors_Bangla_logo.svg/1280px-Colors_Bangla_logo.svg.png?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=thumbnail" group-title="India 🇮🇳" tvg-status="unstable",Colors Bangla
 http://103.172.29.30:9991/stream/channelid/1759751142?profile=mobarok/fllusonic
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8c/Colors_Bangla_Cinema.png" group-title="India 🇮🇳" tvg-status="unstable",Colors Bangla Cinema
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8c/Colors_Bangla_Cinema.png" group-title="India 🇮🇳" tvg-status="not-working",Colors Bangla Cinema
 http://103.172.29.30:9991/stream/channelid/14180834?profile=mobarok/fllusonic
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/a/ab/Jalsha_Movies_prelaunch_logo_2011.png/revision/latest/scale-to-width-down/772?cb=20210611104109" group-title="India 🇮🇳" tvg-status="unstable",Jalsha Movies
 http://103.172.29.30:9991/stream/channelid/1796880303?profile=mobarok/fllusonic
