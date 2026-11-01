@@ -85,3 +85,5 @@ http://193.24.244.60:1001/udp/239.254.3.40:6060
 http://193.24.244.60:1001/udp/239.254.3.40:6060
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/heads/main/countries/poland/top-kids-pl.png" group-title="Poland 🇵🇱" tvg-status="not-working",Top Kids
 http://193.24.244.60:1001/udp/239.254.3.108:6060
+#EXTINF:-1 tvg-id="2x2.pl" tvg-logo="https://cdn.iptvboss.pro/logos/Poland/2x2.pl.png" group-title="Poland 🇵🇱" tvg-status="unstable",2x2
+https://biptv.s.gy/2x2pl
