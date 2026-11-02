@@ -2,11 +2,11 @@
 
 | # | Channel | Link | Logo | EPG id | Type |
 |:-:|:-------:|:----:|:----:|:------:|:----:|
-| 1 | Markíza | [>](https://sktv.mxnticek.eu/new/stream.php?ch=Markiza) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/slovakia/markiza-sk.png"/> | Markiza.sk | unstable |
+| 1 | Markíza | [>](https://sktv.mxnticek.eu/new/stream.php?ch=Markiza) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/slovakia/markiza-sk.png"/> | Markiza.sk | not-working |
 | 2 | Doma | [>](https://sktv.mxnticek.eu/new/stream.php?ch=Doma) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/slovakia/markiza-doma-sk.png"/> | MarkizaDoma.sk | not-working |
 | 3 | Dajto | [>](https://sktv.mxnticek.eu/new/stream.php?ch=Dajto) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/slovakia/markiza-dajto-sk.png"/> | MarkizaDajto.sk | not-working |
 | 4 | Krimi | [>](https://sktv.mxnticek.eu/new/stream.php?ch=Krimi) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/slovakia/markiza-krimi-sk.png"/> | MarkizaKrimi.sk | not-working |
-| 5 | Klasik | [>](https://sktv.mxnticek.eu/new/stream.php?ch=Klasik) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/slovakia/markiza-sk.png"/> | &nbsp; | unstable |
+| 5 | Klasik | [>](https://sktv.mxnticek.eu/new/stream.php?ch=Klasik) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/slovakia/markiza-sk.png"/> | &nbsp; | not-working |
 | 6 | Markíza TN Live | [>](https://sktv.mxnticek.eu/new/stream.php?ch=Mark%C3%ADza%20TN%20Live) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/slovakia/markiza-sk.png"/> | &nbsp; | not-working |
 | 7 | JOJ | [>](https://sktv.mxnticek.eu/new/stream.php?ch=JOJ) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/slovakia/joj-sk.png"/> | JOJ.sk | not-working |
 | 8 | JOJ Plus | [>](https://sktv.mxnticek.eu/new/stream.php?ch=JOJ%20Plus) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/slovakia/joj-plus-sk.png"/> | JOJPlus.sk | not-working |

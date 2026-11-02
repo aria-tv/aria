@@ -4,7 +4,7 @@
 |:-:|:-------:|:----:|:----:|:------:|:----:|
 | 1 | ATV | [>](http://193.154.67.174:9981/stream/channelid/58006784?profile=pass) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/austria/atv-at.png"/> | &nbsp; | not-working |
 | 2 | ATV 2 | [>](http://212.186.45.34:9981/stream/channelid/577097005?profile=pass) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/austria/atv2-at.png"/> | &nbsp; | not-working |
-| 3 | ORF 1 | [>](http://5.175.174.49:1234/stream/maxtvhr/orf1/master.m3u8) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/austria/orf1-at.png"/> | &nbsp; | stable |
+| 3 | ORF 1 | [>](http://5.175.174.49:1234/stream/maxtvhr/orf1/master.m3u8) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/austria/orf1-at.png"/> | &nbsp; | not-working |
 | 4 | ORF 2 | [>](http://5.175.174.49:1234/stream/maxtvhr/orf2/master.m3u8) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/austria/orf2-at.png"/> | &nbsp; | stable |
 | 5 | ORF III | [>](http://5.175.174.49:1234/stream/maxtvhr/orf3/master.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/ORF_III_Logo_Monochrom.svg/330px-ORF_III_Logo_Monochrom.svg.png"/> | &nbsp; | unstable |
 | 6 | ORF Sport+ | [>](http://5.175.174.49:1234/stream/maxtvhr/orfsport/master.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/ORF_Sport_%2B_Logo_2024.svg/2560px-ORF_Sport_%2B_Logo_2024.svg.png"/> | &nbsp; | not-working |
