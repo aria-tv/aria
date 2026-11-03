@@ -109,42 +109,6 @@ https://ocko-live.ssl.cdn.cra.cz/channels/ocko_gold/playlist.m3u8
 https://ocko-live.ssl.cdn.cra.cz/channels/ocko_expres/playlist.m3u8
 #EXTINF:-1 tvg-id="RetroMusicTV.cz" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/czech-republic/retro-cz.png" group-title="Czechia 🇨🇿" tvg-status="stable",Retro Music TV Ⓢ
 https://stream.mediawork.cz/retrotv/smil:retrotv2.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="AMC.cz" tvg-logo="" group-title="Czechia 🇨🇿" tvg-status="stable",AMC
-http://185.236.230.212:9981/play/a0bb
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Czechia 🇨🇿" tvg-status="stable",CANAL+ ACTION HD
-http://185.236.230.212:9981/play/a0bw
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Czechia 🇨🇿" tvg-status="stable",CANAL+ SPORT
-http://185.236.230.212:9981/play/a0bu
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Czechia 🇨🇿" tvg-status="stable",CARTOON NETWORK
-http://185.236.230.212:9981/play/a0b7
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Czechia 🇨🇿" tvg-status="stable",CINEMAX HD
-http://185.236.230.212:9981/play/a0c0
-#EXTINF:-1 tvg-id="CNN.Prima.News.cz" tvg-logo="" group-title="Czechia 🇨🇿" tvg-status="stable",CNN PRIMA NEWS HD
-http://185.236.230.212:9981/play/a0bf
-#EXTINF:-1 tvg-id="CS.Film.cz" tvg-logo="" group-title="Czechia 🇨🇿" tvg-status="stable",CS FILM
-http://185.236.230.212:9981/play/a0ay
-#EXTINF:-1 tvg-id="CS.History.cz" tvg-logo="" group-title="Czechia 🇨🇿" tvg-status="stable",CS HISTORY
-http://185.236.230.212:9981/play/a0cm
-#EXTINF:-1 tvg-id="CS.Mystery.cz" tvg-logo="" group-title="Czechia 🇨🇿" tvg-status="stable",CS MYSTERY
-http://185.236.230.212:9981/play/a0ch
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Czechia 🇨🇿" tvg-status="stable",EPIC DRAMA HD CZ/HU/VO
-http://185.236.230.212:9981/play/a0bg
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Czechia 🇨🇿" tvg-status="stable",FILM EUROPE HD
-http://185.236.230.212:9981/play/a0c1
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Czechia 🇨🇿" tvg-status="stable",FILMBOX EXTRA HD
-http://185.236.230.212:9981/play/a0c2
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Czechia 🇨🇿" tvg-status="stable",FILMBOX FAMILY
-http://185.236.230.212:9981/play/a0c5
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Czechia 🇨🇿" tvg-status="stable",FILMBOX HD
-http://185.236.230.212:9981/play/a0ax
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Czechia 🇨🇿" tvg-status="stable",JIMJAM
-http://185.236.230.212:9981/play/a0c6
-#EXTINF:-1 tvg-id="JOJ.Cinema.cz" tvg-logo="" group-title="Czechia 🇨🇿" tvg-status="stable",JOJ CINEMA HD
-http://185.236.230.212:9981/play/a0cl
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Czechia 🇨🇿" tvg-status="stable",LALA TV
-http://185.236.230.212:9981/play/a0by
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Logo_Nova_Lady_2021.png/1200px-Logo_Nova_Lady_2021.png" group-title="Czechia 🇨🇿" tvg-status="stable",NOVA LADY
-http://185.236.230.212:9981/play/a0bl
 #EXTINF:-1 tvg-id="TF1.fr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/france/tf1-fr.png" group-title="France 🇫🇷" tvg-status="stable",TF1
 http://5.180.164.197:8080/TF1/index.m3u8
 #EXTINF:-1 tvg-id="France.2.fr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/france/france-2-fr.png" group-title="France 🇫🇷" tvg-status="stable",France 2

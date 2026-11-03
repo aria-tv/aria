@@ -25,7 +25,7 @@ http://90.178.86.156:9981/stream/channelid/149509414?ticket=C9B68E4DB8D55AA47982
 https://sktv.mxnticek.eu/new/stream.php?ch=NovaGold
 #EXTINF:-1 tvg-id="NovaLady.cz" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/czech-republic/nova-lady-cz.png" group-title="Czechia 🇨🇿" tvg-status="unstable",Nova Lady
 https://sktv.mxnticek.eu/new/stream.php?ch=NovaLady
-#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/czech-republic/nova-cz.png" group-title="Czechia 🇨🇿" tvg-status="not-working",TN Live
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/czech-republic/nova-cz.png" group-title="Czechia 🇨🇿" tvg-status="unstable",TN Live
 https://sktv.mxnticek.eu/new/stream.php?ch=Nova%20TN%20Live
 #EXTINF:-1 tvg-id="Prima.cz" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/czech-republic/prima-cz.png" group-title="Czechia 🇨🇿" tvg-status="unstable",Prima
 http://90.178.86.156:9981/stream/channelid/1669214446?ticket=E3DAC28BD011EE73CD1278E95DB559C00DC7534F&profile=pass
@@ -35,13 +35,13 @@ http://90.178.86.156:9981/stream/channelid/1443888704?ticket=1881E132CE2672E53D2
 https://sktv.mxnticek.eu/new/stream.php?ch=PrimaZoom
 #EXTINF:-1 tvg-id="PrimaLove.cz" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/czech-republic/prima-love-cz.png" group-title="Czechia 🇨🇿" tvg-status="unstable",Prima Love
 http://90.178.86.156:9981/stream/channelid/737753444?ticket=377B73D5173B53527966C10C06F065C189C3BBCF&profile=pass
-#EXTINF:-1 tvg-id="PrimaStar.cz" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/czech-republic/prima-star-cz.png" group-title="Czechia 🇨🇿" tvg-status="not-working",Prima STAR
+#EXTINF:-1 tvg-id="PrimaStar.cz" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/czech-republic/prima-star-cz.png" group-title="Czechia 🇨🇿" tvg-status="unstable",Prima STAR
 https://sktv.mxnticek.eu/new/stream.php?ch=PrimaStar
 #EXTINF:-1 tvg-id="PrimaKrimi.cz" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/czech-republic/prima-krimi-cz.png" group-title="Czechia 🇨🇿" tvg-status="unstable",Prima Krimi
 https://sktv.mxnticek.eu/new/stream.php?ch=PrimaKrimi
-#EXTINF:-1 tvg-id="PrimaMax.cz" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/czech-republic/prima-max-cz.png" group-title="Czechia 🇨🇿" tvg-status="unstable",Prima MAX
+#EXTINF:-1 tvg-id="PrimaMax.cz" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/czech-republic/prima-max-cz.png" group-title="Czechia 🇨🇿" tvg-status="not-working",Prima MAX
 http://90.178.86.156:9981/stream/channelid/235177134?ticket=D080A80B3E2DBA968DBE8C7F420F9BFF4CCA7BA5&profile=pass
-#EXTINF:-1 tvg-id="PrimaCool.cz" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/czech-republic/prima-cool-cz.png" group-title="Czechia 🇨🇿" tvg-status="unstable",Prima Cool
+#EXTINF:-1 tvg-id="PrimaCool.cz" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/czech-republic/prima-cool-cz.png" group-title="Czechia 🇨🇿" tvg-status="not-working",Prima Cool
 http://90.178.86.156:9981/stream/channelid/2060674324?ticket=6D9FFFC2194661867B1D662C59DF98A86311539A&profile=pass
 #EXTINF:-1 tvg-id="PrimaShow.cz" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/czech-republic/prima-show-cz.png" group-title="Czechia 🇨🇿" tvg-status="not-working",Prima Show
 https://sktv.mxnticek.eu/new/stream.php?ch=PrimaShow
@@ -91,43 +91,43 @@ http://90.178.86.156:9981/stream/channelid/63674077?ticket=3DD9B00FA8EDFD57654A6
 http://90.178.86.156:9981/stream/channelid/468144232?ticket=08EE87AD25F9FBE538875ECAE79A083364326C74&profile=pass
 #EXTINF:-1 tvg-id="JOJ.Family.cz" tvg-logo="" group-title="Czechia 🇨🇿" tvg-status="unstable",JOJ Family
 http://tvh.cyn.cz/stream/channelid/1693764695?profile=pass
-#EXTINF:-1 tvg-id="AMC.cz" tvg-logo="" group-title="Czechia 🇨🇿" tvg-status="stable",AMC
+#EXTINF:-1 tvg-id="AMC.cz" tvg-logo="" group-title="Czechia 🇨🇿" tvg-status="not-working",AMC
 http://185.236.230.212:9981/play/a0bb
 #EXTINF:-1 tvg-id="Auto.Motor.Sport.cz" tvg-logo="" group-title="Czechia 🇨🇿" tvg-status="unstable",AUTOMOTORSPORT HD
 http://tvh.cyn.cz/stream/channelid/1879523926?profile=pass
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Czechia 🇨🇿" tvg-status="stable",CANAL+ ACTION HD
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Czechia 🇨🇿" tvg-status="not-working",CANAL+ ACTION HD
 http://185.236.230.212:9981/play/a0bw
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Czechia 🇨🇿" tvg-status="stable",CANAL+ SPORT
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Czechia 🇨🇿" tvg-status="not-working",CANAL+ SPORT
 http://185.236.230.212:9981/play/a0bu
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Czechia 🇨🇿" tvg-status="stable",CARTOON NETWORK
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Czechia 🇨🇿" tvg-status="not-working",CARTOON NETWORK
 http://185.236.230.212:9981/play/a0b7
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Czechia 🇨🇿" tvg-status="stable",CINEMAX HD
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Czechia 🇨🇿" tvg-status="not-working",CINEMAX HD
 http://185.236.230.212:9981/play/a0c0
-#EXTINF:-1 tvg-id="CNN.Prima.News.cz" tvg-logo="" group-title="Czechia 🇨🇿" tvg-status="stable",CNN PRIMA NEWS HD
+#EXTINF:-1 tvg-id="CNN.Prima.News.cz" tvg-logo="" group-title="Czechia 🇨🇿" tvg-status="not-working",CNN PRIMA NEWS HD
 http://185.236.230.212:9981/play/a0bf
-#EXTINF:-1 tvg-id="CS.Film.cz" tvg-logo="" group-title="Czechia 🇨🇿" tvg-status="stable",CS FILM
+#EXTINF:-1 tvg-id="CS.Film.cz" tvg-logo="" group-title="Czechia 🇨🇿" tvg-status="not-working",CS FILM
 http://185.236.230.212:9981/play/a0ay
-#EXTINF:-1 tvg-id="CS.History.cz" tvg-logo="" group-title="Czechia 🇨🇿" tvg-status="stable",CS HISTORY
+#EXTINF:-1 tvg-id="CS.History.cz" tvg-logo="" group-title="Czechia 🇨🇿" tvg-status="not-working",CS HISTORY
 http://185.236.230.212:9981/play/a0cm
-#EXTINF:-1 tvg-id="CS.Mystery.cz" tvg-logo="" group-title="Czechia 🇨🇿" tvg-status="stable",CS MYSTERY
+#EXTINF:-1 tvg-id="CS.Mystery.cz" tvg-logo="" group-title="Czechia 🇨🇿" tvg-status="not-working",CS MYSTERY
 http://185.236.230.212:9981/play/a0ch
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Czechia 🇨🇿" tvg-status="stable",EPIC DRAMA HD CZ/HU/VO
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Czechia 🇨🇿" tvg-status="not-working",EPIC DRAMA HD CZ/HU/VO
 http://185.236.230.212:9981/play/a0bg
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Czechia 🇨🇿" tvg-status="stable",FILM EUROPE HD
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Czechia 🇨🇿" tvg-status="not-working",FILM EUROPE HD
 http://185.236.230.212:9981/play/a0c1
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Czechia 🇨🇿" tvg-status="stable",FILMBOX EXTRA HD
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Czechia 🇨🇿" tvg-status="not-working",FILMBOX EXTRA HD
 http://185.236.230.212:9981/play/a0c2
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Czechia 🇨🇿" tvg-status="stable",FILMBOX FAMILY
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Czechia 🇨🇿" tvg-status="not-working",FILMBOX FAMILY
 http://185.236.230.212:9981/play/a0c5
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Czechia 🇨🇿" tvg-status="stable",FILMBOX HD
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Czechia 🇨🇿" tvg-status="not-working",FILMBOX HD
 http://185.236.230.212:9981/play/a0ax
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Czechia 🇨🇿" tvg-status="not-working",HOBBY TV
 http://185.236.230.212:9981/play/a0c4
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Czechia 🇨🇿" tvg-status="stable",JIMJAM
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Czechia 🇨🇿" tvg-status="not-working",JIMJAM
 http://185.236.230.212:9981/play/a0c6
-#EXTINF:-1 tvg-id="JOJ.Cinema.cz" tvg-logo="" group-title="Czechia 🇨🇿" tvg-status="stable",JOJ CINEMA HD
+#EXTINF:-1 tvg-id="JOJ.Cinema.cz" tvg-logo="" group-title="Czechia 🇨🇿" tvg-status="not-working",JOJ CINEMA HD
 http://185.236.230.212:9981/play/a0cl
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Czechia 🇨🇿" tvg-status="stable",LALA TV
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Czechia 🇨🇿" tvg-status="not-working",LALA TV
 http://185.236.230.212:9981/play/a0by
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Czechia 🇨🇿" tvg-status="not-working",NICK JR
 http://185.236.230.212:9981/play/a0b4
@@ -135,7 +135,7 @@ http://185.236.230.212:9981/play/a0b4
 http://185.236.230.212:9981/play/a0co
 #EXTINF:-1 tvg-id="Nicktoons.cz" tvg-logo="" group-title="Czechia 🇨🇿" tvg-status="not-working",NICKTOONS
 http://185.236.230.212:9981/play/a0b9
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Logo_Nova_Lady_2021.png/1200px-Logo_Nova_Lady_2021.png" group-title="Czechia 🇨🇿" tvg-status="stable",NOVA LADY
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Logo_Nova_Lady_2021.png/1200px-Logo_Nova_Lady_2021.png" group-title="Czechia 🇨🇿" tvg-status="not-working",NOVA LADY
 http://185.236.230.212:9981/play/a0bl
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6d/Nova_Sport_2_2024.png" group-title="Czechia 🇨🇿" tvg-status="not-working",NOVA Krimi
 http:\\90.178.86.156:9981\stream\channelid\931381864?ticket=744F49B3383C1A57FCA6E6FA376DEA714FC5D1AF&profile=pass

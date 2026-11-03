@@ -101,7 +101,7 @@ http://41.205.93.154/LIFETIME/index.m3u8
 http://23.237.104.106:8080/USA_LMN/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/mtv-us.png" group-title="United States 🇺🇸" tvg-status="unstable",MTV
 http://23.237.104.106:8080/USA_MTV/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/mtv-2-us.png" group-title="United States 🇺🇸" tvg-status="unstable",MTV2
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/mtv-2-us.png" group-title="United States 🇺🇸" tvg-status="not-working",MTV2
 http://nocable.cc:8080/Darrenshannon76@2.0/Darrenshannon76@2.0/9308
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/vh1-us.png" group-title="United States 🇺🇸" tvg-status="unstable",VH1
 http://23.237.104.106:8080/USA_VH1/index.m3u8

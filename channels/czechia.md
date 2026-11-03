@@ -15,15 +15,15 @@
 | 11 | Nova Fun | [>](http://90.178.86.156:9981/stream/channelid/149509414?ticket=C9B68E4DB8D55AA479829742E7A57A63AD543A8F&profile=pass) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/czech-republic/nova-fun-cz.png"/> | NovaFun.cz | not-working |
 | 12 | Nova Gold | [>](https://sktv.mxnticek.eu/new/stream.php?ch=NovaGold) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/czech-republic/nova-gold-cz.png"/> | NovaGold.cz | unstable |
 | 13 | Nova Lady | [>](https://sktv.mxnticek.eu/new/stream.php?ch=NovaLady) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/czech-republic/nova-lady-cz.png"/> | NovaLady.cz | unstable |
-| 14 | TN Live | [>](https://sktv.mxnticek.eu/new/stream.php?ch=Nova%20TN%20Live) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/czech-republic/nova-cz.png"/> | &nbsp; | not-working |
+| 14 | TN Live | [>](https://sktv.mxnticek.eu/new/stream.php?ch=Nova%20TN%20Live) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/czech-republic/nova-cz.png"/> | &nbsp; | unstable |
 | 15 | Prima | [>](http://90.178.86.156:9981/stream/channelid/1669214446?ticket=E3DAC28BD011EE73CD1278E95DB559C00DC7534F&profile=pass) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/czech-republic/prima-cz.png"/> | Prima.cz | unstable |
 | 16 | CNN Prima News | [>](http://90.178.86.156:9981/stream/channelid/1443888704?ticket=1881E132CE2672E53D2659A455B54EAE19B63107&profile=pass) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/czech-republic/cnn-prima-news-cz.png"/> | CNNPrimaNews.cz | unstable |
 | 17 | Prima Zoom | [>](https://sktv.mxnticek.eu/new/stream.php?ch=PrimaZoom) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/czech-republic/prima-zoom-cz.png"/> | PrimaZoom.cz | not-working |
 | 18 | Prima Love | [>](http://90.178.86.156:9981/stream/channelid/737753444?ticket=377B73D5173B53527966C10C06F065C189C3BBCF&profile=pass) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/czech-republic/prima-love-cz.png"/> | PrimaLove.cz | unstable |
-| 19 | Prima STAR | [>](https://sktv.mxnticek.eu/new/stream.php?ch=PrimaStar) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/czech-republic/prima-star-cz.png"/> | PrimaStar.cz | not-working |
+| 19 | Prima STAR | [>](https://sktv.mxnticek.eu/new/stream.php?ch=PrimaStar) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/czech-republic/prima-star-cz.png"/> | PrimaStar.cz | unstable |
 | 20 | Prima Krimi | [>](https://sktv.mxnticek.eu/new/stream.php?ch=PrimaKrimi) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/czech-republic/prima-krimi-cz.png"/> | PrimaKrimi.cz | unstable |
-| 21 | Prima MAX | [>](http://90.178.86.156:9981/stream/channelid/235177134?ticket=D080A80B3E2DBA968DBE8C7F420F9BFF4CCA7BA5&profile=pass) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/czech-republic/prima-max-cz.png"/> | PrimaMax.cz | unstable |
-| 22 | Prima Cool | [>](http://90.178.86.156:9981/stream/channelid/2060674324?ticket=6D9FFFC2194661867B1D662C59DF98A86311539A&profile=pass) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/czech-republic/prima-cool-cz.png"/> | PrimaCool.cz | unstable |
+| 21 | Prima MAX | [>](http://90.178.86.156:9981/stream/channelid/235177134?ticket=D080A80B3E2DBA968DBE8C7F420F9BFF4CCA7BA5&profile=pass) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/czech-republic/prima-max-cz.png"/> | PrimaMax.cz | not-working |
+| 22 | Prima Cool | [>](http://90.178.86.156:9981/stream/channelid/2060674324?ticket=6D9FFFC2194661867B1D662C59DF98A86311539A&profile=pass) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/czech-republic/prima-cool-cz.png"/> | PrimaCool.cz | not-working |
 | 23 | Prima Show | [>](https://sktv.mxnticek.eu/new/stream.php?ch=PrimaShow) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/czech-republic/prima-show-cz.png"/> | PrimaShow.cz | not-working |
 | 24 | JOJ Family Ⓢ | [>](https://sktv.mxnticek.eu/new/stream.php?ch=JOJ%20Family) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/czech-republic/joj-family-cz.png"/> | JojFamily.sk | not-working |
 | 25 | JOJ Cinema | [>](https://sktv.mxnticek.eu/new/stream.php?ch=JOJ%20Cinema) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/czech-republic/joj-cinema-cz.png"/> | JojCinema.cz | not-working |
@@ -48,27 +48,27 @@
 | 44 | Barrandov KRIMI | [>](http://90.178.86.156:9981/stream/channelid/63674077?ticket=3DD9B00FA8EDFD57654A69FCCB425D310F46D234&profile=pass) | Barrandov KRIMI | Barrandov.Krimi.cz | not-working |
 | 45 | Barrandov KINO | [>](http://90.178.86.156:9981/stream/channelid/468144232?ticket=08EE87AD25F9FBE538875ECAE79A083364326C74&profile=pass) | Barrandov KINO | Kino.Barrandov.cz | not-working |
 | 46 | JOJ Family | [>](http://tvh.cyn.cz/stream/channelid/1693764695?profile=pass) | JOJ Family | JOJ.Family.cz | unstable |
-| 47 | AMC | [>](http://185.236.230.212:9981/play/a0bb) | AMC | AMC.cz | stable |
+| 47 | AMC | [>](http://185.236.230.212:9981/play/a0bb) | AMC | AMC.cz | not-working |
 | 48 | AUTOMOTORSPORT HD | [>](http://tvh.cyn.cz/stream/channelid/1879523926?profile=pass) | AUTOMOTORSPORT HD | Auto.Motor.Sport.cz | unstable |
-| 49 | CANAL+ ACTION HD | [>](http://185.236.230.212:9981/play/a0bw) | CANAL+ ACTION HD | &nbsp; | stable |
-| 50 | CANAL+ SPORT | [>](http://185.236.230.212:9981/play/a0bu) | CANAL+ SPORT | &nbsp; | stable |
-| 51 | CARTOON NETWORK | [>](http://185.236.230.212:9981/play/a0b7) | CARTOON NETWORK | &nbsp; | stable |
-| 52 | CINEMAX HD | [>](http://185.236.230.212:9981/play/a0c0) | CINEMAX HD | &nbsp; | stable |
-| 53 | CNN PRIMA NEWS HD | [>](http://185.236.230.212:9981/play/a0bf) | CNN PRIMA NEWS HD | CNN.Prima.News.cz | stable |
-| 54 | CS FILM | [>](http://185.236.230.212:9981/play/a0ay) | CS FILM | CS.Film.cz | stable |
-| 55 | CS HISTORY | [>](http://185.236.230.212:9981/play/a0cm) | CS HISTORY | CS.History.cz | stable |
-| 56 | CS MYSTERY | [>](http://185.236.230.212:9981/play/a0ch) | CS MYSTERY | CS.Mystery.cz | stable |
-| 57 | EPIC DRAMA HD CZ/HU/VO | [>](http://185.236.230.212:9981/play/a0bg) | EPIC DRAMA HD CZ/HU/VO | &nbsp; | stable |
-| 58 | FILM EUROPE HD | [>](http://185.236.230.212:9981/play/a0c1) | FILM EUROPE HD | &nbsp; | stable |
-| 59 | FILMBOX EXTRA HD | [>](http://185.236.230.212:9981/play/a0c2) | FILMBOX EXTRA HD | &nbsp; | stable |
-| 60 | FILMBOX FAMILY | [>](http://185.236.230.212:9981/play/a0c5) | FILMBOX FAMILY | &nbsp; | stable |
-| 61 | FILMBOX HD | [>](http://185.236.230.212:9981/play/a0ax) | FILMBOX HD | &nbsp; | stable |
+| 49 | CANAL+ ACTION HD | [>](http://185.236.230.212:9981/play/a0bw) | CANAL+ ACTION HD | &nbsp; | not-working |
+| 50 | CANAL+ SPORT | [>](http://185.236.230.212:9981/play/a0bu) | CANAL+ SPORT | &nbsp; | not-working |
+| 51 | CARTOON NETWORK | [>](http://185.236.230.212:9981/play/a0b7) | CARTOON NETWORK | &nbsp; | not-working |
+| 52 | CINEMAX HD | [>](http://185.236.230.212:9981/play/a0c0) | CINEMAX HD | &nbsp; | not-working |
+| 53 | CNN PRIMA NEWS HD | [>](http://185.236.230.212:9981/play/a0bf) | CNN PRIMA NEWS HD | CNN.Prima.News.cz | not-working |
+| 54 | CS FILM | [>](http://185.236.230.212:9981/play/a0ay) | CS FILM | CS.Film.cz | not-working |
+| 55 | CS HISTORY | [>](http://185.236.230.212:9981/play/a0cm) | CS HISTORY | CS.History.cz | not-working |
+| 56 | CS MYSTERY | [>](http://185.236.230.212:9981/play/a0ch) | CS MYSTERY | CS.Mystery.cz | not-working |
+| 57 | EPIC DRAMA HD CZ/HU/VO | [>](http://185.236.230.212:9981/play/a0bg) | EPIC DRAMA HD CZ/HU/VO | &nbsp; | not-working |
+| 58 | FILM EUROPE HD | [>](http://185.236.230.212:9981/play/a0c1) | FILM EUROPE HD | &nbsp; | not-working |
+| 59 | FILMBOX EXTRA HD | [>](http://185.236.230.212:9981/play/a0c2) | FILMBOX EXTRA HD | &nbsp; | not-working |
+| 60 | FILMBOX FAMILY | [>](http://185.236.230.212:9981/play/a0c5) | FILMBOX FAMILY | &nbsp; | not-working |
+| 61 | FILMBOX HD | [>](http://185.236.230.212:9981/play/a0ax) | FILMBOX HD | &nbsp; | not-working |
 | 62 | HOBBY TV | [>](http://185.236.230.212:9981/play/a0c4) | HOBBY TV | &nbsp; | not-working |
-| 63 | JIMJAM | [>](http://185.236.230.212:9981/play/a0c6) | JIMJAM | &nbsp; | stable |
-| 64 | JOJ CINEMA HD | [>](http://185.236.230.212:9981/play/a0cl) | JOJ CINEMA HD | JOJ.Cinema.cz | stable |
-| 65 | LALA TV | [>](http://185.236.230.212:9981/play/a0by) | LALA TV | &nbsp; | stable |
+| 63 | JIMJAM | [>](http://185.236.230.212:9981/play/a0c6) | JIMJAM | &nbsp; | not-working |
+| 64 | JOJ CINEMA HD | [>](http://185.236.230.212:9981/play/a0cl) | JOJ CINEMA HD | JOJ.Cinema.cz | not-working |
+| 65 | LALA TV | [>](http://185.236.230.212:9981/play/a0by) | LALA TV | &nbsp; | not-working |
 | 66 | NICK JR | [>](http://185.236.230.212:9981/play/a0b4) | NICK JR | &nbsp; | not-working |
 | 67 | NICKELODEON | [>](http://185.236.230.212:9981/play/a0co) | NICKELODEON | Nickelodeon.cz | not-working |
 | 68 | NICKTOONS | [>](http://185.236.230.212:9981/play/a0b9) | NICKTOONS | Nicktoons.cz | not-working |
-| 69 | NOVA LADY | [>](http://185.236.230.212:9981/play/a0bl) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Logo_Nova_Lady_2021.png/1200px-Logo_Nova_Lady_2021.png"/> | &nbsp; | stable |
+| 69 | NOVA LADY | [>](http://185.236.230.212:9981/play/a0bl) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Logo_Nova_Lady_2021.png/1200px-Logo_Nova_Lady_2021.png"/> | &nbsp; | not-working |
 | 70 | NOVA Krimi | [>](http:\\90.178.86.156:9981\stream\channelid\931381864?ticket=744F49B3383C1A57FCA6E6FA376DEA714FC5D1AF&profile=pass) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/6/6d/Nova_Sport_2_2024.png"/> | &nbsp; | not-working |
