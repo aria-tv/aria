@@ -3547,7 +3547,7 @@ https://a1xs.vip/210006
 https://a1xs.vip/210007
 #EXTINF:-1 tvg-id="Sky.Comedy.Cinema.uk" tvg-logo="https://pixvid.org/images/2025/02/10/sky-cinema-comedy.png" group-title="United Kingdom 🇬🇧" tvg-status="not-working",Sky Cinema Comedy
 https://a1xs.vip/210005
-#EXTINF:-1 tvg-id="Disney.Cinema.uk" tvg-logo="ttps://static.wikia.nocookie.net/disney/images/9/91/Disney%2B_Cinema_2026.png/revision/latest?cb=20260213135322g" group-title="United Kingdom 🇬🇧" tvg-status="not-working",Disney+ Cinema
+#EXTINF:-1 tvg-id="Disney.Cinema.uk" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/20/Disney%2B_Cinema.png/revision/latest/scale-to-width-down/1000?cb=20260219004704" group-title="United Kingdom 🇬🇧" tvg-status="not-working",Disney+ Cinema
 https://aria.5x0.org/channeldead.mp4
 #EXTINF:-1 tvg-id="CartoonNetwork.uk" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/cartoon-network-uk.png" group-title="United Kingdom 🇬🇧" tvg-status="not-working",Cartoon Network
 http://204.52.191.254:80/play/live.php?mac=00:1A:79:E6:15:73&stream=162233&extension=ts
@@ -3619,9 +3619,9 @@ http://81.78.186.155:7000/stream/channelid/2109240032?ticket=0BF0684D9DA3252A956
 https://biptv.s.gy/greattvuk
 #EXTINF:-1 tvg-id="Great.Action.uk" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/great-action-uk.png" group-title="United Kingdom 🇬🇧" tvg-status="not-working",Great! Action
 http://81.78.186.155:7000/stream/channelid/202413153?ticket=057B1D45A52048679A131141A958ED1B5DEB9780&profile=pass
-#EXTINF:-1 tvg-id="Great.Movies.uk" tvg-logo="" group-title="United Kingdom 🇬🇧" tvg-status="unstable",Great! Mystery
+#EXTINF:-1 tvg-id="<img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/great-mystery-uk.png"/>" tvg-logo="" group-title="United Kingdom 🇬🇧" tvg-status="great.mystery.uk",Great! Mystery
 https://biptv.s.gy/greatmysteryuk
-#EXTINF:-1 tvg-id="Great.Romance.uk" tvg-logo="" group-title="United Kingdom 🇬🇧" tvg-status="not-working",Great! Romance/Great! Christmas
+#EXTINF:-1 tvg-id="Great! Romance/Great! Christmas" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/great-romance-uk.png" group-title="United Kingdom 🇬🇧" tvg-status="great.romance.uk",Great! Romance/Great! Christmas
 https://biptv.s.gy/greatromanceuk
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/9c/Sky_Arts_2020.png" group-title="United Kingdom 🇬🇧" tvg-status="not-working",Sky Arts
 http://81.78.186.155:7000/stream/channelid/301482187?ticket=625A11AF533FBBE70619A9862B5648FA7146E2C4&profile=pass
