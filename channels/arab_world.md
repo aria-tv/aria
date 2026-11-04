@@ -19,7 +19,7 @@
 | 15 | Majid Kids | [>](http://149.100.11.252:8000/play/a00o/index.m3u8) | <img height="20" src="https://static.wikia.nocookie.net/iepfanon/images/0/05/Majid_TV_logo_2023.svg/revision/latest?cb=20250502025850"/> | &nbsp; | stable |
 | 16 | Baraem | [>](http://185.104.253.35:9981/stream/channelid/553480487?profile=pass) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/0/02/Baraem_new_logo.png"/> | &nbsp; | not-working |
 | 17 | TRT Arabi | [>](http://149.100.11.252:8000/play/a03v/index.m3u8) | <img height="20" src="https://idsb.tmgrup.com.tr/ly/uploads/images/2025/04/04/376150.jpg"/> | &nbsp; | unstable |
-| 18 | Palestinian Satellite Channel | [>](http://149.100.11.252:8000/play/a012/index.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/7/7f/Palestine_Satellite_Channel_Logo.png"/> | &nbsp; | stable |
+| 18 | Palestinian Satellite Channel | [>](http://149.100.11.252:8000/play/a012/index.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/7/7f/Palestine_Satellite_Channel_Logo.png"/> | &nbsp; | not-working |
 | 19 | Palestine Today | [>](http://149.100.11.252:8000/play/a044/index.m3u8) | <img height="20" src="https://pchrgaza.org/wp-content/uploads/2016/03/12.jpg"/> | &nbsp; | stable |
 | 20 | beJunior | [>](http://45.139.122.199:2095/live/sCy2hczQ/jt6tXnd/1509543.ts) | <img height="20" src="https://www.bein.com/en/wp-content/uploads/sites/3/2020/06/beJUNIOR-1.png"/> | &nbsp; | not-working |
 | 21 | Rotana Kids | [>](http://77.69.131.40:1234/stream/shahid/rotanakids/master.m3u8) | <img height="20" src="http://77.69.131.40:1234/stream/shahid/rotanakids/master.m3u8"/> | &nbsp; | not-working |

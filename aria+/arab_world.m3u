@@ -33,7 +33,7 @@ http://149.100.11.252:8000/play/a00o/index.m3u8
 http://185.104.253.35:9981/stream/channelid/553480487?profile=pass
 #EXTINF:-1 tvg-id="" tvg-logo="https://idsb.tmgrup.com.tr/ly/uploads/images/2025/04/04/376150.jpg" group-title="Arab World" tvg-status="unstable",TRT Arabi
 http://149.100.11.252:8000/play/a03v/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7f/Palestine_Satellite_Channel_Logo.png" group-title="Arab World" tvg-status="stable",Palestinian Satellite Channel
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7f/Palestine_Satellite_Channel_Logo.png" group-title="Arab World" tvg-status="not-working",Palestinian Satellite Channel
 http://149.100.11.252:8000/play/a012/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://pchrgaza.org/wp-content/uploads/2016/03/12.jpg" group-title="Arab World" tvg-status="stable",Palestine Today
 http://149.100.11.252:8000/play/a044/index.m3u8

@@ -11,5 +11,5 @@ http://line.iptvhunt.com:80/play/live.php?mac=00:1A:79:53:70:7D&stream=301955&ex
 http://line.iptvhunt.com:80/play/live.php?mac=00:1A:79:53:70:7D&stream=450746&extension=ts&play_token=nbfX7IVu0m
 #EXTINF:-1 tvg-id="" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_kA3YeYOhAIn9UVmVJJgVCucL8281TDDD1facLDQ5_RchI=s900-c-k-c0x00ffffff-no-rj" group-title="Malta" tvg-status="not-working",Smash
 http://line.iptvhunt.com:80/play/live.php?mac=00:1A:79:53:70:7D&stream=450730&extension=ts&play_token=zG1pZ4KihJ
-#EXTINF:-1 tvg-id="" tvg-logo="https://vassallohistory.wordpress.com/wp-content/uploads/2013/02/image.jpg" group-title="Malta" tvg-status="unstable",Parliament TV
+#EXTINF:-1 tvg-id="" tvg-logo="https://vassallohistory.wordpress.com/wp-content/uploads/2013/02/image.jpg" group-title="Malta" tvg-status="not-working",Parliament TV
 http://line.iptvhunt.com:80/play/live.php?mac=00:1A:79:53:70:7D&stream=301957&extension=ts&play_token=ZuqGvOjvMU
