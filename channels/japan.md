@@ -19,12 +19,12 @@
 | 15 | Disney Jr. | [>](https://43.100.9.67/api/streams/live/cs312/1080p/mpegts) | Disney Jr. | &nbsp; | not-working |
 | 16 | Cartoon Network | [>](https://43.100.9.67/api/streams/live/cs331/1080p/mpegts) | Cartoon Network | &nbsp; | not-working |
 | 17 | Kids Station | [>](https://43.100.9.67/api/streams/live/cs330/1080p/mpegts) | Kids Station | &nbsp; | not-working |
-| 14 | NHK G | [>](https://aria.5x0.org/channeldead.mp4) | NHK G | &nbsp; | not-working |
-| 14 | NHK E | [>](https://aria.5x0.org/channeldead.mp4) | NHK E | &nbsp; | not-working |
-| 14 | Nippon TV | [>](https://aria.5x0.org/channeldead.mp4) | Nippon TV | &nbsp; | not-working |
-| 14 | Fuji TV | [>](https://aria.5x0.org/channeldead.mp4) | Fuji TV | &nbsp; | not-working |
-| 14 | TBS | [>](https://aria.5x0.org/channeldead.mp4) | TBS | &nbsp; | not-working |
-| 14 | TV Asahi | [>](https://aria.5x0.org/channeldead.mp4) | TV Asahi | &nbsp; | not-working |
-| 14 | TV Tokyo | [>](https://aria.5x0.org/channeldead.mp4) | TV Tokyo | &nbsp; | not-working |
-| 18 | NHK World Japan | [>](https://masterpl.hls.nhkworld.jp/hls/w/live/smarttv.m3u8) | NHK World Japan | &nbsp; | stable |
-| 18 | NHK World Premium | [>](https://masterpl.hls.nhkworld.jp/hls/wp/live/smarttv.m3u8) | NHK World Premium | &nbsp; | stable |
+| 18 | NHK G | [>](https://aria.5x0.org/channeldead.mp4) | NHK G | &nbsp; | stable |
+| 19 | NHK E | [>](https://aria.5x0.org/channeldead.mp4) | NHK E | &nbsp; | stable |
+| 20 | Nippon TV | [>](https://aria.5x0.org/channeldead.mp4) | Nippon TV | &nbsp; | stable |
+| 21 | Fuji TV | [>](https://aria.5x0.org/channeldead.mp4) | Fuji TV | &nbsp; | stable |
+| 22 | TBS | [>](https://aria.5x0.org/channeldead.mp4) | TBS | &nbsp; | stable |
+| 23 | TV Asahi | [>](https://aria.5x0.org/channeldead.mp4) | TV Asahi | &nbsp; | stable |
+| 24 | TV Tokyo | [>](https://aria.5x0.org/channeldead.mp4) | TV Tokyo | &nbsp; | stable |
+| 25 | NHK World Japan | [>](https://masterpl.hls.nhkworld.jp/hls/w/live/smarttv.m3u8) | NHK World Japan | &nbsp; | stable |
+| 26 | NHK World Premium | [>](https://masterpl.hls.nhkworld.jp/hls/wp/live/smarttv.m3u8) | NHK World Premium | &nbsp; | stable |

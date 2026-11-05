@@ -44,7 +44,7 @@
 | 40 | Disney Channel | [>](http://kstv.us:8080/live/Felix12/3330312491/40725.ts) | <img height="20" src="https://pbs.twimg.com/media/GbUhOuOXIAA898B.jpg"/> | Disney.Channel.Canada.-.East.ca | unstable |
 | 41 | Documentary (Leaves on August 31) | [>](http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/29401.ts) | <img height="20" src="https://media.starlite.best/documentary.channel.canada.ca.png"/> | Documentary.Channel.(Canada).ca | unstable |
 | 42 | DTOUR | [>](http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/44267.ts) | <img height="20" src="https://media.starlite.best/dtour.ca.png"/> | dtour.ca | not-working |
-| 43 | E! | [>](http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/29284.ts) | <img height="20" src="https://media.starlite.best/e.canada.ca.png"/> | E!.Canada.ca | not-working |
+| 43 | E! | [>](http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/29284.ts) | <img height="20" src="https://media.starlite.best/e.canada.ca.png"/> | E!.Canada.ca | unstable |
 | 44 | Fairchild TV 1 | [>](http://theariatv.github.io/channeldead.mp4) | <img height="20" src="https://i.ibb.co/j1mXv3z/schedule-logo1.png"/> | Fairchild.TV.ca | not-working |
 | 45 | Fairchild TV 2 | [>](http://theariatv.github.io/channeldead.mp4) | <img height="20" src="https://i.ibb.co/pByRhL7N/eWfNXvf.png"/> | Fairchild.TV.2.ca | not-working |
 | 46 | FAITH TV | [>](http://theariatv.github.io/channeldead.mp4) | FAITH TV | &nbsp; | not-working |
@@ -63,7 +63,7 @@
 | 59 | Global BC (CHAN-DT) | [>](http://theariatv.github.io/channeldead.mp4) | <img height="20" src="https://assets.vms.corusappservices.com/upload/staging/Global-BC_GuideLogo_240x144.png"/> | global.bc.ca | not-working |
 | 60 | Global Calgary (CHAN-DT) | [>](http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/40836.ts) | <img height="20" src="https://assets.vms.corusappservices.com/upload/staging/Global-Calgary_GuideLogo_240x144.png"/> | global.calgary.ca | not-working |
 | 61 | Global Maritimes (CIHF-DT) | [>](http://line.iptvhunt.com:80/play/live.php?mac=00:1A:79:53:70:7D&stream=1480209&extension=ts&play_token=CgBCw2WzTu) | <img height="20" src="https://assets.vms.corusappservices.com/upload/staging/Global-Maritimes_GuideLogo_240x144.png"/> | Global.Halifax.(CIHF).ca | not-working |
-| 62 | Global News BC1 | [>](http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/21223.ts) | <img height="20" src="https://globalnews.ca/wp-content/uploads/2015/01/BC1-pos-hor.png?w=320"/> | Global.News.BC1.ca | unstable |
+| 62 | Global News BC1 | [>](http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/21223.ts) | <img height="20" src="https://globalnews.ca/wp-content/uploads/2015/01/BC1-pos-hor.png?w=320"/> | Global.News.BC1.ca | not-working |
 | 63 | HBO | [>](http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/45333.ts) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/hbo-1-ca.png"/> | HBO1.ca | not-working |
 | 64 | HBO 2 | [>](http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/45334.ts) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/hbo-2-ca.png"/> | HBO.2.HD.(HBO2).ca | not-working |
 | 65 | Home Network | [>](http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/21202.ts) | <img height="20" src="https://i.ibb.co/fGMcLQTP/Home-Network-logo-svg.png"/> | Home.Network.ca | not-working |

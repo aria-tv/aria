@@ -33,19 +33,19 @@ https://43.100.9.67/api/streams/live/cs312/1080p/mpegts
 https://43.100.9.67/api/streams/live/cs331/1080p/mpegts
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Japan 🇯🇵" tvg-status="not-working",Kids Station
 https://43.100.9.67/api/streams/live/cs330/1080p/mpegts
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Japan 🇯🇵" tvg-status="not-working",NHK G
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Japan 🇯🇵" tvg-status="unstable",NHK G
 https://aria.5x0.org/channeldead.mp4
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Japan 🇯🇵" tvg-status="not-working",NHK E
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Japan 🇯🇵" tvg-status="unstable",NHK E
 https://aria.5x0.org/channeldead.mp4
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Japan 🇯🇵" tvg-status="not-working",Nippon TV
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Japan 🇯🇵" tvg-status="unstable",Nippon TV
 https://aria.5x0.org/channeldead.mp4
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Japan 🇯🇵" tvg-status="not-working",Fuji TV
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Japan 🇯🇵" tvg-status="unstable",Fuji TV
 https://aria.5x0.org/channeldead.mp4
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Japan 🇯🇵" tvg-status="not-working",TBS
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Japan 🇯🇵" tvg-status="unstable",TBS
 https://aria.5x0.org/channeldead.mp4
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Japan 🇯🇵" tvg-status="not-working",TV Asahi
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Japan 🇯🇵" tvg-status="unstable",TV Asahi
 https://aria.5x0.org/channeldead.mp4
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Japan 🇯🇵" tvg-status="not-working",TV Tokyo
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Japan 🇯🇵" tvg-status="unstable",TV Tokyo
 https://aria.5x0.org/channeldead.mp4
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Japan 🇯🇵" tvg-status="stable",NHK World Japan
 https://masterpl.hls.nhkworld.jp/hls/w/live/smarttv.m3u8
