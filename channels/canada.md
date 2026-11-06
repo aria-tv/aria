@@ -43,8 +43,8 @@
 | 39 | Discovery Channel | [>](http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/59398.ts) | <img height="20" src="https://media.starlite.best/discovery.channel.ca.png"/> | Discovery.Channel.ca | unstable |
 | 40 | Disney Channel | [>](http://kstv.us:8080/live/Felix12/3330312491/40725.ts) | <img height="20" src="https://pbs.twimg.com/media/GbUhOuOXIAA898B.jpg"/> | Disney.Channel.Canada.-.East.ca | unstable |
 | 41 | Documentary (Leaves on August 31) | [>](http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/29401.ts) | <img height="20" src="https://media.starlite.best/documentary.channel.canada.ca.png"/> | Documentary.Channel.(Canada).ca | unstable |
-| 42 | DTOUR | [>](http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/44267.ts) | <img height="20" src="https://media.starlite.best/dtour.ca.png"/> | dtour.ca | not-working |
-| 43 | E! | [>](http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/29284.ts) | <img height="20" src="https://media.starlite.best/e.canada.ca.png"/> | E!.Canada.ca | unstable |
+| 42 | DTOUR | [>](http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/44267.ts) | <img height="20" src="https://media.starlite.best/dtour.ca.png"/> | dtour.ca | unstable |
+| 43 | E! | [>](http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/29284.ts) | <img height="20" src="https://media.starlite.best/e.canada.ca.png"/> | E!.Canada.ca | not-working |
 | 44 | Fairchild TV 1 | [>](http://theariatv.github.io/channeldead.mp4) | <img height="20" src="https://i.ibb.co/j1mXv3z/schedule-logo1.png"/> | Fairchild.TV.ca | not-working |
 | 45 | Fairchild TV 2 | [>](http://theariatv.github.io/channeldead.mp4) | <img height="20" src="https://i.ibb.co/pByRhL7N/eWfNXvf.png"/> | Fairchild.TV.2.ca | not-working |
 | 46 | FAITH TV | [>](http://theariatv.github.io/channeldead.mp4) | FAITH TV | &nbsp; | not-working |

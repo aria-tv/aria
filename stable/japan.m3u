@@ -1,4 +1,18 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Japan 🇯🇵" tvg-status="stable",NHK G
+https://aria.5x0.org/channeldead.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Japan 🇯🇵" tvg-status="stable",NHK E
+https://aria.5x0.org/channeldead.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Japan 🇯🇵" tvg-status="stable",Nippon TV
+https://aria.5x0.org/channeldead.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Japan 🇯🇵" tvg-status="stable",Fuji TV
+https://aria.5x0.org/channeldead.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Japan 🇯🇵" tvg-status="stable",TBS
+https://aria.5x0.org/channeldead.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Japan 🇯🇵" tvg-status="stable",TV Asahi
+https://aria.5x0.org/channeldead.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Japan 🇯🇵" tvg-status="stable",TV Tokyo
+https://aria.5x0.org/channeldead.mp4
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Japan 🇯🇵" tvg-status="stable",NHK World Japan
 https://masterpl.hls.nhkworld.jp/hls/w/live/smarttv.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Japan 🇯🇵" tvg-status="stable",NHK World Premium

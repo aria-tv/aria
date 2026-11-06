@@ -81,9 +81,9 @@ http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/59398.ts
 http://kstv.us:8080/live/Felix12/3330312491/40725.ts
 #EXTINF:-1 tvg-id="Documentary.Channel.(Canada).ca" tvg-logo="https://media.starlite.best/documentary.channel.canada.ca.png" group-title="Canada 🇨🇦" tvg-status="unstable",Documentary (Leaves on August 31)
 http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/29401.ts
-#EXTINF:-1 tvg-id="dtour.ca" tvg-logo="https://media.starlite.best/dtour.ca.png" group-title="Canada 🇨🇦" tvg-status="not-working",DTOUR
+#EXTINF:-1 tvg-id="dtour.ca" tvg-logo="https://media.starlite.best/dtour.ca.png" group-title="Canada 🇨🇦" tvg-status="unstable",DTOUR
 http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/44267.ts
-#EXTINF:-1 tvg-id="E!.Canada.ca" tvg-logo="https://media.starlite.best/e.canada.ca.png" group-title="Canada 🇨🇦" tvg-status="unstable",E!
+#EXTINF:-1 tvg-id="E!.Canada.ca" tvg-logo="https://media.starlite.best/e.canada.ca.png" group-title="Canada 🇨🇦" tvg-status="not-working",E!
 http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/29284.ts
 #EXTINF:-1 tvg-id="Fairchild.TV.ca" tvg-logo="https://i.ibb.co/j1mXv3z/schedule-logo1.png" group-title="Canada 🇨🇦" tvg-status="not-working",Fairchild TV 1
 http://theariatv.github.io/channeldead.mp4

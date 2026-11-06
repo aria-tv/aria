@@ -3,7 +3,7 @@
 http://193.154.67.174:9981/stream/channelid/58006784?profile=pass
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/austria/atv2-at.png" group-title="Austria 🇦🇹" tvg-status="not-working",ATV 2
 http://212.186.45.34:9981/stream/channelid/577097005?profile=pass
-#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/austria/orf1-at.png" group-title="Austria 🇦🇹" tvg-status="not-working",ORF 1
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/austria/orf1-at.png" group-title="Austria 🇦🇹" tvg-status="unstable",ORF 1
 http://5.175.174.49:1234/stream/maxtvhr/orf1/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/austria/orf2-at.png" group-title="Austria 🇦🇹" tvg-status="stable",ORF 2
 http://5.175.174.49:1234/stream/maxtvhr/orf2/master.m3u8
