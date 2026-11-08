@@ -21,5 +21,5 @@ http://main.light-ott.net:80/play/live.php?mac=00:1A:79:14:B4:DD&stream=2438&ext
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:14:B4:DD&stream=2437&extension=ts&play_token=YDsNg9rt1g
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/de/thumb/a/a0/Logo_6plus.svg/1920px-Logo_6plus.svg.png" group-title="Switzerland 🇨🇭" tvg-status="unstable",3+ Crime
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:14:B4:DD&stream=2436&extension=ts&play_token=AEbGY3aiDw
-#EXTINF:-1 tvg-id="" tvg-logo="https://cdn.iptvboss.pro/logos/Switzerland/7%2B.ch.png" group-title="Switzerland 🇨🇭" tvg-status="unstable",3+ Family/Nickelodeon Schweiz
+#EXTINF:-1 tvg-id="" tvg-logo="https://cdn.iptvboss.pro/logos/Switzerland/7%2B.ch.png" group-title="Switzerland 🇨🇭" tvg-status="not-working",3+ Family/Nickelodeon Schweiz
 https://biptv.s.gy/3plusfamilych
