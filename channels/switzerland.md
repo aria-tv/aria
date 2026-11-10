@@ -14,3 +14,5 @@
 | 10 | 3+ Series | [>](http://main.light-ott.net:80/play/live.php?mac=00:1A:79:14:B4:DD&stream=2437&extension=ts&play_token=YDsNg9rt1g) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/1/14/5plus.svg"/> | &nbsp; | unstable |
 | 11 | 3+ Crime | [>](http://main.light-ott.net:80/play/live.php?mac=00:1A:79:14:B4:DD&stream=2436&extension=ts&play_token=AEbGY3aiDw) | <img height="20" src="https://upload.wikimedia.org/wikipedia/de/thumb/a/a0/Logo_6plus.svg/1920px-Logo_6plus.svg.png"/> | &nbsp; | unstable |
 | 12 | 3+ Family/Nickelodeon Schweiz | [>](https://biptv.s.gy/3plusfamilych) | <img height="20" src="https://cdn.iptvboss.pro/logos/Switzerland/7%2B.ch.png"/> | &nbsp; | not-working |
+| 13 | 3+ Adrenalin | [>](https://biptv.s.gy/3plusadrenalinch) | <img height="20" src="https://cdn.iptvboss.pro/logos/Switzerland/TV24.ch.png"/> | &nbsp; | unstable |
+| 14 | 3+ Emotion | [>](https://biptv.s.gy/3plusemotionch) | <img height="20" src="https://cdn.iptvboss.pro/logos/Switzerland/TV25.ch.png"/> | &nbsp; | unstable |
