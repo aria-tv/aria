@@ -39,8 +39,8 @@
 | 35 | CTV Toronto (CTFO) | [>](http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/44272.ts) | <img height="20" src="https://cdn.tvpassport.com/image/station/240x135/v2/s10108_h15_ab.png"/> | CTV.(CFTO).Toronto,.ON.ca | unstable |
 | 36 | CTV2 Barrie (CKVR) | [>](http://stream.cammonitorplus.net/1736/index.m3u8) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/ctv-2-ca.png"/> | CTV2.Barrie,.ON.ca | not-working |
 | 37 | Daystar | [>](http://kstv.us:8080/live/Felix12/3330312491/40729.ts) | <img height="20" src="https://static.wikia.nocookie.net/logopedia/images/4/4d/Daystar_2008_flat.svg/revision/latest/scale-to-width-down/300?cb=20230715194009"/> | &nbsp; | unstable |
-| 38 | Deja View | [>](http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/29407.ts) | <img height="20" src="https://media.starlite.best/deja.view.ca.png"/> | deja.view.ca | unstable |
-| 39 | Discovery Channel | [>](http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/59398.ts) | <img height="20" src="https://media.starlite.best/discovery.channel.ca.png"/> | Discovery.Channel.ca | not-working |
+| 38 | Deja View | [>](http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/29407.ts) | <img height="20" src="https://media.starlite.best/deja.view.ca.png"/> | deja.view.ca | not-working |
+| 39 | Discovery Channel | [>](http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/59398.ts) | <img height="20" src="https://media.starlite.best/discovery.channel.ca.png"/> | Discovery.Channel.ca | unstable |
 | 40 | Disney Channel | [>](http://kstv.us:8080/live/Felix12/3330312491/40725.ts) | <img height="20" src="https://pbs.twimg.com/media/GbUhOuOXIAA898B.jpg"/> | Disney.Channel.Canada.-.East.ca | unstable |
 | 41 | Documentary (Leaves on August 31) | [>](http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/29401.ts) | <img height="20" src="https://media.starlite.best/documentary.channel.canada.ca.png"/> | Documentary.Channel.(Canada).ca | unstable |
 | 42 | DTOUR | [>](http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/44267.ts) | <img height="20" src="https://media.starlite.best/dtour.ca.png"/> | dtour.ca | unstable |
