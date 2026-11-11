@@ -17,3 +17,4 @@
 | 13 | 3+ Adrenalin | [>](https://biptv.s.gy/3plusadrenalinch) | <img height="20" src="https://cdn.iptvboss.pro/logos/Switzerland/TV24.ch.png"/> | &nbsp; | unstable |
 | 14 | 3+ Emotion | [>](https://biptv.s.gy/3plusemotionch) | <img height="20" src="https://cdn.iptvboss.pro/logos/Switzerland/TV25.ch.png"/> | &nbsp; | unstable |
 | 15 | 3+ Focus | [>](https://biptv.s.gy/3plusfocusch) | <img height="20" src="https://cdn.iptvboss.pro/logos/Switzerland/S1.ch.png"/> | &nbsp; | unstable |
+| 16 | Puls 8 | [>](https://biptv.s.gy/puls8ch) | <img height="20" src="https://cdn.iptvboss.pro/logos/Switzerland/Puls8.ch.png"/> | &nbsp; | unstable |
