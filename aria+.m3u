@@ -1325,6 +1325,18 @@ http://217.159.149.163:9091/play/a055
 http://217.159.149.163:9091/play/a05a
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/FX_Life_Logo_2023.svg/1280px-FX_Life_Logo_2023.svg.png" group-title="Estonia 🇪🇪" tvg-status="not-working",FX Life (Estonian Subtiles only)
 http://217.159.149.163:9091/play/a059
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Eurovision Song Contest Asia on Aria (November 14th)" tvg-status="stable",VTV3 (Vietnam)
+https://dethich.pw/vtv3/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Eurovision Song Contest Asia on Aria (November 14th)" tvg-status="stable",TV3 (Malaysia)
+http://202.185.102.34:8000/play/a00b
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Eurovision Song Contest Asia on Aria (November 14th)" tvg-status="stable",NTV (Bangladesh)
+https://tvsen5.aynaott.com/xV4jEKf3D9zc/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Eurovision Song Contest Asia on Aria (November 14th)" tvg-status="stable",Channel 3 (Thailand/HOST)
+https://live-us1.thaimomo.com/live-as/ch3hd-3/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Eurovision Song Contest Asia on Aria (November 14th)" tvg-status="stable",MNC (Mongolia)
+https://cdn4.skygo.mn/live/disk1/MNCTV/HLSv3-FTA/MNCTV.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Eurovision Song Contest Asia on Aria (November 14th)" tvg-status="stable",ENA (South Korea)
+http://112.164.23.72:9981/stream/channelid/1262201018?profile=matroska
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/iepfanon/images/c/c5/KVF_logo_2019.png/revision/latest?cb=20240211201557" group-title="Faroe Islands 🇫🇴" tvg-status="not-working",KVF 1
 https://w-live-edge1.kringvarp.fo/uttanlands/_definst_/smil:uttanlands.smil/chunklist_w676428681_b804000_slfao.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/tera-pedia/images/1/10/Yle_TV1_logo_color.svg/revision/latest?cb=20230616071510" group-title="Finland 🇫🇮" tvg-status="not-working",Yle TV1
