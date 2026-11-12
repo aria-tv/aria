@@ -129,7 +129,7 @@ https://biptv.s.gy/greattvuk
 http://81.78.186.155:7000/stream/channelid/202413153?ticket=057B1D45A52048679A131141A958ED1B5DEB9780&profile=pass
 #EXTINF:-1 tvg-id="<img height=" tvg-logo="" group-title="United Kingdom 🇬🇧" tvg-status="unstable",Great! Mystery
 https://biptv.s.gy/greatmysteryuk
-#EXTINF:-1 tvg-id="Great! Romance/Great! Christmas" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/great-romance-uk.png" group-title="United Kingdom 🇬🇧" tvg-status="not-working",Great! Romance/Great! Christmas
+#EXTINF:-1 tvg-id="Great! Romance/Great! Christmas" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/great-romance-uk.png" group-title="United Kingdom 🇬🇧" tvg-status="unstable",Great! Romance/Great! Christmas
 https://biptv.s.gy/greatromanceuk
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/9c/Sky_Arts_2020.png" group-title="United Kingdom 🇬🇧" tvg-status="not-working",Sky Arts
 http://81.78.186.155:7000/stream/channelid/301482187?ticket=625A11AF533FBBE70619A9862B5648FA7146E2C4&profile=pass
