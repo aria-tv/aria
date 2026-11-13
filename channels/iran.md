@@ -53,7 +53,7 @@
 | 49 | Home+ | [>](https://homeplushls.wns.live/hls/stream.m3u8) | Home+ | &nbsp; | not-working |
 | 50 | iCC+ | [>](https://icchls.wns.live/hls/stream.m3u8) | iCC+ | &nbsp; | not-working |
 | 51 | Iran Nama | [>](https://iran613hls.wns.live/hls/stream.m3u8) | Iran Nama | &nbsp; | stable |
-| 52 | 4Music | [>](https://itthls.wns.live/hls/stream.m3u8) | 4Music | &nbsp; | not-working |
+| 52 | 4Music | [>](https://itthls.wns.live/hls/stream.m3u8) | 4Music | &nbsp; | unstable |
 | 53 | Maawj tv | [>](https://maawjhls.wns.live/hls/stream.m3u8) | Maawj tv | &nbsp; | unstable |
 | 54 | Persiana Travel | [>](https://mardomhls.wns.live/hls/stream.m3u8) | Persiana Travel | &nbsp; | unstable |
 | 55 | Tapesh 2 | [>](https://maxtvhls.wns.live/hls/stream.m3u8) | Tapesh 2 | &nbsp; | unstable |

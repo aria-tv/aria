@@ -9,7 +9,7 @@
 | 5 | JNN (Jamaica) | [>](http://1tv41.icu:8080/5ZCJFs/416986/99566) | JNN (Jamaica) | &nbsp; | not-working |
 | 6 | RUSH Sports (Any Caribbean Country) | [>](http://1tv41.icu:8080/5ZCJFs/416986/100043) | RUSH Sports (Any Caribbean Country) | &nbsp; | not-working |
 | 7 | SPORTSMAX 2 (Any Caribbean Country) | [>](http://1tv41.icu:8080/5ZCJFs/416986/119471) | SPORTSMAX 2 (Any Caribbean Country) | &nbsp; | not-working |
-| 8 | CalaAction (Any Caribbean Country) | [>](https://biptv.s.gy/calaaction) | CalaAction (Any Caribbean Country) | &nbsp; | not-working |
-| 9 | CalaClassics (Any Caribbean Country) | [>](https://biptv.s.gy/calaclassics) | CalaClassics (Any Caribbean Country) | &nbsp; | not-working |
-| 10 | CalaWeather (Any Caribbean Country) | [>](https://biptv.s.gy/calaweather) | CalaWeather (Any Caribbean Country) | &nbsp; | not-working |
-| 11 | CalaWesterns (Any Caribbean Country) | [>](https://biptv.s.gy/calawesterns) | CalaWesterns (Any Caribbean Country) | &nbsp; | not-working |
+| 8 | CalaAction (Any Caribbean Country) | [>](https://biptv.s.gy/calaaction) | CalaAction (Any Caribbean Country) | &nbsp; | unstable |
+| 9 | CalaClassics (Any Caribbean Country) | [>](https://biptv.s.gy/calaclassics) | CalaClassics (Any Caribbean Country) | &nbsp; | unstable |
+| 10 | CalaWeather (Any Caribbean Country) | [>](https://biptv.s.gy/calaweather) | CalaWeather (Any Caribbean Country) | &nbsp; | unstable |
+| 11 | CalaWesterns (Any Caribbean Country) | [>](https://biptv.s.gy/calawesterns) | CalaWesterns (Any Caribbean Country) | &nbsp; | unstable |
