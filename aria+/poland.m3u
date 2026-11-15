@@ -1,9 +1,9 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/poland/polsat-pl.png" group-title="Poland 🇵🇱" tvg-status="not-working",Polsat
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/poland/polsat-pl.png" group-title="Poland 🇵🇱" tvg-status="unstable",Polsat
 http://93.154.131.8:9981/stream/channelid/661690165?profile=pass
-#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/poland/polsat-2-pl.png" group-title="Poland 🇵🇱" tvg-status="not-working",Polsat 2
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/poland/polsat-2-pl.png" group-title="Poland 🇵🇱" tvg-status="unstable",Polsat 2
 http://93.154.131.8:9981/stream/channelid/1148589854?profile=pass
-#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/poland/polsat-cafe-pl.png" group-title="Poland 🇵🇱" tvg-status="not-working",Polsat Café
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/poland/polsat-cafe-pl.png" group-title="Poland 🇵🇱" tvg-status="unstable",Polsat Café
 http://93.154.131.8:9981/stream/channelid/1013714226?profile=pass
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/poland/polsat-doku-pl.png" group-title="Poland 🇵🇱" tvg-status="unstable",Polsat Doku
 http://93.154.131.8:9981/stream/channelid/79744173?profile=pass
