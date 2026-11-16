@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="TV1.HD.my" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/malaysia/tv1-my.png" group-title="Malaysia" tvg-status="not-working",TV1
+#EXTINF:-1 tvg-id="TV1.HD.my" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/malaysia/tv1-my.png" group-title="Malaysia" tvg-status="unstable",TV1
 http://tivoku.org/127361009115554/iRTdSQfqDN/1052624
 #EXTINF:-1 tvg-id="TV2.HD.my" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/malaysia/tv2-my.png" group-title="Malaysia" tvg-status="unstable",TV2
 http://tivoku.org/127361009115554/iRTdSQfqDN/260557

@@ -51,8 +51,6 @@ https://live.azenagroup.com/zenith/index.m3u8
 https://aria.5x0.org/channeldead.mp4
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/australia/tvsn-au.png" group-title="Australia 🇦🇺" tvg-status="stable",TVSN
 https://tvsnhlslivetest.akamaized.net/hls/live/2034711/TVSN-MSL4/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/austria/orf2-at.png" group-title="Austria 🇦🇹" tvg-status="stable",ORF 2
-http://5.175.174.49:1234/stream/maxtvhr/orf2/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/austria/orf-kids-at.png" group-title="Austria 🇦🇹" tvg-status="stable",ORF Kids
 https://web12.mdn.ors.at/orf/web12/qxb/manifest.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Bangladesh" tvg-status="stable",News Venguard
@@ -101,8 +99,6 @@ https://ocko-live.ssl.cdn.cra.cz/channels/ocko_gold/playlist.m3u8
 https://ocko-live.ssl.cdn.cra.cz/channels/ocko_expres/playlist.m3u8
 #EXTINF:-1 tvg-id="RetroMusicTV.cz" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/czech-republic/retro-cz.png" group-title="Czechia 🇨🇿" tvg-status="stable",Retro Music TV Ⓢ
 https://stream.mediawork.cz/retrotv/smil:retrotv2.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Eurovision Song Contest Asia On Aria November 14Th" tvg-status="stable",VTV3 (Vietnam)
-https://dethich.pw/vtv3/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Eurovision Song Contest Asia On Aria November 14Th" tvg-status="stable",TV3 (Malaysia)
 http://202.185.102.34:8000/play/a00b
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Eurovision Song Contest Asia On Aria November 14Th" tvg-status="stable",NTV (Bangladesh)
@@ -113,8 +109,8 @@ https://live-us1.thaimomo.com/live-as/ch3hd-3/playlist.m3u8
 https://cdn4.skygo.mn/live/disk1/MNCTV/HLSv3-FTA/MNCTV.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Eurovision Song Contest Asia On Aria November 14Th" tvg-status="stable",Kapamilya Channel (Philippines)
 https://ott.udptv.io/api/streams/38/manifest.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOjgzLCJzdHJlYW1Ub2tlbiI6IjI1YmVjNmU2OWRlOTQ1MGY0OTkwZDU5YjZkYjIzN2JjNTk5MWZlYzMxZTg2NmYxMTRjNDhmYWM1NWYxODk1ZmUiLCJpYXQiOjE3OTQ1MjM3NzMsImV4cCI6MTc5NTczNzU5OX0.DaUbhxhRQXJoRpFuccf6qM0Be7aOAqHFrh8V-HL9A1s
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Eurovision Song Contest Asia On Aria November 14Th" tvg-status="stable",VTV3 (Vietnam)
-https://dethich.pw/vtv3/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Eurovision Song Contest Asia On Aria November 14Th" tvg-status="stable",MYX (Philippines)
+https://ott.udptv.io/api/streams/49/manifest.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOjgzLCJzdHJlYW1Ub2tlbiI6IjI1YmVjNmU2OWRlOTQ1MGY0OTkwZDU5YjZkYjIzN2JjNTk5MWZlYzMxZTg2NmYxMTRjNDhmYWM1NWYxODk1ZmUiLCJpYXQiOjE3OTQ1MjM3NzMsImV4cCI6MTc5NTczNzU5OX0.DaUbhxhRQXJoRpFuccf6qM0Be7aOAqHFrh8V-HL9A1s
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Eurovision Song Contest Asia On Aria November 14Th" tvg-status="stable",TV3 (Malaysia)
 http://202.185.102.34:8000/play/a00b
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Eurovision Song Contest Asia On Aria November 14Th" tvg-status="stable",NTV (Bangladesh)
@@ -355,10 +351,6 @@ http://ba261103.amazzin.pw/iptv/9YNR783B2M6ANV6KFA25R382/19452/index.m3u8
 http://149.249.198.5:9981/stream/channelid/1580675096?profile=pass
 #EXTINF:-1 tvg-id="ParliamentTV.nz" tvg-logo="" group-title="New Zealand 🇳🇿" tvg-status="stable",Parliament TV
 https://ptvlive.kordia.net.nz/out/v1/daf20b9a9ec5449dadd734e50ce52b74/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Logo_of_Kanal_5.svg/250px-Logo_of_Kanal_5.svg.png" group-title="North Macedonia 🇲🇰" tvg-status="stable",Kanal 5
-http://185.193.240.245:8000/play/a00r
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Logo_of_Sitel.svg/640px-Logo_of_Sitel.svg.png" group-title="North Macedonia 🇲🇰" tvg-status="stable",Sitel
-http://185.193.240.245:8000/play/a00s
 #EXTINF:-1 tvg-id="" tvg-logo="https://yt3.googleusercontent.com/8OIbcX3lD89pQJzRMVLG7MIb_-_ieZfC4WyHXDaAJHL4YhPl6xkpIHtIMGrY3u8ZsZ1hJuEu4w=s900-c-k-c0x00ffffff-no-rj" group-title="Pakistan" tvg-status="stable",Kids Zone
 http://103.86.132.58:9981/stream/channelid/173427603?ticket=7E330200AE2EE5775EABF7E19DED05F4CCAA74DA&profile=pass
 #EXTINF:-1 tvg-id="" tvg-logo="https://yt3.googleusercontent.com/DtPjYiYQmNE3qGko36l8Oxy31GGjN3TnsG4l0j2w8MzTOwsCqVoSdolIJhCZZF9b7kp_9LYk=s900-c-k-c0x00ffffff-no-rj" group-title="Pakistan" tvg-status="stable",InPlus Pakistan
