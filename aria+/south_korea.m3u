@@ -1,10 +1,10 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/cartoon-network-us.png" group-title="South Korea 🇰🇷" tvg-status="stable",Cartoon Network
 https://live-th10.myjktv.com/watch/live.m3u8?video=cartoon_network_540&sid=ibruDlwcarLe4hNycOeEqeww9RLddOcBkRHP5OU3&secret=d85c5f96f376280a040d699f3ebde938&time=1771648839
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/KBS_1_logo.svg/512px-KBS_1_logo.svg.png" group-title="South Korea 🇰🇷" tvg-status="not-working",KBS 1TV [Not 24/7]
-http://121.149.218.55:9981/stream/channelid/23?ticket=0B823D142BC9B7C3AEF1CEE88FA54B17BEBE2E50
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/KBS_2_logo.svg/512px-KBS_2_logo.svg.png" group-title="South Korea 🇰🇷" tvg-status="not-working",KBS 2TV [Not 24/7]
-http://121.149.218.55:9981/stream/channelid/22?ticket=F7FAA817F7251629147861FF9EE6B5368AE290C9
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/KBS_1_logo.svg/512px-KBS_1_logo.svg.png" group-title="South Korea 🇰🇷" tvg-status="unstable",KBS 1TV [Not 24/7]
+https://tving-live-o2-skcdn.tving.com/o2/v1/01a0a8531d5c1eb80e791db1d96030/01a0a85320b41eb80e791db1d96033/playlist.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly90dmluZy1saXZlLW8yLXNrY2RuLnR2aW5nLmNvbS8qIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzk0OTk1Mzk5fSwiSXBBZGRyZXNzIjp7IkFXUzpTb3VyY2VJcCI6IjAuMC4wLjAvMCJ9fX1dfQ__&Signature=eCgmroZ2jbeafn4iYcyq5OIIOsSjmFCp97l9px-JuAr07rNhP2ffeQxmuVYo0Wbgtc2DklKQ7keBbe9I~LVWQNrnuA7lJReh~en3arwLL291bMkUXMWT9XKkSt1fsGSlz5dXJBl2Hr7kvZo1-mmW7eYXJqV1FpENpLzlKl31f0~ZVtIJZ5PYNmEPCoklBBoPwj2120quMF8aalBzMeMzmJUKrTxt0GjlY7LtIcPDY9kz7~STJEEAK0ekD5YIhgmD1wQRknbqoNzyVpEKVx5DJTBoins57yBs7jS3E~yJMjgUM4N4Ku3mUarRgMa~KmvA3AF5TEdnusrNlHF9i9jS8A__&Key-Pair-Id=APKAIXCIJCFRGOUEZDWA
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/KBS_2_logo.svg/512px-KBS_2_logo.svg.png" group-title="South Korea 🇰🇷" tvg-status="unstable",KBS 2TV [Not 24/7]
+https://tving-live-o2-skcdn.tving.com/o2/v1/01a0a855bb341eb80e791db1d96034/01a0a855bea1153d78652fe2d08706/playlist.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly90dmluZy1saXZlLW8yLXNrY2RuLnR2aW5nLmNvbS8qIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzk0OTk1NDEwfSwiSXBBZGRyZXNzIjp7IkFXUzpTb3VyY2VJcCI6IjAuMC4wLjAvMCJ9fX1dfQ__&Signature=RLDOaTK7R41g8aL4K~nMf1a25lM6yDrEmTdpfqzQcK4CqTNw-F6Qg2DATdFeyLRfjsIyJoQAcqbVRyacRt-ARx~4zCYkJ~VVcsFVDXcM5BhITq0MRJqt5OTt51PU99RS2zCEljAPUGVSIoc1tRMmwDtn1FPvK2BExoQ65fgxoHhun97e~H62p2E3lgeCtAw~87eS9oXIZD~2P-XqrzbyR-995w2EnTsYNbWx~bb8ccSgULJ1QKdci-VwOafCAxwrzKPFB~ATMhi5WKgx4c-AUyeae1r0tjSpjxl8P33-Qt409P~F~tS56xuSGBwFWQFgbv-lmMj4FMaaKEHhodu5ow__&Key-Pair-Id=APKAIXCIJCFRGOUEZDWA
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/KBS_JOY.svg/512px-KBS_JOY.svg.png" group-title="South Korea 🇰🇷" tvg-status="not-working",KBS Joy
 http://121.149.218.55:9981/stream/channelid/53?ticket=9A11AC6A5747DF62D2B89189FFAF31C6FF0FDC0D
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/KBS_kids.svg/512px-KBS_kids.svg.png" group-title="South Korea 🇰🇷" tvg-status="not-working",KBS Kids
@@ -33,8 +33,8 @@ https://live-th10.myjktv.com/watch/live.m3u8?video=xtm_540&sid=PFAIITxvW0TtUOE7G
 http://121.149.218.55:9981/stream/channelid/42?ticket=8845511601205BAAD524AD5AB1001E8B6824FFEC
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8e/JTBC2.jpg/revision/latest?cb=20190616070617" group-title="South Korea 🇰🇷" tvg-status="not-working",JTBC 2
 http://121.149.218.55:9981/stream/channelid/69?ticket=CDA0E8B812A5DD28DF486E47D8B5E452F0F411C3
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/95/Mnet.png" group-title="South Korea 🇰🇷" tvg-status="not-working",Mnet
-http://121.149.218.55:9981/stream/channelid/47?ticket=232E7416226FB709AED16893E4D9E19280CFB7E1
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/95/Mnet.png" group-title="South Korea 🇰🇷" tvg-status="unstable",Mnet
+https://tving-live-o2-xcdn.tving.com/o2/v1/019d66afd810153d786553381d0e3/019d719c3005153d786553381d0f0/playlist.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJ0dmluZy5jb20iLCJleHAiOjE3OTQ5OTU2OTUsInBhdGgiOiIvbzIifQ.iY8yotYUg-NBMD4yZ9Y0_ZhI7V2sSgKiTQBVev6tdyA
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="South Korea 🇰🇷" tvg-status="stable",JEI TV
 https://live-th10.myjktv.com/watch/live.m3u8?video=jei_jenung_540&sid=0U5gGVD8MUVHzIdG1JINTEXBzFPw1TS9XkiLqQM0&secret=8aabea762716b38bbc4b6c6fa0bbe509&time=1771648766
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="South Korea 🇰🇷" tvg-status="stable",Anibox
@@ -47,8 +47,8 @@ https://live-th10.myjktv.com/watch/live.m3u8?video=discovery_540&sid=MMRDBICzkAZ
 http://121.143.97.131:9981/stream/channelid/380321103?profile=pass
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="South Korea 🇰🇷" tvg-status="unstable",ABN TV
 http://121.143.97.131:9981/stream/channelid/1286700299?profile=pass
-#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a2/ENA_logo.svg/revision/latest?cb=20230325001135" group-title="South Korea 🇰🇷" tvg-status="not-working",ENA
-http://121.149.218.55:9981/stream/channelid/78?ticket=7810E1F0F52C25FE3A1A4DEF5B4E913E12AE55A2
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a2/ENA_logo.svg/revision/latest?cb=20230325001135" group-title="South Korea 🇰🇷" tvg-status="unstable",ENA
+http://43.164.132.11/kakaotv/get_channel.php?channel=ena
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/70/ENA_STORY_logo.svg/revision/latest?cb=20230325063818" group-title="South Korea 🇰🇷" tvg-status="not-working",ENA Story
 http://121.149.218.55:9981/stream/channelid/93?ticket=40D60092637787E0D651AD61F3360F1B8411EA17
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2c/ENA_PLAY_logo.svg/revision/latest?cb=20230325003332" group-title="South Korea 🇰🇷" tvg-status="not-working",ENA Play
