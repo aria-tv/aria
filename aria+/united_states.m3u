@@ -15,7 +15,7 @@ http://95.143.42.59:1234/stream/fubochannels/mynetworktv/master.m3u8
 https://82934cf9c8696bd2.mediapackage.us-east-1.amazonaws.com/out/v1/23685237ffbb4047a8143ac2166ead44/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.univision.ca/wp-content/uploads/2025/05/unvision-logo-without-words.webp" group-title="United States 🇺🇸" tvg-status="unstable",Univision
 http://4.30.180.36:8420/wxtvdt/index.m3u8?token=test
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.pngmart.com/files/23/Telemundo-Logo-PNG-HD.png" group-title="United States 🇺🇸" tvg-status="not-working",Telemundo
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.pngmart.com/files/23/Telemundo-Logo-PNG-HD.png" group-title="United States 🇺🇸" tvg-status="unstable",Telemundo
 http://4.30.180.36:8420/wnjudt/index.m3u8?token=test
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Estrella_TV_2020_Logo.svg/1280px-Estrella_TV_2020_Logo.svg.png" group-title="United States 🇺🇸" tvg-status="unstable",Estrela TV
 http://95.143.42.59:1234/stream/fubochannels/estrella/master.m3u8
