@@ -173,8 +173,8 @@ https://livestream.pbskids.org/out/v1/14507d931bbe48a69287e4850e53443c/est.m3u8
 https://livestream.pbskids.org/out/v1/aa31792fee094b24b09045483f04d150/hast.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/fox-news-us.png" group-title="United States 🇺🇸" tvg-status="unstable",Fox News Channel
 http://95.143.42.59:1234/stream/rocketchannels/rocket_102/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/msnow-us.png" group-title="United States 🇺🇸" tvg-status="unstable",MS NOW
-http://95.143.42.59:1234/stream/rocketchannels/rocket_198/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/ms-now-us.png" group-title="United States 🇺🇸" tvg-status="unstable",MS NOW
+https://tvsen6.aynaott.com/msnbc/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/newsmax-us.png" group-title="United States 🇺🇸" tvg-status="unstable",Newsmax
 https://nmx1ota.akamaized.net/hls/live/2107010/Live_1/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/newsmax2-us.png" group-title="United States 🇺🇸" tvg-status="unstable",Newsmax 2
