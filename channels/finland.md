@@ -2,10 +2,10 @@
 
 | # | Channel | Link | Logo | EPG id | Type |
 |:-:|:-------:|:----:|:----:|:------:|:----:|
-| 1 | Yle TV1 | [>](http://217.159.149.163:9091/play/a04a) | <img height="20" src="https://static.wikia.nocookie.net/tera-pedia/images/1/10/Yle_TV1_logo_color.svg/revision/latest?cb=20230616071510"/> | &nbsp; | not-working |
-| 2 | Yle TV2 | [>](http://217.159.149.163:9091/play/a04b) | <img height="20" src="https://static.wikia.nocookie.net/friendshipismagicfanon/images/5/5c/YLE_TV2_logo.png/revision/latest/thumbnail/width/360/height/450?cb=20230717184535"/> | &nbsp; | not-working |
-| 3 | MTV3 | [>](http://217.159.149.163:9091/play/a04d) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/MTV3_logo_2019.svg/1200px-MTV3_logo_2019.svg.png"/> | &nbsp; | not-working |
-| 4 | Nelonen | [>](http://217.159.149.163:9091/play/a049) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/3/38/Nelonen_color_RGB.png"/> | &nbsp; | not-working |
+| 1 | Yle TV1 | [>](https://live-fi.tvkaista.net/yle-tv1/live.m3u8?hd=true) | <img height="20" src="https://static.wikia.nocookie.net/tera-pedia/images/1/10/Yle_TV1_logo_color.svg/revision/latest?cb=20230616071510"/> | &nbsp; | stable |
+| 2 | Yle TV2 | [>](https://live-fi.tvkaista.net/yle-tv2/live.m3u8?hd=true) | <img height="20" src="https://static.wikia.nocookie.net/friendshipismagicfanon/images/5/5c/YLE_TV2_logo.png/revision/latest/thumbnail/width/360/height/450?cb=20230717184535"/> | &nbsp; | stable |
+| 3 | MTV3 | [>](https://live-fi.tvkaista.net/mtv3/live.m3u8?hd=true) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/MTV3_logo_2019.svg/1200px-MTV3_logo_2019.svg.png"/> | &nbsp; | stable |
+| 4 | Nelonen | [>](https://live-fi.tvkaista.net/nelonen/live.m3u8?hd=true) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/3/38/Nelonen_color_RGB.png"/> | &nbsp; | stable |
 | 5 | Yle Teema & Fam | [>](http://217.159.149.163:9091/play/a04c) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Yle_Teema_%26_Fem.svg/1200px-Yle_Teema_%26_Fem.svg.png"/> | &nbsp; | not-working |
 | 6 | MTV Sub | [>](http://217.159.149.163:9091/play/a03x) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/MTV_Sub_Logo_2022.svg/1200px-MTV_Sub_Logo_2022.svg.png"/> | &nbsp; | not-working |
 | 7 | TV5 | [>](http://217.159.149.163:9091/play/a05j) | <img height="20" src="https://static.wikia.nocookie.net/logopedia/images/7/72/Kanal_5_TV5_2024.svg/revision/latest?cb=20240115083428"/> | &nbsp; | not-working |
