@@ -211,7 +211,7 @@ http://108.14.66.42:5004/auto/v48.4
 http://4.30.180.36:8420/wfutdt/index.m3u8?token=test
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/telexitos-us.png" group-title="United States 🇺🇸" tvg-status="unstable",TeleXitos
 http://4.30.180.36:8420/telex/index.m3u8?token=test
-#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/universo-us.png" group-title="United States 🇺🇸" tvg-status="unstable",Universo
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/universo-us.png" group-title="United States 🇺🇸" tvg-status="not-working",Universo
 http://187.102.210.46/universo/index.m3u8
 #EXTINF:-1 tvg-id="FoxWeather.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Fox_Weather_logo.svg/1200px-Fox_Weather_logo.svg.png" group-title="United States 🇺🇸" tvg-status="stable",FOX Weather
 https://247wlive.foxweather.com/stream/index.m3u8
