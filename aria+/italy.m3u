@@ -91,3 +91,9 @@ http://team-tv.co:81/topcrime/index.m3u8
 http://team-tv.co:81/inter/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/tv2000-it.png" group-title="Italy 🇮🇹" tvg-status="unstable",TV 2000
 http://team-tv.co:81/tv2000/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/sky-uno-it.png" group-title="Italy 🇮🇹" tvg-status="unstable",Sky Uno
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:1D:12:35&stream=177743&extension=ts&play_token=Z68UBOMXTr
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/sky-atlantic-it.png" group-title="Italy 🇮🇹" tvg-status="unstable",Sky Atlantic
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:1D:12:35&stream=177654&extension=ts&play_token=wAewzgUq9E
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/sky-arte-it.png" group-title="Italy 🇮🇹" tvg-status="unstable",Sky Arte
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:1D:12:35&stream=1167209&extension=ts&play_token=IfXa0tAoqG
