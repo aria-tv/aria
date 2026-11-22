@@ -99,6 +99,14 @@ https://ocko-live.ssl.cdn.cra.cz/channels/ocko_gold/playlist.m3u8
 https://ocko-live.ssl.cdn.cra.cz/channels/ocko_expres/playlist.m3u8
 #EXTINF:-1 tvg-id="RetroMusicTV.cz" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/czech-republic/retro-cz.png" group-title="Czechia 🇨🇿" tvg-status="stable",Retro Music TV Ⓢ
 https://stream.mediawork.cz/retrotv/smil:retrotv2.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/tera-pedia/images/1/10/Yle_TV1_logo_color.svg/revision/latest?cb=20230616071510" group-title="Finland 🇫🇮" tvg-status="stable",Yle TV1
+https://live-fi.tvkaista.net/yle-tv1/live.m3u8?hd=true
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/friendshipismagicfanon/images/5/5c/YLE_TV2_logo.png/revision/latest/thumbnail/width/360/height/450?cb=20230717184535" group-title="Finland 🇫🇮" tvg-status="stable",Yle TV2
+https://live-fi.tvkaista.net/yle-tv2/live.m3u8?hd=true
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/MTV3_logo_2019.svg/1200px-MTV3_logo_2019.svg.png" group-title="Finland 🇫🇮" tvg-status="stable",MTV3
+https://live-fi.tvkaista.net/mtv3/live.m3u8?hd=true
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/38/Nelonen_color_RGB.png" group-title="Finland 🇫🇮" tvg-status="stable",Nelonen
+https://live-fi.tvkaista.net/nelonen/live.m3u8?hd=true
 #EXTINF:-1 tvg-id="CNEWS.fr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/france/c-news-fr.png" group-title="France 🇫🇷" tvg-status="stable",CNEWS
 https://hls-m015-live-aka-canalplus.akamaized.net/live/disk/cnews-clair-hd/hls-v3-hd-clair/cnews-clair-hd.m3u8
 #EXTINF:-1 tvg-id="BRM.TV.fr" tvg-logo="https://image.pitchbook.com/dWDSQSDJ8ecWy934fnow6ctIBBg1691505723976_200x200" group-title="France 🇫🇷" tvg-status="stable",BFM TV

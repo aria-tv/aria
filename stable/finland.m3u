@@ -1,3 +1,9 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/64/MTV_Uutiset_2022_II.svg/revision/latest?cb=20230401223036" group-title="Finland 🇫🇮" tvg-status="stable",MTV Uutiset
-https://live.streaming.a2d.tv/asset/20025962.isml/.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/tera-pedia/images/1/10/Yle_TV1_logo_color.svg/revision/latest?cb=20230616071510" group-title="Finland 🇫🇮" tvg-status="stable",Yle TV1
+https://live-fi.tvkaista.net/yle-tv1/live.m3u8?hd=true
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/friendshipismagicfanon/images/5/5c/YLE_TV2_logo.png/revision/latest/thumbnail/width/360/height/450?cb=20230717184535" group-title="Finland 🇫🇮" tvg-status="stable",Yle TV2
+https://live-fi.tvkaista.net/yle-tv2/live.m3u8?hd=true
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/MTV3_logo_2019.svg/1200px-MTV3_logo_2019.svg.png" group-title="Finland 🇫🇮" tvg-status="stable",MTV3
+https://live-fi.tvkaista.net/mtv3/live.m3u8?hd=true
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/38/Nelonen_color_RGB.png" group-title="Finland 🇫🇮" tvg-status="stable",Nelonen
+https://live-fi.tvkaista.net/nelonen/live.m3u8?hd=true
