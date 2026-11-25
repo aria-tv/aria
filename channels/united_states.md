@@ -9,7 +9,7 @@
 | 5 | The CW (Eastern Feed) | [>](http://95.143.42.59:1234/stream/fubochannels/thecw/master.m3u8) | <img height="20" src="https://cdn.tvpassport.com/image/station/240x135/v2/s53098_h15_ac.png"/> | &nbsp; | unstable |
 | 6 | MyNetworkTV (Eastern Feed) | [>](http://95.143.42.59:1234/stream/fubochannels/mynetworktv/master.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/MyNetworkTV_2D_Logo.svg/1200px-MyNetworkTV_2D_Logo.svg.png"/> | &nbsp; | unstable |
 | 7 | MeTV | [>](https://82934cf9c8696bd2.mediapackage.us-east-1.amazonaws.com/out/v1/23685237ffbb4047a8143ac2166ead44/index.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/en/thumb/5/55/MeTV_Logo.svg/250px-MeTV_Logo.svg.png"/> | &nbsp; | stable |
-| 8 | Univision | [>](http://4.30.180.36:8420/wxtvdt/index.m3u8?token=test) | <img height="20" src="https://www.univision.ca/wp-content/uploads/2025/05/unvision-logo-without-words.webp"/> | &nbsp; | unstable |
+| 8 | Univision | [>](http://4.30.180.36:8420/wxtvdt/index.m3u8?token=test) | <img height="20" src="https://www.univision.ca/wp-content/uploads/2025/05/unvision-logo-without-words.webp"/> | &nbsp; | not-working |
 | 9 | Telemundo | [>](http://4.30.180.36:8420/wnjudt/index.m3u8?token=test) | <img height="20" src="https://www.pngmart.com/files/23/Telemundo-Logo-PNG-HD.png"/> | &nbsp; | unstable |
 | 10 | Estrela TV | [>](http://95.143.42.59:1234/stream/fubochannels/estrella/master.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Estrella_TV_2020_Logo.svg/1280px-Estrella_TV_2020_Logo.svg.png"/> | &nbsp; | unstable |
 | 11 | AFN Family | [>](https://bbb.exoadash.com/TVD2810/index.mpd) | <img height="20" src="https://static.wikia.nocookie.net/logopedia/images/d/d4/AFN_Family.jpg/revision/latest?cb=20230801175332"/> | &nbsp; | unstable |
@@ -68,7 +68,7 @@
 | 64 | BYU TV | [>](http://128.230.54.128:5004/auto/v64.1) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/byu-tv-us.png"/> | &nbsp; | not-working |
 | 65 | Nick Jr. | [>](http://95.143.42.59:1234/stream/fubochannels/nickjr/master.m3u8) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/nick-jr-us.png"/> | &nbsp; | unstable |
 | 66 | Disney XD | [>](http://23.237.104.106:8080/USA_DISNEY_XD/index.m3u8) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/disney-xd-us.png"/> | &nbsp; | not-working |
-| 67 | Game Show Network | [>](https://a-cdn.klowdtv.com/live2/gsn_720p/playlist.m3u8) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/game-show-network-us.png"/> | &nbsp; | unstable |
+| 67 | Game Show Network | [>](https://a-cdn.klowdtv.com/live2/gsn_720p/playlist.m3u8) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/game-show-network-us.png"/> | &nbsp; | not-working |
 | 68 | Buzzer | [>](https://jmp2.uk/plu-5812bfbe4ced4f7b601b12e6.m3u8) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/buzzer-us.png"/> | &nbsp; | unstable |
 | 69 | National Geographic | [>](http://nocable.cc:8080/Darrenshannon76@2.0/Darrenshannon76@2.0/46722) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/national-geographic-us.png"/> | &nbsp; | unstable |
 | 70 | FS1 | [>](http://85.237.89.160:9590/usa-s/FOX-SPORTS-1/index.m3u8) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/fs1-us.png"/> | &nbsp; | stable |
@@ -106,7 +106,7 @@
 | 102 | Heroes and Icons | [>](http://108.14.66.42:5004/auto/v9.4) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/heroes-and-icons-us.png"/> | &nbsp; | not-working |
 | 103 | Grit | [>](http://108.14.66.42:5004/auto/v31.3) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/grit-us.png"/> | &nbsp; | not-working |
 | 104 | OUTLAW | [>](http://108.14.66.42:5004/auto/v48.4) | <img height="20" src="https://static.wixstatic.com/media/c9b69f_d1a226f6aeb9451bb1b1807473228d0a~mv2.png/v1/fit/w_2500,h_1330,al_c/c9b69f_d1a226f6aeb9451bb1b1807473228d0a~mv2.png"/> | &nbsp; | not-working |
-| 105 | Unimás | [>](http://4.30.180.36:8420/wfutdt/index.m3u8?token=test) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/unimas-us.png"/> | &nbsp; | unstable |
+| 105 | Unimás | [>](http://4.30.180.36:8420/wfutdt/index.m3u8?token=test) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/unimas-us.png"/> | &nbsp; | not-working |
 | 106 | TeleXitos | [>](http://4.30.180.36:8420/telex/index.m3u8?token=test) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/telexitos-us.png"/> | &nbsp; | unstable |
 | 107 | Universo | [>](http://187.102.210.46/universo/index.m3u8) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/universo-us.png"/> | &nbsp; | unstable |
 | 108 | FOX Weather | [>](https://247wlive.foxweather.com/stream/index.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Fox_Weather_logo.svg/1200px-Fox_Weather_logo.svg.png"/> | FoxWeather.us | stable |
@@ -120,7 +120,7 @@
 | 116 | STARZ | [>](http://95.143.42.59:1234/stream/rocketchannels/rocket_1769/master.m3u8) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/starz-us.png"/> | &nbsp; | unstable |
 | 117 | FXM | [>](http://47.40.181.39:9981/stream/channelid/6404291?profile=pass) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/fxm-us.png"/> | &nbsp; | not-working |
 | 118 | HBO | [>](https://tvpass.org/live/HBOEast/sd) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/hbo-us.png"/> | &nbsp; | not-working |
-| 119 | HBO Hits | [>](http://4.30.180.36:8420/hbo2/index.m3u8?token=test) | <img height="20" src="https://i.ibb.co/0V6R2Zt5/IMG-2483.png"/> | &nbsp; | unstable |
+| 119 | HBO Hits | [>](http://4.30.180.36:8420/hbo2/index.m3u8?token=test) | <img height="20" src="https://i.ibb.co/0V6R2Zt5/IMG-2483.png"/> | &nbsp; | not-working |
 | 120 | HBO Comedy | [>](http://40.160.24.58/HBO_COMEDY_SD/index.m3u8) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/hbo-comedy-us.png"/> | &nbsp; | not-working |
 | 121 | HBO Drama | [>](https://tvpass.org/live/HBOSignatureEast/sd) | <img height="20" src="https://i.ibb.co/sdTjcT6F/IMG-2484.png"/> | &nbsp; | not-working |
 | 122 | HBO Movies | [>](http://23.237.104.106:8080/USA_HBO_ZONE/index.m3u8) | <img height="20" src="https://i.ibb.co/pv3f5J0T/IMG-2486.png"/> | &nbsp; | not-working |
