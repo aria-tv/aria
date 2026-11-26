@@ -39,7 +39,7 @@
 | 35 | Retro Music TV Ⓢ | [>](https://stream.mediawork.cz/retrotv/smil:retrotv2.smil/playlist.m3u8) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/czech-republic/retro-cz.png"/> | RetroMusicTV.cz | stable |
 | 36 | Praha TV | [>](https://stream.polar.cz/prahatv/prahatvlive-1/playlist.m3u8) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/czech-republic/praha-tv-cz.png"/> | PrahaTV.cz | not-working |
 | 37 | Východoceská TV | [>](https://stream.polar.cz/vctv/vctvlive-1/playlist.m3u8) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/czech-republic/tv-v1-cz.png"/> | V1.cz | unstable |
-| 38 | UTV | [>](https://vysilani.zaktv.cz/broadcast/hls/utv/index.m3u8) | UTV | utv.cz | not-working |
+| 38 | UTV | [>](https://vysilani.zaktv.cz/broadcast/hls/utv/index.m3u8) | UTV | utv.cz | unstable |
 | 39 | Disney Channel | [>](https://webstream.odjezdy.online/CZ/Disney/video.m3u8) | Disney Channel | Disney.Channel.cz | unstable |
 | 40 | Prima SHOW | [>](http://90.178.86.156:9981/stream/channelid/748255433?ticket=216B5B41838A2332296FA05EDB09FA11B1A155EE&profile=pass) | Prima SHOW | Prima.Show.cz | unstable |
 | 41 | OCKO | [>](http://90.178.86.156:9981/stream/channelid/1183792288?ticket=6CE25AF67B8D74983939FCF3B123AD08A5B0BAE8&profile=pass) | OCKO | Óčko.cz | unstable |

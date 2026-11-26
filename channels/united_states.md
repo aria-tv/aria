@@ -68,7 +68,7 @@
 | 64 | BYU TV | [>](http://128.230.54.128:5004/auto/v64.1) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/byu-tv-us.png"/> | &nbsp; | not-working |
 | 65 | Nick Jr. | [>](http://95.143.42.59:1234/stream/fubochannels/nickjr/master.m3u8) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/nick-jr-us.png"/> | &nbsp; | unstable |
 | 66 | Disney XD | [>](http://23.237.104.106:8080/USA_DISNEY_XD/index.m3u8) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/disney-xd-us.png"/> | &nbsp; | not-working |
-| 67 | Game Show Network | [>](https://a-cdn.klowdtv.com/live2/gsn_720p/playlist.m3u8) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/game-show-network-us.png"/> | &nbsp; | not-working |
+| 67 | Game Show Network | [>](https://a-cdn.klowdtv.com/live2/gsn_720p/playlist.m3u8) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/game-show-network-us.png"/> | &nbsp; | unstable |
 | 68 | Buzzer | [>](https://jmp2.uk/plu-5812bfbe4ced4f7b601b12e6.m3u8) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/buzzer-us.png"/> | &nbsp; | unstable |
 | 69 | National Geographic | [>](http://nocable.cc:8080/Darrenshannon76@2.0/Darrenshannon76@2.0/46722) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/national-geographic-us.png"/> | &nbsp; | unstable |
 | 70 | FS1 | [>](http://85.237.89.160:9590/usa-s/FOX-SPORTS-1/index.m3u8) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/fs1-us.png"/> | &nbsp; | stable |
@@ -89,7 +89,7 @@
 | 85 | PBS Kids (Eastern Feed) | [>](https://livestream.pbskids.org/out/v1/14507d931bbe48a69287e4850e53443c/est.m3u8) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/pbs-kids-us.png"/> | &nbsp; | stable |
 | 86 | PBS Kids (Hawaii Feed) | [>](https://livestream.pbskids.org/out/v1/aa31792fee094b24b09045483f04d150/hast.m3u8) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/pbs-kids-us.png"/> | &nbsp; | unstable |
 | 87 | Fox News Channel | [>](http://95.143.42.59:1234/stream/rocketchannels/rocket_102/master.m3u8) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/fox-news-us.png"/> | &nbsp; | unstable |
-| 88 | MS NOW | [>](https://tvsen6.aynaott.com/msnbc/index.m3u8) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/ms-now-us.png"/> | &nbsp; | unstable |
+| 88 | MS NOW | [>](https://tvsen6.aynaott.com/msnbc/index.m3u8) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/ms-now-us.png"/> | &nbsp; | not-working |
 | 89 | Newsmax | [>](https://nmx1ota.akamaized.net/hls/live/2107010/Live_1/index.m3u8) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/newsmax-us.png"/> | &nbsp; | unstable |
 | 90 | Newsmax 2 | [>](https://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/newsmax2-us.png"/> | &nbsp; | unstable |
 | 91 | CNBC | [>](http://95.143.42.59:1234/stream/rocketchannels/rocket_434/master.m3u8) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/cnbc-us.png"/> | &nbsp; | unstable |
@@ -120,7 +120,7 @@
 | 116 | STARZ | [>](http://95.143.42.59:1234/stream/rocketchannels/rocket_1769/master.m3u8) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/starz-us.png"/> | &nbsp; | unstable |
 | 117 | FXM | [>](http://47.40.181.39:9981/stream/channelid/6404291?profile=pass) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/fxm-us.png"/> | &nbsp; | not-working |
 | 118 | HBO | [>](https://tvpass.org/live/HBOEast/sd) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/hbo-us.png"/> | &nbsp; | not-working |
-| 119 | HBO Hits | [>](http://4.30.180.36:8420/hbo2/index.m3u8?token=test) | <img height="20" src="https://i.ibb.co/0V6R2Zt5/IMG-2483.png"/> | &nbsp; | not-working |
+| 119 | HBO Hits | [>](http://4.30.180.36:8420/hbo2/index.m3u8?token=test) | <img height="20" src="https://i.ibb.co/0V6R2Zt5/IMG-2483.png"/> | &nbsp; | unstable |
 | 120 | HBO Comedy | [>](http://40.160.24.58/HBO_COMEDY_SD/index.m3u8) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/hbo-comedy-us.png"/> | &nbsp; | not-working |
 | 121 | HBO Drama | [>](https://tvpass.org/live/HBOSignatureEast/sd) | <img height="20" src="https://i.ibb.co/sdTjcT6F/IMG-2484.png"/> | &nbsp; | not-working |
 | 122 | HBO Movies | [>](http://23.237.104.106:8080/USA_HBO_ZONE/index.m3u8) | <img height="20" src="https://i.ibb.co/pv3f5J0T/IMG-2486.png"/> | &nbsp; | not-working |
