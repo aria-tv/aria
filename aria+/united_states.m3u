@@ -13,7 +13,7 @@ http://95.143.42.59:1234/stream/fubochannels/thecw/master.m3u8
 http://95.143.42.59:1234/stream/fubochannels/mynetworktv/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/55/MeTV_Logo.svg/250px-MeTV_Logo.svg.png" group-title="United States 🇺🇸" tvg-status="stable",MeTV
 https://82934cf9c8696bd2.mediapackage.us-east-1.amazonaws.com/out/v1/23685237ffbb4047a8143ac2166ead44/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.univision.ca/wp-content/uploads/2025/05/unvision-logo-without-words.webp" group-title="United States 🇺🇸" tvg-status="not-working",Univision
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.univision.ca/wp-content/uploads/2025/05/unvision-logo-without-words.webp" group-title="United States 🇺🇸" tvg-status="unstable",Univision
 http://4.30.180.36:8420/wxtvdt/index.m3u8?token=test
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.pngmart.com/files/23/Telemundo-Logo-PNG-HD.png" group-title="United States 🇺🇸" tvg-status="unstable",Telemundo
 http://4.30.180.36:8420/wnjudt/index.m3u8?token=test
@@ -207,7 +207,7 @@ http://108.14.66.42:5004/auto/v9.4
 http://108.14.66.42:5004/auto/v31.3
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.wixstatic.com/media/c9b69f_d1a226f6aeb9451bb1b1807473228d0a~mv2.png/v1/fit/w_2500,h_1330,al_c/c9b69f_d1a226f6aeb9451bb1b1807473228d0a~mv2.png" group-title="United States 🇺🇸" tvg-status="not-working",OUTLAW
 http://108.14.66.42:5004/auto/v48.4
-#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/unimas-us.png" group-title="United States 🇺🇸" tvg-status="not-working",Unimás
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/unimas-us.png" group-title="United States 🇺🇸" tvg-status="unstable",Unimás
 http://4.30.180.36:8420/wfutdt/index.m3u8?token=test
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/telexitos-us.png" group-title="United States 🇺🇸" tvg-status="unstable",TeleXitos
 http://4.30.180.36:8420/telex/index.m3u8?token=test
